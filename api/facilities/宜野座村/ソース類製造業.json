@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ＪＡおきなわ宜野座支店",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野座村宜野座１３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501292号",
+      "license_date": "2015-09-17",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "宜野座村農業後継者等育成センター",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野座村宜野座１５７９－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201701303号",
+      "license_date": "2017-10-17",
+      "expire_date": "2023-10-31"
+    }
+  ]
+}

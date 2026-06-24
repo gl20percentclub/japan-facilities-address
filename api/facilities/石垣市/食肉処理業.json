@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "合同会社　八重山パーツミート",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市新川2438-9",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500684号",
+      "license_date": "2016-03-18",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "担たん亭",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市新川２１１７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600183号",
+      "license_date": "2016-06-28",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "株式会社美崎牛本店",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市大川５３３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600456号",
+      "license_date": "2016-11-10",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "うさぎやセンターキッチン",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市大川272",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700274号",
+      "license_date": "2017-07-18",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "ウムザー",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市名蔵243-622",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700718号",
+      "license_date": "2018-02-23",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "農業生産法人(株)大底農園",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市新川1932",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800211号",
+      "license_date": "2018-07-11",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "大崎牧場 精肉工房",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市大川2 730コート2F",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800222号",
+      "license_date": "2018-07-13",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "ゆいまーる牧場",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市大浜１４１２　食肉センター内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800689号",
+      "license_date": "2019-02-28",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "農業生産法人合同会社　川満養豚",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市新川2357-185",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800723号",
+      "license_date": "2019-03-26",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "石垣島ヤギ加工販売所",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市平得1050-7",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900175号",
+      "license_date": "2019-06-25",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "石垣島　肉のかみさぐわ～",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市登野城49-1　1F",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900475号",
+      "license_date": "2019-11-28",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "株式会社八重山食肉センター",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "石垣市大浜１３６８－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202100040号",
+      "license_date": "2021-04-26",
+      "expire_date": "2028-04-30"
+    }
+  ]
+}

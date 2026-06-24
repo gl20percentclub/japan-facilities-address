@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "あいあい手づくりファーム（工房）",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "今帰仁村字湧川３６９番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700650号",
+      "license_date": "2018-01-19",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "和楽の里",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "国頭郡今帰仁村天底６２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700697号",
+      "license_date": "2018-02-07",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "有限会社　北琉興産",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "国頭郡今帰仁村仲宗根４５０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800004号",
+      "license_date": "2018-04-04",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "農業生産法人株式会社今帰仁ざまみファーム",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "国頭郡今帰仁村上運天１２３３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900640号",
+      "license_date": "2019-11-27",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "沖縄県農業協同組合　今帰仁支店",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "今帰仁村字謝名３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000645号",
+      "license_date": "2021-01-18",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "伊平屋酒造所",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "伊平屋村我喜屋２１３１－４０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900561号",
+      "license_date": "2019-10-31",
+      "expire_date": "2025-10-31"
+    }
+  ]
+}

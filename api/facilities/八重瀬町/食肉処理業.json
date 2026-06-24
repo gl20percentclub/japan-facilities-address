@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "福まる新城加工場",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "島尻郡八重瀬町字新城１１９３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600070号",
+      "license_date": "2016-04-19",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "沖縄食鶏加工株式会社",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "八重瀬町後原５６９－８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900959号",
+      "license_date": "2019-10-15",
+      "expire_date": "2025-10-31"
+    }
+  ]
+}

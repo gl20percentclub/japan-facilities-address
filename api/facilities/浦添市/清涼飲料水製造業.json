@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄明治乳業株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市牧港１－６５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501103号",
+      "license_date": "2015-10-21",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "πＷａｔｅｒＯＡＳＩＳ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市牧港1－56－17",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600475号",
+      "license_date": "2016-07-08",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "有限会社一水開発　浦添工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市仲間２－１２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600557号",
+      "license_date": "2016-07-21",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "お水の森",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市西原５－１２－６ コーポあかつき１０２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600864号",
+      "license_date": "2016-09-14",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "ウォータープラザ清水の里",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市内間４－１８－１２ 大城アパート１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701476号",
+      "license_date": "2018-03-28",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "お水やさん",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市仲西３－１４－３　１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800391号",
+      "license_date": "2018-07-09",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "有限会社　麦飯石の水",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市当山２－１６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801483号",
+      "license_date": "2019-03-08",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "株式会社沖縄農園",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市牧港１－９－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900736号",
+      "license_date": "2019-08-28",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "合同会社アクアコーポレーション",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市字港川５６５　Ｇ－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901500号",
+      "license_date": "2020-01-31",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "Ｙ’ｓ　キッチン",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市勢理客１－２５－１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000784号",
+      "license_date": "2020-09-07",
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "沖縄コカ・コーラボトリング株式会社 浦添工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市伊祖５－１４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001251号",
+      "license_date": "2020-12-03",
+      "expire_date": "2028-01-31"
+    },
+    {
+      "name": "（有）球陽物産",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "浦添市大平２－１９－１２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100049号",
+      "license_date": "2021-04-12",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

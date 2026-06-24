@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄総合農産加工株式会社　東工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡東村慶佐次７１８－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500200号",
+      "license_date": "2015-06-24",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "有銘共同加工施設",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "東村字有銘１１１５－１６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500519号",
+      "license_date": "2015-10-28",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "沖縄ポッカ食品株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡東村平良７６７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900503号",
+      "license_date": "2019-10-21",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "沖縄県農業協同組合　農産加工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡東村慶佐次７１８－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900807号",
+      "license_date": "2020-01-30",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

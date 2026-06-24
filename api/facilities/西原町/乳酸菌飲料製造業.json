@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄森永乳業株式会社",
+      "name_kana": "",
+      "business_type": "乳酸菌飲料製造業",
+      "address": "西原町字東崎４－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500491号",
+      "license_date": "2015-07-17",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "株式会社　石川酒造場 第三工場",
+      "name_kana": "",
+      "business_type": "乳酸菌飲料製造業",
+      "address": "西原町字小那覇１４３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700038号",
+      "license_date": "2017-04-12",
+      "expire_date": "2023-04-30"
+    }
+  ]
+}

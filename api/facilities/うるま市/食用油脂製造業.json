@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社ファイトロックス　沖縄研究所",
+      "name_kana": "",
+      "business_type": "食用油脂製造業",
+      "address": "うるま市州崎５－８ 沖縄ライフサイエンスセンター106",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501895号",
+      "license_date": "2015-12-04",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "株式会社ファイトロックス沖縄本社工場",
+      "name_kana": "",
+      "business_type": "食用油脂製造業",
+      "address": "うるま市州崎１２－７３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601131号",
+      "license_date": "2016-09-02",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "セルメディカ株式会社　沖縄イノベーションセンター",
+      "name_kana": "",
+      "business_type": "食用油脂製造業",
+      "address": "うるま市洲崎１２－７３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902269号",
+      "license_date": "2020-02-12",
+      "expire_date": "2026-02-28"
+    }
+  ]
+}

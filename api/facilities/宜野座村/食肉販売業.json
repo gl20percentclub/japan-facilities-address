@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "仲間商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村惣慶１１９０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600143号",
+      "license_date": "2016-04-22",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "平田商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村惣慶１２３７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600194号",
+      "license_date": "2016-04-28",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "ローソン宜野座惣慶店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村惣慶１８３０－８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600805号",
+      "license_date": "2016-07-22",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "松田販売店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村松田８６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602196号",
+      "license_date": "2017-01-31",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "タマヤフーズ",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村松田２８８６－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700956号",
+      "license_date": "2017-08-31",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "當真商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村松田６４４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201701398号",
+      "license_date": "2017-10-30",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "株式会社未来ぎのざ",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村漢那１６３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702138号",
+      "license_date": "2018-02-27",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "松富士ストア",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村松田４２６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800919号",
+      "license_date": "2018-08-15",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "かねひで　ジップマート宜野座店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村宜野座７１４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801768号",
+      "license_date": "2018-12-11",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "ローソン宜野座漢那店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村漢那１２７８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900436号",
+      "license_date": "2019-06-03",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "漢那共同売店　ＤＥＲＩ　ＤＥＲＩ",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村漢那１６５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900458号",
+      "license_date": "2019-06-04",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "宜野座冷凍",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村漢那１７４２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902392号",
+      "license_date": "2020-02-28",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "漢那共同売店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村漢那１６５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001311号",
+      "license_date": "2020-10-08",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "セブン－イレブン宜野座漢那店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村漢那１６２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001458号",
+      "license_date": "2020-11-02",
+      "expire_date": "2027-11-30"
+    },
+    {
+      "name": "セブン－イレブン宜野座松田店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村松田２４３５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001462号",
+      "license_date": "2020-11-02",
+      "expire_date": "2027-11-30"
+    },
+    {
+      "name": "丸達冷凍食品",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宜野座村惣慶６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001842号",
+      "license_date": "2020-05-29",
+      "expire_date": "2026-05-31"
+    }
+  ]
+}

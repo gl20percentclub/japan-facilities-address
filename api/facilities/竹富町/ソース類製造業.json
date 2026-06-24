@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "みなとのやおや　加工所",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "竹富町南風見２０１－１１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500458号",
+      "license_date": "2015-11-19",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "とんちぇ農園",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "竹富町波照間5221",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700005号",
+      "license_date": "2017-04-10",
+      "expire_date": "2023-04-30"
+    }
+  ]
+}

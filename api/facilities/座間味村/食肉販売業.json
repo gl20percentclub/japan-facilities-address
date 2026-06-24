@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "こみね商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "座間味村字座間味１６４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500195号",
+      "license_date": "2015-05-19",
+      "expire_date": "2022-05-31"
+    },
+    {
+      "name": "座間味売店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "座間味村座間味１６４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600327号",
+      "license_date": "2016-06-08",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "垣花商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "座間味村阿嘉２５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600394号",
+      "license_date": "2016-06-22",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "１０５ストアー",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "座間味村座間味１１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700222号",
+      "license_date": "2017-05-30",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "中村商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "座間味村字阿嘉１５９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700693号",
+      "license_date": "2017-08-31",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "スーパー辰登城",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "座間味村阿嘉１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800232号",
+      "license_date": "2018-05-31",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "１０５ストアー",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "座間味村座間味１１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801168号",
+      "license_date": "2018-12-20",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

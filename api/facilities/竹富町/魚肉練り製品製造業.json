@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "波照間漁業集落なりぱま",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "竹富町波照間外ノ後原６５２３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500044号",
+      "license_date": "2015-05-11",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "うるま家",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "竹富町波照間１２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600292号",
+      "license_date": "2016-08-24",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "海人ビタロー会水産加工施設",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "竹富町字西表祖納地先　西表漁港内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900477号",
+      "license_date": "2019-11-28",
+      "expire_date": "2025-11-30"
+    }
+  ]
+}

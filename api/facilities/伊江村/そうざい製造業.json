@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "伊江村農産物食品加工センター",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊江村字東江前１６２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400323号",
+      "license_date": "2014-07-28",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "東江そうざい",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊江村字東江前４８８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500218号",
+      "license_date": "2015-06-29",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "いま魚の店　海の幸",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊江村字川平１４８－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500571号",
+      "license_date": "2015-11-20",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "伊江村生活研究会　いーじまま工房",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊江村字西江上１５１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500641号",
+      "license_date": "2016-01-12",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "フレンド加工所",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊江村字東江上１９３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500756号",
+      "license_date": "2016-02-22",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "有限会社　伊江食品",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊江村字西江上２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700174号",
+      "license_date": "2017-06-19",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "ひまわり惣菜",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊江村字東江上８７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700310号",
+      "license_date": "2017-08-09",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "いこい天ぷら",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡伊江村字東江前８４１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700759号",
+      "license_date": "2018-03-08",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "沖縄県農業協同組合　伊江支店　農民道場",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡伊江村東江前３８２６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900751号",
+      "license_date": "2020-01-20",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "おにくやさん",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡伊江村川平３５４－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000514号",
+      "license_date": "2020-11-16",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "にしんすに",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡伊江村東江前２４３８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000832号",
+      "license_date": "2021-03-24",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

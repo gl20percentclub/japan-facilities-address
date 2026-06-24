@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "共同処理加工施設",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "島尻郡渡嘉敷村渡嘉敷２８６番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600968号",
+      "license_date": "2016-10-11",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "ちゅるおかや",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "渡嘉敷村字渡嘉敷３４６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001313号",
+      "license_date": "2020-12-15",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "民宿かりゆし",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "渡嘉敷村字渡嘉敷１７７９－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001613号",
+      "license_date": "2021-02-09",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "ＢＯＮＶＯＹＡＧＥ",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "渡嘉敷村字渡嘉敷２８６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100044号",
+      "license_date": "2021-04-12",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

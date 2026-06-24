@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ＣＬＩＦＦ　ＣＲＡＦＴ",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "沖縄市比屋根６－１８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800708号",
+      "license_date": "2018-07-17",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "新里酒造株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "沖縄市古謝３－２２－８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902266号",
+      "license_date": "2020-02-12",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "コザ麦酒工房",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "沖縄市中央１－２４－１３　２Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002308号",
+      "license_date": "2020-06-30",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

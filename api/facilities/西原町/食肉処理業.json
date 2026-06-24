@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "有限会社東亜フーズサービス",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "西原町字小那覇１０６７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601478号",
+      "license_date": "2017-01-19",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "かねひでフードセンター　精肉作業場",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "西原町小那覇１２２８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700824号",
+      "license_date": "2017-10-11",
+      "expire_date": "2024-10-31"
+    }
+  ]
+}

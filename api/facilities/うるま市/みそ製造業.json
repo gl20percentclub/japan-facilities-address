@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "崎山酒造廠もろみ酢工場",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "うるま市石川山城４６９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600511号",
+      "license_date": "2016-06-21",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "津堅構改センター",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "うるま市勝連津堅３２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600710号",
+      "license_date": "2016-07-12",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "沖縄県農協勝連支店女性部",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "うるま市勝連平安名２９７８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602269号",
+      "license_date": "2017-02-09",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "沖縄県農協石川支店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "うるま市石川１２２６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800117号",
+      "license_date": "2018-04-23",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "高齢者創作館",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "うるま市喜屋武３８４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800132号",
+      "license_date": "2018-04-24",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "沖縄県立中部農林高等学校",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "うるま市田場１５７０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800678号",
+      "license_date": "2018-07-12",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "輝食工房",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "うるま市勝連南風原１４４７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801800号",
+      "license_date": "2018-12-13",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "ＪＡおきなわ　具志川支店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "うるま市みどり町５－１５－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901713号",
+      "license_date": "2019-11-25",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "株式会社　松藤　もろみ酢工場",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "うるま市石川山城４６９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000999号",
+      "license_date": "2020-08-05",
+      "expire_date": "2026-08-31"
+    },
+    {
+      "name": "ＪＡおきなわ与那城支店 女性部研修室",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "うるま市与那城屋慶名４３２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002502号",
+      "license_date": "2021-03-16",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

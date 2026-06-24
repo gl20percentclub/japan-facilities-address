@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "アイボリー発酵",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "北中城村島袋上原７２９－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502028号",
+      "license_date": "2016-01-08",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "有限会社　おおば",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "北中城村字美崎２６６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502456号",
+      "license_date": "2016-03-22",
+      "expire_date": "2022-03-31"
+    }
+  ]
+}

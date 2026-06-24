@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県立宮古総合実業高等学校 (食品製造実習棟　畜産加工室)",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "宮古島市平良字下里２８０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500120号",
+      "license_date": "2015-06-30",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "沖縄県立宮古総合実業高等学校 フードクリエイト棟　西１F",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "宮古島市平良字下里280",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500302号",
+      "license_date": "2015-10-28",
+      "expire_date": "2021-10-31"
+    }
+  ]
+}

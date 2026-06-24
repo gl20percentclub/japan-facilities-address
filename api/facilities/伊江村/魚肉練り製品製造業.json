@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "伊江漁業協同組合",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "国頭郡伊江村字川平３５４－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600022号",
+      "license_date": "2016-04-13",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "又吉かまぼこ店",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "伊江村字川平３２６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900194号",
+      "license_date": "2019-06-24",
+      "expire_date": "2025-06-30"
+    }
+  ]
+}

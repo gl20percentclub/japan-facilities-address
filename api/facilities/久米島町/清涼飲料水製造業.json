@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "久米島物産販売（株）",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "久米島町真謝３番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501685号",
+      "license_date": "2016-03-18",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "ジャパンアルジェ株式会社 久米島酵素工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "島尻郡久米島町奥武３７番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601000号",
+      "license_date": "2016-10-14",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "株式会社久米島の久米仙",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "久米島町宇江城２１５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700650号",
+      "license_date": "2017-08-31",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "農業生産法人（有）アグリット久米島",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "久米島町大田５０５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800060号",
+      "license_date": "2018-04-23",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "阿嘉食品株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "久米島町阿嘉２９８－８７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800342号",
+      "license_date": "2018-06-28",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "純水企画開発",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "久米島町謝名堂９３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800640号",
+      "license_date": "2018-08-31",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "久米島海洋深層水開発株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "久米島町宇江城２１７８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800951号",
+      "license_date": "2018-10-31",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "株式会社　沖縄長寿苑",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "久米島町具志川６６０－１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801297号",
+      "license_date": "2019-01-28",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "株式会社ウォーターワン 沖縄久米島工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "久米島町字宇根３６２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801462号",
+      "license_date": "2019-02-28",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "株式会社　KUME　JAPAN",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "久米島町阿嘉２９８－８７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900052号",
+      "license_date": "2019-04-12",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "あさみどり久米島工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "久米島町字比屋定１０８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901357号",
+      "license_date": "2019-12-20",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "純水企画開発",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "久米島町字謝名堂９３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901554号",
+      "license_date": "2020-02-20",
+      "expire_date": "2026-02-28"
+    }
+  ]
+}

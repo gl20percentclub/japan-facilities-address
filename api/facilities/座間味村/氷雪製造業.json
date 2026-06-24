@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "こみね商店",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "座間味村字座間味１６４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500196号",
+      "license_date": "2015-05-19",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "座間味売店",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "座間味村座間味１６４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500332号",
+      "license_date": "2015-06-19",
+      "expire_date": "2021-06-30"
+    }
+  ]
+}

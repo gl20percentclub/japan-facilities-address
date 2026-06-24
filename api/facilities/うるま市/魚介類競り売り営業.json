@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "石川漁協荷捌所",
+      "name_kana": "",
+      "business_type": "魚介類競り売り営業",
+      "address": "うるま市石川石崎２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600417号",
+      "license_date": "2016-06-08",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "勝連漁業協同組合",
+      "name_kana": "",
+      "business_type": "魚介類競り売り営業",
+      "address": "うるま市勝連平敷屋３７８４－２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900407号",
+      "license_date": "2019-05-31",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "与那城町漁業協同組合",
+      "name_kana": "",
+      "business_type": "魚介類競り売り営業",
+      "address": "うるま市与那城平安座９３９６－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901401号",
+      "license_date": "2019-10-23",
+      "expire_date": "2025-10-31"
+    }
+  ]
+}

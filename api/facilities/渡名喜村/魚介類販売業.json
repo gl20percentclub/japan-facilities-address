@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "桃原商店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "渡名喜村１８３８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201400741号",
+      "license_date": "2014-08-27",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "鮮魚ひめり",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "渡名喜村１９７０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900691号",
+      "license_date": "2019-08-16",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "又吉商店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "渡名喜村１９６６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000862号",
+      "license_date": "2020-09-28",
+      "expire_date": "2026-09-30"
+    }
+  ]
+}

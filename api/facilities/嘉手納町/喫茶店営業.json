@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "水工房",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "嘉手納町字嘉手納４４７－１３ １Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501166号",
+      "license_date": "2015-09-01",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "サンシャイン水釜店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "嘉手納町水釜３４１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502180号",
+      "license_date": "2016-02-03",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "（株）サンエーＶ２１かでな食品館",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "嘉手納町嘉手納４６３－１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502310号",
+      "license_date": "2016-02-25",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "株式会社ＬＯＴＥ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "嘉手納町水釜４１２ マルチメディアセンター４Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602609号",
+      "license_date": "2017-03-30",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "（株）サンエー　Ｖ２１みずがま食品館",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "嘉手納町水釜６－１８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700469号",
+      "license_date": "2017-06-21",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "一銭まちや",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "嘉手納町嘉手納４０６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700593号",
+      "license_date": "2017-07-11",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "ｃｈａｒｍ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "嘉手納町嘉手納４４５－５　１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900692号",
+      "license_date": "2019-07-09",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "アクアイオン",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "嘉手納町水釜３６４－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000428号",
+      "license_date": "2020-05-22",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "ＲＯＹＡＬ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "嘉手納町嘉手納４９１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001672号",
+      "license_date": "2020-12-01",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

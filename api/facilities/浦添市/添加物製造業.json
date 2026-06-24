@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社金城商事",
+      "name_kana": "",
+      "business_type": "添加物製造業",
+      "address": "浦添市西洲２－８－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601085号",
+      "license_date": "2016-10-26",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "（株）大門商事",
+      "name_kana": "",
+      "business_type": "添加物製造業",
+      "address": "浦添市西洲２－６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700624号",
+      "license_date": "2017-08-24",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "株式会社日献",
+      "name_kana": "",
+      "business_type": "添加物製造業",
+      "address": "浦添市西洲２－４－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700707号",
+      "license_date": "2017-09-15",
+      "expire_date": "2023-09-30"
+    }
+  ]
+}

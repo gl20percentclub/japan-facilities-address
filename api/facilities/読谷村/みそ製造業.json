@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "読谷村農漁村生活　研究会",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "読谷村都屋１６７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500630号",
+      "license_date": "2015-06-18",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "ＪＡおきなわ　ゆんた支店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "読谷村喜名２３４６－１１ 地域振興センター１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601276号",
+      "license_date": "2016-09-21",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "読谷村農産物加工施設",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "読谷村座喜味２７２３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702217号",
+      "license_date": "2018-03-12",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "紅加工所",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "読谷村波平２０９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002359号",
+      "license_date": "2021-03-03",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

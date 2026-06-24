@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社オキコストア",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "西原町字東崎４－１２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500472号",
+      "license_date": "2015-07-15",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "オキコ株式会社 パン工場",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "西原町幸地３７１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500547号",
+      "license_date": "2015-07-27",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "オキコ株式会社 菓子パン二課工場",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "西原町幸地３７１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500548号",
+      "license_date": "2015-07-27",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "（株）オキコストア　トレビアン サンエー西原シティ店",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "西原町嘉手苅１３０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600740号",
+      "license_date": "2016-09-07",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "オキコ株式会社 めん工場",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "西原町幸地３７１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700694号",
+      "license_date": "2017-09-14",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "（株）三倉食品",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "西原町東崎４－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800057号",
+      "license_date": "2018-04-23",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "株式会社　与那覇食品",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "西原町小那覇１４８９－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900486号",
+      "license_date": "2019-07-01",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "農業生産法人株式会社マルシェ沖縄",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "西原町池田９８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900765号",
+      "license_date": "2019-08-30",
+      "expire_date": "2025-08-31"
+    }
+  ]
+}

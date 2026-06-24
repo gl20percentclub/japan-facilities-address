@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "有限会社　糸満カマボコ",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "糸満市西崎町４－１７－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500813号",
+      "license_date": "2015-09-15",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "与那嶺食品",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "糸満市西崎４－１７－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501377号",
+      "license_date": "2015-12-10",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "ミナミ株式会社",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "糸満市大里１７１６－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600464号",
+      "license_date": "2016-07-05",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "ケージン小",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "糸満市西崎町４－１７－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600933号",
+      "license_date": "2016-09-30",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "（株）次郎屋かまぼこ",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "糸満市西崎町４－１７－１８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700439号",
+      "license_date": "2017-07-19",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "沖縄県立沖縄水産高等学校",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "糸満市西崎１－１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800218号",
+      "license_date": "2018-05-28",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "那覇魚類株式会社",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "糸満市西崎町４－１２－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800882号",
+      "license_date": "2018-10-23",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "株式会社ホクガン",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "糸満市西崎町４－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901394号",
+      "license_date": "2020-01-09",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "石川かまぼこ",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "糸満市字糸満９８９－２５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000131号",
+      "license_date": "2020-04-21",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "株式会社西南門小カマボコ屋",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "糸満市西崎町４－１７－２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001577号",
+      "license_date": "2021-02-02",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "一郎カマボコ屋",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "糸満市西崎町４－１６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001761号",
+      "license_date": "2021-03-12",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

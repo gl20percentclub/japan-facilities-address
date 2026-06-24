@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "有限会社　山川酒造",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "本部町字並里５８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600334号",
+      "license_date": "2016-08-08",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "沖縄ボトラーズ株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "国頭郡本部町伊豆味１６３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900167号",
+      "license_date": "2019-06-03",
+      "expire_date": "2025-06-30"
+    }
+  ]
+}

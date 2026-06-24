@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "農業生産法人もとぶウェルネスフーズ 株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "本部町豊原７４２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400583号",
+      "license_date": "2014-10-31",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "みどりの駅",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "本部町字伊豆味２６６１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500168号",
+      "license_date": "2015-05-29",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "農業生産法人　（株）アセローラフレッシュ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "本部町字並里５２－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500364号",
+      "license_date": "2015-09-15",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "スムージー製造工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡本部町字大浜８７４－１１　１F",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500632号",
+      "license_date": "2016-01-05",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "トロピカルフーズ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "本部町東１６９－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500700号",
+      "license_date": "2016-01-26",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "沖縄ボトラーズ株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡本部町伊豆味１６３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800190号",
+      "license_date": "2018-06-19",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "田空ハーソー公園",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡本部町具志堅１３３４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000239号",
+      "license_date": "2020-07-06",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "八重岳ファーム",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡本部町伊豆味１２０３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000522号",
+      "license_date": "2020-11-18",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "琉果",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡本部町備瀬４０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202100159号",
+      "license_date": "2021-05-28",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "パーラー　ターミー",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "八重山郡竹富町字竹富５２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600047号",
+      "license_date": "2016-04-26",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "パーラー　ターミー",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "八重山郡竹富町字竹富５２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600452号",
+      "license_date": "2016-11-10",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "㈱由布島（レストラン内）",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "竹富町字古見６８９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800496号",
+      "license_date": "2018-11-21",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "㈱由布島（パーラー）",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "竹富町字古見６８９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800497号",
+      "license_date": "2018-11-21",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "マーハル　ジェラート",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "竹富町字古見９０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000376号",
+      "license_date": "2020-11-30",
+      "expire_date": "2026-11-30"
+    }
+  ]
+}

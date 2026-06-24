@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "皆愛屋　（みなあいや）",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "宮古島市下地字与那覇１４５０－６２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500229号",
+      "license_date": "2015-09-25",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "まごとうふ",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "宮古島市平良字下里１５９－２８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500286号",
+      "license_date": "2015-11-02",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "株式会社　しまとうふ",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "宮古島市平良字下里１３７９－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500433号",
+      "license_date": "2016-03-24",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "ちゆら島屋",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "宮古島市伊良部字池間添７２６－８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700024号",
+      "license_date": "2017-04-28",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "みやことうふ",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "宮古島市上野字宮国３２２－１　東側",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700340号",
+      "license_date": "2018-01-24",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "かぎや食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "宮古島市平良字西原３４７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800314号",
+      "license_date": "2018-10-26",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "石嶺とうふ店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "宮古島市平良字西原１２４６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800517号",
+      "license_date": "2019-03-27",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "パーントゥ食堂",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "宮古島市平良字島尻５３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900201号",
+      "license_date": "2019-09-04",
+      "expire_date": "2025-09-30"
+    }
+  ]
+}

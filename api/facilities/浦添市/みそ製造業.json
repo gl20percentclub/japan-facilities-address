@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社ひまわり総合食品",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "浦添市内間５－１４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700353号",
+      "license_date": "2017-06-29",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "沖縄県農業協同組合 浦添支店　女性部",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "浦添市安波茶３－２－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000735号",
+      "license_date": "2020-06-30",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "Ａｉ　ｍａｒｕ　Ｓｗｅｅｅｔｙ",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "浦添市西原１－１２－１６ ２Ｆ　キャスティー浦添",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100128号",
+      "license_date": "2021-04-23",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

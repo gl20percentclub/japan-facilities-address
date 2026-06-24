@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "国泉泡盛合名会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "八重山郡与那国町与那国２０８７番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700541号",
+      "license_date": "2017-11-28",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "合名会社　崎元酒造所",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "与那国町与那国２３２９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800509号",
+      "license_date": "2018-11-30",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "入波平酒造株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "八重山郡与那国町与那国4147-1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000099号",
+      "license_date": "2020-06-12",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

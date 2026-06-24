@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "丸一食品㈱",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "うるま市塩屋４９４－８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601350号",
+      "license_date": "2016-09-30",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "ＳＯＹ＇Ｓ　ＦＡＣＴＯＲＹ",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "うるま市川田１９７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601663号",
+      "license_date": "2016-10-31",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "有限会社双葉食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "うるま市州崎８－１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601920号",
+      "license_date": "2016-12-01",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "赤野とうふ",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "うるま市赤野１３６３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602369号",
+      "license_date": "2017-03-01",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "志林川豆腐",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "うるま市兼箇段７４１－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802107号",
+      "license_date": "2019-01-31",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "津堅豆腐屋",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "うるま市勝連津堅２９９－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802111号",
+      "license_date": "2019-01-31",
+      "expire_date": "2025-01-31"
+    }
+  ]
+}

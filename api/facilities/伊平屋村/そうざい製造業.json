@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "藤田食品",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "島尻郡伊平屋村我喜屋２１７－２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500351号",
+      "license_date": "2015-09-10",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "ドライブイン伊平屋",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊平屋村字我喜屋２１７－３０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700158号",
+      "license_date": "2017-05-31",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "サチーのパン",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊平屋村島尻１７６５－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000200号",
+      "license_date": "2020-06-18",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "海やから千増",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "島尻郡伊平屋村田名１７０２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000319号",
+      "license_date": "2020-07-31",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

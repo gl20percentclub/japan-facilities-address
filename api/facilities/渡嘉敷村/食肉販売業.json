@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県農業協同組合　渡嘉敷支店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "渡嘉敷村字渡嘉敷２２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201400488号",
+      "license_date": "2014-07-09",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "新垣商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "渡嘉敷村字阿波連９７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600438号",
+      "license_date": "2016-06-30",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "生活コンビニ新浜屋",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "渡嘉敷村渡嘉敷３３１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700278号",
+      "license_date": "2017-06-12",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "テラスＪＡＭ",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "渡嘉敷村阿波連内原９９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801508号",
+      "license_date": "2019-03-14",
+      "expire_date": "2025-03-31"
+    }
+  ]
+}

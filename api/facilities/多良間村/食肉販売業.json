@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ゆがぷう商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "多良間村字塩川４３６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201400411号",
+      "license_date": "2015-01-26",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "中央スーパー",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "多良間村字塩川１１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201400457号",
+      "license_date": "2015-02-27",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "多良間村山羊加工施設",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "多良間村字塩川８０１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600085号",
+      "license_date": "2016-07-04",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "池城商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "多良間村字仲筋８８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700106号",
+      "license_date": "2017-06-28",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "安里商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宮古郡多良間村字塩川１５４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700108号",
+      "license_date": "2017-06-30",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "マクル食肉",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "多良間村字塩川９６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900029号",
+      "license_date": "2019-04-22",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "石嶺商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "多良間村字塩川２７４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900405号",
+      "license_date": "2020-02-28",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "すまむぬたらま",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宮古郡多良間村字塩川４４５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000163号",
+      "license_date": "2020-08-21",
+      "expire_date": "2027-08-31"
+    },
+    {
+      "name": "Ａコープたらま店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "宮古郡多良間村字塩川１５８番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000189号",
+      "license_date": "2020-09-11",
+      "expire_date": "2026-09-30"
+    }
+  ]
+}

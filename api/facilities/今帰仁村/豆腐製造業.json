@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "あいあい手づくりファーム（工房）",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "今帰仁村字湧川３６９番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700649号",
+      "license_date": "2018-01-19",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "棚原豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "国頭郡今帰仁村越地１５５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000094号",
+      "license_date": "2020-05-14",
+      "expire_date": "2026-05-31"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "石垣市水産加工施設",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "石垣市新栄町８３番地の１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500699号",
+      "license_date": "2016-03-28",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "金城かまぼこ",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "石垣市新栄町７３－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600612号",
+      "license_date": "2017-02-06",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "砂川かまぼこ",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "石垣市登野城５２６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600684号",
+      "license_date": "2017-02-28",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "八重山漁業協同組合",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "石垣市字新栄町８３番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700057号",
+      "license_date": "2017-04-28",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "マーミヤかまぼこ",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "石垣市字新川８番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700383号",
+      "license_date": "2017-09-29",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "かみやーき小かまぼこ店",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "石垣市字石垣２７０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800660号",
+      "license_date": "2019-02-19",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "宮良かまぼこ",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "石垣市新栄町２２－２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900563号",
+      "license_date": "2020-01-31",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

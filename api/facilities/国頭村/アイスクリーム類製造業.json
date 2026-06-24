@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ファミリーマート　奥間ビーチ前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡国頭村奥間１３７４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700510号",
+      "license_date": "2017-11-06",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "ＯＫＩＮＡＷＡ　ＣＡＣＡＯ　ＦＡＣＴＯＲＹ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡国頭村浜５２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800280号",
+      "license_date": "2018-07-20",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "ファミリーマート奥間ビーチ前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡国頭村奥間１３７４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900163号",
+      "license_date": "2019-06-03",
+      "expire_date": "2025-06-30"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ウォーターショップＤｒ　Ｔ＆Ｗ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "八重瀬町東風平２０７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500522号",
+      "license_date": "2015-07-23",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "水屋",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "八重瀬町東風平１９４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900502号",
+      "license_date": "2019-06-28",
+      "expire_date": "2025-06-30"
+    }
+  ]
+}

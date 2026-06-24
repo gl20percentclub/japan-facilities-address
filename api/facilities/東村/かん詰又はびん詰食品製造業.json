@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄総合農産加工株式会社　東工場",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "国頭郡東村慶佐次７１８－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500199号",
+      "license_date": "2015-06-24",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "沖縄県農業協同組合　農産加工場",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "国頭郡東村慶佐次７１８－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900808号",
+      "license_date": "2020-01-30",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "大東島農産物加工所",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "南大東村字南１９４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901699号",
+      "license_date": "2020-03-25",
+      "expire_date": "2026-03-31"
+    }
+  ]
+}

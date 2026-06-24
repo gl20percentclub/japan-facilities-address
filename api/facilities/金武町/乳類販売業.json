@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "伊芸レストラン（上り線）",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町伊芸１２６１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500498号",
+      "license_date": "2015-05-29",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "伊芸レストラン（下り線）",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町伊芸１２６４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500499号",
+      "license_date": "2015-05-29",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "ローソン金武ベースボールスタジアム入口店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町金武１０４０４－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501731号",
+      "license_date": "2015-11-16",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "ローソン　屋嘉インター店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町屋嘉２９１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502190号",
+      "license_date": "2016-02-04",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "与那城ストアー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町金武５５６１－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600528号",
+      "license_date": "2016-06-21",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "ファミリーマート金武インター前店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町金武８０４９－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600530号",
+      "license_date": "2016-06-21",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "ファミリーマート金武大通り店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町金武６６－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600755号",
+      "license_date": "2016-07-20",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "宮城商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町屋嘉１２５－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600946号",
+      "license_date": "2016-08-08",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "マックスバリュ金武店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町金武７９０６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601024号",
+      "license_date": "2016-08-23",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "ローソン屋嘉インター店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町屋嘉２９１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601524号",
+      "license_date": "2016-10-18",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "スーパーまるかつ",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町金武１０５２６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601901号",
+      "license_date": "2016-11-30",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "ＨＯＷ琉球病院売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町金武７９５８－１ ２Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602453号",
+      "license_date": "2017-03-10",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "ファミリーマート金武屋嘉店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町屋嘉２６５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700573号",
+      "license_date": "2017-07-05",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "大川ストアー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町屋嘉１２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702282号",
+      "license_date": "2018-03-23",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "タウンプラザかねひで金武鍾乳洞市場",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町金武７９５６－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800064号",
+      "license_date": "2018-04-13",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "仲間ストアー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町金武２５９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801856号",
+      "license_date": "2019-01-04",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "伊芸商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町金武１３０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902231号",
+      "license_date": "2020-02-04",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "仲間商店　金武店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "金武町金武１４６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001148号",
+      "license_date": "2020-09-10",
+      "expire_date": "2027-09-30"
+    }
+  ]
+}

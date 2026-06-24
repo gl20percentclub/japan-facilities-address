@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ローソン金武ベースボールスタジアム入口店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "金武町金武１０４０４－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501732号",
+      "license_date": "2015-11-16",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "ローソン　屋嘉インター店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "金武町屋嘉２９１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502188号",
+      "license_date": "2016-02-04",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "マックスバリュ金武店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "金武町金武７９０６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601026号",
+      "license_date": "2016-08-23",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "ローソン屋嘉インター店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "金武町屋嘉２９１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601526号",
+      "license_date": "2016-10-18",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "大川ストアー",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "金武町屋嘉１２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702284号",
+      "license_date": "2018-03-23",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "タウンプラザかねひで金武鍾乳洞市場",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "金武町金武７９５６－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800063号",
+      "license_date": "2018-04-13",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "山川鮮魚店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "金武町字金武７９１３－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800502号",
+      "license_date": "2018-06-15",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "うえしろ酒店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "金武町金武７２－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902241号",
+      "license_date": "2020-02-04",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "知念鮮魚店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "金武町金武２５９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000424号",
+      "license_date": "2020-05-22",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "仲間商店　金武店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "金武町金武１４６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001080号",
+      "license_date": "2020-08-28",
+      "expire_date": "2027-08-31"
+    }
+  ]
+}

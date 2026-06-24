@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "光クリーンサービス",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南風原町字兼城１３２ アパートメントあかみね１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500353号",
+      "license_date": "2015-06-24",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "瑞泉酒造株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南風原町宮平３１７－３、３１９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500715号",
+      "license_date": "2015-08-20",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "美健総販",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南風原町与那覇１１２－１ 城間アパート１階",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601575号",
+      "license_date": "2017-02-15",
+      "expire_date": "2023-02-28"
+    }
+  ]
+}

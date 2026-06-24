@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "當間カマボコ・てんぷら店",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "本部町字谷茶４３６－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600540号",
+      "license_date": "2016-10-26",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "市場かまぼこ店",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "本部町字渡久地４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800066号",
+      "license_date": "2018-04-24",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "外間カマボコ工房",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "国頭郡本部町大浜８５８－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000756号",
+      "license_date": "2021-02-26",
+      "expire_date": "2027-02-28"
+    }
+  ]
+}

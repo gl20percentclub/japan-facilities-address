@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "大城海産物加工所",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "豊見城市字豊見城１３０ 外間アパート　１－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601157号",
+      "license_date": "2016-10-31",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "大城海産物加工所",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "豊見城市字豊見城２５－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601158号",
+      "license_date": "2016-10-31",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "沖縄特産販売株式会社 豊崎工場",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "豊見城市豊崎３－８４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700569号",
+      "license_date": "2017-08-14",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "沖縄県立南部農林高等学校 食品加工科（第二実習室）",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "豊見城市長堂１８２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100301号",
+      "license_date": "2021-05-24",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

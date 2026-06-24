@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社　上原ミート",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "豊見城市豊崎３－８５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201400305号",
+      "license_date": "2014-06-02",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "（株）あさひ豊崎工場",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "豊見城市字豊崎３－６２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501494号",
+      "license_date": "2016-01-26",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "沖縄県立南部農林高等学校 生物資源科畜産資源コース（第二実習室）",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "豊見城市長堂１８２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700816号",
+      "license_date": "2017-10-06",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "沖縄食鶏加工株式会社",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "豊見城市長堂４０８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700985号",
+      "license_date": "2017-11-09",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "沖縄県立南部農林高等学校 食品加工科（第二実習室）",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "豊見城市長堂１８２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100304号",
+      "license_date": "2021-05-24",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

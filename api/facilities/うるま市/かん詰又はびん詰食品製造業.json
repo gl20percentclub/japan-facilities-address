@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "オレンジワークス",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "うるま市大田７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802280号",
+      "license_date": "2019-02-28",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "有限会社神村酒造",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "うるま市石川嘉手苅５７０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902090号",
+      "license_date": "2020-01-27",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "農業生産法人株式会社熱帯資源植物研究所",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "うるま市字栄野比１２１２－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001593号",
+      "license_date": "2020-11-18",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "有限会社仲松ミート",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "うるま市宮里６４３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002370号",
+      "license_date": "2021-03-03",
+      "expire_date": "2027-03-31"
+    },
+    {
+      "name": "Ｙｏｋａｔｓｕ　Ｐｅｎｉｎｓｕｌａ",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "うるま市与那城屋慶名１５１９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002509号",
+      "license_date": "2021-03-16",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

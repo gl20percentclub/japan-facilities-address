@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "久高製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "うるま市石川１－１－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500930号",
+      "license_date": "2015-07-28",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "まるいし製麺",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "うるま市州崎８－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501573号",
+      "license_date": "2015-10-27",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "石川そば仲本製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "うるま市石川東山本町２－２－２８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700176号",
+      "license_date": "2017-04-28",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "沖縄県立中部農林高等学校",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "うるま市田場１５７０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901358号",
+      "license_date": "2019-10-15",
+      "expire_date": "2025-10-31"
+    },
+    {
+      "name": "製麺工場めんくい",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "うるま市字上江洲６９４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202100461号",
+      "license_date": "2021-05-28",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

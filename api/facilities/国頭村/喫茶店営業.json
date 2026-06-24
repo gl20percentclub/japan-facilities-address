@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "国頭村観光物産株式会社",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡国頭村字奥間１５６９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600513号",
+      "license_date": "2016-10-19",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "カロッテ洋菓子店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭村字辺土名１５０８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600786号",
+      "license_date": "2017-01-24",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "奥共同店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡国頭村奥１１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700089号",
+      "license_date": "2017-05-02",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "アシムイパーラー",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡国頭村字宜名真１２４１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800067号",
+      "license_date": "2018-04-24",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "ＯＫＩＮＡＷＡ　ＣＡＣＡＯ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡国頭村浜５２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900324号",
+      "license_date": "2019-08-06",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "（株）ＪＡおきなわ国頭ＳＳ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡国頭村辺土名１５８１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000368号",
+      "license_date": "2020-09-09",
+      "expire_date": "2027-09-30"
+    }
+  ]
+}

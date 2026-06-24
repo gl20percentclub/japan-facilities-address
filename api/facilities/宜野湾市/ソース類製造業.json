@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ＪＡおきなわ宜野湾支店　女性部",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野湾市野嵩７３６　ＪＡ沖縄宜野湾支店４Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501307号",
+      "license_date": "2015-09-17",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "ハッピーモア　Ｄｉｎｉｎｇ　愛菜家",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野湾市志真志１－２４７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502425号",
+      "license_date": "2016-03-17",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "加藤食堂",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野湾市真志喜２－１６－１０ １Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700693号",
+      "license_date": "2017-07-21",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "ハッピーモア市場",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野湾市志真志１－２４７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700756号",
+      "license_date": "2017-07-31",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "食品工場",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野湾市大山７－２－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201701141号",
+      "license_date": "2017-09-25",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "ＫＯＢＡ",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野湾市大山１－１２－３２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702046号",
+      "license_date": "2018-02-15",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "ＩＬＣＵＯＲＥ",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野湾市宇地泊３０７ 當山マンション１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000215号",
+      "license_date": "2020-04-30",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "沖縄料理としゃぶしゃぶのお店　赤瓦",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野湾市宇地泊７６６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001146号",
+      "license_date": "2020-09-10",
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "鉄鍋家",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野湾市伊佐１－７－５ サンライズマンション１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002038号",
+      "license_date": "2021-01-20",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "ハッピーモア市場　Ｔｒｏｐｉｃａｌ店",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "宜野湾市大山７－１３５０－８１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002312号",
+      "license_date": "2021-02-24",
+      "expire_date": "2027-02-28"
+    }
+  ]
+}

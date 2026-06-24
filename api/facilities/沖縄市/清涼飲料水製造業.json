@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "うまんちゅ豆乳",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市松本５－１４－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501253号",
+      "license_date": "2015-09-14",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "ひやごん豆腐店",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市比屋根６－３５－３２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602225号",
+      "license_date": "2017-01-31",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "沖縄オーガニックフード株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市古謝２－９－２０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602243号",
+      "license_date": "2017-02-07",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "アイス　サプライ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市泡瀬５－２－２６ コーポ伊波Ａ－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700291号",
+      "license_date": "2017-05-25",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "新里酒造株式会社 もろみ酢工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市古謝３－２２－８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800373号",
+      "license_date": "2018-05-28",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "ライキ合同会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市古謝２－９－２０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801836号",
+      "license_date": "2018-12-25",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "トルマリン医王ウォーター樹",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市海邦２－１－１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900683号",
+      "license_date": "2019-07-09",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "有限会社トゥワァイス",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市胡屋６－６－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901001号",
+      "license_date": "2019-08-29",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "兀ウォーターショップ　ライフ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市美原４－７－１ 春マンション１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000485号",
+      "license_date": "2020-05-29",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "πウォーターのお店 ありがとう水",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市古謝２－２１－１９ メゾン美希（１０４）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001100号",
+      "license_date": "2020-09-03",
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "水丸",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市越来１－１－４１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001446号",
+      "license_date": "2020-10-29",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "（株）ウォータージャパンレンタル",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市中央３－１５－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001703号",
+      "license_date": "2020-12-03",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "ＲＹＵＱ’Ｓ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市室川２－２７－２９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002441号",
+      "license_date": "2021-03-09",
+      "expire_date": "2027-03-31"
+    },
+    {
+      "name": "スプリングウォーター信",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "沖縄市池原１－１６－２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202100059号",
+      "license_date": "2021-04-09",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

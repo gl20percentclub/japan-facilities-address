@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "（株）オキコストア　トレビアン サンエーウイングシティ店",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "豊見城市高安２６１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600735号",
+      "license_date": "2016-09-05",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "有限会社ダイユウ産業",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "豊見城市金良３８７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800471号",
+      "license_date": "2018-07-24",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "ＯＡＳ航空物流センター　物流倉庫",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "豊見城市与根４９１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801526号",
+      "license_date": "2019-03-19",
+      "expire_date": "2025-03-31"
+    }
+  ]
+}

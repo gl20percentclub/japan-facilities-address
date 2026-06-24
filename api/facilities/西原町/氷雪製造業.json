@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "有限会社　西原製氷",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "西原町幸地４１５－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501527号",
+      "license_date": "2016-01-29",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "テンマ商事",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "西原町与那城３０２－１８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901203号",
+      "license_date": "2019-11-22",
+      "expire_date": "2025-11-30"
+    }
+  ]
+}

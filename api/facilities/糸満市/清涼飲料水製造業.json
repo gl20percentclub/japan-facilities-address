@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "お水屋　ロハス",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市北波平３８９－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501630号",
+      "license_date": "2016-02-29",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "株式会社　宮平乳業",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市西崎町４－１５－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600288号",
+      "license_date": "2016-05-31",
+      "expire_date": "2022-05-31"
+    },
+    {
+      "name": "有限会社大商",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市西崎町１－６－１８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600609号",
+      "license_date": "2016-07-28",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "有限会社沖縄農興",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市西崎町４－１６－２３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600866号",
+      "license_date": "2016-09-14",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "㈱沖縄海星物産第２工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市西崎町４－１７－１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601489号",
+      "license_date": "2017-01-23",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "AC沖縄製造元　沖縄製粉株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市西崎町４－１０－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700019号",
+      "license_date": "2017-04-07",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "株式会社ホクガン",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市西崎町４－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801046号",
+      "license_date": "2018-11-21",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "まさひろ酒造株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市西崎町５－８－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801287号",
+      "license_date": "2019-01-28",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "Ｔｒｕｓｔ　Ｗａｔｅｒ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市字阿波根１５５１－１０ アートハウス１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801489号",
+      "license_date": "2019-03-11",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "千草物産　西崎",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市西崎町５－１０－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900560号",
+      "license_date": "2019-07-17",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "沖縄バイオリサーチ　糸満農産加工施設",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市武富８９１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900728号",
+      "license_date": "2019-08-27",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "金秀バイオ株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市西崎町５－２－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900824号",
+      "license_date": "2019-09-17",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "株式会社琉球ヘルシーフーズ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "糸満市西崎６－１２－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100019号",
+      "license_date": "2021-04-06",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

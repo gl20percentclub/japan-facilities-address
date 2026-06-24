@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "西表島パイランドファーム",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "八重山郡竹富町古見ウフマタ53-1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800493号",
+      "license_date": "2018-11-21",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "民宿パイン館",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "八重山郡竹富町上原１０－１７１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900506号",
+      "license_date": "2019-12-09",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

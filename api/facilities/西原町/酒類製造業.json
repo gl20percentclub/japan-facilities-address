@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社　石川酒造場 第三工場",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "西原町字小那覇１４３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700036号",
+      "license_date": "2017-04-12",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "株式会社　石川酒造場 第二工場",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "西原町字小那覇１４３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000579号",
+      "license_date": "2020-04-30",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "株式会社　石川酒造場 第一工場",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "西原町小那覇１４３８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000580号",
+      "license_date": "2020-04-30",
+      "expire_date": "2026-04-30"
+    }
+  ]
+}

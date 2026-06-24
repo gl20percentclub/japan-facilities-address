@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "Ａコープたらま店",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "宮古郡多良間村字塩川１５８番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800208号",
+      "license_date": "2018-07-30",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "島アイス",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "多良間村字塩川２３２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800325号",
+      "license_date": "2018-10-31",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "石嶺商店",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "多良間村字塩川２７４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900407号",
+      "license_date": "2020-02-28",
+      "expire_date": "2026-02-28"
+    }
+  ]
+}

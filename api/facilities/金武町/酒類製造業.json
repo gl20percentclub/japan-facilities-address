@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "崎山酒造廠",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "金武町伊芸７５１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901398号",
+      "license_date": "2019-10-23",
+      "expire_date": "2025-10-31"
+    },
+    {
+      "name": "金武酒造　第二工場",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "金武町金武４８２３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902442号",
+      "license_date": "2020-03-06",
+      "expire_date": "2026-03-31"
+    },
+    {
+      "name": "株式会社　松藤",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "金武町伊芸７５１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000997号",
+      "license_date": "2020-08-05",
+      "expire_date": "2026-08-31"
+    },
+    {
+      "name": "（有）金武酒造",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "金武町金武４２９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001270号",
+      "license_date": "2020-10-02",
+      "expire_date": "2026-10-31"
+    }
+  ]
+}

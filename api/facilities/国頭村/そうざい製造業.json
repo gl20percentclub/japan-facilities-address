@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "よんな～館",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭村字与那６８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500101号",
+      "license_date": "2015-05-01",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "オクマパーラー",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭村字奥間３５２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500167号",
+      "license_date": "2015-05-29",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "手作りママ加工所",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡国頭村辺土名１５８０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500567号",
+      "license_date": "2015-11-20",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "公民館内　宜名真食堂",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡国頭村字宜名真２１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600600号",
+      "license_date": "2016-11-02",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "ゆいゆい　国頭　加工室",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡国頭村奥間１６０５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900023号",
+      "license_date": "2019-04-15",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "沖縄県農業協同組合　国頭支店",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭村辺土名１５１０－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900900号",
+      "license_date": "2020-03-03",
+      "expire_date": "2026-03-31"
+    },
+    {
+      "name": "Ｆａｃｔｏｒｙ　結",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡国頭村奥間１６０５ 道の駅国頭村観光物産センターゆいゆい国頭",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000586号",
+      "license_date": "2020-12-17",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "ソワカ堂",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡国頭村奥間１６０５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000649号",
+      "license_date": "2021-01-21",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

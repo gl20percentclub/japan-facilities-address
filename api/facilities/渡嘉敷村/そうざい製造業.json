@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "渡嘉敷漁協水産物加工場",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "渡嘉敷村字渡嘉敷１７２９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500670号",
+      "license_date": "2015-08-14",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "中村屋",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "渡嘉敷村渡嘉敷１８７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500811号",
+      "license_date": "2015-09-16",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "漁師食堂かなろあ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "島尻郡渡嘉敷村字渡嘉敷１９６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501205号",
+      "license_date": "2015-11-05",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "共同処理加工施設",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "島尻郡渡嘉敷村渡嘉敷２８６番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600970号",
+      "license_date": "2016-10-11",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "リーフイン国吉",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "渡嘉敷村阿波連１７８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901266号",
+      "license_date": "2019-11-29",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "民宿かりゆし",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "渡嘉敷村字渡嘉敷１７７９－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001612号",
+      "license_date": "2021-02-09",
+      "expire_date": "2027-02-28"
+    }
+  ]
+}

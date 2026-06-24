@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "伊平屋村漁業協同組合",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "島尻郡伊平屋村我喜屋２１７－３０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400578号",
+      "license_date": "2014-10-31",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "伊平屋村特産品加工施設",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "伊平屋村字前泊１９０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400580号",
+      "license_date": "2014-10-31",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "藤田食品",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "島尻郡伊平屋村我喜屋２１７－２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500350号",
+      "license_date": "2015-09-10",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "沖縄県農業協同組合　伊平屋支店 製糖工場",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "伊平屋村前泊１９０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700070号",
+      "license_date": "2017-04-27",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "ゆいみ",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "島尻郡伊平屋村字我喜屋２１７－４２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700699号",
+      "license_date": "2018-02-07",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "ｉ－テラス",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "島尻郡伊平屋村字我喜屋２１７－２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700701号",
+      "license_date": "2018-02-07",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "ナトゥーラいへや",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "島尻郡伊平屋村島尻１０－９ 島尻公民館内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900559号",
+      "license_date": "2019-10-31",
+      "expire_date": "2025-10-31"
+    },
+    {
+      "name": "サチーのパン",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "伊平屋村島尻１７６５－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000199号",
+      "license_date": "2020-06-18",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "沖縄県農業協同組合　伊平屋支店製糖工場",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "島尻郡伊平屋村田名９２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000634号",
+      "license_date": "2021-01-19",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "海やから千増",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "島尻郡伊平屋村田名１７０２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202100272号",
+      "license_date": "2021-04-30",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

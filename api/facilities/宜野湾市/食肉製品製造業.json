@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社ジミー（惣菜工場）",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "宜野湾市大山７－２－２０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600957号",
+      "license_date": "2016-08-08",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "食品加工センター",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "宜野湾市大山７－２－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801894号",
+      "license_date": "2019-01-11",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "有限会社　宜野湾食肉加工場",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "宜野湾市上原１－３－１８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901462号",
+      "license_date": "2019-10-30",
+      "expire_date": "2025-10-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "特産品販売店　海のそば　とび吉",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "島尻郡粟国村字浜４３１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501127号",
+      "license_date": "2015-10-23",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "ＪＡおきなわ粟国支店　製糖施設",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "粟国村東大久保原７２７７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701190号",
+      "license_date": "2017-12-28",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "ＡＧＵＮＩ＿ＦＡＮ",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "粟国村浜１０９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900038号",
+      "license_date": "2019-04-11",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "粟国農漁村生活研究会　加工部",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "島尻郡粟国村字東１０８８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000617号",
+      "license_date": "2020-07-21",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "栗国製菓所",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "粟国村字東６９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000897号",
+      "license_date": "2020-10-01",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "しまカフェ　ヒージャー珈琲",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "粟国村字東３５５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100269号",
+      "license_date": "2021-05-19",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

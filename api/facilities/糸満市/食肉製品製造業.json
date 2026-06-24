@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社　德尚 西崎工場",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "糸満市西崎町４－２２－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501201号",
+      "license_date": "2015-10-30",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "沖縄県立沖縄水産高等学校",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "糸満市西崎１－１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800219号",
+      "license_date": "2018-05-28",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "株式会社ホクガン",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "糸満市西崎町４－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800656号",
+      "license_date": "2018-09-05",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "農業生産法人（株）伊江牛",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "糸満市糸満１５７３－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801393号",
+      "license_date": "2019-02-15",
+      "expire_date": "2025-02-28"
+    }
+  ]
+}

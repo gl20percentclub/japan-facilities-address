@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "（株）オキコストア　トレビアン サンエーつかざんシティー店",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "南風原町津嘉山１４７１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600686号",
+      "license_date": "2016-08-24",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "ハーブ工房",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "島尻郡南風原町新川１８２番地の３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601494号",
+      "license_date": "2017-01-24",
+      "expire_date": "2023-01-31"
+    }
+  ]
+}

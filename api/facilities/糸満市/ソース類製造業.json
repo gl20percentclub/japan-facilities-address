@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社シュアナチュラル",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "糸満市西崎町４－６－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501504号",
+      "license_date": "2016-01-26",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "沖縄県農業協同組合　糸満支店　女性部",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "糸満市字大里１４４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501539号",
+      "license_date": "2016-02-02",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "(ベジカフェ)ブラウンシュガー",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "糸満市糸満９６７－２３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600460号",
+      "license_date": "2016-07-04",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "株式会社　メディカルフード",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "糸満市糸満１９７６番　１F",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700011号",
+      "license_date": "2017-04-03",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "熱帯果樹園小池さん家",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "糸満市糸満２２１５　１階",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801167号",
+      "license_date": "2018-12-19",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "株式会社　丸昇物産",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "糸満市西崎町５－１２－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000334号",
+      "license_date": "2020-05-22",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "株式会社すえひろ",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "糸満市字伊原５６４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000501号",
+      "license_date": "2020-07-01",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "株式会社　赤マルソウ",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "糸満市西崎町４－１０－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000597号",
+      "license_date": "2020-07-20",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

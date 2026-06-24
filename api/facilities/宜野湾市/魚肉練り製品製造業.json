@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "寿味屋のかまぼこ",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "宜野湾市大山７－１３５０－８１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700141号",
+      "license_date": "2017-04-26",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "食品加工センター",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "宜野湾市大山７－２－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902438号",
+      "license_date": "2020-03-05",
+      "expire_date": "2026-03-31"
+    }
+  ]
+}

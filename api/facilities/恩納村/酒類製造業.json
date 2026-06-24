@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "合資会社恩納酒造所",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "恩納村恩納２６９０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902190号",
+      "license_date": "2020-01-31",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "咲元酒造株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "恩納村山田１４３７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000594号",
+      "license_date": "2020-06-12",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "らんらん家",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "与那原町東浜８７－１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700209号",
+      "license_date": "2017-05-29",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "マクドナルド与那原店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "与那原町与那原１１０４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800560号",
+      "license_date": "2018-08-13",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "琉球Ｐｕｄｄｉｎｇ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "与那原町字東浜９７－１ オーシャンブルーⅡ１０２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000422号",
+      "license_date": "2020-06-09",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

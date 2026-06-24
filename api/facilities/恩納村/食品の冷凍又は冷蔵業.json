@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社御菓子御殿クリエーション恩納工場",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "恩納村瀬良垣１００",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800555号",
+      "license_date": "2018-06-26",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "恩納村漁業協同組合",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "恩納村前兼久５９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000804号",
+      "license_date": "2020-07-13",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "おんなの駅　農産物加工所",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "恩納村恩納４９２０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002435号",
+      "license_date": "2021-03-08",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

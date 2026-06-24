@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "神谷酒造所",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "八重瀬町世名城５１０－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600108号",
+      "license_date": "2016-04-22",
+      "expire_date": "2022-04-30"
+    }
+  ]
+}

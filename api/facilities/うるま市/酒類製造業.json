@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "協同組合　琉球泡盛古酒の郷",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "うるま市勝連南風原５１９３－２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800974号",
+      "license_date": "2018-08-27",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "新里酒造株式会社 州崎工場",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "うるま市州崎１２－１７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802343号",
+      "license_date": "2019-03-08",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "有限会社神村酒造",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "うるま市石川嘉手苅５７０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902089号",
+      "license_date": "2020-01-27",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "琉球ビバレッジ株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "うるま市州崎１２－８４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001812号",
+      "license_date": "2020-10-30",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "泰石酒造㈱",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "うるま市字平良川９０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202100392号",
+      "license_date": "2021-05-20",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ファミリーマート　嘉手納運動公園前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "嘉手納町屋良１０１７－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601943号",
+      "license_date": "2016-12-06",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "ＳＫＹＬＯＵＮＧＥ　ＫＡＤＥＮＡ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "嘉手納町屋良１０２６－３ （４Ｆ）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702014号",
+      "license_date": "2018-02-09",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "マクドナルド　５８号嘉手納店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "嘉手納町水釜３２７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002010号",
+      "license_date": "2021-01-18",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

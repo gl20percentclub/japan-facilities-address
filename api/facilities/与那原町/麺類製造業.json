@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "内間食品",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "与那原町字与那原３８３６－２　　３８４０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600416号",
+      "license_date": "2016-06-27",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "ほっと食品",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "与那原町字与那原１０６２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001035号",
+      "license_date": "2020-06-30",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

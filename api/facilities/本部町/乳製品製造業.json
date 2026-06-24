@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "やぎや",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "国頭郡本部町具志堅１３３４ 田空の駅ハーソー公園内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600451号",
+      "license_date": "2016-09-23",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "田空ハーソー公園",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "国頭郡本部町具志堅１３３４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000243号",
+      "license_date": "2020-07-06",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "上運天共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "今帰仁村字上運天４４５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400195号",
+      "license_date": "2014-06-16",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "ローソン今帰仁店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡今帰仁村天底２６２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400516号",
+      "license_date": "2014-10-24",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "北山商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "今帰仁村今泊１７０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500236号",
+      "license_date": "2015-07-06",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "Ａコープ今帰仁店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "今帰仁村字仲宗根２５９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500336号",
+      "license_date": "2015-08-25",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "きなスーパー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡今帰仁村字天底１６０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500602号",
+      "license_date": "2015-12-15",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "ローソン今帰仁村役場前店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "今帰仁村字謝名４４６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500658号",
+      "license_date": "2016-01-13",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "ファミリーマート今帰仁仲尾次店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡今帰仁村字仲尾次５３１－９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600150号",
+      "license_date": "2016-06-08",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "今帰仁の駅そーれ",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡今帰仁村字玉城１５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700389号",
+      "license_date": "2017-09-27",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "呉我山共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡今帰仁村字呉我山１５１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700476号",
+      "license_date": "2017-10-23",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "はいたい　ざっか",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡今帰仁村天底６００",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800288号",
+      "license_date": "2018-07-23",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "ずけやま",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "今帰仁村字仲宗根３５８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800712号",
+      "license_date": "2019-02-25",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "諸志共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡今帰仁村諸志６５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000429号",
+      "license_date": "2020-10-06",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "江中商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡今帰仁村兼次３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000439号",
+      "license_date": "2020-10-08",
+      "expire_date": "2027-10-31"
+    }
+  ]
+}

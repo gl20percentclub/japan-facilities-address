@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "第１工場（ジュースエリア）",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南城市佐敷仲伊保１１６－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500504号",
+      "license_date": "2015-07-21",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "発酵理研工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南城市玉城字愛地６９５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500613号",
+      "license_date": "2015-07-31",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "農業生産法人有限会社稲穂",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南城市大里字稲嶺１９８１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501582号",
+      "license_date": "2016-02-17",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "株式会社Ｇｒｅｅｎ　Ｅａｒｔｈ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南城市大里稲嶺８５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701207号",
+      "license_date": "2018-01-10",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "のはらファーム",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南城市大里仲間与那堂４７４－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701403号",
+      "license_date": "2018-03-05",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "ヨモギファーム大城",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南城市玉城喜良原５４６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800873号",
+      "license_date": "2018-10-22",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "株式会社みやぎ農園",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南城市大里大城２１９３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801090号",
+      "license_date": "2018-11-29",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "農業生産法人　株式会社　仲善",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南城市知念知念１１９０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900066号",
+      "license_date": "2019-04-16",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "楽ワーク福祉作業所",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南城市玉城堀川５１３－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900757号",
+      "license_date": "2019-08-29",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "株式会社　たまぐすく",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南城市玉城喜良原５４６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000743号",
+      "license_date": "2020-08-24",
+      "expire_date": "2026-08-31"
+    },
+    {
+      "name": "農業生産法人有限会社ＥＭ玉城牧場牛乳（工場）",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "南城市玉城字富里５５２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100032号",
+      "license_date": "2021-04-07",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

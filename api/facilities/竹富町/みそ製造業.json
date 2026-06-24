@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "美原公民館　婦人部",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "竹富町古見１０５１－２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500449号",
+      "license_date": "2015-11-18",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "とんちぇ農園",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "竹富町波照間5221",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700004号",
+      "license_date": "2017-04-10",
+      "expire_date": "2023-04-30"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県農業協同組合知念支店 女性部室",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "南城市知念久手堅３１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800061号",
+      "license_date": "2018-04-23",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "沖縄県農業協同組合 南城支店　農業団地センター",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "南城市大里仲間１１５５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800914号",
+      "license_date": "2018-10-30",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "黄果報",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "南城市玉城堀川７３８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900254号",
+      "license_date": "2019-05-28",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "沖縄県農業協同組合　玉城支店 女性部みそ仕込所",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "南城市玉城富里５５２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900755号",
+      "license_date": "2019-08-29",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "沖縄県農業協同組合 佐敷支店　ミソ仕込場",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "南城市佐敷佐敷１９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000717号",
+      "license_date": "2020-08-18",
+      "expire_date": "2026-08-31"
+    }
+  ]
+}

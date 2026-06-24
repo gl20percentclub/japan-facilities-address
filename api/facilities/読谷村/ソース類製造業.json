@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ＪＡおきなわ　ゆんた支店",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "読谷村喜名２３４６－１１ 地域振興センター１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601277号",
+      "license_date": "2016-09-21",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "外食家　くじら",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "読谷村瀬名波９４９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700483号",
+      "license_date": "2017-06-26",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "まぶ家",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "読谷村渡慶次９８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800815号",
+      "license_date": "2018-07-31",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "沖縄そば専門店　まるは",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "読谷村喜名４５８－３ Ａ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900265号",
+      "license_date": "2019-05-21",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "まるき（ＭＡＲＵＫＩ）",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "読谷村瀬名波２３０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901967号",
+      "license_date": "2020-01-08",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "キジムナーキッチン",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "読谷村古堅８６８－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001770号",
+      "license_date": "2020-12-10",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "ヨギノ本舗",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "読谷村座喜味１８９３　１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002203号",
+      "license_date": "2021-02-10",
+      "expire_date": "2027-02-28"
+    }
+  ]
+}

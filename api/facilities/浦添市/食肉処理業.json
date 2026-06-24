@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社日新電器産業",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "浦添市大平１丁目２０番１号",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600910号",
+      "license_date": "2016-09-28",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "リウボウプロセスセンター",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "浦添市西洲２－９－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700096号",
+      "license_date": "2017-04-21",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "（株）金城商事ミート（Ｌｏｇｉｓｔｉｃｓ）",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "浦添市西洲２－１０－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700632号",
+      "license_date": "2017-08-29",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "株式会社丸市ミート",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "浦添市西洲２－９－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800287号",
+      "license_date": "2018-06-18",
+      "expire_date": "2024-06-30"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "屋古売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "大宜味村屋古１７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400502号",
+      "license_date": "2014-10-21",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "喜如嘉共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "大宜味村喜如嘉５２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400899号",
+      "license_date": "2015-03-31",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "大川共同店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "大宜味村字塩屋３５４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500510号",
+      "license_date": "2015-10-27",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "ローソン大宜味塩屋店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡大宜味村字塩屋念蒲１３０６－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600049号",
+      "license_date": "2016-04-21",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "ファミリーマート　大宜味津波店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "大宜味村字津波１６７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600650号",
+      "license_date": "2016-11-22",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "塩屋売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡大宜味村塩屋５０６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700419号",
+      "license_date": "2017-10-06",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "みやぎストアー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡大宜味村字宮城５７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800307号",
+      "license_date": "2018-07-25",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "謝名城共同店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡大宜味村字謝名城２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800309号",
+      "license_date": "2018-07-25",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "田嘉里共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡大宜味村田嘉里５７５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900262号",
+      "license_date": "2019-07-12",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "ファミリーマート　大宜味津波店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡大宜味村津波１６７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900590号",
+      "license_date": "2019-11-18",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "やんばるの森ビジターセンター　物販",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡大宜味村津波９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900664号",
+      "license_date": "2019-12-02",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "大保共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡大宜味村大保１－１６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000344号",
+      "license_date": "2020-08-19",
+      "expire_date": "2027-08-31"
+    },
+    {
+      "name": "トミ商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡大宜味村塩屋６２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000408号",
+      "license_date": "2020-09-30",
+      "expire_date": "2027-09-30"
+    },
+    {
+      "name": "喜如嘉共同店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡大宜味村喜如嘉５２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202100106号",
+      "license_date": "2021-05-12",
+      "expire_date": "2028-05-31"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ローソン　ネーブルカデナ店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町兼久４２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500608号",
+      "license_date": "2015-06-16",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "沖舟　丼丸　嘉手納店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町嘉手納３０３－５　１０２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600104号",
+      "license_date": "2016-04-19",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "ショッピング幸地",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町嘉手納２９７－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601253号",
+      "license_date": "2016-09-20",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "タウンプラザかねひで ネーブルカデナ店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町兼久３７２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602508号",
+      "license_date": "2017-03-21",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "沖鮮市場",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町兼久３７２－２ ネーブルカデナ店内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702297号",
+      "license_date": "2018-03-27",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "（有）嘉手納水産",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町水釜２１０－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800921号",
+      "license_date": "2018-08-15",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "ローソン嘉手納屋良店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町屋良１０７５－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800937号",
+      "license_date": "2018-08-17",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "新垣冷凍食品鮮魚店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町嘉手納１１５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801134号",
+      "license_date": "2018-09-20",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "ファミリーマート　オーケイ嘉手納",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町嘉手納４７７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900243号",
+      "license_date": "2019-05-13",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "Ｖ２１みずがま食品館",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町水釜６－１８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900285号",
+      "license_date": "2019-05-21",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "ＨＩＤＥＫＯ’Ｓ　Ｓｅａｆｏｏｄ　Ｃａｆｅ",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町嘉手納４５３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901431号",
+      "license_date": "2019-10-24",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "Ｖ２１かでな食品館",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町嘉手納４６３－１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901549号",
+      "license_date": "2019-11-01",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "ローソン嘉手納屋良店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "嘉手納町屋良１０７５－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000393号",
+      "license_date": "2020-05-20",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

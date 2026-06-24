@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "薬草研究屋",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "糸満市潮平２３２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501353号",
+      "license_date": "2015-11-30",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "まさひろ酒造株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "糸満市西崎町５－８－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600702号",
+      "license_date": "2016-08-26",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "上原酒造株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "糸満市字座波１０６１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901359号",
+      "license_date": "2019-12-24",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "まさひろ酒造株式会社　百年蔵",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "糸満市西崎町４－２２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100173号",
+      "license_date": "2021-04-28",
+      "expire_date": "2028-04-30"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "花城トーフ店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "南風原町新川５３４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701145号",
+      "license_date": "2017-12-15",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "花城キヨとうふ",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "南風原町新川１９７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901218号",
+      "license_date": "2019-11-26",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "丸津食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "南風原町字大名２９０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001620号",
+      "license_date": "2021-02-10",
+      "expire_date": "2027-02-28"
+    }
+  ]
+}

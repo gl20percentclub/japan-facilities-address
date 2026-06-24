@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県農業協同組合　伊平屋支店　生活店舗",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊平屋村字我喜屋２５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600820号",
+      "license_date": "2017-01-31",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "伊礼商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊平屋村我喜屋２１３５－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600884号",
+      "license_date": "2017-03-01",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "野甫売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "島尻郡伊平屋村野甫１９４―７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700156号",
+      "license_date": "2017-05-31",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "前泊共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "島尻郡伊平屋村前泊４５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800479号",
+      "license_date": "2018-11-05",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "島尻共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "島尻郡伊平屋村４１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800824号",
+      "license_date": "2018-06-01",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "田名共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "島尻郡伊平屋村田名３４７７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000770号",
+      "license_date": "2021-03-02",
+      "expire_date": "2028-03-31"
+    }
+  ]
+}

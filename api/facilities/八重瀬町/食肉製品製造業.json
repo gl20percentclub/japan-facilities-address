@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "福まる新城加工場",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "島尻郡八重瀬町字新城１１９３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600072号",
+      "license_date": "2016-04-19",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "有限会社　祐食品",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "八重瀬町世名城５３６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800525号",
+      "license_date": "2018-08-01",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "沖縄食鶏加工株式会社",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "八重瀬町後原５６９－８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900957号",
+      "license_date": "2019-10-15",
+      "expire_date": "2025-10-31"
+    }
+  ]
+}

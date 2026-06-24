@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "北谷豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "北谷町桑江６１４－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000150号",
+      "license_date": "2020-04-22",
+      "expire_date": "2026-04-30"
+    }
+  ]
+}

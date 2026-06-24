@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "田名共同売店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "伊平屋村字田名３４７７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500216号",
+      "license_date": "2015-06-29",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "居酒屋釣り吉",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "島尻郡伊平屋村字前泊２６５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600640号",
+      "license_date": "2016-11-18",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "沖縄県農業協同組合　伊平屋支店　生活店舗",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "伊平屋村字我喜屋２５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600819号",
+      "license_date": "2017-01-31",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "伊礼商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "伊平屋村我喜屋２１３５－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600883号",
+      "license_date": "2017-03-01",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "野甫売店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "島尻郡伊平屋村野甫１９４―７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700155号",
+      "license_date": "2017-05-31",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "マルタカ食品",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "伊平屋村字我喜屋２１７－３０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700541号",
+      "license_date": "2017-11-22",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "前泊共同売店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "島尻郡伊平屋村前泊４５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800477号",
+      "license_date": "2018-11-05",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "島尻共同売店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "島尻郡伊平屋村４１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800823号",
+      "license_date": "2018-06-01",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "田名共同売店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "島尻郡伊平屋村田名３４７７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000768号",
+      "license_date": "2021-03-02",
+      "expire_date": "2028-03-31"
+    }
+  ]
+}

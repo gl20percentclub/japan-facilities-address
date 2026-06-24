@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ラテ・カフェ　西原シティ店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "西原町嘉手苅１３０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500962号",
+      "license_date": "2015-09-17",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "株式会社オキコストア",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "西原町東崎４－１２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500967号",
+      "license_date": "2015-09-24",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "ファミリーマート西原グリーンセンター前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "西原町内間５１５－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700201号",
+      "license_date": "2017-05-29",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "ファミリーマート西原小橋川店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "西原町小橋川８８－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700873号",
+      "license_date": "2017-10-24",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "マクドナルド坂田店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "西原町翁長４９９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800579号",
+      "license_date": "2018-08-16",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "ファミリーマート西原工業団地",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "西原町小那覇５４６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801358号",
+      "license_date": "2019-02-12",
+      "expire_date": "2025-02-28"
+    }
+  ]
+}

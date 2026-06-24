@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "渡具知ストアー",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "名護市辺野古３５４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700034号",
+      "license_date": "2017-04-18",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "名護漁業協同組合",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "名護市城３－１０－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700686号",
+      "license_date": "2018-01-31",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "海人の宝",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "名護市我部１３６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900161号",
+      "license_date": "2019-06-03",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "丸滝製氷",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "名護市数久田６０９－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000576号",
+      "license_date": "2020-06-30",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

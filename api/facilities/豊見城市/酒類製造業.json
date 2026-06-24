@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "忠孝酒造株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "豊見城市名嘉地１３２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501725号",
+      "license_date": "2016-03-28",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "クースの杜忠孝蔵",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "豊見城市伊良波５５６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901217号",
+      "license_date": "2019-11-26",
+      "expire_date": "2025-11-30"
+    }
+  ]
+}

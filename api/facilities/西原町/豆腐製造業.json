@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "新垣豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "中頭郡西原町幸地９９１－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501148号",
+      "license_date": "2015-10-29",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "株式会社まえさと",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "西原町字東崎４－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501695号",
+      "license_date": "2016-03-18",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "株式会社まえさと　新棟",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "西原町字東崎４－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501696号",
+      "license_date": "2016-03-18",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "有限会社　湧川食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "西原町幸地９８６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600572号",
+      "license_date": "2016-07-25",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "かねひでフードセンター　豆腐作業場",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "西原町小那覇１２２８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700826号",
+      "license_date": "2017-10-11",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "有限会社　玉城豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "西原町棚原７７３－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800624号",
+      "license_date": "2018-08-29",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "有限会社池田食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "西原町池田１８４－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901025号",
+      "license_date": "2019-10-28",
+      "expire_date": "2025-10-31"
+    }
+  ]
+}

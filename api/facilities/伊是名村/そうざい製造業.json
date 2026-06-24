@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "たつ乃",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊是名村仲田６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500548号",
+      "license_date": "2015-11-12",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "伊是名漁協二次加工所",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊是名村字伊是名６４３－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500818号",
+      "license_date": "2016-03-23",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "お食事処　くい亭",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "島尻郡伊是名村字諸見５００１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600663号",
+      "license_date": "2016-11-28",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "沖縄県農業協同組合　伊是名支店 農産物処理加工施設",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "伊是名村字諸見３８７２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900508号",
+      "license_date": "2019-10-23",
+      "expire_date": "2025-10-31"
+    }
+  ]
+}

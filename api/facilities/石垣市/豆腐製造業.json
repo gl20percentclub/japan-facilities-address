@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "仲宗根とうふ店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "石垣市字新川２６－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500172号",
+      "license_date": "2015-06-30",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "とうふの比嘉",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "石垣市石垣５７０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600403号",
+      "license_date": "2016-10-19",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "安良城豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "石垣市字大浜２０７５－６９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700173号",
+      "license_date": "2017-06-22",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "琉球の爺（休業）",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "石垣市浜崎町２－１－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700198号",
+      "license_date": "2017-06-27",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "かみや食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "石垣市字大浜４０３－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700440号",
+      "license_date": "2017-10-20",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "(有)豊見山食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "石垣市大浜１３４９－８３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700700号",
+      "license_date": "2018-02-21",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "マルサン豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "石垣市字登野城１８６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800268号",
+      "license_date": "2018-07-26",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "とも豆腐",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "石垣市字大川１５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900096号",
+      "license_date": "2019-05-20",
+      "expire_date": "2025-05-31"
+    }
+  ]
+}

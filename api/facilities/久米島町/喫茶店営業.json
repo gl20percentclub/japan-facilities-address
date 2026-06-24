@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "カフェ　コラッロ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "島尻郡久米島町奥武６２　久米白浜マリンビレッジ１０５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500236号",
+      "license_date": "2015-05-22",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "Ｏｈ！島テラス",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "久米島町奥武６２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701191号",
+      "license_date": "2017-12-28",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "ＪＡおきなわＡコープ久米島店 （水自販機ＷＣＢＶＤＭＦ３）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "久米島町謝名堂９０５－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900564号",
+      "license_date": "2019-07-17",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "純水企画開発",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "久米島町字謝名堂９３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901552号",
+      "license_date": "2020-02-20",
+      "expire_date": "2026-02-28"
+    }
+  ]
+}

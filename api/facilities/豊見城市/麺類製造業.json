@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "金城製麺所（豊見城そば）",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "豊見城市上田６３３－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600867号",
+      "license_date": "2016-09-14",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "星和製麺",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "豊見城市饒波１０９３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700057号",
+      "license_date": "2017-04-17",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "有限会社ダイユウ産業",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "豊見城市金良３８７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701417号",
+      "license_date": "2018-03-08",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "亀浜製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "豊見城市保栄茂１１６３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701467号",
+      "license_date": "2018-03-27",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "株式会社亀浜製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "豊見城市保栄茂１１６３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900844号",
+      "license_date": "2019-09-20",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "なかだ製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "豊見城市字豊見城７６３－１－１階",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001119号",
+      "license_date": "2020-11-09",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "とよみそば",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "豊見城市字真玉橋５５２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001360号",
+      "license_date": "2020-09-30",
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "沖縄県立南部農林高等学校 食品加工科（第二実習室）",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "豊見城市長堂１８２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100299号",
+      "license_date": "2021-05-24",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

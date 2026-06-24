@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "大和食品",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "南城市大里稲嶺２７５８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600255号",
+      "license_date": "2016-05-24",
+      "expire_date": "2022-05-31"
+    },
+    {
+      "name": "ＴＡＩＲＡ",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "南城市佐敷字佐敷４８８　２Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701030号",
+      "license_date": "2017-11-16",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "株式会社Ｇｒｅｅｎ　Ｅａｒｔｈ",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "南城市大里稲嶺８５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701206号",
+      "license_date": "2018-01-10",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "西銘商事",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "南城市玉城堀川４０３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701264号",
+      "license_date": "2018-01-25",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "ｃｈｏｕｋｒａｎｅ",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "南城市玉城百名１７７１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801222号",
+      "license_date": "2019-01-15",
+      "expire_date": "2025-01-31"
+    }
+  ]
+}

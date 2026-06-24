@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "Ａコープ久米島店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "久米島町字謝名堂９０５－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201401065号",
+      "license_date": "2014-09-26",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "ココストア仲泊店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "久米島町仲泊６１５番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201401678号",
+      "license_date": "2015-01-19",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "ドラッグストアモリ　比嘉店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "久米島町字比嘉９５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500537号",
+      "license_date": "2015-07-27",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "（有）あらかき",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "久米島町字比嘉１８８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500976号",
+      "license_date": "2015-09-24",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "山城商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "島尻郡久米島町仲地１１８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501236号",
+      "license_date": "2015-11-09",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "ファミリーマート久米島仲泊",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "島尻郡久米島町仲泊６１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600975号",
+      "license_date": "2016-10-11",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "ファミリーマート久米島イーフビーチ前",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "島尻郡久米島町謝名堂５８３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601313号",
+      "license_date": "2016-11-25",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "久米島営業所",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "久米島町仲泊１２１２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801115号",
+      "license_date": "2018-11-30",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "公立久米島病院売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "久米島町字嘉手苅５７２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000121号",
+      "license_date": "2020-04-20",
+      "expire_date": "2027-04-30"
+    },
+    {
+      "name": "長井商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "久米島町字兼城１６１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000770号",
+      "license_date": "2020-09-03",
+      "expire_date": "2027-09-30"
+    },
+    {
+      "name": "玉寄スーパー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "久米島町字仲泊１１８６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001639号",
+      "license_date": "2021-01-29",
+      "expire_date": "2028-01-31"
+    },
+    {
+      "name": "まえはら屋",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "久米島町字宇江城８００",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001893号",
+      "license_date": "2021-03-31",
+      "expire_date": "2028-03-31"
+    }
+  ]
+}

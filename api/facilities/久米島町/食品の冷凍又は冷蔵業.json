@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ちむぐくる",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "島尻郡久米島町字大原１２０９番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501299号",
+      "license_date": "2015-11-24",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "（株）與那嶺商会　食品加工所",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "久米島町兼城１１４６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601578号",
+      "license_date": "2017-02-16",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "久米島漁業協同組合",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "久米島町宇根サチ原",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900168号",
+      "license_date": "2019-05-13",
+      "expire_date": "2025-05-31"
+    }
+  ]
+}

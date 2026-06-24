@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "昭和化学工業株式会社",
+      "name_kana": "",
+      "business_type": "添加物製造業",
+      "address": "うるま市字昆布１４５５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501636号",
+      "license_date": "2015-11-04",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "日新製糖株式会社沖縄ラボ",
+      "name_kana": "",
+      "business_type": "添加物製造業",
+      "address": "うるま市州崎５－１ 沖縄バイオ産業振興センター実証棟１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600644号",
+      "license_date": "2016-07-05",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "株式会社ＳＥＮＴＡＮ　Ｐｈａｒｍａ　おきなわ研究所",
+      "name_kana": "",
+      "business_type": "添加物製造業",
+      "address": "うるま市州崎５－８ 沖縄ライフサイエンス研究センター　１１４　１１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201701683号",
+      "license_date": "2017-12-06",
+      "expire_date": "2024-01-31"
+    }
+  ]
+}

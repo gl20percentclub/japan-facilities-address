@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ゆがぷう商店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "多良間村字塩川４３６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201400410号",
+      "license_date": "2015-01-26",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "中央スーパー",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "多良間村字塩川１１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201400458号",
+      "license_date": "2015-02-27",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "川満鮮魚店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "宮古郡多良間村字塩川2100",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600056号",
+      "license_date": "2016-06-01",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "伊良皆鮮魚店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "宮古郡多良間村塩川551",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600057号",
+      "license_date": "2016-06-01",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "あだん",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "宮古郡多良間村字塩川528",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600080号",
+      "license_date": "2016-07-04",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "多良間山羊加工施設",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "宮古郡多良間村字塩川801-1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600081号",
+      "license_date": "2016-07-04",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "野原鮮魚店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "宮古郡多良間村字塩川269",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600087号",
+      "license_date": "2016-07-04",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "寿魚貝販売店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "多良間村塩川４７７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700129号",
+      "license_date": "2017-07-18",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "石嶺商店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "多良間村字塩川２７４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800470号",
+      "license_date": "2019-02-27",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "みんな鮮魚店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "多良間村字塩川２７１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900355号",
+      "license_date": "2020-01-30",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "すまむぬたらま",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "宮古郡多良間村字塩川４４５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000162号",
+      "license_date": "2020-08-21",
+      "expire_date": "2027-08-31"
+    },
+    {
+      "name": "Ａコープたらま店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "宮古郡多良間村字塩川１５８番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000188号",
+      "license_date": "2020-09-11",
+      "expire_date": "2026-09-30"
+    }
+  ]
+}

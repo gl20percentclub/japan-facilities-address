@@ -1,0 +1,14 @@
+{
+  "name": "okinawa-facilities-api",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/crawl.js",
+    "build:dry": "node scripts/crawl.js --dry-run",
+    "test": "node scripts/test.js"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "xlsx": "^0.18.5"
+  },
+  "engines": { "node": ">=18" }
+}

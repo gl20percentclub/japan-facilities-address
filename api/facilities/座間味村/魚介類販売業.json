@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "阿嘉直売所",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "座間味村阿嘉６０－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500185号",
+      "license_date": "2015-05-18",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "座間味売店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "座間味村座間味１６４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600326号",
+      "license_date": "2016-06-08",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "魚屋　いさみ丸",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "座間味村座間味５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600392号",
+      "license_date": "2016-06-22",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "垣花商店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "座間味村阿嘉２５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600395号",
+      "license_date": "2016-06-22",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "１０５ストアー",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "座間味村座間味１１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700221号",
+      "license_date": "2017-05-30",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "中村商店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "座間味村字阿嘉１５９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700692号",
+      "license_date": "2017-08-31",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "ざまみ食品",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "座間味村阿佐１２０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701500号",
+      "license_date": "2018-03-30",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "スーパー辰登城",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "座間味村阿嘉１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800233号",
+      "license_date": "2018-05-31",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "なぎさ",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "座間味村座間味９４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800235号",
+      "license_date": "2018-05-31",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "１０５ストアー",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "座間味村座間味１１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801169号",
+      "license_date": "2018-12-20",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "座間味村漁業協同組合",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "座間味村座間味９４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900263号",
+      "license_date": "2019-05-29",
+      "expire_date": "2025-05-31"
+    }
+  ]
+}

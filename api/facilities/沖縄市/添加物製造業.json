@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄事業所",
+      "name_kana": "",
+      "business_type": "添加物製造業",
+      "address": "沖縄市海邦町３－２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000052号",
+      "license_date": "2020-04-13",
+      "expire_date": "2026-04-30"
+    }
+  ]
+}

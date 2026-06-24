@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "アーミファーム乳製品加工場",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "南城市玉城字前川４４ マンション赤井２－Ｅ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500544号",
+      "license_date": "2015-07-27",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "Ｔｈｅ　Ｃｈｅｅｓｅ　Ｇｕｙ",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "南城市大里稲嶺１２６４ 親泊牧場",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900073号",
+      "license_date": "2019-04-17",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "なんじょう牧場乳製品加工場",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "南城市玉城字前川１３２８－１　２０２号室",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901556号",
+      "license_date": "2020-02-21",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "農業生産法人有限会社ＥＭ玉城牧場牛乳（工場）",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "南城市玉城字富里５５２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100033号",
+      "license_date": "2021-04-07",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

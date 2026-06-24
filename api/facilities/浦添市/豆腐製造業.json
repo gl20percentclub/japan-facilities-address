@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "又吉　豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "浦添市牧港２－２５－１６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900259号",
+      "license_date": "2019-05-29",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "株式会社　武蔵野沖縄",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "浦添市字港川４２７－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900430号",
+      "license_date": "2019-06-21",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "佐久川豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "浦添市大平３－１２－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001586号",
+      "license_date": "2021-02-04",
+      "expire_date": "2027-02-28"
+    }
+  ]
+}

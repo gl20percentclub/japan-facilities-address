@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "南売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "八重山郡竹富町波照間",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201300482号",
+      "license_date": "2014-01-28",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "屋良商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "八重山郡竹富町字西表１４９９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201300506号",
+      "license_date": "2014-02-17",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "スーパー川満",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "竹富町上原５４７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500216号",
+      "license_date": "2015-07-23",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "タマ商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "竹富町黒島1450",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500530号",
+      "license_date": "2015-12-24",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "スーパー川満",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "竹富町上原５４７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500681号",
+      "license_date": "2016-03-16",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "まるま売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "竹富町波照間2827",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700644号",
+      "license_date": "2018-01-23",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "はいむるぶしショップ",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "八重山郡竹富町小浜2930-1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800016号",
+      "license_date": "2018-04-09",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "名石部落共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "竹富町波照間９８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800104号",
+      "license_date": "2018-05-31",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "イルンティ　フタデムラ",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "竹富町字西表９６６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800531号",
+      "license_date": "2018-11-30",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "丸友売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "八重山郡竹富町波照間5242",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900110号",
+      "license_date": "2019-05-28",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "大富共同組合売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "八重山郡竹富町南風見仲29-52",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900138号",
+      "license_date": "2019-06-10",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "前本商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "八重山郡竹富町小浜2558",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900337号",
+      "license_date": "2019-09-26",
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "玉盛スーパー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "竹富町南風見２０１－７３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900464号",
+      "license_date": "2019-11-21",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "冨嘉売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "八重山郡竹富町波照間751-1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000070号",
+      "license_date": "2020-05-28",
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "スーパー八重",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "八重山郡竹富町字上原３３０－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000334号",
+      "license_date": "2020-11-18",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "スーパー星砂",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "八重山郡竹富町字西表６５９　１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000338号",
+      "license_date": "2020-11-19",
+      "expire_date": "2027-11-30"
+    }
+  ]
+}

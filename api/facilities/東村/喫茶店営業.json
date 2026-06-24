@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "東村特産品加工直売所サンライズひがし",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡東村字平良５５０－２３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700600号",
+      "license_date": "2017-12-19",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "太陽ぬ家",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "南大東村在所２００",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900904号",
+      "license_date": "2019-10-03",
+      "expire_date": "2025-10-31"
+    },
+    {
+      "name": "ケンチャンストアー",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "南大東村在所１４２－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901190号",
+      "license_date": "2019-11-21",
+      "expire_date": "2025-11-30"
+    }
+  ]
+}

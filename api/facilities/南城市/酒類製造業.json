@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社多良川　玉城工場",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "南城市玉城垣花６３０－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700769号",
+      "license_date": "2017-09-27",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "南都酒造所",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "南城市玉城字前川１３６７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100082号",
+      "license_date": "2021-04-19",
+      "expire_date": "2027-04-30"
+    },
+    {
+      "name": "株式会社南都　南都酒造所",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "南城市玉城字前川１３６７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100195号",
+      "license_date": "2021-05-07",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社ぐしけん",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "うるま市州崎１２－９０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801147号",
+      "license_date": "2018-09-21",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "うるマルシェ（アイスクリーム製造室）",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "うるま市前原１８３－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801381号",
+      "license_date": "2018-10-24",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "沖縄県立中部農林高等学校",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "うるま市田場１５７０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002338号",
+      "license_date": "2021-02-26",
+      "expire_date": "2027-02-28"
+    }
+  ]
+}

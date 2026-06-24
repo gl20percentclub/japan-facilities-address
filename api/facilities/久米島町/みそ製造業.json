@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "農業生産法人（有）アグリット久米島",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "島尻郡久米島町大田５０５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601701号",
+      "license_date": "2017-03-23",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "ゆき味噌",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "久米島町比嘉９６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900479号",
+      "license_date": "2019-06-28",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "ＪＡ久米島支店　女性部",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "久米島町仲泊８４１－１ ＪＡ久米島支店",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901271号",
+      "license_date": "2019-11-29",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "有限会社たいら",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "久米島町比嘉５５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901335号",
+      "license_date": "2019-12-13",
+      "expire_date": "2025-03-31"
+    }
+  ]
+}

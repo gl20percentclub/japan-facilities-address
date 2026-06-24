@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ＴＥＳＩＯ",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "沖縄市中央１－１０－３ １Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602464号",
+      "license_date": "2017-03-13",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "ＤＥＬＩＣＡＴＥＳＳＥＮ　ＮＵＣＨＩＢＵＴＡ",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "沖縄市久保田３－１－１２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901676号",
+      "license_date": "2019-11-20",
+      "expire_date": "2025-11-30"
+    }
+  ]
+}

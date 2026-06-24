@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社　池間製氷",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "石垣市字登野城５８８－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600026号",
+      "license_date": "2016-04-18",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "南星スーパー",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "石垣市字新川２９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700164号",
+      "license_date": "2017-06-21",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "仲本冷凍所",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "石垣市新栄町２２－１８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700469号",
+      "license_date": "2017-10-26",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "登野城支所（氷製造所）",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "石垣市字登野城地先",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800178号",
+      "license_date": "2018-06-25",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "有限会社下地黒糖加工所",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "石垣市新川２６３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800270号",
+      "license_date": "2018-07-26",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "八重山漁業協同組合",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "石垣市新栄町８３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000139号",
+      "license_date": "2020-07-06",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

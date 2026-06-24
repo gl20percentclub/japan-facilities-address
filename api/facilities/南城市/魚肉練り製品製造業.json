@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ヘルシーかまぼこ　千年寿",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "南城市佐敷兼久１４６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700144号",
+      "license_date": "2017-05-10",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "有限会社　水実",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "南城市佐敷伊原２９８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700526号",
+      "license_date": "2017-07-31",
+      "expire_date": "2023-07-31"
+    }
+  ]
+}

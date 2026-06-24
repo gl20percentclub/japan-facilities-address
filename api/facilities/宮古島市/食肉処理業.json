@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県立宮古総合実業高等学校 (食品製造実習棟　畜産加工室)",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "宮古島市平良字下里２８０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500121号",
+      "license_date": "2015-06-30",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "（株）宮古食肉センター",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "宮古島市上野字野原1190番地187",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600021号",
+      "license_date": "2016-04-21",
+      "expire_date": "2023-04-30"
+    }
+  ]
+}

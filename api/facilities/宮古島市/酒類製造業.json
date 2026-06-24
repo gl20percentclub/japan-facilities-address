@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "宮古島マイクロブルワリー",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "宮古島市平良字久貝７０３番地３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600171号",
+      "license_date": "2016-08-26",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "池間酒造有限会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "宮古島市平良字西原５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600214号",
+      "license_date": "2016-10-21",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "沖之光酒造合資会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "宮古島市平良字下里１１７４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600368号",
+      "license_date": "2017-01-30",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "（株）渡久山酒造",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "宮古島市伊良部字佐和田１５００",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700089号",
+      "license_date": "2017-06-22",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "菊之露酒造株式会社 第二工場　東棟　１階　リキュール製造所",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "宮古島市平良字西仲宗根392-2",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700265号",
+      "license_date": "2017-11-17",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "菊之露酒造株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "宮古島市平良字西里２９０番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800280号",
+      "license_date": "2018-10-11",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "多良川酒造所",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "宮古島市城辺字砂川８５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900121号",
+      "license_date": "2019-06-27",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "株式会社　多良川",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "宮古島市城辺字砂川984",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900388号",
+      "license_date": "2020-02-25",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "菊之露酒造株式会社第二工場",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "宮古島市平良字西仲宗根３９２－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000231号",
+      "license_date": "2020-10-19",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "株式会社　宮の華",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "宮古島市伊良部字仲地１５８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000310号",
+      "license_date": "2020-11-27",
+      "expire_date": "2026-11-30"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "アート玉辻",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "東村字川田６４０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600054号",
+      "license_date": "2016-04-21",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "東村特産品加工直売所",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "東村平良５５０－２３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800313号",
+      "license_date": "2018-07-27",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "Ｓａｎｇｏキッチン",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "国頭郡東村字平良５５０－２３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800604号",
+      "license_date": "2019-01-04",
+      "expire_date": "2025-01-31"
+    }
+  ]
+}

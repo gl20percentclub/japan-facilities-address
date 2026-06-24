@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "まるよし製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "北中城村島袋３３０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000100号",
+      "license_date": "2020-04-16",
+      "expire_date": "2026-04-30"
+    }
+  ]
+}

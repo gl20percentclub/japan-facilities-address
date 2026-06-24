@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "もとぶ糀の里工房　みら",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "国頭郡本部町字谷茶８３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600140号",
+      "license_date": "2016-06-03",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "沖縄県農業協同組合　本部支店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "本部町大浜８７４－８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700429号",
+      "license_date": "2017-10-17",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "もとぶ糀の里工房　みら",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "国頭郡本部町渡久地５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900305号",
+      "license_date": "2019-07-29",
+      "expire_date": "2025-07-31"
+    }
+  ]
+}

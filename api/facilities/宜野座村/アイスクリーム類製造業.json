@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "くりーむ　くりーむ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野座村漢那１６３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700131号",
+      "license_date": "2017-04-25",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "仲間商店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野座村惣慶１１９０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900396号",
+      "license_date": "2019-05-31",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "仲間商店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野座村惣慶５６８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900398号",
+      "license_date": "2019-05-31",
+      "expire_date": "2025-05-31"
+    }
+  ]
+}

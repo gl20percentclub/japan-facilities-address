@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社　イバノ",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "浦添市西洲２－９－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501432号",
+      "license_date": "2016-01-08",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "株式会社イバノ",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "浦添市港川３４３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600762号",
+      "license_date": "2016-09-13",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "デリカテッセンまちなと一丁目",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "浦添市牧港一丁目８－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601513号",
+      "license_date": "2017-01-25",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "ピザハウス　港川本店",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "浦添市港川２丁目２０番５号",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601634号",
+      "license_date": "2017-03-06",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "食品加工店　プカプカプーカ",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "浦添市仲間１－２－２ コーポ西原　１０５号",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701252号",
+      "license_date": "2018-01-24",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "琉球ミート株式会社",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "浦添市西洲２－９－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800536号",
+      "license_date": "2018-08-06",
+      "expire_date": "2024-08-31"
+    }
+  ]
+}

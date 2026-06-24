@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "星のたね",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "北中城村島袋１３３５ カーサデルソル",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700350号",
+      "license_date": "2017-06-01",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "Ｚ農園",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "北中城村屋宜原６２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201701987号",
+      "license_date": "2018-02-02",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "ＪＡおきなわ北中城支店女性部",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "北中城村安谷屋１３５３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800357号",
+      "license_date": "2018-05-24",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "ＹＭ　ｎｅｘｕｓ",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "北中城村和仁屋３９７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000840号",
+      "license_date": "2020-07-16",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "きたなか荘弁当　島袋店",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "北中城村島袋５３４－１７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001745号",
+      "license_date": "2020-04-30",
+      "expire_date": "2026-04-30"
+    }
+  ]
+}

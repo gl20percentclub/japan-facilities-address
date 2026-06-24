@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "冷凍、冷蔵食品製造工場",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "国頭郡本部町字大浜８７４－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600951号",
+      "license_date": "2017-03-30",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "本部町物流センター",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "本部町字崎本部５２０４、５２０７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900025号",
+      "license_date": "2019-04-15",
+      "expire_date": "2026-04-30"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "エマサ菓子店",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "多良間村字塩川262",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500390号",
+      "license_date": "2016-02-09",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "多良間村特産品開発センター",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "宮古郡多良間村字仲筋164",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600042号",
+      "license_date": "2016-05-20",
+      "expire_date": "2022-05-31"
+    },
+    {
+      "name": "特産品加工所　たらま花",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "多良間村字塩川１１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700180号",
+      "license_date": "2017-08-28",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "ふくちゃん菓子工房",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "多良間村字仲筋４２１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700324号",
+      "license_date": "2018-01-09",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "宮古製糖（株）多良間工場",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "多良間村字塩川２７９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700402号",
+      "license_date": "2018-03-26",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "宮古製糖（株）多良間工場",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "宮古郡多良間村字塩川2823-3",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800288号",
+      "license_date": "2018-10-22",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "合同会社　ツーリズムたらま",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "宮古郡多良間村字仲筋2506番地1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900165号",
+      "license_date": "2019-07-26",
+      "expire_date": "2025-07-31"
+    }
+  ]
+}

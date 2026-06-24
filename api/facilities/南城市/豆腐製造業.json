@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "玉城豆腐屋",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "南城市大里字仲間１２６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601064号",
+      "license_date": "2016-10-24",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "上原豆腐屋",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "南城市佐敷津波古４１９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700840号",
+      "license_date": "2017-10-16",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "（株）なかむら食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "南城市知念山里９２６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001478号",
+      "license_date": "2021-01-22",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

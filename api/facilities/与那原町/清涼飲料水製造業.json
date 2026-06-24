@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "琉水",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "与那原町東浜９５－２ リヴェール東浜１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900111号",
+      "license_date": "2019-04-25",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "有限会社サン興産業大武工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "与那原町字与那原２０７８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000087号",
+      "license_date": "2020-04-14",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "ＮＳスーパーウォーター",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "与那原町字与那原４２０ 与那原店舗１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100015号",
+      "license_date": "2021-04-05",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

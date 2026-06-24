@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "波照間石油販売所",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "竹富町字波照間２７８０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800096号",
+      "license_date": "2018-05-31",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "名石部落共同売店",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "八重山郡竹富町波照間９８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900122号",
+      "license_date": "2019-05-31",
+      "expire_date": "2025-05-31"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県立　北部農林高等学校",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "名護市字宇茂佐１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600196号",
+      "license_date": "2016-06-22",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "又吉観光農園",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "名護市大北１－２３ー１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600598号",
+      "license_date": "2016-11-02",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "有限会社中央食品加工",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "名護市字許田２７８番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800088号",
+      "license_date": "2018-04-27",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "沖縄県立北部農林高等学校",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "名護市名護４６０７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000532号",
+      "license_date": "2020-10-30",
+      "expire_date": "2026-10-31"
+    }
+  ]
+}

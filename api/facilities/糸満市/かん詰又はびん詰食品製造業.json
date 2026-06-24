@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄製粉株式会社 特産流通事業部",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "糸満市西崎町４－１０－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700641号",
+      "license_date": "2017-08-30",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "沖縄県立沖縄水産高等学校",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "糸満市西崎１－１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700981号",
+      "license_date": "2017-11-08",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "株式会社ジェイシーシーわだや食品",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "糸満市西崎町４－１６－１６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801279号",
+      "license_date": "2019-01-24",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "障害者就労支援施設Ａｉｌｅ（エール） 「焼き立てパンの店つばさ」",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "糸満市大里１４４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000850号",
+      "license_date": "2020-09-23",
+      "expire_date": "2026-09-30"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "石垣島ミルククラウン",
+      "name_kana": "",
+      "business_type": "乳酸菌飲料製造業",
+      "address": "石垣市伊原間１９８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201400184号",
+      "license_date": "2014-07-11",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "八重山農林高等学校 フードプロデュース科1階",
+      "name_kana": "",
+      "business_type": "乳酸菌飲料製造業",
+      "address": "石垣市大川477-1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600021号",
+      "license_date": "2016-04-01",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "八重山ゲンキ乳業",
+      "name_kana": "",
+      "business_type": "乳酸菌飲料製造業",
+      "address": "石垣市字登野城９０９番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700368号",
+      "license_date": "2017-09-21",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "株式会社　マリヤ乳業",
+      "name_kana": "",
+      "business_type": "乳酸菌飲料製造業",
+      "address": "石垣市字石垣１９２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800478号",
+      "license_date": "2018-11-20",
+      "expire_date": "2024-11-30"
+    }
+  ]
+}

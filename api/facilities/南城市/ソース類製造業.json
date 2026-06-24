@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "大和食品",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "南城市大里稲嶺２７５８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600245号",
+      "license_date": "2016-05-24",
+      "expire_date": "2022-05-31"
+    },
+    {
+      "name": "沖縄県農業協同組合　玉城支店 女性部　みそ仕込所",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "南城市玉城富里５５２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601087号",
+      "license_date": "2016-10-26",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "アニモ沖縄",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "南城市佐敷佐敷４８８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700149号",
+      "license_date": "2017-05-12",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "シードウィン",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "南城市大里仲間１１４８－１ ２Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700543号",
+      "license_date": "2017-08-04",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "美らイチゴ加工所",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "南城市玉城垣花５５５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000191号",
+      "license_date": "2020-05-01",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "野菜出荷・加工場",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "南城市大里字大城２１９３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100140号",
+      "license_date": "2021-04-26",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

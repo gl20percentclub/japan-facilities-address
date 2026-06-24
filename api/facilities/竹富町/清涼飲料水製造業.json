@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "西表島フルーツ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "八重山郡竹富町上原870-223",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600597号",
+      "license_date": "2017-02-03",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "西表島パイランドファーム",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "竹富町字古見ウフマタ５３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800495号",
+      "license_date": "2018-11-21",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "西表島グリーンファーム 猪狩家",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "竹富町古見与那良原７８４－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900481号",
+      "license_date": "2019-11-29",
+      "expire_date": "2025-11-30"
+    }
+  ]
+}

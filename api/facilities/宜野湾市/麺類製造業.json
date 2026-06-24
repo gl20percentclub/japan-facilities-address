@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "麺屋弥助大謝名店本店",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宜野湾市大謝名５－１－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201401268号",
+      "license_date": "2014-09-22",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "株式会社ふてんま製麺",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宜野湾市野嵩４－１－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501397号",
+      "license_date": "2015-10-05",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "家カフェ・花里",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宜野湾市志真志３－４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502359号",
+      "license_date": "2016-03-07",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "沖縄とんこつ　ばり　宜野湾伊佐浜店",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宜野湾市伊佐２－１７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800346号",
+      "license_date": "2018-05-23",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "株式会社はなまる　沖縄工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宜野湾市宇地泊５４９　１階",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900400号",
+      "license_date": "2019-05-31",
+      "expire_date": "2025-05-31"
+    }
+  ]
+}

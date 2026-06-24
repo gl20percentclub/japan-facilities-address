@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "有限会社　海昇食品",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "宜野湾市嘉数３－３０－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500745号",
+      "license_date": "2015-07-06",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "（有）琉匠",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "宜野湾市赤道１－９－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501330号",
+      "license_date": "2015-09-25",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "πウォーターの店　水屋",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "宜野湾市我如古２－３－７ 102",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601899号",
+      "license_date": "2016-11-30",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "ＣＯＣＯ水夢",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "宜野湾市我如古２－３－７ 102",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700639号",
+      "license_date": "2017-07-18",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "共栄ビル整備（株）飲料水事業部",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "宜野湾市伊佐３－１３－１２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700757号",
+      "license_date": "2017-07-31",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "アーパスウォーターショップ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "宜野湾市志真志１－５－１ トミハマＡＰ１０１号",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201701213号",
+      "license_date": "2017-10-02",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "きらら",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "宜野湾市真栄原３－１０－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702210号",
+      "license_date": "2018-03-09",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "有限会社　マキ産業",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "宜野湾市我如古１－２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801017号",
+      "license_date": "2018-08-31",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "お水やさん　大山工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "宜野湾市大山４－５－１１　１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900296号",
+      "license_date": "2019-05-22",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "ＳｉＲ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "宜野湾市大謝名５－３－２４ 崎門アパート１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000312号",
+      "license_date": "2020-05-13",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "パール発酵株式会社　大山工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "宜野湾市大山３－３－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001971号",
+      "license_date": "2021-01-13",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社丸海きあら",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡大宜味村押川６４０－１２６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500596号",
+      "license_date": "2015-12-09",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "株式会社　夢感動ファーム",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡大宜味村字津波１４２４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600424号",
+      "license_date": "2016-09-13",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "株式会社ケレス沖縄　大宜味工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "大宜味村字田港１０４３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600742号",
+      "license_date": "2017-01-13",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "照屋農産　大宜味工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "大宜味村字押川７０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700311号",
+      "license_date": "2017-08-14",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "沖縄特産加工販売",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "大宜味村字塩屋６９２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700684号",
+      "license_date": "2018-01-31",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "沖縄健康社有限会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡大宜味村喜如嘉２３６３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000735号",
+      "license_date": "2021-02-17",
+      "expire_date": "2027-02-28"
+    }
+  ]
+}

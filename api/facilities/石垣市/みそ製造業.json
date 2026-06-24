@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "有限会社　漢那商店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市新川１４８－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500388号",
+      "license_date": "2015-10-22",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "ケレス沖縄　石垣島工場",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市平得５５４番地１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600007号",
+      "license_date": "2016-04-07",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "みそ工房　みそっこ",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市字新川１８２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600103号",
+      "license_date": "2016-05-30",
+      "expire_date": "2022-05-31"
+    },
+    {
+      "name": "石垣市健康福祉まつり",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市登野城1357-1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600529号",
+      "license_date": "2016-12-02",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "大泊食品",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市字白保２６８－２１７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600550号",
+      "license_date": "2016-12-20",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "まるは食品",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市大川48-2",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700039号",
+      "license_date": "2017-04-24",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "まちこの味噌",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市字石垣３２０－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700363号",
+      "license_date": "2017-09-20",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "三和ヘルシー加工所",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市大浜２０６４－１０２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700406号",
+      "license_date": "2017-10-16",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "春娘食品",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市大浜1349",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700667号",
+      "license_date": "2018-02-05",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "沖縄県農業協同組合 八重山支店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市新栄町１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900074号",
+      "license_date": "2019-05-08",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "石垣島手造り食品　さと家",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市字平久保４００",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000594号",
+      "license_date": "2021-02-26",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "八重山農林高等学校アグリフード科 １階（農産加工室）",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "石垣市大川４７７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202100069号",
+      "license_date": "2021-04-30",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}
