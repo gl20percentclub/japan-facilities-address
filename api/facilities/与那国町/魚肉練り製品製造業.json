@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "徳食品",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "与那国町与那国４０２２－２９０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500465号",
+      "license_date": "2015-11-25",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "上原かまぼこ店",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "与那国町字与那国４０２２－１１２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700544号",
+      "license_date": "2017-11-28",
+      "expire_date": "2023-11-30"
+    }
+  ]
+}

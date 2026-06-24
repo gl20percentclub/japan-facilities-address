@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "医療法人　海秀会　うえむら病院",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村南上原８０３－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201402265号",
+      "license_date": "2015-02-13",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "沖縄県メモリアル整備協会",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村当間３４０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201402468号",
+      "license_date": "2015-03-06",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "モーレくばＳＳ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村久場１９８４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500355号",
+      "license_date": "2015-04-30",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "中城モール",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村久場１９６３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500537号",
+      "license_date": "2015-06-08",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "ミルクハウス",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村久場１９７６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500548号",
+      "license_date": "2015-06-11",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "コインランドリーてぃだぬ・めー",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村当間５４８－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600290号",
+      "license_date": "2016-05-20",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "ＪＡ中城ＳＳ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村当間５５９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601462号",
+      "license_date": "2016-10-14",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "（株）サンエー　なかぐすく店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村南上原７９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201701194号",
+      "license_date": "2017-09-28",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "ｃｉｔｔａ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村南上原９４６－３ プラザ２１　１０２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201701864号",
+      "license_date": "2018-01-22",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "（株）ＪＡおきなわ　Ａコープ　中城店 (WCBVDMF3)",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村当間９６４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801596号",
+      "license_date": "2018-11-15",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "ＦＩＴｒａｉｎ２４ （Ｈ２ＪＶ２）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村南上原１００７ ＪＩＲＡ　ＣＨＩＮＡ　ＳＱＵＡＲＥ１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802061号",
+      "license_date": "2019-01-31",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "洋菓子の店　キング",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村南上原７５２－２ （グリーンヒル南上１０３）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802295号",
+      "license_date": "2019-02-28",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "ドラッグストア　モリ　中城店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村南上原８１１－５６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900217号",
+      "license_date": "2019-05-13",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "沖縄コカ・コーラボトリング株式会社 （Ｔ８ＫＧＢＸ６２ＭＸＢＳＡ９）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村屋宜２８６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000547号",
+      "license_date": "2020-06-04",
+      "expire_date": "2027-06-30"
+    },
+    {
+      "name": "πウオーター　Ｍ＇Ｓ（エムズ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村南上原７６５－２ ＨＱＤＭ星光１０２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000963号",
+      "license_date": "2020-08-05",
+      "expire_date": "2026-08-31"
+    },
+    {
+      "name": "プチスウィート",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "中城村北上原５８１－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001659号",
+      "license_date": "2020-11-27",
+      "expire_date": "2026-11-30"
+    }
+  ]
+}

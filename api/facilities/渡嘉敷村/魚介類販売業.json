@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県農業協同組合　渡嘉敷支店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "渡嘉敷村字渡嘉敷２２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201400487号",
+      "license_date": "2014-07-09",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "漁師食堂かなろあ",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "島尻郡渡嘉敷村字渡嘉敷１９６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501204号",
+      "license_date": "2015-11-05",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "新垣商店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "渡嘉敷村字阿波連９７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600439号",
+      "license_date": "2016-06-30",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "生活コンビニ新浜屋",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "渡嘉敷村渡嘉敷３３１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700277号",
+      "license_date": "2017-06-12",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "渡嘉敷漁業協同組合直売店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "渡嘉敷村字渡嘉敷３５２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001890号",
+      "license_date": "2021-03-31",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

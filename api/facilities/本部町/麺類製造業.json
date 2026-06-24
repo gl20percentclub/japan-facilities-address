@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "夢の舎",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "本部町古島兼増原７９６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500516号",
+      "license_date": "2015-10-27",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "もとぶ熟成麺工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "国頭郡本部町字伊野波７２９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500649号",
+      "license_date": "2016-01-12",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "崎原製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "国頭郡本部町字渡久地１１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500834号",
+      "license_date": "2016-03-30",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "株式会社　イ・モト",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "国頭郡本部町崎本部５２０９－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800408号",
+      "license_date": "2018-09-28",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "瀬底商店",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "国頭郡本部町字瀬底５９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800575号",
+      "license_date": "2018-12-05",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "伊豆味そば",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "国頭郡本部町伊豆味１４４２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000066号",
+      "license_date": "2020-04-22",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "農業生産法人株式会社いえじま家族　食品加工工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "国頭郡本部町伊豆味２６８７－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000288号",
+      "license_date": "2020-07-27",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ＯＫＩＮＡＷＡ　ＣＡＣＡＯ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡国頭村浜５２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900325号",
+      "license_date": "2019-08-06",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "株式会社アクアサイエンス研究所",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "国頭郡国頭村奥間１９４８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000850号",
+      "license_date": "2021-03-31",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

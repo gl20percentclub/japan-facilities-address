@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "南風原そば屋",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "与那国町字与那国１－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600516号",
+      "license_date": "2016-11-30",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "前盛そば屋",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "与那国町字与那国４０２２－３２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800507号",
+      "license_date": "2018-11-30",
+      "expire_date": "2024-11-30"
+    }
+  ]
+}

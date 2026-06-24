@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "８８ぬみそ",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "島尻郡伊是名村字諸見３３７２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500446号",
+      "license_date": "2015-10-20",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "沖縄県農業協同組合　伊是名支店 農産物処理加工施設",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "島尻郡伊是名村諸見３８７２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202100158号",
+      "license_date": "2021-05-27",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

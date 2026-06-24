@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "津田食品株式会社",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "うるま市州崎８－２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502211号",
+      "license_date": "2016-02-09",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "アンリッシュ食品工業株式会社",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "うるま市勝連南風原５１９２－３９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600941号",
+      "license_date": "2016-08-05",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "（株）オキコストア　トレビアン サンエー具志川メインシティ店",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "うるま市江洲４５０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601155号",
+      "license_date": "2016-09-07",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "食のかけはしカンパニー本社工場",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "うるま市勝連南風原５１９２－２７ １Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702187号",
+      "license_date": "2018-03-06",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "薬膳琉花",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "うるま市宮里２５１－１ （２Ｆ）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801694号",
+      "license_date": "2018-12-03",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "（株）海老の宮川　沖縄養殖場",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "うるま市与那城屋平３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802450号",
+      "license_date": "2019-03-27",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "ＲＫＫ中城総合物流センター",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "うるま市勝連南風原５１９４－３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901107号",
+      "license_date": "2019-09-12",
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "石川ししやー",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "うるま市石川２－７－２ （１－Ａ）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901150号",
+      "license_date": "2019-09-18",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "合同会社海市水産",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "うるま市与那城池味１１７６－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902130号",
+      "license_date": "2020-01-28",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "うるま工場本社",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "うるま市州崎１３－４３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000118号",
+      "license_date": "2020-04-21",
+      "expire_date": "2026-04-30"
+    }
+  ]
+}

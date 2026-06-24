@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "こみね商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "座間味村字座間味１６４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500192号",
+      "license_date": "2015-05-19",
+      "expire_date": "2022-05-31"
+    },
+    {
+      "name": "垣花商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "座間味村字阿嘉２５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600393号",
+      "license_date": "2016-06-22",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "１０５ストアー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "座間味村座間味１１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700220号",
+      "license_date": "2017-05-30",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "中村商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "座間味村字阿嘉１５９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700691号",
+      "license_date": "2017-08-31",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "スーパー辰登城",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "座間味村阿嘉１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800234号",
+      "license_date": "2018-05-31",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "１０５ストアー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "座間味村座間味１１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801170号",
+      "license_date": "2018-12-20",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

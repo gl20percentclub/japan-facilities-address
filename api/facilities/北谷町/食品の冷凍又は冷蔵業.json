@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ユイマールハウス株式会社",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "北谷町字宮城１－６５１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500661号",
+      "license_date": "2015-06-25",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "（株）オキコストア　トレビアン サンエーハンビータウン店",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "北谷町北前１－２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601174号",
+      "license_date": "2016-09-12",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "ピザハウス・セントラルキッチン",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "北谷町美浜３－５－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000111号",
+      "license_date": "2020-04-20",
+      "expire_date": "2026-04-30"
+    }
+  ]
+}

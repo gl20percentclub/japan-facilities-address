@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "かつじ食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "豊見城市平良１３１－１ 赤嶺マンション１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601738号",
+      "license_date": "2017-03-31",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "當銘豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "豊見城市保栄茂４８－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701299号",
+      "license_date": "2018-01-31",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "大城豆腐",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "豊見城市座安２８９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900439号",
+      "license_date": "2019-06-24",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "大田豆腐",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "豊見城市豊見城６３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900928号",
+      "license_date": "2019-10-09",
+      "expire_date": "2025-10-31"
+    },
+    {
+      "name": "比嘉豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "豊見城市豊見城１５９－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900976号",
+      "license_date": "2019-10-18",
+      "expire_date": "2025-10-31"
+    },
+    {
+      "name": "仲宗根油あげ店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "豊見城市字長堂１２３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901600号",
+      "license_date": "2020-02-28",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "与那城食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "豊見城市字保栄茂８２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901635号",
+      "license_date": "2020-02-28",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "高安食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "豊見城市字金良９９－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000424号",
+      "license_date": "2020-06-09",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

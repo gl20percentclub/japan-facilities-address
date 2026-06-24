@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社ドリーム・ラボ セントラルキッチン",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "中城村南上原１０２１ プリモタウン２－Ｂ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500505号",
+      "license_date": "2015-05-29",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "株式会社ＬａＬａ　Ｐｒｉｍｏ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "中城村南上原１０２１ プリモタウン１－Ｂ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501663号",
+      "license_date": "2015-11-09",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "ファミリーマート　中城吉の浦店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "中城村当間５６２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600612号",
+      "license_date": "2016-07-01",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "中城パーキングエリア　下り線　第２スナック",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "中城村新垣１８５８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702040号",
+      "license_date": "2018-02-15",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "中城パーキングエリア店 上り線　第２スナック",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "中城村新垣１８２５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702044号",
+      "license_date": "2018-02-15",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "ファミリーマート中城南上原店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "中城村南上原７５６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801929号",
+      "license_date": "2019-01-21",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "ファミリーマート琉大附属中学校前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "中城村南上原１０１８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801930号",
+      "license_date": "2019-01-21",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "ファミリーマート中城登又店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "中城村新垣１６３７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000058号",
+      "license_date": "2020-04-13",
+      "expire_date": "2026-04-30"
+    }
+  ]
+}

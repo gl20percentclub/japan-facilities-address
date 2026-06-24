@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社ＬａＬａ　Ｐｒｉｍｏ",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "中城村南上原１０２１ プリモタウン１－Ｂ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501659号",
+      "license_date": "2015-11-09",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "中城農産加工所",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "中城村和宇慶１５０－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702164号",
+      "license_date": "2018-02-28",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "ＪＡおきなわ　中城支店　加工施設",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "中城村当間９６４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802292号",
+      "license_date": "2019-02-28",
+      "expire_date": "2025-02-28"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "食のかけはしカンパニー本社工場",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "うるま市勝連南風原５１９２－２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500834号",
+      "license_date": "2015-07-16",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "津田食品株式会社",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "うるま市州崎８－２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502209号",
+      "license_date": "2016-02-09",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "アンリッシュ食品工業株式会社",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "うるま市勝連南風原５１９２－３９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600938号",
+      "license_date": "2016-08-05",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "沖縄県立中部農林高等学校",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "うるま市田場１５７０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800679号",
+      "license_date": "2018-07-12",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "株式会社江戸屋かまどおばぁの店。",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "うるま市田場１９２３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900746号",
+      "license_date": "2019-07-12",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "うるま工場本社",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "うるま市州崎１３－４３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000838号",
+      "license_date": "2020-07-16",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

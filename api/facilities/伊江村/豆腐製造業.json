@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "内田とうふ店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "伊江村東江前２２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600796号",
+      "license_date": "2017-01-24",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "山城豆腐",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "国頭郡伊江村西江前１７４－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000517号",
+      "license_date": "2020-10-30",
+      "expire_date": "2026-10-31"
+    }
+  ]
+}

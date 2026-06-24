@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "パーラー憩",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "島尻郡座間味村字座間味1743",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600258号",
+      "license_date": "2016-05-26",
+      "expire_date": "2022-05-31"
+    },
+    {
+      "name": "寅次郎",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "座間味村座間味３８２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600298号",
+      "license_date": "2016-06-01",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "座間味村漁業協同組合",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "島尻郡座間味村座間味９４番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600613号",
+      "license_date": "2016-07-29",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "レストラン＆バー　ラ・トゥーク",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "島尻郡座間味村座間味１０５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601380号",
+      "license_date": "2016-12-16",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "ざまみ食品",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "座間味村阿佐１２０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701499号",
+      "license_date": "2018-03-30",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "呑処　Ｋｅｉｋｏ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "座間味村字座間味７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000294号",
+      "license_date": "2020-05-15",
+      "expire_date": "2026-05-31"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "わくわくＳＨＯＰ　いえしま",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡伊江村字川平５１９－１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700307号",
+      "license_date": "2017-08-09",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "わくわくＳＨＯＰ　ぐすく",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡伊江村字川平５１９－１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700308号",
+      "license_date": "2017-08-09",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "わくわくＳＨＯＰ　ぐすく",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡伊江村字川平５１９－１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800275号",
+      "license_date": "2018-07-18",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "ＪＡおきなわ　Ａコープ　ゆいランド店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "伊江村川平１５０－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900400号",
+      "license_date": "2019-09-12",
+      "expire_date": "2026-09-30"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "渡名喜村ターミナル食堂",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "渡名喜村１９１７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500237号",
+      "license_date": "2015-05-22",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "民宿　ムラナカ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "渡名喜村１８６６番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601253号",
+      "license_date": "2016-11-16",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "社会福祉法人　渡名喜村社会福祉協議会",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "渡名喜村１９３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900420号",
+      "license_date": "2019-06-20",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "憩い処　西門",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "渡名喜村１８４３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900703号",
+      "license_date": "2019-08-21",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "ふくぎ食堂",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "渡名喜村１８７６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900925号",
+      "license_date": "2019-10-09",
+      "expire_date": "2025-10-31"
+    },
+    {
+      "name": "民宿　あがり浜",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "渡名喜村１８２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000925号",
+      "license_date": "2020-10-05",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "あとあ食堂",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "渡名喜村１８４６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100103号",
+      "license_date": "2021-04-20",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

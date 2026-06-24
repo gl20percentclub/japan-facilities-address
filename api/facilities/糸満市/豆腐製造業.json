@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "大竹豆腐加工所",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "糸満市字束里９４０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500991号",
+      "license_date": "2015-09-28",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "ミナミ株式会社",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "糸満市大里１７１６－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600463号",
+      "license_date": "2016-07-05",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "アマン食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "糸満市糸満１０５５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601072号",
+      "license_date": "2016-10-26",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "夕方豆腐の糸満商店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "糸満市西崎町３－７６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800897号",
+      "license_date": "2018-10-26",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "喜屋武のとうふ家～徳門",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "糸満市喜屋武１４０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801040号",
+      "license_date": "2018-11-20",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "玉城豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "糸満市真栄平２３６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801080号",
+      "license_date": "2018-11-27",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "當間とうふ店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "糸満市字潮平５９５－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000724号",
+      "license_date": "2020-08-19",
+      "expire_date": "2026-08-31"
+    },
+    {
+      "name": "株式会社　宇那志豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "糸満市字糸満１５２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000978号",
+      "license_date": "2020-10-14",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "ざはとーふ",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "糸満市字座波９８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100007号",
+      "license_date": "2021-04-01",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

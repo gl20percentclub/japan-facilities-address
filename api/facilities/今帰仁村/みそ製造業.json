@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "わるみ食品加工所",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "今帰仁村字上運天８４３－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600066号",
+      "license_date": "2016-04-25",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "あいあい手づくりファーム（工房）",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "今帰仁村字湧川３６９番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700651号",
+      "license_date": "2018-01-19",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "沖縄県農業協同組合　今帰仁支店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "今帰仁村字謝名３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000643号",
+      "license_date": "2021-01-18",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

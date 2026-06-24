@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ウォーターステーション仲西",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "浦添市仲西３－７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900819号",
+      "license_date": "2019-09-13",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "ウォーターステーション浦添店",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "浦添市城間３－２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901460号",
+      "license_date": "2020-01-23",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

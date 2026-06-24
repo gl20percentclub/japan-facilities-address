@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "さんぼそば製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "島尻郡久米島町字真我里５６番地 コーポ佐久本１０５号",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601379号",
+      "license_date": "2016-12-15",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "久米島そば加工所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "久米島町字仲泊１０８６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001638号",
+      "license_date": "2020-10-30",
+      "expire_date": "2026-10-31"
+    }
+  ]
+}

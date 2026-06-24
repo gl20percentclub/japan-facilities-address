@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "あいあいケータリング沖縄",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市大謝名５－２４－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500627号",
+      "license_date": "2015-06-18",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "ファミリーマート　大山店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市大山２－２１－２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500780号",
+      "license_date": "2015-07-07",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "やんばるジェラート　本店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市嘉数３－１９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501720号",
+      "license_date": "2015-11-16",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "ファミリーマート大山店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市大山２－２１－２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600517号",
+      "license_date": "2016-06-21",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "ファミリーマート愛知高層団地前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市愛知２－１－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600574号",
+      "license_date": "2016-06-27",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "マクドナルド宜野湾バイパス店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市大山７－５－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601471号",
+      "license_date": "2016-10-14",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "ファミリーマートバイパス嘉数二丁目店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市嘉数２－９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601849号",
+      "license_date": "2016-11-25",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "ファミリーマート　パイプライン嘉数店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市嘉数４－２６－１２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201701029号",
+      "license_date": "2017-09-15",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "ファミリーマート大謝名５丁目",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市大謝名５－２１－２３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800616号",
+      "license_date": "2018-07-03",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "ファミリーマート中部商業高校前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市志真志４－３６－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800689号",
+      "license_date": "2018-07-13",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "ｈｏｐｐｅｐａｎ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市伊佐３－８－２５ シーサイドＩＳＡ１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801137号",
+      "license_date": "2018-09-20",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "ファミリーマート宜野湾野嵩店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市野嵩１－２９－１７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801232号",
+      "license_date": "2018-10-01",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "日本マクドナルド宜野湾店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市宜野湾３－２－２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801333号",
+      "license_date": "2018-10-22",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "ファミリーマート　ベイサイド宇地泊店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市宇地泊７５１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801518号",
+      "license_date": "2018-11-08",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "パール発酵（株） 大山工場",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市大山３－３－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802432号",
+      "license_date": "2019-03-26",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "ファミリーマートいすのき通り店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "宜野湾市新城１－７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000912号",
+      "license_date": "2020-06-30",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

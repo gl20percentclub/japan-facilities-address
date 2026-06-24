@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "丸富冷菓",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "宮古島市上野字野原７２３－８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500108号",
+      "license_date": "2015-07-01",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "宮古島漁業協同組合",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "宮古島市平良字荷川取５９３－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500272号",
+      "license_date": "2015-10-26",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "株式会社　なかそね",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "宮古島市平良字東仲宗根270番地4",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600136号",
+      "license_date": "2016-08-01",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "オンタリオπウォーター",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "宮古島市平良字西里５７０－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600247号",
+      "license_date": "2016-10-28",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "ストアーかつ",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "宮古島市下地字上地３７１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800267号",
+      "license_date": "2018-09-27",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "渡久山商店",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "宮古島市伊良部字仲地１７９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800418号",
+      "license_date": "2019-01-23",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "げんか商店",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "宮古島市平良字下里1047",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800420号",
+      "license_date": "2019-01-23",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "仲間商店",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "宮古島市平良字下里96",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900105号",
+      "license_date": "2019-06-25",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "丸盛　下地商事",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "宮古島市平良字東仲宗根添１１６６－５９７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900110号",
+      "license_date": "2019-06-26",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "アイランドアイス",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "宮古島市平良字西仲宗根６０３－１８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000334号",
+      "license_date": "2020-06-30",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

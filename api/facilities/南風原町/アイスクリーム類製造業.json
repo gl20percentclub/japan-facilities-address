@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "イオン南風原店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南風原町宮平２６４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600175号",
+      "license_date": "2016-05-10",
+      "expire_date": "2022-05-31"
+    },
+    {
+      "name": "ファミリーマート　南風原喜屋武",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "島尻郡南風原町喜屋武184－2",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600409号",
+      "license_date": "2016-06-27",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "ファミリーマート南風原山川店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "島尻郡南風原町山川４３０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601546号",
+      "license_date": "2017-02-01",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "日本マクドナルド５０７津嘉山店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南風原町津嘉山１３６８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800050号",
+      "license_date": "2018-04-17",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "ファミリーマート一日橋店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南風原町兼城５１１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801409号",
+      "license_date": "2019-02-20",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "ファミリーマート津嘉山みなみ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南風原町津嘉山１５９６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801539号",
+      "license_date": "2019-03-20",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "ファミリーマート南風原翔南店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南風原町喜屋武６０６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900654号",
+      "license_date": "2019-08-02",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "ファミリーマート南風原照屋店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南風原町照屋３６１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901282号",
+      "license_date": "2019-12-02",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

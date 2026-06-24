@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ケレス沖縄　石垣島工場",
+      "name_kana": "",
+      "business_type": "乳処理業",
+      "address": "石垣市平得５５４番地１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500435号",
+      "license_date": "2015-11-11",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "石垣島ミルククラウン",
+      "name_kana": "",
+      "business_type": "乳処理業",
+      "address": "石垣市伊原間１９８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600389号",
+      "license_date": "2016-10-14",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "八重山ゲンキ乳業",
+      "name_kana": "",
+      "business_type": "乳処理業",
+      "address": "石垣市字登野城９０９番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700367号",
+      "license_date": "2017-09-21",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "株式会社　マリヤ乳業",
+      "name_kana": "",
+      "business_type": "乳処理業",
+      "address": "石垣市字石垣１９２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800480号",
+      "license_date": "2018-11-20",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "まぁじゅん牧場　ミルク工房",
+      "name_kana": "",
+      "business_type": "乳処理業",
+      "address": "石垣市崎枝556-201",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000143号",
+      "license_date": "2020-07-08",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

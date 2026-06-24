@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "赤山荘（赤山家）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "竹富町字竹富３７９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201300437号",
+      "license_date": "2013-12-18",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "かふぇ　もだま",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "八重山郡竹富町字高那２４３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600655号",
+      "license_date": "2017-02-20",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "たくみ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "竹富町上原１０－１２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800321号",
+      "license_date": "2018-08-30",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "由布島パーラー",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "竹富町古見６８９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800498号",
+      "license_date": "2018-11-21",
+      "expire_date": "2024-11-30"
+    }
+  ]
+}

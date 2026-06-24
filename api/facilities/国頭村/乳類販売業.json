@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "久元屋",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭村字辺土名２１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400269号",
+      "license_date": "2014-07-14",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "（名）国頭スーパー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭村辺土名１５６６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400754号",
+      "license_date": "2015-01-27",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "ファミリーマート　奥間ビーチ前店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭村字奥間１３７４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400824号",
+      "license_date": "2015-02-25",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "桃原共同店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭村字桃原３９１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400841号",
+      "license_date": "2015-03-11",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "伊地共同店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村字伊地１１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600206号",
+      "license_date": "2016-06-28",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "奥共同店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村字奥１１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600251号",
+      "license_date": "2016-07-12",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "辺野喜共同店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村字辺野喜５４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600477号",
+      "license_date": "2016-09-29",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "サンストアー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村辺土名１６９８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700444号",
+      "license_date": "2017-10-24",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "ファミリーマート　奥間ビーチ前店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村奥間１３７４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700512号",
+      "license_date": "2017-11-06",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "ローソン国頭浜店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村浜５２１－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800731号",
+      "license_date": "2019-02-27",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "桃原共同店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村字桃原３９１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800806号",
+      "license_date": "2019-03-26",
+      "expire_date": "2026-03-31"
+    },
+    {
+      "name": "浜共同店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村字浜１１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900049号",
+      "license_date": "2019-04-19",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "ファミリーマート奥間ビーチ前店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村奥間１３７４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900165号",
+      "license_date": "2019-06-03",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "安波共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村安波２７３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000275号",
+      "license_date": "2020-07-17",
+      "expire_date": "2027-07-31"
+    },
+    {
+      "name": "宜名真共同店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村宜名真２１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000564号",
+      "license_date": "2020-05-29",
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "楚洲共同店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡国頭村楚洲２６７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202100049号",
+      "license_date": "2021-04-22",
+      "expire_date": "2028-04-30"
+    }
+  ]
+}

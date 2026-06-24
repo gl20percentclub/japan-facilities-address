@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "上間かまぼこ店",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "名護市港１丁目１２－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600426号",
+      "license_date": "2016-09-14",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "宮里かまぼこ屋",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "名護市大中２－１０－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600485号",
+      "license_date": "2016-09-30",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "やんばる特産",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "名護市字仲尾次３３７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800605号",
+      "license_date": "2019-01-07",
+      "expire_date": "2025-01-31"
+    }
+  ]
+}

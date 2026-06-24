@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県立南部農林高等学校 食科生産科　加工実習室",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "豊見城市長堂１８２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700282号",
+      "license_date": "2017-06-12",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "沖縄県立南部農林高等学校 食品加工科（食品製造実習室Ａ）",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "豊見城市長堂１８２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700818号",
+      "license_date": "2017-10-06",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "沖縄県農業協同組合 豊見城支店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "豊見城市上田５５９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000560号",
+      "license_date": "2020-07-08",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

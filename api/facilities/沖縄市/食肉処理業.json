@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "いしがき　ビーフ",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "沖縄市大里１－１１－３７ 沖玩ビル１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702064号",
+      "license_date": "2018-02-19",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "ＩＨミートソリューション株式会社 沖縄パックセンター",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "沖縄市知花２８１４－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202100311号",
+      "license_date": "2021-05-10",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

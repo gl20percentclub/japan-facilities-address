@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "有限会社　沖縄化製工業 ボイル工場",
+      "name_kana": "",
+      "business_type": "食用油脂製造業",
+      "address": "南城市大里字大城１９２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500645号",
+      "license_date": "2015-08-10",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "有限会社沖縄化製工業 （動物油脂製造工場）",
+      "name_kana": "",
+      "business_type": "食用油脂製造業",
+      "address": "南城市大里大城１９２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501508号",
+      "license_date": "2016-01-26",
+      "expire_date": "2022-01-31"
+    }
+  ]
+}

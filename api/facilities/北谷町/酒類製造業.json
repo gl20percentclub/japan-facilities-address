@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "チャタンハーバー ブルワリーアンドレストラン",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "北谷町美浜５３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501907号",
+      "license_date": "2015-12-07",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "北谷長老酒造工場　株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "北谷町吉原６３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201701763号",
+      "license_date": "2017-12-21",
+      "expire_date": "2024-01-31"
+    }
+  ]
+}

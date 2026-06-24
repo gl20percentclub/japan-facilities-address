@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄急送物流センター",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市伊奈武瀬１－９－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501291号",
+      "license_date": "2015-11-18",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "海洋食品株式会社",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市西洲２－５－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600228号",
+      "license_date": "2016-05-20",
+      "expire_date": "2022-05-31"
+    },
+    {
+      "name": "有限会社　長濱冷凍",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市宮城４－２２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600559号",
+      "license_date": "2016-07-21",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "いなんせ工場",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市伊奈武瀬１－１１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600601号",
+      "license_date": "2016-07-27",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "株式会社イバノ",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市港川３４３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600761号",
+      "license_date": "2016-09-13",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "株式会社マルキン海産",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市西洲２－１０－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700043号",
+      "license_date": "2017-04-12",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "ＴＣ３　定温・定湿物流センター",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市伊奈武瀬１－９－１１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700154号",
+      "license_date": "2017-05-12",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "㈱イバノ",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市西洲２－９－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700449号",
+      "license_date": "2017-07-20",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "株式会社沖縄丸一食品",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市西洲２－１０－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800932号",
+      "license_date": "2018-10-31",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "株式会社　武蔵野沖縄",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市字港川４２７－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900429号",
+      "license_date": "2019-06-21",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "琉球通運（株）伊奈武瀬物流センター",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市伊奈武瀬１－９－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900639号",
+      "license_date": "2019-08-01",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "上間天ぷら牧港工場",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市牧港５－５－５ グランシャリオ牧港１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900917号",
+      "license_date": "2019-10-07",
+      "expire_date": "2025-10-31"
+    },
+    {
+      "name": "株式会社ナンポー ＮＰ　Ｄｅｓｓｅｒｔ　ｌａｂ",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市伊奈武瀬１－９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901629号",
+      "license_date": "2020-03-06",
+      "expire_date": "2026-03-31"
+    },
+    {
+      "name": "株式会社りゅうせき低温　沖縄浦添流通センター",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市小湾４５０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001465号",
+      "license_date": "2021-01-20",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "株式会社丸市ミート",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市西洲２－９－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001791号",
+      "license_date": "2021-03-18",
+      "expire_date": "2027-03-31"
+    },
+    {
+      "name": "（株）琉珉珉",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "浦添市牧港４－２５－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100192号",
+      "license_date": "2021-05-06",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

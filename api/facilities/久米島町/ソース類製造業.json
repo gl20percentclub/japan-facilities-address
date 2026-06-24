@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "農業生産法人（有）アグリット久米島",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "久米島町大田５０５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800059号",
+      "license_date": "2018-04-23",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "みなみ農園",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "久米島町謝名堂５４８－１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801328号",
+      "license_date": "2019-01-31",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "浜食品",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "久米島町仲泊５７８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900653号",
+      "license_date": "2019-08-02",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "サイプレスリゾート久米島",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "久米島町字大原８０３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001221号",
+      "license_date": "2020-12-01",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

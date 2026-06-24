@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "今帰仁漁業協同組合",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "今帰仁村字運天９６２－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700220号",
+      "license_date": "2017-06-29",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "今帰仁冷凍冷蔵施設",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "国頭郡今帰仁村上運天３３５－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800592号",
+      "license_date": "2018-12-26",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

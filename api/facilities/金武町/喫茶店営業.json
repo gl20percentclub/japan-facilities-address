@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "エッソエクスプレス伊芸店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町伊芸２０７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201402028号",
+      "license_date": "2015-01-13",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "エッソエクスプレス伊芸",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町屋嘉２０７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501780号",
+      "license_date": "2015-11-24",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "屋嘉ビーチ給油所（株）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町屋嘉２３９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501919号",
+      "license_date": "2015-12-07",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "マックスバリュ金武店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町金武７９０６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600141号",
+      "license_date": "2016-04-22",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "アクアサプライ　金武店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町金武６７１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600756号",
+      "license_date": "2016-07-20",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "株式会社　宇座商事　ステーション金武",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町金武４２４２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600971号",
+      "license_date": "2016-08-09",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "Ｈ₂Ｏ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町金武４１３６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602261号",
+      "license_date": "2017-02-08",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "ＨＯＷ琉球病院売店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町金武７９５８－１ ２Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700931号",
+      "license_date": "2017-08-30",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "パーラー來",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町金武５６７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800088号",
+      "license_date": "2018-04-17",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "ＦＡＳＳＯ　ＡＦＲＩＣＡ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町金武４１４６－２ 又吉アパート１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800917号",
+      "license_date": "2018-08-15",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "フュージョン　パティスリー　モン　クレア",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町金武４６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801703号",
+      "license_date": "2018-11-30",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "こゆき",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "金武町金武４２７７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000663号",
+      "license_date": "2020-06-29",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

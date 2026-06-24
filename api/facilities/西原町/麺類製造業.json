@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "あやめ加工所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "西原町字小波津１５６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500648号",
+      "license_date": "2015-08-10",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "なかち食品",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "西原町小那覇１６０２－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501758号",
+      "license_date": "2016-03-31",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "オキコ株式会社 めん工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "西原町幸地３７１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700613号",
+      "license_date": "2017-08-21",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "（株）三倉食品",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "西原町東崎４－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701446号",
+      "license_date": "2018-03-19",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "株式会社　与那覇食品",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "西原町小那覇１４８９－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900487号",
+      "license_date": "2019-07-01",
+      "expire_date": "2025-07-31"
+    }
+  ]
+}

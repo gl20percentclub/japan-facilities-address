@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "あいす農",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "大宜味村字津波１９７１－１９４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800118号",
+      "license_date": "2018-05-18",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "ファミリーマート　大宜味津波店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡大宜味村津波１６７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900586号",
+      "license_date": "2019-11-18",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "やんばるの森ビジターセンター　パーラー",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡大宜味村津波９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900667号",
+      "license_date": "2019-12-02",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

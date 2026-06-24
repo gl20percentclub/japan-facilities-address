@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "伊平屋村漁業協同組合",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "島尻郡伊平屋村我喜屋２１７－３０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600814号",
+      "license_date": "2017-01-31",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "藤田食品",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "島尻郡伊平屋村我喜屋２１７－２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900379号",
+      "license_date": "2019-08-30",
+      "expire_date": "2025-08-31"
+    }
+  ]
+}

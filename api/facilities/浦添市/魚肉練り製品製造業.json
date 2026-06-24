@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "海洋食品株式会社",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "浦添市西洲２－５－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601060号",
+      "license_date": "2016-10-21",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "合資会社　丸善",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "浦添市宮城５－９－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601540号",
+      "license_date": "2017-01-31",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "株式会社ナンスイ",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "浦添市宮城１－２４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901424号",
+      "license_date": "2020-01-16",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

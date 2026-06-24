@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県立宮古総合実業高等学校 フードクリエイト棟　東１F",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "宮古島市平良字下里280",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500304号",
+      "license_date": "2015-10-28",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "根間かまぼこ店",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "宮古島市平良字下里７４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500395号",
+      "license_date": "2016-02-25",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "宮城かまぼこ屋",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "宮古島市平良字下里１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700286号",
+      "license_date": "2017-11-30",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "上里カマボコ店",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "宮古島市平良字西里１－２３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800117号",
+      "license_date": "2018-06-22",
+      "expire_date": "2024-06-30"
+    }
+  ]
+}

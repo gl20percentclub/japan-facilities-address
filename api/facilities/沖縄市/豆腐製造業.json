@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "川上食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "沖縄市美里２－６－３９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600046号",
+      "license_date": "2016-04-12",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "いずみ商店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "沖縄市住吉１－２２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601634号",
+      "license_date": "2016-10-27",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "久保食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "沖縄市照屋２－１３－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601682号",
+      "license_date": "2016-10-31",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "下田豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "沖縄市桃原２２４－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802068号",
+      "license_date": "2019-01-31",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "翁長豆腐",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "沖縄市山内３－１２－１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802304号",
+      "license_date": "2019-02-28",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "諸見食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "沖縄市諸見里３－２８－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900148号",
+      "license_date": "2019-04-26",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "ひやごん豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "沖縄市比屋根６－３５－３２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901271号",
+      "license_date": "2019-09-30",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "ひやごん豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "沖縄市比屋根６－３５－３２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001350号",
+      "license_date": "2020-10-15",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "宮里豆腐ドーナツ店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "沖縄市高原４－１１－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001470号",
+      "license_date": "2020-11-02",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "ぴゅあ食品加工場",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "沖縄市登川５３８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202100146号",
+      "license_date": "2021-04-19",
+      "expire_date": "2028-04-30"
+    },
+    {
+      "name": "崎原食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "沖縄市松本７－１２－２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202100232号",
+      "license_date": "2021-04-27",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

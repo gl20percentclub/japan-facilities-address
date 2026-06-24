@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "笑味の店",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "大宜味村字大兼久６１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500286号",
+      "license_date": "2015-07-29",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "ＫｕｇａｎｉＫｉｔｃｈｅｎ合同会社",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡大宜味村字饒波２２１６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600360号",
+      "license_date": "2016-08-22",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "やんばるの森ビジターセンター　パーラー",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡大宜味村津波９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900669号",
+      "license_date": "2019-12-02",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "やんばるの森ビジターセンター　レストラン",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡大宜味村津波９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900672号",
+      "license_date": "2019-12-02",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "海と星空の小さな宿　ＷＡＳＳＡ　ＷＡＳＳＡ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡大宜味村根路銘９７　２Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000462号",
+      "license_date": "2020-10-23",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "かめ屋",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡大宜味村津波５５６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000498号",
+      "license_date": "2020-11-10",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "やんばるラーメンいぎみ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡大宜味村塩屋９８７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000631号",
+      "license_date": "2021-01-13",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "嶋フードサービス",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡大宜味村根路銘１３７３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000734号",
+      "license_date": "2021-02-17",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "やんばるキッチン",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "国頭郡大宜味村田嘉里４１７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000795号",
+      "license_date": "2021-03-12",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

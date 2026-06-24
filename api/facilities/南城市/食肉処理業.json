@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社　沖縄県食肉センター （牛カット室）",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "南城市大里字大城１９２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500314号",
+      "license_date": "2015-06-16",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "沖縄県畜産副産物事業協同組合",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "南城市大里字大城１９２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501506号",
+      "license_date": "2016-01-26",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "株式会社那覇ミート",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "南城市大里大城１９１２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701478号",
+      "license_date": "2018-03-28",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "（株）沖縄県食肉センター （山羊施設）",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "南城市大里大城１９２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800279号",
+      "license_date": "2018-06-15",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "有限会社　協進食品",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "南城市大里大城１９２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800692号",
+      "license_date": "2018-09-18",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "株式会社　沖縄県食肉センター （マルト食品）",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "南城市大里大城１９２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800694号",
+      "license_date": "2018-09-18",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "株式会社　沖縄県食肉センター （友愛ミート）",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "南城市大里大城１９２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800695号",
+      "license_date": "2018-09-18",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "有限会社沖縄化製工業",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "南城市大里大城１９２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800770号",
+      "license_date": "2018-09-28",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "有限会社丸十産業（カット室）",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "南城市大里大城１９２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800771号",
+      "license_date": "2018-09-28",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "株式会社那覇ミート　大里工場",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "南城市大里大城１９２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800949号",
+      "license_date": "2018-10-31",
+      "expire_date": "2025-10-31"
+    },
+    {
+      "name": "ＪＡおきなわ　ミートパーツセンター",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "南城市大里大城１９２７ 沖縄県食肉センター内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000150号",
+      "license_date": "2020-04-23",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "新城商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "粟国村字東５１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500661号",
+      "license_date": "2015-08-13",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "沖縄県農業協同組合　粟国支店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "島尻郡粟国村字東４６３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501470号",
+      "license_date": "2016-01-22",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "浜売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "粟国村浜１４５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700457号",
+      "license_date": "2017-07-24",
+      "expire_date": "2024-07-31"
+    }
+  ]
+}

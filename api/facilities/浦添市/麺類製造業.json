@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "味美",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "浦添市勢理客２－２４－９ コーポ三高１０５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600388号",
+      "license_date": "2016-06-22",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "タカラフーズ",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "浦添市勢理客２－１５－１３ 具志堅店舗１０１号",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700169号",
+      "license_date": "2017-05-18",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "沖縄食糧株式会社",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "浦添市勢理客４－４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701032号",
+      "license_date": "2017-11-16",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "ゴールドりょう次　セントラルキッチン",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "浦添市伊祖１－５－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701484号",
+      "license_date": "2018-03-30",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "株式会社ひまわり総合食品",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "浦添市内間５－１４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701487号",
+      "license_date": "2018-03-30",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "味美",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "浦添市勢理客２－２４－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801174号",
+      "license_date": "2018-12-20",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "竹珠食品工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "浦添市経塚４３７－１ 我謝アパート１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900045号",
+      "license_date": "2019-04-12",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "株式会社　武蔵野沖縄",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "浦添市字港川４２７－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900432号",
+      "license_date": "2019-06-21",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

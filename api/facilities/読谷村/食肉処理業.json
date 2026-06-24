@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社がんじゅう",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "読谷村伊良皆２２５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600771号",
+      "license_date": "2016-07-21",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "沖縄ハム総合食品株式会社",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "読谷村座喜味２８２２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801095号",
+      "license_date": "2018-09-18",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "島田食品",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "読谷村瀬名波１５２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002472号",
+      "license_date": "2021-03-12",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

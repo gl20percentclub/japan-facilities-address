@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "石垣島ミルククラウン",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市伊原間１９８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201400183号",
+      "license_date": "2014-07-11",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "ケレス沖縄　石垣島工場",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市平得５５４番地１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500434号",
+      "license_date": "2015-11-11",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "八重山農林高等学校 フードプロデュース科1階",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市大川477-1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600020号",
+      "license_date": "2016-04-01",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "石垣島　ミルミル本舗",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市新川１５８３－６５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600603号",
+      "license_date": "2017-02-03",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "まぁじゅんのチーズ工房",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市新栄町１０－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600657号",
+      "license_date": "2017-02-21",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "八重山ゲンキ乳業",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市字登野城９０９番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700366号",
+      "license_date": "2017-09-21",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "琉球小町",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市新川３５３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700371号",
+      "license_date": "2017-09-21",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "株式会社　マリヤ乳業",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市字石垣１９２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800479号",
+      "license_date": "2018-11-20",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "ゴートファームエイト",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市平得1050-7",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900533号",
+      "license_date": "2020-01-09",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "まぁじゅん牧場　ミルク工房",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市崎枝556-201",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000142号",
+      "license_date": "2020-07-08",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "沖縄県農業協同組合　八重山支店",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市新栄町1番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000375号",
+      "license_date": "2020-12-02",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "TONOファーム",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市石垣334-3",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000494号",
+      "license_date": "2021-02-05",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "甍園芸",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "石垣市字大川５１４－２８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000600号",
+      "license_date": "2021-03-23",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

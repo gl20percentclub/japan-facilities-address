@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "日新産業株式会社",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "石垣市浜崎町１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201400303号",
+      "license_date": "2014-09-18",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "オキコ株式会社石垣事業所中食工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "石垣市浜崎町１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201400305号",
+      "license_date": "2014-09-18",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "あらかき食品",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "石垣市宮良３０６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500269号",
+      "license_date": "2015-08-06",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "金城製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "石垣市美崎町８－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500399号",
+      "license_date": "2015-10-21",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "金城製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "石垣市美崎町８－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500652号",
+      "license_date": "2016-03-08",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "有限会社　琉めん食品工業",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "石垣市宮良３５８－３１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600410号",
+      "license_date": "2016-10-21",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "オキコ株式会社石垣事業所パン工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "石垣市浜崎町 44198",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700083号",
+      "license_date": "2017-05-23",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "荷川取食品",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "石垣市登野城６２７－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700730号",
+      "license_date": "2018-02-27",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "株式会社　みなと食品沖縄　石垣工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "石垣市浜崎町1－2",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800633号",
+      "license_date": "2019-01-31",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "下地食品株式会社",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "石垣市大浜1349-133",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900509号",
+      "license_date": "2019-12-13",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "八重山農林高等学校アグリフード科 １階（農産加工室）",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "石垣市大川４７７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202100068号",
+      "license_date": "2021-04-30",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

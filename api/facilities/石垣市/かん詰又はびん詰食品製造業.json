@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "やえやまファーム加工販売施設",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市崎枝５５６－１１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500149号",
+      "license_date": "2015-06-24",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "ケレス沖縄　石垣島工場",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市平得５５４番地１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500336号",
+      "license_date": "2015-09-29",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "フルーツジュエリーファクトリー石垣島工場",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市字平得５５４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500432号",
+      "license_date": "2015-11-11",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "イグレック石垣島ファーム工場",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市平得５５４ー１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600005号",
+      "license_date": "2016-04-07",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "請福酒造有限会社",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市宮良９５９番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600645号",
+      "license_date": "2017-02-16",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "石垣島キッチン",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市新川67-3",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800067号",
+      "license_date": "2018-05-10",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "CORNER'S GRILL",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市大川258-1 城西ビル1F",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800285号",
+      "license_date": "2018-08-06",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "ガーデンパナ",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市崎枝239－14",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800621号",
+      "license_date": "2019-01-23",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "ブーゲンビリアの岬（同）",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市平得1273-338",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900467号",
+      "license_date": "2019-11-26",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "がんばり家",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市登野城720",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000072号",
+      "license_date": "2020-05-29",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "石垣島モリンガ合同会社",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市登野城217番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000095号",
+      "license_date": "2020-06-09",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "石垣フードラボ",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "沖縄県石垣市新川２４２３－１５ コピーセンタービル１階中",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000176号",
+      "license_date": "2020-08-07",
+      "expire_date": "2026-08-31"
+    },
+    {
+      "name": "タマリンド食堂",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市宮良1739-27",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000371号",
+      "license_date": "2020-12-02",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "THIRD石垣島",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市美崎町4-7 ２F",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000508号",
+      "license_date": "2021-02-10",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "パスタ家ミーレ",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市登野城２１０ー８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000545号",
+      "license_date": "2021-03-04",
+      "expire_date": "2027-03-31"
+    },
+    {
+      "name": "三和ヘルシー加工所",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市大浜2064-102",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000570号",
+      "license_date": "2021-03-10",
+      "expire_date": "2027-03-31"
+    },
+    {
+      "name": "八重山農林高等学校アグリフード科 １階（農産加工室）",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "石垣市大川４７７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202100066号",
+      "license_date": "2021-04-30",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社玉那覇酒造所",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "石垣市字石垣４７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500087号",
+      "license_date": "2015-06-02",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "株式会社池原酒造",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "石垣市字大川１７５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600672号",
+      "license_date": "2017-02-22",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "仲間酒造所",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "石垣市字宮良９５６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700439号",
+      "license_date": "2017-10-20",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "(有)髙嶺酒造所",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "石垣市川平９３０－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700710号",
+      "license_date": "2018-02-21",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "有限会社　八重泉酒造",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "石垣市字石垣１８３４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201800623号",
+      "license_date": "2019-01-23",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "石垣島ビール工房",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "石垣市大川2 730コート2F",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900498号",
+      "license_date": "2019-12-02",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "仲間酒造株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "石垣市宮良956、956-2",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900535号",
+      "license_date": "2020-01-15",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "請福酒造有限会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "石垣市宮良９５９番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000166号",
+      "license_date": "2020-07-30",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "石垣島ビール株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "石垣市新川２０９４－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07202000386号",
+      "license_date": "2020-10-30",
+      "expire_date": "2026-10-31"
+    }
+  ]
+}

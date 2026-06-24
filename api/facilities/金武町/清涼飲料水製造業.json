@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "（有）インターリンク沖縄 金武営業所",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "金武町金武４２９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901048号",
+      "license_date": "2019-08-30",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "有限会社　大栄産業",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "金武町屋嘉２６１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202100231号",
+      "license_date": "2021-04-27",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

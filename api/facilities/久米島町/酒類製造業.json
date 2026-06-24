@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社久米島の久米仙",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "久米島町宇江城２１５７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000377号",
+      "license_date": "2020-06-01",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "米島酒造株式会社",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "島尻郡久米島町字大田４９９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100177号",
+      "license_date": "2021-04-30",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

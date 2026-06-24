@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ファミリマート　読谷伊良皆店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村伊良皆１３５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500917号",
+      "license_date": "2015-07-27",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "ホテル日航アリビラ ベーカリー",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村儀間６００",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600213号",
+      "license_date": "2016-04-28",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "ファミリーマート　読谷大湾東店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村大湾３５６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600693号",
+      "license_date": "2016-07-11",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "島ジェラート＆カフェ　ＩＳＯＬＡ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村楚辺１１３３ Ｎｏ１２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602271号",
+      "license_date": "2017-02-09",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "読谷ファーマーズマーケット",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村喜名２３４６－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602626号",
+      "license_date": "2017-03-31",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "Ｇａｌａ青い海",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村高志保９１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201701798号",
+      "license_date": "2017-12-28",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "ファミリーマート読谷長浜店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村長浜１６２９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800516号",
+      "license_date": "2018-06-19",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "ファミリーマート　読谷座喜味入口店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村座喜味２５４９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802021号",
+      "license_date": "2019-01-30",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "ファミリーマート読谷とや店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村都屋２６３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802174号",
+      "license_date": "2019-02-14",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "ファミリーマート読谷トリイステーション前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村楚辺１１７９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802175号",
+      "license_date": "2019-02-14",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "スパンキーＪｒ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村高志保９１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000241号",
+      "license_date": "2020-05-08",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "ファミリーマート　読谷座喜味店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村座喜味５６９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000855号",
+      "license_date": "2020-06-30",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "キジムナーキッチン",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "読谷村古堅８６８－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001771号",
+      "license_date": "2020-12-10",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

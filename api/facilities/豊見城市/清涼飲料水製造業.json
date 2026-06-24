@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "宅配倶楽部",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "豊見城市保栄茂１１８ パークハイム１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700317号",
+      "license_date": "2017-06-22",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "沖縄特産販売株式会社 豊崎工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "豊見城市豊崎３－８４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700568号",
+      "license_date": "2017-08-14",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "πウォーターシステムぱっしょん豊見城宜保店",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "豊見城市宜保２９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700853号",
+      "license_date": "2017-10-18",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "有限会社やいま企画",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "豊見城市名嘉地３２９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701285号",
+      "license_date": "2018-01-30",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "宅配倶楽部",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "豊見城市保栄茂１１８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900835号",
+      "license_date": "2019-09-19",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "宅配専門　お水やさん",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "豊見城市金良９６－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901281号",
+      "license_date": "2019-12-02",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "忠孝酒造株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "豊見城市字名嘉地１３２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901565号",
+      "license_date": "2020-02-25",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "有限会社イルドゥリ",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "豊見城市高安７５３－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001323号",
+      "license_date": "2020-10-30",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "沖縄県立南部農林高等学校 食品加工科（第二実習室）",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "豊見城市長堂１８２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100303号",
+      "license_date": "2021-05-24",
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "めい水屋",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "豊見城市翁長８４４－２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100364号",
+      "license_date": "2021-05-31",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

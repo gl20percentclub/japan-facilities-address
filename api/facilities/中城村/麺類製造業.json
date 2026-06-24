@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "まるやす製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "中城村当間２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500422号",
+      "license_date": "2015-05-19",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "支援センター琉麺",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "中城村当間２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501126号",
+      "license_date": "2015-08-21",
+      "expire_date": "2021-08-31"
+    }
+  ]
+}

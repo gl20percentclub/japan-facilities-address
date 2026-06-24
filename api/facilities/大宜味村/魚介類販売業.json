@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "屋古売店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "大宜味村屋古１７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400501号",
+      "license_date": "2014-10-21",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "喜如嘉共同売店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "大宜味村喜如嘉５２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400898号",
+      "license_date": "2015-03-31",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "大川共同店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "大宜味村字塩屋３５４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500508号",
+      "license_date": "2015-10-27",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "ローソン大宜味塩屋店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡大宜味村字塩屋念蒲１３０６－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600050号",
+      "license_date": "2016-04-21",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "ファミリーマート　大宜味津波店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "大宜味村字津波１６７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600649号",
+      "license_date": "2016-11-22",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "みやぎストアー",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡大宜味村字宮城５７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800305号",
+      "license_date": "2018-07-25",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "謝名城共同店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡大宜味村字謝名城２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800310号",
+      "license_date": "2018-07-25",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "大宜味海人直売店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "大宜味村字塩屋９８７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800327号",
+      "license_date": "2018-08-03",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "田嘉里共同売店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡大宜味村田嘉里５７５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900263号",
+      "license_date": "2019-07-12",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "ファミリーマート　大宜味津波店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡大宜味村津波１６７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900588号",
+      "license_date": "2019-11-18",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "紅仁株式会社",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡大宜味村津波２８３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900654号",
+      "license_date": "2019-11-27",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "やんばるの森ビジターセンター　物販",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡大宜味村津波９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900665号",
+      "license_date": "2019-12-02",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "やんばるの森ビジターセンター　レストラン",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡大宜味村津波９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900671号",
+      "license_date": "2019-12-02",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "海と星空の小さな宿　ＷＡＳＳＡ　ＷＡＳＳＡ",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡大宜味村根路銘９７　２Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000463号",
+      "license_date": "2020-10-23",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "やんばるラーメンいぎみ",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡大宜味村塩屋９８７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000630号",
+      "license_date": "2021-01-13",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "喜如嘉共同店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡大宜味村喜如嘉５２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202100107号",
+      "license_date": "2021-05-12",
+      "expire_date": "2028-05-31"
+    }
+  ]
+}

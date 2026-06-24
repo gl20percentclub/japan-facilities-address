@@ -1,0 +1,76 @@
+name: Crawl Okinawa Facilities
+
+on:
+  schedule:
+    # 毎週月曜 18:00 UTC（= JST 火曜 AM 3:00）
+    - cron: '0 18 * * 1'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'ダウンロードをスキップしキャッシュを使う'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Cache crawl data
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: bodik-cache-${{ github.run_id }}
+          restore-keys: |
+            bodik-cache-
+
+      - name: Crawl
+        run: node scripts/crawl.js ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '--dry-run' || '' }}
+
+      - name: Validate
+        run: node scripts/test.js
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet api/; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "変更なし"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "変更あり"
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          CITY_COUNT=$(node -e "const d=require('./api/facilities/index.json');console.log(Object.keys(d.data).length)")
+          UPDATED=$(node -e "const d=require('./api/facilities/index.json');console.log(new Date(d.meta.updated*1000).toISOString().slice(0,10))")
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add api/
+          git commit -m "chore: update facilities (${CITY_COUNT}市区町村, ${UPDATED})"
+          git push
+
+      - name: Deploy to GitHub Pages
+        if: steps.changes.outputs.changed == 'true'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
+          exclude_assets: 'node_modules,.cache,scripts,.github'

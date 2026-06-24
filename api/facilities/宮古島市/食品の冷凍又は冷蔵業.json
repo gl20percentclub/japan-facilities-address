@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "楽園の果実　手づくり食品館",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宮古島市下地字来間２５９－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500084号",
+      "license_date": "2015-05-29",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "浜口水産株式会社",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宮古島市伊良部字池間添２４３番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500092号",
+      "license_date": "2015-06-22",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "みゃーくの味直売所",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宮古島市平良字下里１番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500114号",
+      "license_date": "2015-07-01",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "宮古島漁業協同組合",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宮古島市平良字荷川取５９３－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500274号",
+      "license_date": "2015-10-26",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "浜口水産株式会社",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宮古島市伊良部字国仲431-1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700192号",
+      "license_date": "2017-09-06",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "縁の郷",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宮古島市平良字西里387 スカイビルB1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700319号",
+      "license_date": "2017-12-22",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "縁の郷",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宮古島市平良字西里３８７ スカイビルＢ１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800225号",
+      "license_date": "2018-08-08",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "宮古港運株式会社　第三埠頭倉庫",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宮古島市平良字西里５７－１５ 第三埠頭　上屋倉庫内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800249号",
+      "license_date": "2018-09-04",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "有限会社　池田冷凍食品",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宮古島市平良荷川取２８８－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000003号",
+      "license_date": "2020-04-03",
+      "expire_date": "2027-04-30"
+    },
+    {
+      "name": "宮古島市農産物加工施設",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宮古島市上野野原１１９０－１８８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000047号",
+      "license_date": "2020-05-12",
+      "expire_date": "2026-05-31"
+    }
+  ]
+}

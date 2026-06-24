@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "（有）比嘉酒造",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "読谷村長浜１０６１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901575号",
+      "license_date": "2019-11-08",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "有限会社　残波",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "読谷村波平１７２０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202100247号",
+      "license_date": "2021-04-27",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

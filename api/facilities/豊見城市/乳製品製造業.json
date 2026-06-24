@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "（株）Ｈｏｎｅｙ　Ｆｕｓｉｏｎ",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "豊見城市長堂１４１ ニューシャトー長堂１０３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900843号",
+      "license_date": "2019-09-20",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "沖縄県立南部農林高等学校 食品加工科（第二実習室）",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "豊見城市長堂１８２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100305号",
+      "license_date": "2021-05-24",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

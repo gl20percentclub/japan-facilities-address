@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "パーラーカンナ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "宜野座村漢那浜原１６９５－２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602423号",
+      "license_date": "2017-03-07",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "株式会社　未来ぎのざ（食堂）",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "宜野座村漢那１６３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702035号",
+      "license_date": "2018-02-15",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "シーサイドカンナ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "宜野座村漢那１３８５－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702192号",
+      "license_date": "2018-03-08",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "ふくちゃん",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "宜野座村宜野座９０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201702193号",
+      "license_date": "2018-03-08",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "月桃",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "宜野座村惣慶４６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800032号",
+      "license_date": "2018-04-09",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "丸ちゃん食堂",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "宜野座村松田６５１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800375号",
+      "license_date": "2018-05-28",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "桜屋弁当",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "宜野座村惣慶５７３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800618号",
+      "license_date": "2018-07-03",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "ひまわり弁当",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "宜野座村惣慶４５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800770号",
+      "license_date": "2018-07-26",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "かねひで　ジップマート宜野座店",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "宜野座村宜野座７１４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801767号",
+      "license_date": "2018-12-11",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "ＪＡおきなわ宜野座支店",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "宜野座村宜野座１３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902313号",
+      "license_date": "2020-02-18",
+      "expire_date": "2026-02-28"
+    }
+  ]
+}

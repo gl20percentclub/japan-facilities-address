@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "高良豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "本部町備瀬４１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500316号",
+      "license_date": "2015-08-20",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "崎もとぶ大豆加工工房　山城とうふ店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "国頭郡本部町崎本部７３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900424号",
+      "license_date": "2019-09-24",
+      "expire_date": "2025-09-30"
+    }
+  ]
+}

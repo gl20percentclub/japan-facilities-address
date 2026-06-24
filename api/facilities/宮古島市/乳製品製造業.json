@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県立宮古総合実業高等学校 (食品製造実習棟　畜産加工室)",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "宮古島市平良字下里２８０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500118号",
+      "license_date": "2015-06-30",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "沖縄県立宮古総合実業高等学校 フードクリエイト棟　東１F",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "宮古島市平良字下里280",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500303号",
+      "license_date": "2015-10-28",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "宮古島チーズ工房",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "宮古島市城辺字保良344-9",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700201号",
+      "license_date": "2017-09-15",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "島の駅みやこ",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "宮古島市平良字久貝８７０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202100071号",
+      "license_date": "2021-05-25",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

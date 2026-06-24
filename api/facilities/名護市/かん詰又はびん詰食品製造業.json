@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "有限会社　勝山シークヮーサー",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "名護市字勝山９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700794号",
+      "license_date": "2018-03-27",
+      "expire_date": "2024-03-31"
+    },
+    {
+      "name": "琉球セメント株式会社 食品開発室",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "名護市山入端１６２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800812号",
+      "license_date": "2019-03-28",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "Ｓｅｅ　Ｖ　Ｆｏｏｄ",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "名護市宇茂佐４５８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900265号",
+      "license_date": "2019-07-12",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "株式会社名護パイナップルワイナリー",
+      "name_kana": "",
+      "business_type": "かん詰又はびん詰食品製造業",
+      "address": "名護市為又１１９６－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000528号",
+      "license_date": "2020-11-19",
+      "expire_date": "2026-11-30"
+    }
+  ]
+}

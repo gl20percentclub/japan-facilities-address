@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ファミリーマート水釜店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町水釜３２７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201401074号",
+      "license_date": "2014-09-01",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "ファミリーマート嘉手納運動公園前店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町屋良１０１７－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201401117号",
+      "license_date": "2014-09-08",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "ローソン　ネーブルカデナ店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町兼久４２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500607号",
+      "license_date": "2015-06-16",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "ショッピング幸地",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町嘉手納２９７－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601254号",
+      "license_date": "2016-09-20",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "タウンプラザかねひで ネーブルカデナ店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町兼久３７２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602507号",
+      "license_date": "2017-03-21",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "中央ストアー",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町嘉手納４５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800822号",
+      "license_date": "2018-07-31",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "ローソン嘉手納屋良店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町屋良１０７５－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800938号",
+      "license_date": "2018-08-17",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "新垣冷凍食品鮮魚店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町嘉手納１１５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801133号",
+      "license_date": "2018-09-20",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "山香",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町水釜１１２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802378号",
+      "license_date": "2019-03-14",
+      "expire_date": "2026-03-31"
+    },
+    {
+      "name": "Ｖ２１みずがま食品館",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町水釜６－１８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900286号",
+      "license_date": "2019-05-21",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "古謝商店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町嘉手納４９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900915号",
+      "license_date": "2019-08-16",
+      "expire_date": "2026-08-31"
+    },
+    {
+      "name": "Ｖ２１かでな食品館",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町嘉手納４６３－１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901548号",
+      "license_date": "2019-11-01",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "ローソン嘉手納屋良店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "嘉手納町屋良１０７５－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000394号",
+      "license_date": "2020-05-20",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

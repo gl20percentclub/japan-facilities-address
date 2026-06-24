@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "久米島漁業協同組合",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "久米島町宇根４１３－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500767号",
+      "license_date": "2015-09-01",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "久米島商会",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "久米島町字真謝３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901457号",
+      "license_date": "2020-01-23",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "じんみのグルクンかまぼこ屋",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "久米島町字仲地２４０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000049号",
+      "license_date": "2020-04-10",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "比嘉かまぼこ店",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "久米島町字真我里５０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000372号",
+      "license_date": "2020-06-01",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄森永乳業株式会社",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "西原町字東崎４－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500492号",
+      "license_date": "2015-07-17",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "株式会社　比嘉製茶",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "西原町小那覇１０４３－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501656号",
+      "license_date": "2016-03-07",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "株式会社まえさと",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "西原町字東崎４－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501693号",
+      "license_date": "2016-03-18",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "ちゅらウォーター",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "中頭郡西原町掛保久３７番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601662号",
+      "license_date": "2017-03-14",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "株式会社　石川酒造場 第三工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "西原町字小那覇１４３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700037号",
+      "license_date": "2017-04-12",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "有限会社　琉球薬草本舗",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "西原町安室１１３－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700551号",
+      "license_date": "2017-08-09",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "株式会社　石川酒造場 第二工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "西原町字小那覇１４３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700671号",
+      "license_date": "2017-09-11",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "株式会社サプライワン",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "西原町嘉手苅８１－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701213号",
+      "license_date": "2018-01-15",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "株式会社　スクワラン本舗",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "西原町千原２４５－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900745号",
+      "license_date": "2019-08-29",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "株式会社　石川酒造場 第一工場",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "西原町字小那覇１４３８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901522号",
+      "license_date": "2020-02-07",
+      "expire_date": "2026-02-28"
+    }
+  ]
+}

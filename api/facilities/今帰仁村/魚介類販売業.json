@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "上運天共同売店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "今帰仁村字上運天４４５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400194号",
+      "license_date": "2014-06-16",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "ローソン今帰仁店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡今帰仁村天底２６２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400515号",
+      "license_date": "2014-10-24",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "上間食堂",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "今帰仁村字今泊１７０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500226号",
+      "license_date": "2015-07-01",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "北山商店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "今帰仁村今泊１７０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500235号",
+      "license_date": "2015-07-06",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "Ａコープ今帰仁店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "今帰仁村字仲宗根２５９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500335号",
+      "license_date": "2015-08-25",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "きなスーパー",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡今帰仁村字天底１６０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500604号",
+      "license_date": "2015-12-15",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "ローソン今帰仁村役場前店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "今帰仁村字謝名４４６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500657号",
+      "license_date": "2016-01-13",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "あみす屋",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "今帰仁村字天底１５３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600375号",
+      "license_date": "2016-08-26",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "かよう鮮魚店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "今帰仁村字天底１９３－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600901号",
+      "license_date": "2017-03-14",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "呉我山共同売店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡今帰仁村字呉我山１５１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700474号",
+      "license_date": "2017-10-23",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "伊平屋村漁業協同組合",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡今帰仁村字運天 運天港旅客ターミナル",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700490号",
+      "license_date": "2017-10-30",
+      "expire_date": "2023-10-31"
+    },
+    {
+      "name": "はいたい　ざっか",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡今帰仁村天底６００",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800289号",
+      "license_date": "2018-07-23",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "ファミリーマート今帰仁仲尾次店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡今帰仁村仲尾次５３１－９－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900093号",
+      "license_date": "2019-05-09",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "諸喜田鮮魚店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "今帰仁村仲宗根２７８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900102号",
+      "license_date": "2019-05-13",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "まぐろ専門店　浜",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡今帰仁村古宇利３４８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000282号",
+      "license_date": "2020-07-22",
+      "expire_date": "2027-07-31"
+    },
+    {
+      "name": "諸志共同売店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡今帰仁村諸志６５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000430号",
+      "license_date": "2020-10-06",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "江中商店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡今帰仁村兼次３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000440号",
+      "license_date": "2020-10-08",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "農業生産法人有限会社金城ミート",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "国頭郡今帰仁村謝名１２８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000591号",
+      "license_date": "2020-10-30",
+      "expire_date": "2026-10-31"
+    }
+  ]
+}

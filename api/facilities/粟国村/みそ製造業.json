@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "粟国みそ製造所",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "粟国村字東６９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901395号",
+      "license_date": "2020-01-10",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "粟国村ソテツ味噌生産組合",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "島尻郡粟国村字東１０８８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000616号",
+      "license_date": "2020-07-21",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

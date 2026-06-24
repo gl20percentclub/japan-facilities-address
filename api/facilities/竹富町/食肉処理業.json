@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "猪肉家（ししや）",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "竹富町字西表１００５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500479号",
+      "license_date": "2015-11-27",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "長澤肉店",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "八重山郡竹富町西表984",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600536号",
+      "license_date": "2016-12-07",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "西表島グリーンファーム 猪狩家",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "竹富町字古見与那良原 ７８４－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900480号",
+      "license_date": "2019-11-29",
+      "expire_date": "2025-11-30"
+    }
+  ]
+}

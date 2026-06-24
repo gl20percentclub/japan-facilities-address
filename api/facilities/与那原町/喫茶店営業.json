@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ゲームセンターテクモピア東浜 （ＪＢＣ－３Ｄ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町字東浜６８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201401503号",
+      "license_date": "2014-11-21",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "ホームセンターかねひであがり浜店搬入口 （Ｆ８ＫＷＣ４８３ＸＸＢＳＡＦ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町東浜６８－１－２　１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501446号",
+      "license_date": "2016-01-14",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "株式会社スズキ自販沖縄　東浜店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町東浜２３－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600477号",
+      "license_date": "2016-07-08",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "ａｕショップ　与那原店 (Ｆ４ＫＷＣ３８２ＸＸＢＳＡＦ、カップ式自販機１台)",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町与那原６２－２　１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700268号",
+      "license_date": "2017-06-08",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "ドコモショップ与那原店 （Ｆ８ＫＷＣ３８２ＸＸＢＳＡＦ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町与那原３５８０－６　１階",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701362号",
+      "license_date": "2018-02-23",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "サンエー板良敷店 （ＦＸ２２ＤＭ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町板良敷６２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800117号",
+      "license_date": "2018-05-07",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "（株）サンエー　板良敷店 （水の自動販売機ＡＰ－３０ＣＢ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町板良敷６２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800197号",
+      "license_date": "2018-05-23",
+      "expire_date": "2025-05-31"
+    },
+    {
+      "name": "与那原自動車整備センター （ＦＸ１２ＤＭ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町上与那原４９３－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800378号",
+      "license_date": "2018-07-04",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "フトン巻きのジロー与那原１２号店 （カップ式自販機Ｆ２ＫＳＣ　Ｘ６２ＭＸＢ１Ｎ９）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町与那原６２－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801319号",
+      "license_date": "2019-02-01",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "琉水",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町東浜９５－２ リヴェール東浜１０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900112号",
+      "license_date": "2019-04-25",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "ＪＡおきなわ　ファーマーズマーケット与那原「あがりはま市場」 （水自販機ＷＣＢＶＤＭＦ３）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町東浜８９－１０４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900569号",
+      "license_date": "2019-07-18",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "沖縄看護専門学校 （カップ式自販機ＣＳＴＺ７００ＭＷＪ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町字板良敷１３８０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901531号",
+      "license_date": "2020-02-12",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "（株）サンエーＶ２１よなばる食品館 （ＡＰ－３０ＣＢ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町字与那原１１７５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901549号",
+      "license_date": "2020-02-19",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "Ｈｏｎｄａ　Ｃａｒｓ沖縄　与那原店 （カップ式自販機Ｆ８ＫＷＣ３８２ＸＸＢＳＡＦ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町字上与那原３６９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901666号",
+      "license_date": "2020-03-16",
+      "expire_date": "2027-03-31"
+    },
+    {
+      "name": "ドコモショップタウンプラザ与那原 （Ｆ８ＫＺＣ２６２ＸＸＢＳＡＣ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町字与那原１１１１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000406号",
+      "license_date": "2020-06-04",
+      "expire_date": "2027-06-30"
+    },
+    {
+      "name": "琉球ダイハツ販売株式会社東浜店 （カップ式自販機Ｆ０ＫＷＣ３８２ＸＸＢＳＡＦ）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "与那原町字東浜８８－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000764号",
+      "license_date": "2020-08-31",
+      "expire_date": "2027-08-31"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "宜野座村農山漁村生活研究会",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宜野座村漢那１６３３ 道の駅　未来ぎのざ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502154号",
+      "license_date": "2016-01-29",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "ＪＡおきなわ宜野座支店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宜野座村宜野座１３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800403号",
+      "license_date": "2018-05-31",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "宜野座村商工会女性部",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宜野座村漢那１６３３ 道の駅未来ぎのざ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901399号",
+      "license_date": "2019-10-23",
+      "expire_date": "2025-10-31"
+    }
+  ]
+}

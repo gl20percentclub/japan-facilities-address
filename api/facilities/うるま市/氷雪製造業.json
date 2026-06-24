@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "（有）池間製氷",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "うるま市石川３１５０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500640号",
+      "license_date": "2015-06-22",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "ペンギン",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "うるま市赤道１８０－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900729号",
+      "license_date": "2019-07-11",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "知念商店",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "うるま市具志川３１７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901612号",
+      "license_date": "2019-11-12",
+      "expire_date": "2025-11-30"
+    }
+  ]
+}

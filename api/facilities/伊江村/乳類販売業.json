@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ファミリーマート伊江東",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊江村字川平１８８－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400851号",
+      "license_date": "2015-03-18",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "Ａコープゆいランド店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊江村字川平１５０－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500438号",
+      "license_date": "2015-10-15",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "西江上売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊江村字西江上１４８－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500754号",
+      "license_date": "2016-02-22",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "金城商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊江村字西江前１３１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500794号",
+      "license_date": "2016-03-09",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "（イ）マルイストア",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊江村字川平４６７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600189号",
+      "license_date": "2016-06-22",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "阿波根商店（㋐支店）",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊江村字東江前４８５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600191号",
+      "license_date": "2016-06-22",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "大城商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊江村字東江前２０２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600876号",
+      "license_date": "2017-02-28",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "丸長商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊江村東江前３２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800218号",
+      "license_date": "2018-06-29",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "ファミリーマート　伊江店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊江村川平４２６－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800600号",
+      "license_date": "2018-12-28",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "焼きたてパンの店アリコベール",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "伊江村字東江前１０２－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900193号",
+      "license_date": "2019-06-24",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "新城商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡伊江村東江上２９２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000207号",
+      "license_date": "2020-06-19",
+      "expire_date": "2027-06-30"
+    },
+    {
+      "name": "内間商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "国頭郡伊江村東江前２５４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202100137号",
+      "license_date": "2021-05-21",
+      "expire_date": "2028-05-31"
+    }
+  ]
+}

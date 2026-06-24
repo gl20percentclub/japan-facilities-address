@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ＪＡおきなわ西原支店　共同加工施設",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "西原町与那城２４９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600595号",
+      "license_date": "2016-07-27",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "西原町さわふじマルシェ（ＪＡ女性部）",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "西原町字小波津４８０ さわふじマルシェ内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001280号",
+      "license_date": "2020-12-07",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

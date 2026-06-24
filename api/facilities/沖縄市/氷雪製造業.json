@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "トルマリン医王ウォーター樹",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "沖縄市海邦２－１－１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501466号",
+      "license_date": "2015-10-15",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "球陽アイス",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "沖縄市美里４－１２－２２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502378号",
+      "license_date": "2016-03-09",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "有限会社トゥワァイス",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "沖縄市胡屋６－６－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901000号",
+      "license_date": "2019-08-29",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "株式会社トップラン",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "沖縄市知花４－３２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902150号",
+      "license_date": "2020-01-30",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "スプリングウォーター信",
+      "name_kana": "",
+      "business_type": "氷雪製造業",
+      "address": "沖縄市池原１－１６－２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202100060号",
+      "license_date": "2021-04-09",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

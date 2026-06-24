@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社とまとコーポレイション",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "嘉手納町屋良７４４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201500816号",
+      "license_date": "2015-07-14",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "アクアイオン",
+      "name_kana": "",
+      "business_type": "清涼飲料水製造業",
+      "address": "嘉手納町水釜３６４－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000427号",
+      "license_date": "2020-05-22",
+      "expire_date": "2026-05-31"
+    }
+  ]
+}

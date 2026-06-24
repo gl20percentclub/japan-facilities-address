@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "南国久米島　ＧＵＲＵ　ＧＵＲＵ",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "島尻郡久米島町謝名堂５４８－１６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500308号",
+      "license_date": "2015-06-15",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "西銘豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "島尻郡久米島町比嘉２８４９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500690号",
+      "license_date": "2015-08-17",
+      "expire_date": "2021-08-31"
+    },
+    {
+      "name": "比屋定豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "久米島町字比屋定２２６１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600223号",
+      "license_date": "2016-05-19",
+      "expire_date": "2022-05-31"
+    }
+  ]
+}

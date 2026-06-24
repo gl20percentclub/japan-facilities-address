@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "砂辺食品",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "北谷町宮城２－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901467号",
+      "license_date": "2019-10-30",
+      "expire_date": "2025-10-31"
+    },
+    {
+      "name": "琉球麺処　まるの家",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "北谷町北谷１－９－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002368号",
+      "license_date": "2021-03-03",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

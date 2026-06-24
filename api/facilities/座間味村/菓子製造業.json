@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "あさのパン屋さん",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "座間味村阿佐１３４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801423号",
+      "license_date": "2019-02-25",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "ざまみ食品",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "座間味村字阿佐１２０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901687号",
+      "license_date": "2020-03-24",
+      "expire_date": "2026-03-31"
+    },
+    {
+      "name": "おみやげＨＯＵＳＥ",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "座間味村字阿嘉８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000535号",
+      "license_date": "2020-07-03",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

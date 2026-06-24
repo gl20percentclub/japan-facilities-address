@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "コクワエナジー潟原給油所",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "宜野座村松田２８４２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501781号",
+      "license_date": "2015-11-24",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "沖縄県農業協同組合教育研修所",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "宜野座村宜野座１６６０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502156号",
+      "license_date": "2016-01-29",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "くりーむ　くりーむ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "宜野座村漢那１６３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700132号",
+      "license_date": "2017-04-25",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "ｚｕｃｃｈｅｒｏ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "宜野座村惣慶１４８９－６Ａ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801564号",
+      "license_date": "2018-11-13",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "かねひで　ジップマート宜野座店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "宜野座村宜野座７１４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801772号",
+      "license_date": "2018-12-11",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "エンジェル・カフェ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "宜野座村松田１４４３ （宜野座村ＩＴオペレーションパーク内）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802477号",
+      "license_date": "2019-03-28",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "株式会社ＪＡおきなわＳＳ　宜野座セルフＳＳ （ＷＣＢＶＤＭＦ３）",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "宜野座村宜野座１９２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900028号",
+      "license_date": "2019-04-09",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "Ｎｉｍｍａｒｉ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "宜野座村松田２２３４－４１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002561号",
+      "license_date": "2021-01-29",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "風月楼",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "恩納村冨着５５４－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700862号",
+      "license_date": "2017-08-16",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "ハイアットリージェンシー瀬良垣アイランド沖縄",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "恩納村瀬良垣１１０８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802346号",
+      "license_date": "2019-03-08",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "ファミリーマート　ムーンビーチ前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "恩納村前兼久８６０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802430号",
+      "license_date": "2019-03-25",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "アイスクリーム",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "恩納村名嘉真１９６７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900445号",
+      "license_date": "2019-06-04",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "ファミリーマート　ムーンビーチ前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "恩納村前兼久８６０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900596号",
+      "license_date": "2019-06-26",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "パーラーダイヤモンドビーチ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "恩納村瀬良垣１００",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902006号",
+      "license_date": "2020-01-16",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "アールイズ・スイート海の教会",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "恩納村山田３０８５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000278号",
+      "license_date": "2020-05-12",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "ファミリーマート　恩納たんちゃ店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "恩納村谷茶１９１７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000502号",
+      "license_date": "2020-06-01",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社Ｎｉｃｏ　Ｏｋｉｎａｗａ",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "本部町字豊原６０６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500409号",
+      "license_date": "2015-10-05",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "農業生産法人もとぶウェルネスフーズ 株式会社",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "国頭郡本部町字豊原７４２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600751号",
+      "license_date": "2017-01-16",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "沖縄美ら島ファーム　菓子製造工場",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "国頭郡本部町字大浜８７４－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700091号",
+      "license_date": "2017-05-02",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "水口水田",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "国頭郡本部町浜元２３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000172号",
+      "license_date": "2020-06-12",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "田空ハーソー公園",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "国頭郡本部町具志堅１３３４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000241号",
+      "license_date": "2020-07-06",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "水口水田",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "国頭郡本部町谷茶５５－１　２Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202100063号",
+      "license_date": "2021-04-30",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

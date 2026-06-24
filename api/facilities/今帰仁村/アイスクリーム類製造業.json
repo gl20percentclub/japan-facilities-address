@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "恋島（くい島）",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "今帰仁村字古宇利３２８－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500274号",
+      "license_date": "2015-07-24",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "Ｙｏｓｈｉｋａ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "今帰仁村字古宇利３２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500579号",
+      "license_date": "2015-11-27",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "株式会社　沖縄ビックアイス",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "今帰仁村字今泊４６６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600473号",
+      "license_date": "2016-09-29",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "Ｈｅａｒｔ　ｉｓｌａｎｄ　ｐａｒｌｏｒ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡今帰仁村古宇利５３８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900409号",
+      "license_date": "2019-09-13",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "有限会社おっぱ乳業",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡今帰仁村玉城７６３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000163号",
+      "license_date": "2020-06-08",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "パーラー古宇利島",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡今帰仁村古宇利３２３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202100083号",
+      "license_date": "2021-04-30",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

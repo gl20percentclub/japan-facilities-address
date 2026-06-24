@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄そばと琉球料理の店　美ら花　別邸",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "名護市字幸喜１０９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201500455号",
+      "license_date": "2015-10-23",
+      "expire_date": "2021-10-31"
+    },
+    {
+      "name": "中山そば",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "名護市中山８３７－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600593号",
+      "license_date": "2016-11-01",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "（有）我部祖河そば製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "名護市字我部祖河１７７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700668号",
+      "license_date": "2018-01-29",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "（有）三角屋製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "名護市大東３－１４－１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700716号",
+      "license_date": "2018-02-14",
+      "expire_date": "2024-02-29"
+    }
+  ]
+}

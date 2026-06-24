@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "水納カマボコ",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "宮古郡多良間村字塩川63",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600086号",
+      "license_date": "2016-07-04",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "多良間村山羊加工施設",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "宮古郡多良間村字塩川801-1",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600090号",
+      "license_date": "2016-07-05",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "みんな鮮魚店",
+      "name_kana": "",
+      "business_type": "魚肉練り製品製造業",
+      "address": "多良間村字塩川２７１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900354号",
+      "license_date": "2020-01-30",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

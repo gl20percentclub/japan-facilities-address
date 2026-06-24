@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "株式会社ＬａＬａ　Ｐｒｉｍｏ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村南上原１０２１ プリモタウン１－Ｂ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501660号",
+      "license_date": "2015-11-09",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "有限会社　サン・デリカ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村当間７８４ 沖縄ホーメル内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501770号",
+      "license_date": "2015-11-20",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "株式会社サンエー　なかぐすく店",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村字南上原７９５番",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602051号",
+      "license_date": "2017-01-12",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "やいま",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村北上原８９２－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801708号",
+      "license_date": "2018-11-30",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "中城牧場ヤギ精肉店",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村泊４６８－４ 中城店舗１Ｆ号室",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801864号",
+      "license_date": "2019-01-07",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "タウンプラザかねひで　中城モール店",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村久場１９６３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801951号",
+      "license_date": "2019-01-21",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "ファミリーマート中城南上原店",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村南上原７５６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900969号",
+      "license_date": "2019-08-26",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "株式会社沖縄ホーメル",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村当間７５８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901955号",
+      "license_date": "2020-01-07",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "フクギパン",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村和宇慶３２８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902251号",
+      "license_date": "2020-02-07",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "ＴＡＣＯＳ　ＭＯＮＳＴＥＲ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村南上原５４７ 老人ホーム２F",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000488号",
+      "license_date": "2020-05-29",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "漢那武也",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村和宇慶８３３－２ ひなたアパート１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002219号",
+      "license_date": "2021-02-12",
+      "expire_date": "2027-02-28"
+    },
+    {
+      "name": "有限会社　仲松冷凍",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "中城村安里２４０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002460号",
+      "license_date": "2021-03-11",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

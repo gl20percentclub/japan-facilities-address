@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ファミリーマート金武大通り店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "金武町金武６６－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600752号",
+      "license_date": "2016-07-20",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "伊芸レストラン（下り線）",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "金武町伊芸１２６４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000346号",
+      "license_date": "2020-05-19",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "伊芸レストラン（上り線）",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "金武町伊芸１２６１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000349号",
+      "license_date": "2020-05-19",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "ネイチャーみらい館（みらいパーラー）",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "金武町金武１１８１８－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001782号",
+      "license_date": "2020-08-31",
+      "expire_date": "2026-08-31"
+    }
+  ]
+}

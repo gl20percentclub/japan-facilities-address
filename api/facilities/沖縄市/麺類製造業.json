@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "有限会社アワセそば",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "沖縄市大里４７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201502365号",
+      "license_date": "2016-03-08",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "沖縄県農業協同組合コザ支店",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "沖縄市仲宗根町１４－１５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601668号",
+      "license_date": "2016-10-31",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "Ｎｏｏｄｌｅ　Ｍａｈｏｒｏｂａ",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "沖縄市中央１－３６－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700790号",
+      "license_date": "2017-08-01",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "アワセそば食堂",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "沖縄市高原５－３－９ （１Ｆ）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800227号",
+      "license_date": "2018-05-02",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "（有）アイウィッシュ",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "沖縄市高原１－２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800582号",
+      "license_date": "2018-06-29",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "宮城製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "沖縄市照屋１－１０－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802056号",
+      "license_date": "2019-01-31",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "赤道ラーメン美里店",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "沖縄市東１－５－１２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900016号",
+      "license_date": "2019-04-02",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "知念製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "沖縄市久保田１－１－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900180号",
+      "license_date": "2019-04-26",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "双葉中食",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "沖縄市泡瀬１－１５－４３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001052号",
+      "license_date": "2020-08-21",
+      "expire_date": "2026-08-31"
+    },
+    {
+      "name": "まぜ麺マホロバコザ",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "沖縄市中央１－３６－１１ （１Ｆ）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202002524号",
+      "license_date": "2021-03-19",
+      "expire_date": "2027-03-31"
+    }
+  ]
+}

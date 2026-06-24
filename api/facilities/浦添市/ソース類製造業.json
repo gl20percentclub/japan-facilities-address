@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "浦添市シルバー人材センター養蚕事業所",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "浦添市伊奈武瀬１－７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500290号",
+      "license_date": "2015-06-09",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "株式会社沖縄農園",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "浦添市牧港１－９－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500442号",
+      "license_date": "2015-07-07",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "株式会社　沖縄丸一食品",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "浦添市西洲２丁目１０番地２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501389号",
+      "license_date": "2015-12-17",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "Ｔｅｉａｎｄａ",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "浦添市港川2丁目１０－８　♯５８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600310号",
+      "license_date": "2016-06-03",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "沖縄県農業協同組合 浦添支店　女性部",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "浦添市安波茶３－２－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000734号",
+      "license_date": "2020-06-30",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

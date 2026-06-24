@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ファミリーマート与那原店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町与那原３６９５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201401078号",
+      "license_date": "2014-09-30",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "ローソン与那原東浜店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町字東浜２３－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500389号",
+      "license_date": "2015-06-29",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "株式会社カネマサミート",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町与那原３６１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600150号",
+      "license_date": "2016-04-28",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "ローソン　南風原北インター前店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町字上与那原４７２－１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600576号",
+      "license_date": "2016-07-25",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "Ｖ２１よなばる食品館",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町与那原１１７５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600638号",
+      "license_date": "2016-08-03",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "ローソン与那原板良敷店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町板良敷１３８５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701197号",
+      "license_date": "2018-01-09",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "サンエー　板良敷店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町板良敷６２１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800149号",
+      "license_date": "2018-05-09",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "ファーマーズマーケット与那原「あがりはま市場」",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町東浜８９－１０４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900600号",
+      "license_date": "2019-07-24",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "ローソン東浜シーサー公園前店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町東浜９５－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900779号",
+      "license_date": "2019-09-06",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "タウンプラザかねひで　よなばる市場　精肉作業所",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町与那原１１０４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901240号",
+      "license_date": "2019-11-27",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "セブン－イレブン与那原町与那原店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町字与那原伊利原９７７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000319号",
+      "license_date": "2020-05-21",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "ローソンシーサイド与那原",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町字与那原与原９３２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000585号",
+      "license_date": "2020-07-15",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "Ａープライス与那原店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町上与那原３９２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000799号",
+      "license_date": "2020-09-10",
+      "expire_date": "2027-09-30"
+    },
+    {
+      "name": "マリンプラザかねひで東浜市場",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町字東浜６８－１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001162号",
+      "license_date": "2020-11-13",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "株式会社丸大　与那原東店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町与那原３８６７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001525号",
+      "license_date": "2021-01-28",
+      "expire_date": "2027-01-31"
+    },
+    {
+      "name": "ヤギ１番",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "与那原町字板良敷５７０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202001546号",
+      "license_date": "2021-02-01",
+      "expire_date": "2027-02-28"
+    }
+  ]
+}

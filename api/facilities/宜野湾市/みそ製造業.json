@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "ＪＡおきなわ宜野湾支店　女性部",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宜野湾市野嵩７３６　ＪＡおきなわ宜野湾支店４Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501308号",
+      "license_date": "2015-09-17",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "久米島みそ食品　長田工場",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宜野湾市長田１－１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001719号",
+      "license_date": "2020-05-29",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "久米島みそ食品",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宜野湾市志真志４－２３－１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001720号",
+      "license_date": "2020-05-29",
+      "expire_date": "2026-05-31"
+    }
+  ]
+}

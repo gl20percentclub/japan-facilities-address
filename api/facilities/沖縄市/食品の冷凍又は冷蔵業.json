@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄オーガニックフード株式会社",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "沖縄市古謝２－９－２０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602244号",
+      "license_date": "2017-02-07",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "具志堅商店",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "沖縄市登川１－２－２２ 登川パレス１Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700634号",
+      "license_date": "2017-07-14",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "豚々茶舗",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "沖縄市知花５－１７－１８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800670号",
+      "license_date": "2018-07-12",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "上間フードアンドライフ",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "沖縄市登川３－２３－１８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802413号",
+      "license_date": "2019-03-22",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "有限会社　仲松商事",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "沖縄市住吉２－２８－３０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900466号",
+      "license_date": "2019-06-06",
+      "expire_date": "2025-06-30"
+    }
+  ]
+}

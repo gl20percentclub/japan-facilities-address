@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "マクドナルドとよみイオンタウン店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市字根差部７１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500355号",
+      "license_date": "2015-06-24",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "ファミリーマート豊見城インター前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市字平良５７３－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500440号",
+      "license_date": "2015-07-07",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "ｙｕｋｕＲｕ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市瀬長１７４－６ ウミカジテラス内７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500527号",
+      "license_date": "2015-07-24",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "ファミリーマート　豊見城警察署前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市瀬長１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501540号",
+      "license_date": "2016-02-02",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "笑輪咲",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市豊崎３－８６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600483号",
+      "license_date": "2016-07-08",
+      "expire_date": "2022-07-31"
+    },
+    {
+      "name": "沖縄特産販売株式会社",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市豊崎３－８４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601598号",
+      "license_date": "2017-02-22",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "肉御殿（ニクゴデン）",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市田頭１５５－１ イオンタウン内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601673号",
+      "license_date": "2017-03-17",
+      "expire_date": "2023-03-31"
+    },
+    {
+      "name": "ファミリーマート豊見城ニュータウン",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市真玉橋３１３－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800251号",
+      "license_date": "2018-06-05",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "有限会社ダイユウ産業",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市金良３８７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800470号",
+      "license_date": "2018-07-24",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "ミルティー",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市我那覇２３３－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800696号",
+      "license_date": "2018-09-18",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "ＵＤ　ＩＣＥ　ＣＲＥＡＭ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市伊良波１９６－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901201号",
+      "license_date": "2019-11-22",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "ブルーシール　豊崎店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市字豊崎１－４１１ 豊崎ライフスタイルセンターＴＯＭＩＴＯＮ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901563号",
+      "license_date": "2020-02-25",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "ゴディバアウトレットモールあしびなー店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市豊崎１－１８８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901693号",
+      "license_date": "2020-03-24",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "ファミリーマート　宜保中央店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市宜保４－５－１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000441号",
+      "license_date": "2020-06-12",
+      "expire_date": "2026-06-30"
+    },
+    {
+      "name": "ファミリーマート豊見城名嘉地店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市名嘉地２５９－２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000544号",
+      "license_date": "2020-07-03",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "ファミリーマート豊見城翁長店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市翁長６４６－７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000656号",
+      "license_date": "2020-08-03",
+      "expire_date": "2026-08-31"
+    },
+    {
+      "name": "マクドナルド豊見城サンエー店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "豊見城市高安２６１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000793号",
+      "license_date": "2020-09-08",
+      "expire_date": "2026-09-30"
+    }
+  ]
+}

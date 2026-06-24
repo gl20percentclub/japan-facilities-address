@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄明治乳業株式会社",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "浦添市牧港１－６５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501105号",
+      "license_date": "2015-10-21",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "株式会社金城商事",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "浦添市西洲２－８－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601086号",
+      "license_date": "2016-10-26",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "株式会社日献",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "浦添市西洲２－４－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700705号",
+      "license_date": "2017-09-15",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "株式会社リュクシス",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "浦添市勢理客２－１５－２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801419号",
+      "license_date": "2019-02-25",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "エムアンドビー株式会社",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "浦添市牧港１－６５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901672号",
+      "license_date": "2020-03-17",
+      "expire_date": "2026-03-31"
+    }
+  ]
+}

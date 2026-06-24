@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "垣花農園",
+      "name_kana": "",
+      "business_type": "しょうゆ製造業",
+      "address": "宮古島市平良字東仲宗根添１６３１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600374号",
+      "license_date": "2017-01-31",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "マルキヨ味噌",
+      "name_kana": "",
+      "business_type": "しょうゆ製造業",
+      "address": "宮古島市平良字荷川取６５１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800348号",
+      "license_date": "2018-11-12",
+      "expire_date": "2024-11-30"
+    }
+  ]
+}

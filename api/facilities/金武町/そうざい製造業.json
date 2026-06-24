@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "Ｃａｆｅ’　がらまんじゃく",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町金武１０５０７－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501965号",
+      "license_date": "2015-12-15",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "あたえ（与）",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町金武２４０－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600028号",
+      "license_date": "2016-04-12",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "マルマス食品",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町屋嘉２２０８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600436号",
+      "license_date": "2016-06-13",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "どりーむパン",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町金武２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601138号",
+      "license_date": "2016-09-05",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "タウンプラザかねひで金武鍾乳洞市場",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町金武７９５６－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800067号",
+      "license_date": "2018-04-13",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "田芋食堂",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町金武８２２３－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800201号",
+      "license_date": "2018-05-01",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "メランジェ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町金武４３０８－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800945号",
+      "license_date": "2018-08-21",
+      "expire_date": "2024-08-31"
+    },
+    {
+      "name": "豆腐ようファクトリー　龍の蔵",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町金武４３４８－１５ （Ｂ１Ｆ）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900841号",
+      "license_date": "2019-07-30",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "メランジェ工場２",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町金武４２７２－１（１Ｆ）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000211号",
+      "license_date": "2020-04-28",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "西武食品福寿亭",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町屋嘉２６４９－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000417号",
+      "license_date": "2020-05-22",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "屋嘉ビーチ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町屋嘉２３３－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001181号",
+      "license_date": "2020-09-17",
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "Ｈｅａｒｔ　Ｃｏｃｏ　／　Ｙｕｕ　Ｍｕｕ",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町金武４２６８－７ １ＦＢ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001396号",
+      "license_date": "2020-10-20",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "嘉海食堂",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "金武町屋嘉２３３０－１６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202100029号",
+      "license_date": "2021-04-06",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

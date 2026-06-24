@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "荷捌施設（せり市場）",
+      "name_kana": "",
+      "business_type": "魚介類競り売り営業",
+      "address": "読谷村都屋３３ 読谷村都屋漁港内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600152号",
+      "license_date": "2016-04-25",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "読谷漁協せり市場",
+      "name_kana": "",
+      "business_type": "魚介類競り売り営業",
+      "address": "読谷村都屋３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201700023号",
+      "license_date": "2017-04-05",
+      "expire_date": "2023-04-30"
+    }
+  ]
+}

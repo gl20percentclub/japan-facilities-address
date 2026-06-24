@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "やぎや",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡本部町具志堅１３３４ 田空の駅ハーソー公園内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600450号",
+      "license_date": "2016-09-23",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "オキちゃんパーラー",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "本部町字石川４２４番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600727号",
+      "license_date": "2017-01-10",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "農業生産法人　(株)　アセローラフレッシュ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡本部町並里５２－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700071号",
+      "license_date": "2017-04-27",
+      "expire_date": "2023-04-30"
+    },
+    {
+      "name": "カフェ　オーシャンブルー",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "本部町字石川４２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700169号",
+      "license_date": "2017-06-14",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "アイスクリンカフェ　アーク",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "本部町浜元９５０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700290号",
+      "license_date": "2017-08-03",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "もとぶかりゆし市場",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡本部町字大浜８８１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700383号",
+      "license_date": "2017-09-27",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "トロピカルフルーツカフェ　スコール",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡本部町字石川４２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800005号",
+      "license_date": "2018-04-06",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "ファミリーマート海洋博公園前店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡本部町字浦崎１８４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800494号",
+      "license_date": "2018-11-12",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "ファミリーマート本部山川店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡本部町山川１０１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900197号",
+      "license_date": "2019-06-24",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "Ｒｏｓｓｏ",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "本部町東１６９－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900359号",
+      "license_date": "2019-08-27",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "ビーチスナック",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡本部町石川４２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900740号",
+      "license_date": "2020-01-14",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "中央ゲートスナック",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡本部町石川４２４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900741号",
+      "license_date": "2020-01-14",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "田空ハーソー公園",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "国頭郡本部町具志堅１３３４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000244号",
+      "license_date": "2020-07-06",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

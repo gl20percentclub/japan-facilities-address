@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "金城製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "糸満市西崎１－１０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501487号",
+      "license_date": "2016-01-22",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "株式会社西崎製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "糸満市西崎２－３２－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201601119号",
+      "license_date": "2016-10-28",
+      "expire_date": "2022-10-31"
+    },
+    {
+      "name": "株式会社ホクガン",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "糸満市西崎町４－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800176号",
+      "license_date": "2018-05-21",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "株式会社　西崎製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "糸満市西崎２－３２－２０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801042号",
+      "license_date": "2018-11-20",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "株式会社ジェイシーシーわだや食品",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "糸満市西崎町４－１６－１６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801280号",
+      "license_date": "2019-01-24",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "南風堂　製麺工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "糸満市西崎町４－１５－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801494号",
+      "license_date": "2019-03-13",
+      "expire_date": "2025-03-31"
+    },
+    {
+      "name": "沖縄やぶ更科本店",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "糸満市真栄平８５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000070号",
+      "license_date": "2020-04-14",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "サン食品糸満工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "糸満市西崎町４－１３－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000887号",
+      "license_date": "2020-09-30",
+      "expire_date": "2026-09-30"
+    }
+  ]
+}

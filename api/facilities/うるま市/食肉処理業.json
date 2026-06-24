@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "うるま工場本社",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "うるま市州崎１３－４３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000425号",
+      "license_date": "2020-05-22",
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "株式会社沖縄県鶏卵食鳥流通センター",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "うるま市字川田３３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202001784号",
+      "license_date": "2020-10-30",
+      "expire_date": "2026-10-31"
+    }
+  ]
+}

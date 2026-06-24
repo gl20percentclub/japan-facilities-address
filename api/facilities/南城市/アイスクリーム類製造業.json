@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄まんまるカフェ　南城店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南城市知念安座真１１０６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500244号",
+      "license_date": "2015-05-25",
+      "expire_date": "2021-05-31"
+    },
+    {
+      "name": "手作りアイスクリームＥＭ玉城牧場",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南城市玉城字富里５５２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201500273号",
+      "license_date": "2015-06-02",
+      "expire_date": "2021-06-30"
+    },
+    {
+      "name": "ファミリーマート　南城馬天入口店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南城市佐敷字津波古303",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501457号",
+      "license_date": "2016-01-19",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "ファミリーマート南城親慶原店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南城市玉城仲村渠１２２５－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201701152号",
+      "license_date": "2017-12-18",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "ウチナー茶屋",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南城市玉城前川１３３６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800467号",
+      "license_date": "2018-07-23",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "新垣菓子店　たまぐすく店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南城市玉城堀川７０１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801208号",
+      "license_date": "2019-01-10",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "ファミリーマート佐敷東店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南城市佐敷屋比久１４６－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900493号",
+      "license_date": "2019-07-01",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "沖縄そば自慢　なんと屋",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南城市玉城字前川１３３６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900522号",
+      "license_date": "2019-07-05",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "南城市地域物産館",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南城市知念久手堅５３９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901038号",
+      "license_date": "2019-10-29",
+      "expire_date": "2025-10-31"
+    },
+    {
+      "name": "手作りアイスクリーム　ＥＭ玉城牧場　稲嶺店",
+      "name_kana": "",
+      "business_type": "アイスクリーム類製造業",
+      "address": "南城市大里字稲嶺２０３３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202100025号",
+      "license_date": "2021-04-06",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

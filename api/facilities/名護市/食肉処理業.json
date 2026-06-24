@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "有限会社　中央食品加工",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市許田２７８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600855号",
+      "license_date": "2017-02-22",
+      "expire_date": "2023-02-28"
+    },
+    {
+      "name": "有限会社沖縄化製工業",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市字世富慶７５５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700265号",
+      "license_date": "2017-07-26",
+      "expire_date": "2023-07-31"
+    },
+    {
+      "name": "フードサービスドルバコ",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市仲尾次３２８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700597号",
+      "license_date": "2017-12-18",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "やんばるミートプラザ",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市世冨慶７５５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800029号",
+      "license_date": "2018-04-13",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "（有）フレッシュミートがなは　第１加工場",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市宮里１４８０－１１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800094号",
+      "license_date": "2018-04-27",
+      "expire_date": "2024-04-30"
+    },
+    {
+      "name": "安村食肉販売店",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市字勝山８０６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800108号",
+      "license_date": "2018-05-14",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "有限会社北部食肉処理組合",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市字世富慶７５５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800236号",
+      "license_date": "2018-07-05",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "やんばる肉店",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市東江４－２４－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800573号",
+      "license_date": "2018-12-04",
+      "expire_date": "2025-01-31"
+    },
+    {
+      "name": "名護市食鳥処理施設",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市屋部１７７９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900252号",
+      "license_date": "2019-07-10",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "有限会社徳村食品",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市宮里６－１０－２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900978号",
+      "license_date": "2020-03-27",
+      "expire_date": "2026-03-31"
+    },
+    {
+      "name": "チラガー加工場",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市世冨慶７５５番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000017号",
+      "license_date": "2020-04-09",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "沖縄県立北部農林高等学校",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市名護４６０７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000531号",
+      "license_date": "2020-10-30",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "有限会社フレッシュミートがなは",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名護市宮里１４１０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202100134号",
+      "license_date": "2021-05-19",
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

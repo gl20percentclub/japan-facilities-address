@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "有限会社　サン・デリカ",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "中城村当間７８４ 沖縄ホーメル内",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201501769号",
+      "license_date": "2015-11-20",
+      "expire_date": "2021-11-30"
+    },
+    {
+      "name": "株式会社沖縄ホーメル",
+      "name_kana": "",
+      "business_type": "食肉製品製造業",
+      "address": "中城村当間７５８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201901954号",
+      "license_date": "2020-01-07",
+      "expire_date": "2026-01-31"
+    }
+  ]
+}

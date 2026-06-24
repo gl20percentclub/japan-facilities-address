@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "海の駅　チャンプルー",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "本部町山川１４２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400702号",
+      "license_date": "2015-01-07",
+      "expire_date": "2022-01-31"
+    },
+    {
+      "name": "ドコモショップモトブ店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "本部町渡久地１２６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201400875号",
+      "license_date": "2015-03-26",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "ドコモショップもとぶ店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町字渡久地１２６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600131号",
+      "license_date": "2016-06-01",
+      "expire_date": "2023-06-30"
+    },
+    {
+      "name": "照良産業",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町字辺名地５７２－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600618号",
+      "license_date": "2016-11-09",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "命水の駅　本部ガス",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "本部町字谷茶４４３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600774号",
+      "license_date": "2017-01-20",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "SEVEN VILLAGE",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町崎本部５０２０－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600810号",
+      "license_date": "2017-01-30",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "沖縄美ら島財団　キッチンカー",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町字石川８８８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700051号",
+      "license_date": "2017-04-24",
+      "expire_date": "2022-04-30"
+    },
+    {
+      "name": "Ｍｏｋｕｐｕｎｉ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町瀬底７２－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700578号",
+      "license_date": "2017-12-06",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "ペンション波",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町字崎本部５０２５－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700641号",
+      "license_date": "2018-01-18",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "カステラ本舗伊豆味",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "本部町字伊豆味２８２１－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700669号",
+      "license_date": "2018-01-29",
+      "expire_date": "2024-01-31"
+    },
+    {
+      "name": "ホテル　モトブリゾート",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町字渡久地８６１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800083号",
+      "license_date": "2018-04-27",
+      "expire_date": "2025-04-30"
+    },
+    {
+      "name": "株式会社　アセローラフレッシュ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町並里５２－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800244号",
+      "license_date": "2018-07-02",
+      "expire_date": "2024-07-31"
+    },
+    {
+      "name": "もとぶセルフＳＳ",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "本部町字大浜８７６－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800622号",
+      "license_date": "2019-01-17",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "name": "珈琲　のの茶房",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町大浜４７４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900435号",
+      "license_date": "2019-09-24",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "パーラー　みかんの里",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町伊豆味２８４６－１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900856号",
+      "license_date": "2020-02-19",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "まいまいシーサー",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町山川９６９　２Ｆ",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900967号",
+      "license_date": "2020-03-27",
+      "expire_date": "2026-03-31"
+    },
+    {
+      "name": "㈱サンエーＶ２１もとぶ食品館",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "本部町谷茶２９番地６２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000082号",
+      "license_date": "2020-05-08",
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "備瀬のあそびば",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "国頭郡本部町備瀬５０５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000143号",
+      "license_date": "2020-05-29",
+      "expire_date": "2026-05-31"
+    }
+  ]
+}

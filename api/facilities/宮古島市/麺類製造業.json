@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "伊良部そば　かめ",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宮古島市伊良部字長浜２５１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500116号",
+      "license_date": "2015-07-03",
+      "expire_date": "2021-07-31"
+    },
+    {
+      "name": "久松製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宮古島市平良字久貝１０６７－８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500424号",
+      "license_date": "2016-03-24",
+      "expire_date": "2022-03-31"
+    },
+    {
+      "name": "古謝製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宮古島市平良字下里１５１７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600169号",
+      "license_date": "2016-08-26",
+      "expire_date": "2022-08-31"
+    },
+    {
+      "name": "麺屋　サマー太陽",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宮古島市平良字下里570-2",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700365号",
+      "license_date": "2018-02-07",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "みなと食堂",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宮古島市平良字荷川取５９３－１０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900220号",
+      "license_date": "2019-09-19",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "手打ち蕎麦　末広",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宮古島市平良字久貝１２１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900276号",
+      "license_date": "2019-11-15",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "（株）ハワイ製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宮古島市平良字西里６８０－４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000026号",
+      "license_date": "2020-04-22",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "みなと食堂",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宮古島市平良字荷川取593-10",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000235号",
+      "license_date": "2020-10-21",
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "にしばるやー工房",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "宮古島市城辺友利３０６－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202100019号",
+      "license_date": "2021-04-16",
+      "expire_date": "2027-04-30"
+    }
+  ]
+}

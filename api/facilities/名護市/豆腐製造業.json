@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "喜瀬豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "名護市字伊差川８４４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700119号",
+      "license_date": "2017-05-22",
+      "expire_date": "2023-05-31"
+    },
+    {
+      "name": "合名会社　喜屋武食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "名護市字為又１１９４－７３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700322号",
+      "license_date": "2017-08-17",
+      "expire_date": "2023-08-31"
+    },
+    {
+      "name": "合同会社もとぶ食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "名護市伊差川５１４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700384号",
+      "license_date": "2017-09-27",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "上間豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "名護市字屋部５５２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201700729号",
+      "license_date": "2018-02-20",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "振慶名豆腐店",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "名護市字振慶名１６１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201800393号",
+      "license_date": "2018-09-18",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "渡具知食品",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "名護市世冨慶８４７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000575号",
+      "license_date": "2020-11-30",
+      "expire_date": "2026-11-30"
+    }
+  ]
+}

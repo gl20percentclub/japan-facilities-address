@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "いも金本舗金金",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "金武町金武６３５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602078号",
+      "license_date": "2017-01-17",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "株式会社金武町特産品加工センター",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "金武町金武４０９０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800378号",
+      "license_date": "2018-05-28",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "ざまみ食堂",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "金武町金武１０５２６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201900796号",
+      "license_date": "2019-07-24",
+      "expire_date": "2025-07-31"
+    },
+    {
+      "name": "ＪＡおきなわ金武支店女性部",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "金武町金武４１８－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201902503号",
+      "license_date": "2020-03-16",
+      "expire_date": "2026-03-31"
+    }
+  ]
+}

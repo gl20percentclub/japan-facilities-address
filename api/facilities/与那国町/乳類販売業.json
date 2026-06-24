@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "比川自治公民館共同売店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "与那国町字与那国３０５６番地１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201500462号",
+      "license_date": "2015-11-25",
+      "expire_date": "2022-11-30"
+    },
+    {
+      "name": "鹿川商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "与那国町字与那国４０２２－７２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600497号",
+      "license_date": "2016-11-24",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "崎原商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "与那国町字与那国２０３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600500号",
+      "license_date": "2016-11-24",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "ふくやまスーパー",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "与那国町字与那国８５番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201600519号",
+      "license_date": "2016-11-30",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "前原商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "与那国町与那国３５３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700490号",
+      "license_date": "2017-11-08",
+      "expire_date": "2023-11-30"
+    },
+    {
+      "name": "生活雑貨の店 ふく",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "八重山郡与那国町与那国59-3",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700550号",
+      "license_date": "2017-11-28",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "大朝商店",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "与那国町字与那国４０２２－３８",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201700556号",
+      "license_date": "2017-11-28",
+      "expire_date": "2024-11-30"
+    },
+    {
+      "name": "アマランショップ",
+      "name_kana": "",
+      "business_type": "乳類販売業",
+      "address": "八重山郡与那国町字与那国４６４７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第07201900456号",
+      "license_date": "2019-11-20",
+      "expire_date": "2026-11-30"
+    }
+  ]
+}

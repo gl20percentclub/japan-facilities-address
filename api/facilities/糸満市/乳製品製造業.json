@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "Bells　Daily",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "糸満市喜屋武１３８９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201600229号",
+      "license_date": "2016-05-20",
+      "expire_date": "2022-05-31"
+    },
+    {
+      "name": "沖縄県立沖縄水産高等学校",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "糸満市西崎１－１－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201800220号",
+      "license_date": "2018-05-28",
+      "expire_date": "2024-05-31"
+    },
+    {
+      "name": "株式会社　宮平乳業",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "糸満市西崎町４－１５－６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201801456号",
+      "license_date": "2019-02-28",
+      "expire_date": "2026-02-28"
+    },
+    {
+      "name": "ベルズデイリー",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "糸満市字喜屋武６",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000129号",
+      "license_date": "2020-04-20",
+      "expire_date": "2026-04-30"
+    },
+    {
+      "name": "（株）Ｈｏｎｅｙ　Ｆｕｓｉｏｎ　糸満工場",
+      "name_kana": "",
+      "business_type": "乳製品製造業",
+      "address": "糸満市字伊原５６４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000431号",
+      "license_date": "2020-06-10",
+      "expire_date": "2026-06-30"
+    }
+  ]
+}

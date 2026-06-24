@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県農業協同組合　東風平支店",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "八重瀬町字伊覇２９０－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201501020号",
+      "license_date": "2015-09-30",
+      "expire_date": "2021-09-30"
+    },
+    {
+      "name": "菊みそ加工所　夢工房",
+      "name_kana": "",
+      "business_type": "ソース類製造業",
+      "address": "八重瀬町当銘２５４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201700380号",
+      "license_date": "2017-06-30",
+      "expire_date": "2023-06-30"
+    }
+  ]
+}

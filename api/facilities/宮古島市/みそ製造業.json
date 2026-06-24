@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "仲間商店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市城辺字長間２７３－３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201500397号",
+      "license_date": "2016-02-24",
+      "expire_date": "2022-02-28"
+    },
+    {
+      "name": "どりーむ　沖縄",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市城辺字福里６１４－６　（１Ｆ）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201600379号",
+      "license_date": "2017-01-31",
+      "expire_date": "2023-01-31"
+    },
+    {
+      "name": "(株)パラダイスプラン　第３工場",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市平良字下里392-3",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201700196号",
+      "license_date": "2017-09-11",
+      "expire_date": "2023-09-30"
+    },
+    {
+      "name": "かぎや食品",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市平良字西原３４７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800316号",
+      "license_date": "2018-10-26",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "ＪＡおきなわ宮古地区女性部",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市平良字西里１４４７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201800444号",
+      "license_date": "2019-02-07",
+      "expire_date": "2025-02-28"
+    },
+    {
+      "name": "ぐすくべ寿加工グループ",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市城辺字福里５５７－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900108号",
+      "license_date": "2019-06-26",
+      "expire_date": "2025-06-30"
+    },
+    {
+      "name": "マルキヨ味噌",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市平良字荷川取６５１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900185号",
+      "license_date": "2019-08-23",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "浜口水産味噌工場",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市伊良部字国仲８５－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900200号",
+      "license_date": "2019-09-04",
+      "expire_date": "2025-09-30"
+    },
+    {
+      "name": "克ちゃんみそ加工所",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市城辺字長間４番地",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06201900271号",
+      "license_date": "2019-11-11",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "ぐすくべ寿加工",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市城辺字福里５７７－２ 城辺町特産品開発研修センター",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000297号",
+      "license_date": "2020-11-24",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "ミリオン食品",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市城辺字比嘉９４４",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000346号",
+      "license_date": "2020-07-31",
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "いもともや食品加工所",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "宮古島市平良松原２６５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第06202000444号",
+      "license_date": "2021-01-29",
+      "expire_date": "2027-01-31"
+    }
+  ]
+}

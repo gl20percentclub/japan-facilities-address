@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "うずまき",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "糸満市新垣５２７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201900670号",
+      "license_date": "2019-08-06",
+      "expire_date": "2025-08-31"
+    },
+    {
+      "name": "沖縄県農業協同組合　糸満支店　女性部",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "糸満市字大里１４４－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05201901690号",
+      "license_date": "2020-03-24",
+      "expire_date": "2026-03-31"
+    },
+    {
+      "name": "株式会社　赤マルソウ",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "糸満市西崎町４－１０－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第05202000596号",
+      "license_date": "2020-07-20",
+      "expire_date": "2026-07-31"
+    }
+  ]
+}

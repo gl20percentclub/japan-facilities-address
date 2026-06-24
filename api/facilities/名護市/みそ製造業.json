@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "沖縄県立　北部農林高等学校",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "名護市字宇茂佐１３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201600197号",
+      "license_date": "2016-06-22",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "手づくり工房　ゆひな",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "名護市宇茂佐の森１－１２－９",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01201900584号",
+      "license_date": "2019-11-12",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "沖縄県農業協同組合　羽地支店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "名護市伊差川３２７－１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000523号",
+      "license_date": "2020-11-18",
+      "expire_date": "2026-11-30"
+    },
+    {
+      "name": "沖縄県農業協同組合　名護支店",
+      "name_kana": "",
+      "business_type": "みそ製造業",
+      "address": "名護市宮里４－６－３７",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第01202000543号",
+      "license_date": "2020-11-30",
+      "expire_date": "2026-11-30"
+    }
+  ]
+}

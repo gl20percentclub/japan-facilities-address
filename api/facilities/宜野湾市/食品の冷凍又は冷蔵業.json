@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "（株）セントラルミート",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宜野湾市普天間２－１３－５",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201601178号",
+      "license_date": "2016-09-12",
+      "expire_date": "2022-09-30"
+    },
+    {
+      "name": "株式会社　ジミー",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宜野湾市大山７－２－２０",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801074号",
+      "license_date": "2018-09-13",
+      "expire_date": "2024-09-30"
+    },
+    {
+      "name": "ＯＩＮＡＬＩＡＮ（オイナリアン）",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "宜野湾市大山６－４６－３ （１Ｆ）",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201802149号",
+      "license_date": "2019-02-06",
+      "expire_date": "2025-02-28"
+    }
+  ]
+}

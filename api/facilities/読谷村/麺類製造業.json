@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "updated": 1782280239
+  },
+  "data": [
+    {
+      "name": "番所亭",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "読谷村喜名４７３",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201600444号",
+      "license_date": "2016-06-13",
+      "expire_date": "2022-06-30"
+    },
+    {
+      "name": "株式会社御菓子御殿フーズ楚辺工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "読谷村楚辺２３２６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201602292号",
+      "license_date": "2017-02-13",
+      "expire_date": "2024-02-29"
+    },
+    {
+      "name": "株式会社御菓子御殿クリエーション楚辺工場",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "読谷村楚辺２３２６－２",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201800571号",
+      "license_date": "2018-06-28",
+      "expire_date": "2024-06-30"
+    },
+    {
+      "name": "金月製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "読谷村喜名２０１",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03201801314号",
+      "license_date": "2018-10-17",
+      "expire_date": "2024-10-31"
+    },
+    {
+      "name": "麺屋はちれん",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "読谷村喜名２３４６－１１ 読谷村地域振興センター３階",
+      "lat": null,
+      "lng": null,
+      "phone": "",
+      "license_no": "第03202000104号",
+      "license_date": "2020-04-20",
+      "expire_date": "2026-04-30"
+    }
+  ]
+}
