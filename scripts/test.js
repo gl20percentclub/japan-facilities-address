@@ -54,6 +54,7 @@ assert(prefectures.length >= 1, `少なくとも1つの都道府県がある (${
 // 3. 都道府県ごとに index.json と各市区町村の data.json を検証
 let totalFacilities = 0;
 let totalCities = 0;
+let withCoords = 0;
 let checkedFacilitySample = false;
 
 for (const pref of prefectures) {
@@ -96,20 +97,41 @@ for (const pref of prefectures) {
       failures++;
     }
 
+    // 座標の検証: 値があれば数値かつ日本の範囲内であること
+    for (const f of cityData.data) {
+      const hasLat = f.lat != null;
+      const hasLng = f.lng != null;
+      if (hasLat || hasLng) {
+        if (
+          typeof f.lat !== 'number' || typeof f.lng !== 'number' ||
+          f.lat < 20 || f.lat > 46 || f.lng < 122 || f.lng > 154
+        ) {
+          console.error(`  ✗ ${pref}/${city}: 不正な座標 (${f.lat}, ${f.lng}) - ${f.name}`);
+          failures++;
+        } else {
+          withCoords++;
+        }
+      }
+    }
+
     if (!checkedFacilitySample && cityData.data.length > 0) {
       assert(cityData.meta && typeof cityData.meta === 'object', `施設JSONに meta がある (${pref}/${city})`);
       const sample = cityData.data[0];
       assert(sample && 'name' in sample, '施設に name フィールドがある');
       assert(sample && 'address' in sample, '施設に address フィールドがある');
       assert(sample && 'business_type' in sample, '施設に business_type フィールドがある');
+      assert(sample && 'lat' in sample && 'lng' in sample, '施設に lat / lng フィールドがある');
+      assert(sample && 'geocoding_level' in sample, '施設に geocoding_level フィールドがある');
       checkedFacilitySample = true;
     }
   }
 }
 
 assert(checkedFacilitySample, '少なくとも1つの施設サンプルを検証した');
+assert(withCoords > 0, `座標を持つ施設が存在する (${withCoords}件)`);
 
 console.log(`\n施設総数: ${totalFacilities}件 / ${totalCities}市区町村 / ${prefectures.length}都道府県`);
+console.log(`座標あり: ${withCoords}件 (${((withCoords / totalFacilities) * 100).toFixed(1)}%)`);
 
 if (failures > 0) {
   console.error(`\n❌ ${failures}件のチェックに失敗`);

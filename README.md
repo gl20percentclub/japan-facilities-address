@@ -55,8 +55,9 @@ api/facilities/
       "name_kana": "ステーキハウスマルマル",
       "business_type": "飲食店営業",
       "address": "那覇市松山1-9-9",
-      "lat": null,
-      "lng": null,
+      "lat": 26.216965935,
+      "lng": 127.678060421,
+      "geocoding_level": 8,
       "phone": "098-XXX-XXXX",
       "license_no": "第01202300556号",
       "license_date": "2023-12-07",
@@ -65,6 +66,19 @@ api/facilities/
   ]
 }
 ```
+
+#### 緯度経度（ジオコーディング）
+
+元データに緯度経度が無い施設は、住所をもとに
+[@geolonia/normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses)
+で座標を補完します。
+
+- `lat` / `lng`: WGS84（EPSG:4326）。補完できなかった場合は `null`。
+- `geocoding_level`: 補完した座標の**精度レベル**。元データに座標があった場合や補完できなかった場合は `null`。
+  - `1` = 都道府県の代表点 / `2` = 市区町村の代表点 / `3` = 町丁目の代表点（重心） / `8` = 街区・地番レベル
+  - 値が小さいほど大まかな位置（例: `3` は丁目の中心であり、建物の正確な位置ではない）。
+
+補完結果は `.cache/geocode-cache.json` にキャッシュされ、再クロール時に再利用されます。
 
 ## 使い方
 
@@ -76,6 +90,9 @@ npm run build
 
 # ダウンロードをスキップしキャッシュ（.cache/）を使う
 npm run build:dry
+
+# ジオコーディングをスキップして高速に生成（座標は補完されない）
+node scripts/crawl.js --no-geocode
 
 # 生成結果のバリデーション
 npm test
