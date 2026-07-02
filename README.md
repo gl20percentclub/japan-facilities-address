@@ -13,15 +13,36 @@
 **都道府県 > 市区町村 > `data.json`** の3階層構造です。
 
 ```
-api/facilities/
-├── index.json                  # 都道府県一覧（都道府県名 → 市区町村名の配列）
-└── 沖縄県/
-    ├── index.json              # 市区町村名 → 施設数 のマップ
-    ├── 那覇市/
-    │   └── data.json           # その市区町村の全施設オブジェクトの配列
-    └── 宜野湾市/
-        └── data.json
+api/
+├── search-index.json           # 施設名検索用のコンパクトな索引（全市区町村横断）
+└── facilities/
+    ├── index.json              # 都道府県一覧（都道府県名 → 市区町村名の配列）
+    └── 沖縄県/
+        ├── index.json          # 市区町村名 → 施設数 のマップ
+        ├── 那覇市/
+        │   └── data.json       # その市区町村の全施設オブジェクトの配列
+        └── 宜野湾市/
+            └── data.json
 ```
+
+### `search-index.json`（施設名検索用）
+
+施設名で横断検索したい利用側（地図アプリ等）向けの軽量な索引。各 `data.json` を
+個別に読むと重い（合計〜14MB）ため、検索に必要な項目だけを配列形式で 1 ファイルに
+まとめています（gzip 配信で数百KB 程度）。`npm run build:search-index` で再生成、
+クロール時（`npm run build`）にも自動生成されます。
+
+```json
+{
+  "meta": { "updated": 1700000000, "count": 26374, "schema": ["name", "address", "lat", "lng", "level"] },
+  "data": [
+    ["ココストアうるま江洲店", "うるま市江洲３９８番地", 26.350128, 127.825863, 8]
+  ]
+}
+```
+
+- 各行は `meta.schema` の順（`name, address, lat, lng, level`）。
+- 同一施設（業種違いで複数行）は `名前+座標` で重複排除済み。座標を持つ施設のみ収録。
 
 ### `index.json`
 
