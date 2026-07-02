@@ -139,6 +139,28 @@ for (const pref of prefectures) {
 assert(checkedFacilitySample, '少なくとも1つの施設サンプルを検証した');
 assert(withCoords > 0, `座標を持つ施設が存在する (${withCoords}件)`);
 
+// 4. 施設名検索用の索引 api/search-index.json を検証
+const indexPath = path.join(ROOT, 'api', 'search-index.json');
+assert(fs.existsSync(indexPath), 'api/search-index.json が存在する');
+if (fs.existsSync(indexPath)) {
+  const idx = readJSON(indexPath);
+  assert(Array.isArray(idx.data), 'search-index の data は配列である');
+  assert(
+    Array.isArray(idx.meta?.schema) && idx.meta.schema[0] === 'name',
+    'search-index の meta.schema が定義されている',
+  );
+  assert(idx.data.length > 0, `search-index に施設が存在する (${idx.data?.length ?? 0}件)`);
+  // 先頭の行を検証: [name, address, lat, lng, level]
+  const row = idx.data[0];
+  const [name, , lat, lng] = row;
+  assert(typeof name === 'string' && name !== '', 'search-index の行に施設名がある');
+  assert(
+    typeof lat === 'number' && typeof lng === 'number' &&
+      lat >= 20 && lat <= 46 && lng >= 122 && lng <= 154,
+    'search-index の座標が日本の範囲内である',
+  );
+}
+
 console.log(`\n施設総数: ${totalFacilities}件 / ${totalCities}市区町村 / ${prefectures.length}都道府県`);
 console.log(`座標あり: ${withCoords}件 (${((withCoords / totalFacilities) * 100).toFixed(1)}%)`);
 
