@@ -100,6 +100,21 @@ const COLUMN_MAP = {
   '許可満了日': 'valid_end',
   '許可終了日': 'valid_end',
 
+  // --- BODIK 各自治体フォーマットのヘッダー揺れ ---
+  '営業施設屋号': 'facility_name', // 四日市市
+  '営業施設住所': 'address',
+  '初許可日': 'first_license_date',
+  '申請者氏名': 'operator_name',
+  '施設_名称': 'facility_name', // 静岡市（半角アンダースコア区切り）
+  '施設_所在地1': 'address',
+  '施設_所在地2': 'address_extra',
+  '施設_電話番号': 'phone',
+  '申請者_氏名': 'operator_name',
+  '終了年月日': 'valid_end',
+  '営業許可番号': 'license_no', // 北九州市 ほか
+  '許可期間_開始': 'valid_start',
+  '許可期間_終了': 'valid_end',
+
   // --- 京都市フォーマット（区ごとシート） ---
   '申請者＿申請者名': 'operator_name',
   '営業所＿所在地１': 'address',
@@ -192,11 +207,18 @@ function normalizeDate(raw) {
 // リソース取得（CKAN / 直リンクGET / POSTフォーム）
 // ---------------------------------------------------------------------------
 
-// CKAN API: リソース情報（URL・フォーマット）を取得
-async function fetchCkanResourceInfo(ckanBase, resourceId) {
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// CKAN API: リソース情報（URL・フォーマット）を取得。
+// 一時的なレート制限（403/429）や5xxは指数バックオフで数回リトライする。
+async function fetchCkanResourceInfo(ckanBase, resourceId, attempt = 0) {
   const url = `${ckanBase}/api/3/action/resource_show?id=${encodeURIComponent(resourceId)}`;
   const res = await fetch(url);
   if (!res.ok) {
+    if ((res.status === 403 || res.status === 429 || res.status >= 500) && attempt < 4) {
+      await sleep(1000 * 2 ** attempt);
+      return fetchCkanResourceInfo(ckanBase, resourceId, attempt + 1);
+    }
     throw new Error(`resource_show failed: ${res.status} ${res.statusText} (${resourceId})`);
   }
   const json = await res.json();
@@ -204,6 +226,15 @@ async function fetchCkanResourceInfo(ckanBase, resourceId) {
     throw new Error(`resource_show returned success=false (${resourceId})`);
   }
   return json.result; // { url, format, ... }
+}
+
+// キャッシュ済みファイルを拡張子から探す（dry-run で CKAN 問い合わせを避けるため）
+function findCachedFile(key) {
+  for (const ext of ['csv', 'xlsx', 'xls']) {
+    const p = path.join(CACHE_DIR, `${key}.${ext}`);
+    if (fs.existsSync(p)) return { cachePath: p, format: ext };
+  }
+  return null;
 }
 
 // ファイルをダウンロードして .cache/ に保存する。
@@ -214,6 +245,15 @@ async function fetchCkanResourceInfo(ckanBase, resourceId) {
 // 返り値: { cachePath, format }
 async function acquire(source) {
   const a = source.acquire;
+
+  // dry-run はキャッシュのみ使用。CKAN 問い合わせをせず拡張子からファイルを特定する。
+  if (DRY_RUN) {
+    const hit = findCachedFile(source.key);
+    if (!hit) throw new Error(`--dry-run ですがキャッシュが存在しません: ${source.key}`);
+    console.log(`  [dry-run] キャッシュを使用: ${hit.cachePath}`);
+    return hit;
+  }
+
   let downloadUrl = a.url;
   let format = (a.format || '').toLowerCase();
 
@@ -230,14 +270,6 @@ async function acquire(source) {
 
   const ext = format === 'xlsx' ? 'xlsx' : format === 'xls' ? 'xls' : 'csv';
   const cachePath = path.join(CACHE_DIR, `${source.key}.${ext}`);
-
-  if (DRY_RUN) {
-    if (!fs.existsSync(cachePath)) {
-      throw new Error(`--dry-run ですがキャッシュが存在しません: ${cachePath}`);
-    }
-    console.log(`  [dry-run] キャッシュを使用: ${cachePath}`);
-    return { cachePath, format };
-  }
 
   const fetchOpts = {};
   if (a.type === 'post') {
