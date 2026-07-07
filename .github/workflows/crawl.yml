@@ -42,7 +42,7 @@ jobs:
         run: node scripts/crawl.js ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '--dry-run' || '' }}
 
       - name: Validate
-        run: node scripts/test.js
+        run: npm test
 
       - name: Check for changes
         id: changes
