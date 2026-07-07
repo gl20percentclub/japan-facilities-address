@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "updated": 1783366001,
+    "retrievedAt": "2026-07-06"
+  },
+  "service": {
+    "name": "全国施設オープンデータ配信サービス",
+    "description": "各自治体が公開する食品営業許可・届出のオープンデータを取得・加工・統合し、全国横断で検索・配信するサービスです。",
+    "url": "https://geolonia.github.io/japan-facilities-address",
+    "termsPath": "NOTICE.md"
+  },
+  "disclaimer": "本データは各自治体のオープンデータを加工・統合した非公式の参考情報です。正確性・完全性・最新性は保証されません。緯度経度は当サービスが付与した参考値で、実際の所在地と異なる場合があります。正式な情報は各自治体の公開情報をご確認ください。",
+  "sources": [
+    {
+      "municipality": "沖縄県",
+      "datasetName": "食品営業許可・届出一覧",
+      "sourceUrl": "https://data.bodik.jp/dataset/okinawa-dpf_okinawa_pref",
+      "downloadUrl": "https://data.bodik.jp/dataset/1491f4e0-4631-45c2-b5d9-ecbce3206a01/resource/44bb9c40-b890-415e-945d-cc60ec426a84/download/1_suisyou_syokuhin-1.xlsx",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "sourceUpdatedAt": "2026-03-05",
+      "retrievedAt": "2026-07-06"
+    }
+  ],
+  "notices": {
+    "accuracy": {
+      "title": "正確性・最新性について",
+      "body": [
+        "本サービスは、各自治体が公開するオープンデータを取得・加工・統合して提供しています。",
+        "内容の正確性、完全性、最新性について保証するものではありません。",
+        "最新かつ正式な情報は、各自治体が公開する情報をご確認ください。"
+      ]
+    },
+    "processing": {
+      "title": "加工データであることについて",
+      "body": [
+        "本データは各自治体が公開するオープンデータを加工・統合したものです。",
+        "当サービスでは、全国共通フォーマットへの正規化、項目名の統一、緯度経度の付与などの加工を行っています。"
+      ]
+    },
+    "geocoding": {
+      "title": "緯度経度について",
+      "body": [
+        "緯度経度は当サービスが独自に付与した参考情報です。",
+        "緯度経度は自治体が提供しているものではなく、住所等を元にジオコーディングして付与しています。",
+        "一部施設について位置情報が実際の所在地と異なる場合があります。",
+        "地図表示や位置情報について正確性を保証するものではありません。"
+      ]
+    },
+    "unofficial": {
+      "title": "公式サービスではないことについて",
+      "body": [
+        "本サービスは各自治体が公開するオープンデータを独自に集約・加工したサービスです。",
+        "各自治体の公式サービスではありません。"
+      ]
+    }
+  }
+}

@@ -1,6 +1,10 @@
 {
   "meta": {
-    "updated": 1783366001
+    "updated": 1783366001,
+    "source": "沖縄県食品営業許可・届出一覧",
+    "license": "CC BY 4.0",
+    "disclaimer": "本データは各自治体のオープンデータを加工・統合した非公式の参考情報です。正確性・完全性・最新性は保証されません。緯度経度は当サービスが付与した参考値で、実際の所在地と異なる場合があります。正式な情報は各自治体の公開情報をご確認ください。",
+    "attribution": "https://geolonia.github.io/japan-facilities-address/api/attribution.json"
   },
   "data": [
     {
