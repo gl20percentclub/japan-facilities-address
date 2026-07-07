@@ -100,6 +100,69 @@ const COLUMN_MAP = {
   '許可満了日': 'valid_end',
   '許可終了日': 'valid_end',
 
+  // --- 各自治体ポータル フォーマットのヘッダー揺れ ---
+  '営業所名': 'facility_name', // 秋田市・柏市
+  '営業所住所': 'address',
+  '申請者名': 'operator_name',
+  '許可期間（開始）': 'valid_start',
+  '許可期間（満了）': 'valid_end',
+  '業態名': 'business_subtype',
+  '有効期限': 'valid_end',
+  '営業所の名称': 'facility_name', // 川崎市
+  '営業所の所在地': 'address',
+  '営業所の所在地方書': 'address_extra',
+  '営業者氏名（法人のみ）': 'operator_name',
+  '営業種目': 'business_type',
+  '施設屋号': 'facility_name', // 富山県
+  '施設住所１': 'address',
+  '施設住所２': 'address_extra',
+  '施設市町村': 'city_name',
+  '施設都道府県': 'prefecture_name',
+  '細分類名': 'business_subtype',
+  '新規許可日': 'first_license_date',
+  '営業施設名称１': 'facility_name', // 長野県
+  '営業所所在地１': 'address',
+  '営業所所在地２': 'address_extra',
+  '営業所名1': 'facility_name', // 藤沢市（TSV）
+  '営業所所在地1': 'address',
+  '営業所所在地2': 'address_extra',
+  '詳細業種': 'business_subtype',
+  '屋号(漢字)': 'facility_name', // 岐阜県
+  '申請者名(漢字)': 'operator_name',
+  '許可業種名': 'business_type',
+  '最初の許可年月日': 'first_license_date',
+  '現在の許可年月日': 'license_date',
+  '現在の有効年月日': 'valid_end',
+  '屋号名称': 'facility_name', // 千葉市（住所は区+町丁+番地に分割）
+  '営業所住所区': 'address_ward',
+  '営業所住所町丁': 'address_town',
+  '営業所住所番地': 'address_street',
+  '施設名称': 'facility_name', // 福井市（施設名称/施設所在地）
+  '施設所在地': 'address',
+  '施設電話番号': 'phone',
+  // --- デジタル庁 推奨データセット（英語ヘッダー: 鳥取市 ほか） ---
+  'name': 'facility_name',
+  'nameKana': 'facility_name_kana',
+  'category': 'business_type',
+  'categoryDetail': 'business_subtype',
+  'fullAddress': 'address',
+  'prefecture': 'prefecture_name',
+  'city': 'city_name',
+  'latitude': 'lat',
+  'longitude': 'lng',
+  'contactPointPhoneNumber': 'phone',
+  'localGovernmentCode': 'city_code',
+  // --- 推奨データセット（全角アンダースコア＿: 松山市 ほか） ---
+  '施設名称1': 'facility_name',
+  '施設名称＿ｶﾅ': 'facility_name_kana',
+  '営業の種類': 'business_type',
+  '所在地＿連結表記': 'address',
+  '施設所在地＿都道府県': 'prefecture_name',
+  '施設所在地＿市区町村': 'city_name',
+  '施設所在地＿町字': 'address_town',
+  '施設所在地＿番地以下': 'address_street',
+  '施設方書': 'address_extra',
+
   // --- BODIK 各自治体フォーマットのヘッダー揺れ ---
   '営業施設屋号': 'facility_name', // 四日市市
   '営業施設住所': 'address',
@@ -237,57 +300,69 @@ function findCachedFile(key) {
   return null;
 }
 
-// ファイルをダウンロードして .cache/ に保存する。
-// acquire の type に応じて取得方法を切り替える:
-//   ckan : CKAN resource_show でファイルURLと形式を解決してGET
-//   get  : url を直接GET
-//   post : url に application/x-www-form-urlencoded でPOST（例: 京都市ポータル）
-// 返り値: { cachePath, format }
+// bot 対策で User-Agent 等を求めるサーバがあるため、常識的なヘッダを付ける。
+const DEFAULT_HEADERS = {
+  'User-Agent': 'Mozilla/5.0 (compatible; japan-facilities-api/1.0; +https://github.com/gl20percentclub/japan-facilities-address)',
+  'Accept-Language': 'ja,en;q=0.8',
+  Accept: '*/*',
+};
+
+// ソースが取得すべきファイル群を返す。単一 url でも複数 urls[] でも扱える。
+// 返り値: [{ cachePath, format }, ...]（複数ファイルはパース後に結合される）
 async function acquire(source) {
   const a = source.acquire;
+  const urls = a.urls || (a.url ? [a.url] : [null]); // ckan は url なしで resourceId 解決
+  const results = [];
 
-  // dry-run はキャッシュのみ使用。CKAN 問い合わせをせず拡張子からファイルを特定する。
-  if (DRY_RUN) {
-    const hit = findCachedFile(source.key);
-    if (!hit) throw new Error(`--dry-run ですがキャッシュが存在しません: ${source.key}`);
-    console.log(`  [dry-run] キャッシュを使用: ${hit.cachePath}`);
-    return hit;
+  for (let i = 0; i < urls.length; i++) {
+    const suffix = urls.length > 1 ? `-${i}` : '';
+    const key = `${source.key}${suffix}`;
+
+    // dry-run はキャッシュのみ使用。CKAN 問い合わせをせず拡張子からファイルを特定する。
+    if (DRY_RUN) {
+      const hit = findCachedFile(key);
+      if (!hit) throw new Error(`--dry-run ですがキャッシュが存在しません: ${key}`);
+      console.log(`  [dry-run] キャッシュを使用: ${hit.cachePath}`);
+      results.push(hit);
+      continue;
+    }
+
+    let downloadUrl = urls[i];
+    let format = (a.format || '').toLowerCase();
+
+    if (a.type === 'ckan') {
+      const info = await fetchCkanResourceInfo(a.ckanBase, a.resourceId);
+      downloadUrl = info.url;
+      if (!format) format = (info.format || '').toLowerCase();
+    }
+    if (!format) {
+      const m = String(downloadUrl).toLowerCase().match(/\.(csv|tsv|txt|xlsx|xls)(?:$|\?)/);
+      format = m ? m[1] : 'csv';
+    }
+    if (format === 'txt') format = 'tsv'; // LinkData 等の tab 区切り txt
+
+    const ext = format === 'xlsx' ? 'xlsx' : format === 'xls' ? 'xls' : format === 'tsv' ? 'tsv' : 'csv';
+    const cachePath = path.join(CACHE_DIR, `${key}.${ext}`);
+
+    const fetchOpts = { headers: { ...DEFAULT_HEADERS } };
+    if (a.type === 'post') {
+      fetchOpts.method = 'POST';
+      fetchOpts.headers['Content-Type'] = 'application/x-www-form-urlencoded';
+      fetchOpts.body = new URLSearchParams(a.body || {}).toString();
+    }
+
+    console.log(`  ダウンロード中: ${downloadUrl}`);
+    const res = await fetch(downloadUrl, fetchOpts);
+    if (!res.ok) {
+      throw new Error(`ダウンロード失敗: ${res.status} ${res.statusText}`);
+    }
+    const buf = Buffer.from(await res.arrayBuffer());
+    fs.mkdirSync(CACHE_DIR, { recursive: true });
+    fs.writeFileSync(cachePath, buf);
+    console.log(`  キャッシュに保存: ${cachePath} (${buf.length} bytes)`);
+    results.push({ cachePath, format });
   }
-
-  let downloadUrl = a.url;
-  let format = (a.format || '').toLowerCase();
-
-  if (a.type === 'ckan') {
-    const info = await fetchCkanResourceInfo(a.ckanBase, a.resourceId);
-    downloadUrl = info.url;
-    if (!format) format = (info.format || '').toLowerCase();
-  }
-  if (!format) {
-    // URL 末尾の拡張子から推定
-    const m = String(downloadUrl).toLowerCase().match(/\.(csv|xlsx|xls)(?:$|\?)/);
-    format = m ? m[1] : 'csv';
-  }
-
-  const ext = format === 'xlsx' ? 'xlsx' : format === 'xls' ? 'xls' : 'csv';
-  const cachePath = path.join(CACHE_DIR, `${source.key}.${ext}`);
-
-  const fetchOpts = {};
-  if (a.type === 'post') {
-    fetchOpts.method = 'POST';
-    fetchOpts.headers = { 'Content-Type': 'application/x-www-form-urlencoded' };
-    fetchOpts.body = new URLSearchParams(a.body || {}).toString();
-  }
-
-  console.log(`  ダウンロード中: ${downloadUrl}`);
-  const res = await fetch(downloadUrl, fetchOpts);
-  if (!res.ok) {
-    throw new Error(`ダウンロード失敗: ${res.status} ${res.statusText}`);
-  }
-  const buf = Buffer.from(await res.arrayBuffer());
-  fs.mkdirSync(CACHE_DIR, { recursive: true });
-  fs.writeFileSync(cachePath, buf);
-  console.log(`  キャッシュに保存: ${cachePath} (${buf.length} bytes)`);
-  return { cachePath, format };
+  return results;
 }
 
 // ---------------------------------------------------------------------------
@@ -295,7 +370,7 @@ async function acquire(source) {
 // ---------------------------------------------------------------------------
 
 // CSV のバイト列を文字列にデコードする。
-//   encoding 明示（'utf-8' / 'shift_jis'）があればそれを使う。
+//   encoding 明示（'utf-8' / 'shift_jis' / 'utf-16' / 'utf-16le' / 'utf-16be'）があればそれを使う。
 //   'auto'（既定）は BOM と UTF-8 妥当性から判定し、化ける場合は Shift_JIS にフォールバック。
 async function decodeCsvBuffer(buf, encoding) {
   const { default: iconv } = await import('iconv-lite');
@@ -307,8 +382,16 @@ async function decodeCsvBuffer(buf, encoding) {
   if (enc === 'utf-8' || enc === 'utf8') {
     return iconv.decode(buf, 'utf-8');
   }
+  if (enc === 'utf-16' || enc === 'utf16' || enc === 'utf-16le' || enc === 'utf16le') {
+    return iconv.decode(buf, 'utf-16le');
+  }
+  if (enc === 'utf-16be' || enc === 'utf16be') {
+    return iconv.decode(buf, 'utf-16be');
+  }
 
-  // auto: UTF-8 BOM があれば UTF-8 確定
+  // auto: BOM から判定
+  if (buf.length >= 2 && buf[0] === 0xff && buf[1] === 0xfe) return iconv.decode(buf, 'utf-16le');
+  if (buf.length >= 2 && buf[0] === 0xfe && buf[1] === 0xff) return iconv.decode(buf, 'utf-16be');
   if (buf.length >= 3 && buf[0] === 0xef && buf[1] === 0xbb && buf[2] === 0xbf) {
     return iconv.decode(buf, 'utf-8');
   }
@@ -320,24 +403,50 @@ async function decodeCsvBuffer(buf, encoding) {
   return asUtf8;
 }
 
-async function parseCSV(cachePath, encoding) {
-  const buf = fs.readFileSync(cachePath);
-  const text = await decodeCsvBuffer(buf, encoding);
-  const rows = parseCSVText(text);
-  if (rows.length === 0) return [];
+// 表（行の配列）から、ヘッダー行を自動判定してレコード（{ヘッダー: 値}）配列に変換する。
+// 一部自治体データは先頭にタイトル行や空行があるため、先頭行をヘッダーと決め打ちにしない。
+// COLUMN_MAP に載っている見出しを最も多く含む行をヘッダーとみなす（無ければ先頭行）。
+function detectHeaderRow(rows) {
+  let bestIdx = 0;
+  let bestScore = -1;
+  const limit = Math.min(rows.length, 8);
+  for (let i = 0; i < limit; i++) {
+    const score = rows[i].reduce(
+      (n, c) => n + (COLUMN_MAP[String(c).trim().replace(/^﻿/, '')] ? 1 : 0),
+      0,
+    );
+    if (score > bestScore) {
+      bestScore = score;
+      bestIdx = i;
+    }
+  }
+  return bestScore >= 2 ? bestIdx : 0;
+}
 
-  const headers = rows[0].map((h) => h.trim().replace(/^﻿/, ''));
-  return rows.slice(1).map((cells) => {
+function rowsToRecords(rows) {
+  if (rows.length === 0) return [];
+  const hi = detectHeaderRow(rows);
+  const headers = rows[hi].map((h) => String(h).trim().replace(/^﻿/, ''));
+  return rows.slice(hi + 1).map((cells) => {
     const obj = {};
     headers.forEach((h, i) => {
-      obj[h] = cells[i] !== undefined ? cells[i] : '';
+      if (!h) return;
+      const v = cells[i];
+      obj[h] = v === undefined || v === null ? '' : typeof v === 'string' ? v : String(v);
     });
     return obj;
   });
 }
 
-// RFC4180 風のCSVパーサ（引用符・引用符内の改行/カンマに対応）
-function parseCSVText(text) {
+async function parseCSV(cachePath, encoding, delimiter = ',') {
+  const buf = fs.readFileSync(cachePath);
+  const text = await decodeCsvBuffer(buf, encoding);
+  return rowsToRecords(parseCSVText(text, delimiter));
+}
+
+// RFC4180 風の区切りテキストパーサ（引用符・引用符内の改行/区切り文字に対応）。
+// delimiter を切り替えれば CSV（,）でも TSV（\t）でも扱える。
+function parseCSVText(text, delimiter = ',') {
   const rows = [];
   let row = [];
   let field = '';
@@ -359,7 +468,7 @@ function parseCSVText(text) {
       }
     } else if (c === '"') {
       inQuotes = true;
-    } else if (c === ',') {
+    } else if (c === delimiter) {
       row.push(field);
       field = '';
     } else if (c === '\r') {
@@ -389,8 +498,10 @@ async function parseExcel(cachePath, { allSheets = false } = {}) {
   const names = allSheets ? wb.SheetNames : [wb.SheetNames[0]];
   const out = [];
   for (const name of names) {
-    const rows = xlsx.utils.sheet_to_json(wb.Sheets[name], { defval: '', raw: false });
-    out.push(...rows);
+    // header:1 で行の配列として読み、ヘッダー行を自動判定してからレコード化する
+    // （タイトル行が先頭にあるシートに対応するため）。
+    const rows = xlsx.utils.sheet_to_json(wb.Sheets[name], { header: 1, defval: '', raw: false });
+    out.push(...rowsToRecords(rows));
   }
   return out;
 }
@@ -399,7 +510,9 @@ async function parseSource(source, cachePath, format) {
   if (format === 'xlsx' || format === 'xls') {
     return parseExcel(cachePath, { allSheets: !!source.allSheets });
   }
-  return parseCSV(cachePath, source.encoding);
+  // TSV（タブ区切り）は delimiter を切り替える
+  const delimiter = format === 'tsv' || source.acquire.format === 'tsv' ? '\t' : ',';
+  return parseCSV(cachePath, source.encoding, delimiter);
 }
 
 // ---------------------------------------------------------------------------
@@ -423,7 +536,8 @@ function mapRecord(raw) {
 function toFacility(rec) {
   const name = rec.facility_name || rec.operator_name || '';
   // 所在地。分割カラム（町字・番地以下）しか無い場合はそれを結合し、方書があれば付す。
-  const base = rec.address || [rec.address_town, rec.address_street].filter(Boolean).join('');
+  const base =
+    rec.address || [rec.address_ward, rec.address_town, rec.address_street].filter(Boolean).join('');
   const address = [base, rec.address_extra]
     .filter((s) => s && String(s).trim())
     .join(' ')
@@ -616,9 +730,12 @@ async function main() {
   for (const source of sources) {
     console.log(`▼ ${source.key}: ${source.source}`);
     try {
-      const { cachePath, format } = await acquire(source);
-      const rawRecords = await parseSource(source, cachePath, format);
-      console.log(`  ${rawRecords.length}行を読み込み (${format})`);
+      const files = await acquire(source);
+      const rawRecords = [];
+      for (const { cachePath, format } of files) {
+        rawRecords.push(...(await parseSource(source, cachePath, format)));
+      }
+      console.log(`  ${rawRecords.length}行を読み込み (${files.map((f) => f.format).join('+')})`);
 
       let kept = 0;
       for (const raw of rawRecords) {
