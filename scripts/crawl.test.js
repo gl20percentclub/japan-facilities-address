@@ -1,0 +1,120 @@
+// crawl.js の純粋関数のユニットテスト。
+//   node scripts/crawl.test.js
+//
+// import.meta ガードにより crawl.js を import してもクロールは実行されない。
+
+import assert from 'node:assert/strict';
+import {
+  normalizeDate,
+  sanitizeLatLng,
+  resolvePrefecture,
+  resolveCity,
+  mapRecord,
+  toFacility,
+  parseCSVText,
+} from './crawl.js';
+
+let passed = 0;
+function test(name, fn) {
+  fn();
+  passed++;
+  console.log(`  ✓ ${name}`);
+}
+
+// --- normalizeDate: 和暦・西暦の正規化 ---
+test('normalizeDate: 令和 → 西暦', () => {
+  assert.equal(normalizeDate('R01.06.21'), '2019-06-21');
+  assert.equal(normalizeDate('R8.5.31'), '2026-05-31');
+});
+test('normalizeDate: 平成 → 西暦', () => {
+  assert.equal(normalizeDate('H27.03.16'), '2015-03-16');
+});
+test('normalizeDate: 西暦（各区切り・年月日）', () => {
+  assert.equal(normalizeDate('2030-10-31'), '2030-10-31');
+  assert.equal(normalizeDate('2030/1/5'), '2030-01-05');
+  assert.equal(normalizeDate('2030年10月31日'), '2030-10-31');
+});
+test('normalizeDate: 空・不正は null', () => {
+  assert.equal(normalizeDate(''), null);
+  assert.equal(normalizeDate(null), null);
+  assert.equal(normalizeDate('不明'), null);
+});
+
+// --- sanitizeLatLng: 緯度経度のサニティ補正 ---
+test('sanitizeLatLng: 正常はそのまま', () => {
+  assert.deepEqual(sanitizeLatLng(34.7, 135.5), [34.7, 135.5]);
+});
+test('sanitizeLatLng: 入れ替わり（大阪市パターン）は入替', () => {
+  // 緯度列に経度値(135.5)、経度列に緯度値(34.7)が入っているケース
+  assert.deepEqual(sanitizeLatLng(135.5139347, 34.70680958), [34.70680958, 135.5139347]);
+});
+test('sanitizeLatLng: 日本域外は無効(null)', () => {
+  assert.deepEqual(sanitizeLatLng(0, 0), [null, null]);
+  assert.deepEqual(sanitizeLatLng(500, 500), [null, null]);
+});
+test('sanitizeLatLng: 片方 null はそのまま', () => {
+  assert.deepEqual(sanitizeLatLng(null, 135.5), [null, 135.5]);
+});
+
+// --- resolvePrefecture / resolveCity ---
+test('resolvePrefecture: カラム優先', () => {
+  assert.equal(resolvePrefecture({ prefecture_name: '大阪府' }, {}), '大阪府');
+});
+test('resolvePrefecture: 市区町村コード先頭2桁から解決', () => {
+  assert.equal(resolvePrefecture({ city_code: '271004' }, {}), '大阪府');
+  assert.equal(resolvePrefecture({ city_code: '131032' }, {}), '東京都');
+});
+test('resolvePrefecture: 既定値フォールバック', () => {
+  assert.equal(resolvePrefecture({}, { defaultPref: '奈良県' }), '奈良県');
+  assert.equal(resolvePrefecture({}, {}), '不明');
+});
+test('resolveCity: カラム→既定値→不明', () => {
+  assert.equal(resolveCity({ city_name: '港区' }, {}), '港区');
+  assert.equal(resolveCity({}, { defaultCity: '京都市' }), '京都市');
+  assert.equal(resolveCity({}, {}), '不明');
+});
+
+// --- mapRecord: 元ヘッダー揺れ → 内部キー ---
+test('mapRecord: 各フォーマットの別名を同一キーへ寄せる', () => {
+  assert.equal(mapRecord({ 屋号: 'バル惣田' }).facility_name, 'バル惣田');
+  assert.equal(mapRecord({ 営業所名称: 'てぃ～けぇ～' }).facility_name, 'てぃ～けぇ～');
+  assert.equal(mapRecord({ '営業所＿名称（屋号・商号）１': '広来' }).facility_name, '広来');
+  assert.equal(mapRecord({ 業種: '飲食店営業' }).business_type, '飲食店営業');
+  assert.equal(mapRecord({ 業種分類: '飲食店営業' }).business_type, '飲食店営業');
+  assert.equal(mapRecord({ 指令番号: '第1号' }).license_no, '第1号');
+  assert.equal(mapRecord({ 許可終了日: 'R08.05.31' }).valid_end, 'R08.05.31');
+});
+
+// --- toFacility: 施設オブジェクト生成 ---
+test('toFacility: 分割住所を結合し方書を付す', () => {
+  const f = toFacility({
+    facility_name: 'テスト店',
+    address_town: '赤坂一丁目',
+    address_street: '１番１２号',
+    address_extra: '明産ビル１階',
+    business_type: '飲食店営業',
+    valid_end: 'R08.05.31',
+  });
+  assert.equal(f.address, '赤坂一丁目１番１２号 明産ビル１階');
+  assert.equal(f.expire_date, '2026-05-31');
+});
+test('toFacility: 名称も住所も無ければ null', () => {
+  assert.equal(toFacility({ phone: '000' }), null);
+});
+test('toFacility: 座標入れ替わりを補正して格納', () => {
+  const f = toFacility({ facility_name: 'X', address: 'a', lat: '135.5', lng: '34.7' });
+  assert.equal(f.lat, 34.7);
+  assert.equal(f.lng, 135.5);
+});
+
+// --- parseCSVText: 引用符・改行・カンマ ---
+test('parseCSVText: 引用符内のカンマと改行', () => {
+  const rows = parseCSVText('a,b\n"x,y","z\nw"\n');
+  assert.deepEqual(rows, [['a', 'b'], ['x,y', 'z\nw']]);
+});
+test('parseCSVText: 空行を除去', () => {
+  const rows = parseCSVText('a,b\n\n\nc,d\n');
+  assert.deepEqual(rows, [['a', 'b'], ['c', 'd']]);
+});
+
+console.log(`\n✅ crawl.js ユニットテスト: ${passed}件すべて合格`);
