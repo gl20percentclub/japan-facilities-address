@@ -20,6 +20,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { normalize, config as njaConfig } from '@geolonia/normalize-japanese-addresses';
 import { generateSearchIndex } from './gen-search-index.js';
+import { generateReadmeStats } from './gen-readme-stats.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -538,6 +539,9 @@ async function main() {
 
   // 施設名検索用のコンパクトな索引 api/search-index.json も生成する。
   generateSearchIndex();
+
+  // README の「収録データ」統計（件数・サイズ）も最新化する。
+  generateReadmeStats();
 
   console.log(`\n✅ 生成完了: ${tree.size}都道府県 / ${cityCount}市区町村 / ${facilities.length}施設`);
   console.log(`   出力先: ${path.relative(ROOT, OUT_DIR)}`);

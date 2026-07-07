@@ -47,7 +47,7 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet api/; then
+          if git diff --quiet api/ README.md; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "変更なし"
           else
@@ -62,7 +62,7 @@ jobs:
           UPDATED=$(node -e "const d=require('./api/facilities/index.json');console.log(new Date(d.meta.updated*1000).toISOString().slice(0,10))")
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add api/
+          git add api/ README.md
           git commit -m "chore: update facilities (${CITY_COUNT}市区町村, ${UPDATED})"
           git push
 
