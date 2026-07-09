@@ -10,6 +10,10 @@ on:
         description: 'ダウンロードをスキップしキャッシュを使う'
         type: boolean
         default: false
+      fetch_i2fas:
+        description: '厚労省 i2fas オープンデータを再取得する（ブラウザ自動化・時間がかかる）'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -37,6 +41,15 @@ jobs:
           key: bodik-cache-${{ github.run_id }}
           restore-keys: |
             bodik-cache-
+
+      # 厚労省 i2fas オープンデータの取得（任意）。ブラウザ自動化のため手動 dispatch 時のみ。
+      # 取得結果は .cache/i2fas に保存され、以降のクロールでキャッシュから読まれる。
+      - name: Fetch i2fas open data (optional)
+        if: github.event_name == 'workflow_dispatch' && inputs.fetch_i2fas
+        run: |
+          npx playwright install --with-deps chromium
+          node scripts/fetch-i2fas.mjs
+        continue-on-error: true
 
       - name: Crawl
         run: node scripts/crawl.js ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '--dry-run' || '' }}
