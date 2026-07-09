@@ -353,6 +353,19 @@ const DEFAULT_HEADERS = {
   Accept: '*/*',
 };
 
+// ZIP バイト列から対象の csv/xlsx/xls を取り出す。
+// entryPattern（正規表現文字列）に一致するエントリ、無ければ最初の csv/xlsx/xls。
+async function extractFromZip(zipBuf, entryPattern) {
+  const { unzipSync } = await import('fflate');
+  const files = unzipSync(new Uint8Array(zipBuf));
+  const names = Object.keys(files).filter((n) => !n.endsWith('/'));
+  const re = entryPattern ? new RegExp(entryPattern, 'i') : /\.(csv|xlsx|xls)$/i;
+  let name = names.find((n) => re.test(n)) || names.find((n) => /\.(csv|xlsx|xls)$/i.test(n));
+  if (!name) throw new Error(`ZIP 内に csv/xlsx/xls が見つかりません: [${names.join(', ')}]`);
+  const m = name.toLowerCase().match(/\.(csv|xlsx|xls)$/);
+  return { buf: Buffer.from(files[name]), format: m[1] };
+}
+
 // ソースが取得すべきファイル群を返す。単一 url でも複数 urls[] でも扱える。
 // 返り値: [{ cachePath, format }, ...]（複数ファイルはパース後に結合される）
 async function acquire(source) {
@@ -396,13 +409,10 @@ async function acquire(source) {
       if (!format) format = (info.format || '').toLowerCase();
     }
     if (!format) {
-      const m = String(downloadUrl).toLowerCase().match(/\.(csv|tsv|txt|xlsx|xls)(?:$|\?)/);
+      const m = String(downloadUrl).toLowerCase().match(/\.(csv|tsv|txt|xlsx|xls|zip)(?:$|\?)/);
       format = m ? m[1] : 'csv';
     }
     if (format === 'txt') format = 'tsv'; // LinkData 等の tab 区切り txt
-
-    const ext = format === 'xlsx' ? 'xlsx' : format === 'xls' ? 'xls' : format === 'tsv' ? 'tsv' : 'csv';
-    const cachePath = path.join(CACHE_DIR, `${key}.${ext}`);
 
     const fetchOpts = { headers: { ...DEFAULT_HEADERS } };
     if (a.type === 'post') {
@@ -416,7 +426,19 @@ async function acquire(source) {
     if (!res.ok) {
       throw new Error(`ダウンロード失敗: ${res.status} ${res.statusText}`);
     }
-    const buf = Buffer.from(await res.arrayBuffer());
+    let buf = Buffer.from(await res.arrayBuffer());
+
+    // format: 'zip' のとき、中の csv/xlsx/xls を取り出す。
+    // （xlsx/xls も実体は ZIP なので、マジックバイトでなく明示指定で判定する。）
+    // acquire.zipEntry（正規表現文字列）で対象を指定でき、無ければ最初の対象ファイル。
+    if (format === 'zip') {
+      const extracted = await extractFromZip(buf, a.zipEntry);
+      buf = extracted.buf;
+      format = extracted.format;
+    }
+
+    const ext = format === 'xlsx' ? 'xlsx' : format === 'xls' ? 'xls' : format === 'tsv' ? 'tsv' : 'csv';
+    const cachePath = path.join(CACHE_DIR, `${key}.${ext}`);
     fs.mkdirSync(CACHE_DIR, { recursive: true });
     fs.writeFileSync(cachePath, buf);
     console.log(`  キャッシュに保存: ${cachePath} (${buf.length} bytes)`);
