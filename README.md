@@ -1,27 +1,27 @@
 # Japan-facilities-api
 
-日本自治体が公開しているオープンデータ（食品営業許可・届出）をクロールし、APIとして配信するシステムです。
+日本の自治体が公開しているオープンデータ（食品営業許可・届出）をクロールし、APIとして配信するシステムです。
 
-- **ソース**: 沖縄県BODIK オープンデータ（CKAN: `https://data.bodik.jp`）、将来的に追加予定。
+- **ソース**: 各自治体のオープンデータ（BODIK 等の CKAN、自治体ポータルの直リンク CSV/XLSX、フォーム配布など）。対象は `scripts/sources.js` で定義。
 - **運用**: GitHub Actions で毎週自動クロール → GitHub Pages で配信
-- **ライセンス**: 元データは CC BY 4.0
+- **ライセンス**: 元データのライセンスは自治体ごとに異なる（多くは CC BY 4.0 / CC BY 2.1 JP）。各データの出典・ライセンスは `index.json` の `meta.sources` を参照。
 
 ## 収録データ
 
 以下はクロール（`npm run build`）のたびに自動更新されます。ファイルサイズは目安です。
 
 <!-- STATS:START -->
-> **最終更新: 2026-07-06**
+> **最終更新: 2026-07-07**
 >
 > | 項目 | 値 |
 > |---|---|
-> | 施設レコード数 | 35,039 件 |
-> | ユニーク施設数（名前+座標） | 26,374 件 |
-> | 都道府県 | 1 |
-> | 市区町村 | 39 |
-> | `api/` 合計サイズ | 約 15.8 MB |
-> | `data.json` 合計 | 約 13.3 MB |
-> | `search-index.json` | 約 2.5 MB |
+> | 施設レコード数 | 154,161 件 |
+> | ユニーク施設数（名前+座標） | 127,336 件 |
+> | 都道府県 | 5 |
+> | 市区町村 | 81 |
+> | `api/` 合計サイズ | 約 72.3 MB |
+> | `data.json` 合計 | 約 59.3 MB |
+> | `search-index.json` | 約 13.0 MB |
 <!-- STATS:END -->
 
 ## API 構造
@@ -62,10 +62,18 @@ api/
 
 ### `index.json`
 
+`meta.sources` は、そのファイルに含まれる施設の出典・ライセンスの一覧（複数ソースを統合した場合は複数要素）。
+
 ```json
 {
-  "meta": { "updated": 1749600000, "source": "沖縄県食品営業許可・届出", "license": "CC BY 4.0" },
-  "data": { "沖縄県": ["那覇市", "宜野湾市"] }
+  "meta": {
+    "updated": 1749600000,
+    "sources": [
+      { "source": "沖縄県食品営業許可・届出", "license": "CC BY 4.0" },
+      { "source": "大阪市食品営業許可施設一覧", "license": "CC BY 4.0" }
+    ]
+  },
+  "data": { "沖縄県": ["那覇市", "宜野湾市"], "大阪府": ["大阪市"] }
 }
 ```
 
@@ -131,21 +139,44 @@ npm run build:dry
 # ジオコーディングをスキップして高速に生成（座標は補完されない）
 node scripts/crawl.js --no-geocode
 
+# 特定ソースだけ処理（動作確認・部分再生成）
+node scripts/crawl.js --only=osaka-city,tokyo-minato
+
 # 生成結果のバリデーション
 npm test
 ```
 
-## 複数リソースへの対応
+## データソースの追加
 
-`scripts/crawl.js` の `TARGET_RESOURCE_IDS` 配列にリソースIDを追加するだけで、
-複数データを1つのツリーに統合できます。
+`scripts/sources.js` の `SOURCES` 配列に1エントリ追加するだけで、新しい自治体の
+オープンデータを取り込めます。取得方法（CKAN / 直リンクGET / フォームPOST）、
+形式（CSV / XLSX / XLS）、文字コード、都道府県・市区町村の既定値などをエントリで指定します。
 
 ```js
-const TARGET_RESOURCE_IDS = [
-  'c9bf82c1-0689-4354-aada-c422f052be5e',
-  // 別のリソースIDをここに追加
+export const SOURCES = [
+  // CKAN リソース
+  {
+    key: 'okinawa-bodik',
+    acquire: { type: 'ckan', ckanBase: 'https://data.bodik.jp', resourceId: 'c9bf82c1-...' },
+    source: '沖縄県食品営業許可・届出',
+    license: 'CC BY 4.0',
+  },
+  // 直リンク CSV（都道府県・市区町村カラムが無ければ defaultPref / defaultCity を指定）
+  {
+    key: 'osaka-city',
+    acquire: { type: 'get', url: 'https://.../260331zenku.csv', format: 'csv', encoding: 'shift_jis' },
+    source: '大阪市食品営業許可施設一覧',
+    license: 'CC BY 4.0',
+    defaultPref: '大阪府',
+    defaultCity: '大阪市',
+  },
 ];
 ```
+
+- 都道府県・市区町村カラムが無く `defaultCity` も指定しないデータは、ジオコーディング結果の
+  都道府県・市区町村で自動補完されます。
+- 一部データはヘッダの「緯度」「経度」が入れ替わっている（例: 大阪市）ため、日本域の範囲で
+  自動的にサニティ補正します。
 
 ## 出典・ライセンス・免責事項
 
@@ -153,17 +184,18 @@ const TARGET_RESOURCE_IDS = [
 
 ### 出典・データソース
 
-| 項目 | 内容 |
-| --- | --- |
-| 自治体名 | 沖縄県 |
-| データセット名 | 食品営業許可・届出一覧 |
-| 元データURL | https://data.bodik.jp/dataset/okinawa-dpf_okinawa_pref |
-| ライセンス | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) |
-| 自治体側の最終更新日 | 2026-03-05 |
-| データ取得日（当サービス） | 「収録データ」の最終更新日を参照 |
+現在の収録データの出典は以下です（`scripts/sources.js` で定義。今後拡充予定）。
 
-- 自治体ごとにライセンスは異なります（例: Public Data License (PDL1.0) / CC BY 4.0 / 自治体独自ライセンス）。
-- 各自治体データの更新日と、当サービスが取得・更新した日時は、上記および「収録データ」で確認できます。
+| 自治体 | データセット | 元データ | ライセンス |
+| --- | --- | --- | --- |
+| 沖縄県 | 食品営業許可・届出一覧 | [BODIK](https://data.bodik.jp/dataset/okinawa-dpf_okinawa_pref) | CC BY 4.0 |
+| 大阪市 | 食品営業許可施設一覧 | [大阪市](https://www.city.osaka.lg.jp/kenko/page/0000575579.html) | CC BY 4.0 |
+| 東京都港区 | 食品営業許可一覧 | [東京都オープンデータカタログ](https://catalog.data.metro.tokyo.lg.jp/dataset/t131032d0000000244) | CC BY 4.0 |
+| 奈良県 | 食品営業許可施設一覧（奈良市を除く） | [奈良県](https://www.pref.nara.lg.jp/n086/52413.html) | 奈良県利用規約 |
+| 京都市 | 食品営業許可施設一覧（令和3年3月末時点） | [京都市オープンデータポータル](https://data.city.kyoto.lg.jp/dataset/00414/) | CC BY 4.0 |
+
+- 自治体ごとにライセンスは異なります（例: Public Data License (PDL1.0) / CC BY 4.0 / CC BY 2.1 JP / 自治体独自ライセンス）。各データの出典・ライセンスは `index.json` の `meta.sources` でも確認できます。
+- 京都市データは令和3年（2021年）3月末時点のスナップショットで、他ソースより古い点に留意してください。
 
 ### 加工データであることについて
 
@@ -190,5 +222,6 @@ const TARGET_RESOURCE_IDS = [
 ## 自動更新
 
 `.github/workflows/crawl.yml` が毎週月曜 18:00 UTC（JST 火曜 AM 3:00）に実行され、
-変更があれば `api/` と README（「収録データ」の件数・サイズ）をコミットし、`gh-pages` ブランチへデプロイします。
+`api/` を生成して `gh-pages` ブランチへ配信します。**生成物 `api/` は Git 管理せず**（`.gitignore`）、
+配信は gh-pages のみで行います（履歴肥大を避けるため）。README の「収録データ」統計だけを main に反映します。
 `workflow_dispatch` から手動実行も可能（`dry_run` オプション付き）。

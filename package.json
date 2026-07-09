@@ -6,7 +6,7 @@
     "build:dry": "node scripts/crawl.js --dry-run",
     "build:search-index": "node scripts/gen-search-index.js",
     "build:readme-stats": "node scripts/gen-readme-stats.js",
-    "test": "node scripts/test.js && node scripts/gen-readme-stats.test.js"
+    "test": "node scripts/crawl.test.js && node scripts/test.js && node scripts/gen-readme-stats.test.js"
   },
   "dependencies": {
     "@geolonia/normalize-japanese-addresses": "^3.1.3",

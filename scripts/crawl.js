@@ -1,6 +1,6 @@
-// 沖縄県施設検索API クローラー
+// 全国 食品営業許可 施設検索API クローラー
 //
-// 沖縄県BODIKオープンデータ（食品営業許可・届出）をクロールし、
+// 各自治体が公開する食品営業許可・届出のオープンデータをクロールし、
 // geolonia/japanese-addresses と同じ思想の階層型静的JSONを生成する。
 //
 // 出力構造（都道府県 > 市区町村 > data.json）:
@@ -9,11 +9,13 @@
 //   api/facilities/{都道府県}/{市区町村}/data.json  施設オブジェクトの配列
 //
 // 緯度経度の無い施設は @geolonia/normalize-japanese-addresses で住所から付与する。
+// 都道府県・市区町村カラムが無いデータは、ジオコーディング結果から補完する。
 //
 // 使い方:
 //   node scripts/crawl.js              通常実行（ダウンロード→ジオコーディング→生成）
 //   node scripts/crawl.js --dry-run    ダウンロードをスキップしキャッシュを使う
 //   node scripts/crawl.js --no-geocode ジオコーディングをスキップ
+//   node scripts/crawl.js --only=osaka-city,minato   指定キーのソースだけ処理
 
 import fs from 'node:fs';
 import path from 'node:path';
@@ -21,6 +23,7 @@ import { fileURLToPath } from 'node:url';
 import { normalize, config as njaConfig } from '@geolonia/normalize-japanese-addresses';
 import { generateSearchIndex } from './gen-search-index.js';
 import { generateReadmeStats } from './gen-readme-stats.js';
+import { SOURCES } from './sources.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -28,60 +31,82 @@ const CACHE_DIR = path.join(ROOT, '.cache');
 const GEOCODE_CACHE_PATH = path.join(CACHE_DIR, 'geocode-cache.json');
 const OUT_DIR = path.join(ROOT, 'api', 'facilities');
 
-const CKAN_BASE = 'https://data.bodik.jp';
-
-// 対象リソースID。ここにIDを追加するだけで複数データを統合できる。
-const TARGET_RESOURCE_IDS = [
-  'c9bf82c1-0689-4354-aada-c422f052be5e',
-];
-
-const META = {
-  source: '沖縄県食品営業許可・届出',
-  license: 'CC BY 4.0',
-};
-
 const DRY_RUN = process.argv.includes('--dry-run');
 const NO_GEOCODE = process.argv.includes('--no-geocode');
+
+// --only=key1,key2 で処理対象ソースを絞る（動作確認・部分再生成用）
+const ONLY = (() => {
+  const arg = process.argv.find((a) => a.startsWith('--only='));
+  if (!arg) return null;
+  return new Set(arg.slice('--only='.length).split(',').map((s) => s.trim()).filter(Boolean));
+})();
 
 // ジオコーディングの並列数。公開APIに優しくするため控えめにする。
 // （同一市区町村のデータはLRUキャッシュで再利用されるため過剰な並列は不要）
 const GEOCODE_CONCURRENCY = 8;
 
 // ---------------------------------------------------------------------------
-// カラムマッピング（元CSVヘッダー → 内部キー）
+// カラムマッピング（元ヘッダー → 内部キー）
+//
+// 自治体・年度ごとにヘッダー表記が揺れるため、既知の表記をすべて内部キーに寄せる。
+// 同じ内部キーに複数の元表記がマップされてよい（データに現れた最初の値を採用）。
 // ---------------------------------------------------------------------------
 const COLUMN_MAP = {
-  // --- 旧フォーマット（指示書記載） ---
+  // --- 旧フォーマット ---
   '市区町村コード（JIS市区町村コード）': 'city_code',
   '市区町村コード': 'city_code',
   'NO': 'no',
   '市区町村名（カナ）': 'city_name_kana',
   '営業者名': 'operator_name',
+  '営業者氏名': 'operator_name',
   '営業者名（カナ）': 'operator_name_kana',
   '業態の種類': 'business_type',
   '業種名': 'business_type',
+  '業種': 'business_type',
+  '業種分類': 'business_type',
+  '種目': 'business_subtype',
   '施設名': 'facility_name',
   '営業施設名称': 'facility_name',
   '施設名称': 'facility_name',
+  '屋号': 'facility_name',
   '営業施設所在地': 'address',
   '営業施設電話番号': 'phone',
   '許可認証日': 'license_date',
   '有効期間開始日': 'valid_start',
   '有効期間終了日': 'valid_end',
 
-  // --- 新・標準フォーマット（食品等営業許可・届出一覧） ---
+  // --- 新・標準フォーマット（食品等営業許可・届出一覧 / GIF推奨データセット） ---
   '都道府県コード又は市区町村コード': 'city_code',
+  '全国地方公共団体コード': 'city_code',
   '都道府県名': 'prefecture_name',
+  '施設所在地_都道府県': 'prefecture_name',
   '営業所名称': 'facility_name',
   '営業所名称_カナ': 'facility_name_kana',
+  '施設名称_カナ': 'facility_name_kana',
   '営業の種類': 'business_type',
+  '業態': 'business_subtype',
   '営業所所在地': 'address',
+  '所在地_連結表記': 'address',
+  '施設所在地_市区町村': 'city_name',
+  '施設所在地_町字': 'address_town',
+  '施設所在地_番地以下': 'address_street',
   '営業所方書': 'address_extra',
+  '施設方書': 'address_extra',
   '営業所電話番号': 'phone',
+  '施設電話番号': 'phone',
   '初回許可年月日': 'first_license_date',
   '許可年月日': 'license_date',
   '許可開始日': 'valid_start',
   '許可満了日': 'valid_end',
+  '許可終了日': 'valid_end',
+
+  // --- 京都市フォーマット（区ごとシート） ---
+  '申請者＿申請者名': 'operator_name',
+  '営業所＿所在地１': 'address',
+  '営業所＿所在地２': 'address_extra',
+  '営業所＿名称（屋号・商号）１': 'facility_name',
+  '営業所＿名称（屋号・商号）２': 'facility_name_sub',
+  '許可届出番号': 'license_no',
 
   // --- 共通 ---
   '市区町村名': 'city_name',
@@ -90,6 +115,7 @@ const COLUMN_MAP = {
   '法人名': 'corporation_name',
   '法人番号': 'corporation_no',
   '許可番号': 'license_no',
+  '指令番号': 'license_no',
   '廃業年月日': 'close_date',
 };
 
@@ -110,13 +136,23 @@ const PREFECTURE_BY_CODE = {
 };
 
 // レコードから都道府県名を解決する。
-// 優先: 都道府県名カラム → 市区町村コードの先頭2桁 → '不明'
-function resolvePrefecture(rec) {
+// 優先: 都道府県名カラム → 市区町村コードの先頭2桁 → ソース既定値 → '不明'
+function resolvePrefecture(rec, source) {
   const name = (rec.prefecture_name || '').trim();
   if (name) return name;
   const code = String(rec.city_code || '').trim();
   const m = code.match(/^(\d{2})/);
   if (m && PREFECTURE_BY_CODE[m[1]]) return PREFECTURE_BY_CODE[m[1]];
+  if (source.defaultPref) return source.defaultPref;
+  return '不明';
+}
+
+// レコードから市区町村名を解決する。
+// 優先: 市区町村名カラム → ソース既定値 → '不明'（後段のジオコーディングで補完を試みる）
+function resolveCity(rec, source) {
+  const name = (rec.city_name || '').trim();
+  if (name) return name;
+  if (source.defaultCity) return source.defaultCity;
   return '不明';
 }
 
@@ -141,7 +177,7 @@ function normalizeDate(raw) {
     return `${base + eraYear}-${month}-${day}`;
   }
 
-  // 既に西暦（YYYY-MM-DD / YYYY/MM/DD / YYYY.MM.DD）
+  // 既に西暦（YYYY-MM-DD / YYYY/MM/DD / YYYY.MM.DD / YYYY年MM月DD日）
   const seireki = s.match(/^(\d{4})[.\-/年]\s*0*(\d+)[.\-/月]\s*0*(\d+)/);
   if (seireki) {
     const month = String(parseInt(seireki[2], 10)).padStart(2, '0');
@@ -153,10 +189,12 @@ function normalizeDate(raw) {
 }
 
 // ---------------------------------------------------------------------------
-// CKAN API: リソース情報（URL・フォーマット）を取得
+// リソース取得（CKAN / 直リンクGET / POSTフォーム）
 // ---------------------------------------------------------------------------
-async function fetchResourceInfo(resourceId) {
-  const url = `${CKAN_BASE}/api/3/action/resource_show?id=${encodeURIComponent(resourceId)}`;
+
+// CKAN API: リソース情報（URL・フォーマット）を取得
+async function fetchCkanResourceInfo(ckanBase, resourceId) {
+  const url = `${ckanBase}/api/3/action/resource_show?id=${encodeURIComponent(resourceId)}`;
   const res = await fetch(url);
   if (!res.ok) {
     throw new Error(`resource_show failed: ${res.status} ${res.statusText} (${resourceId})`);
@@ -168,13 +206,30 @@ async function fetchResourceInfo(resourceId) {
   return json.result; // { url, format, ... }
 }
 
-// ---------------------------------------------------------------------------
-// リソースファイルをダウンロード（.cache/ にキャッシュ）
-// ---------------------------------------------------------------------------
-async function downloadResource(resourceId, info) {
-  const format = (info.format || '').toLowerCase();
-  const ext = format === 'xlsx' ? 'xlsx' : 'csv';
-  const cachePath = path.join(CACHE_DIR, `${resourceId}.${ext}`);
+// ファイルをダウンロードして .cache/ に保存する。
+// acquire の type に応じて取得方法を切り替える:
+//   ckan : CKAN resource_show でファイルURLと形式を解決してGET
+//   get  : url を直接GET
+//   post : url に application/x-www-form-urlencoded でPOST（例: 京都市ポータル）
+// 返り値: { cachePath, format }
+async function acquire(source) {
+  const a = source.acquire;
+  let downloadUrl = a.url;
+  let format = (a.format || '').toLowerCase();
+
+  if (a.type === 'ckan') {
+    const info = await fetchCkanResourceInfo(a.ckanBase, a.resourceId);
+    downloadUrl = info.url;
+    if (!format) format = (info.format || '').toLowerCase();
+  }
+  if (!format) {
+    // URL 末尾の拡張子から推定
+    const m = String(downloadUrl).toLowerCase().match(/\.(csv|xlsx|xls)(?:$|\?)/);
+    format = m ? m[1] : 'csv';
+  }
+
+  const ext = format === 'xlsx' ? 'xlsx' : format === 'xls' ? 'xls' : 'csv';
+  const cachePath = path.join(CACHE_DIR, `${source.key}.${ext}`);
 
   if (DRY_RUN) {
     if (!fs.existsSync(cachePath)) {
@@ -184,8 +239,15 @@ async function downloadResource(resourceId, info) {
     return { cachePath, format };
   }
 
-  console.log(`  ダウンロード中: ${info.url}`);
-  const res = await fetch(info.url);
+  const fetchOpts = {};
+  if (a.type === 'post') {
+    fetchOpts.method = 'POST';
+    fetchOpts.headers = { 'Content-Type': 'application/x-www-form-urlencoded' };
+    fetchOpts.body = new URLSearchParams(a.body || {}).toString();
+  }
+
+  console.log(`  ダウンロード中: ${downloadUrl}`);
+  const res = await fetch(downloadUrl, fetchOpts);
   if (!res.ok) {
     throw new Error(`ダウンロード失敗: ${res.status} ${res.statusText}`);
   }
@@ -197,12 +259,38 @@ async function downloadResource(resourceId, info) {
 }
 
 // ---------------------------------------------------------------------------
-// CSVパース（Shift-JIS → UTF-8 変換のため iconv-lite を dynamic import）
+// パース
 // ---------------------------------------------------------------------------
-async function parseCSV(cachePath) {
+
+// CSV のバイト列を文字列にデコードする。
+//   encoding 明示（'utf-8' / 'shift_jis'）があればそれを使う。
+//   'auto'（既定）は BOM と UTF-8 妥当性から判定し、化ける場合は Shift_JIS にフォールバック。
+async function decodeCsvBuffer(buf, encoding) {
   const { default: iconv } = await import('iconv-lite');
+  const enc = (encoding || 'auto').toLowerCase();
+
+  if (enc === 'shift_jis' || enc === 'sjis' || enc === 'cp932') {
+    return iconv.decode(buf, 'Shift_JIS');
+  }
+  if (enc === 'utf-8' || enc === 'utf8') {
+    return iconv.decode(buf, 'utf-8');
+  }
+
+  // auto: UTF-8 BOM があれば UTF-8 確定
+  if (buf.length >= 3 && buf[0] === 0xef && buf[1] === 0xbb && buf[2] === 0xbf) {
+    return iconv.decode(buf, 'utf-8');
+  }
+  // UTF-8 としてデコードし、置換文字（U+FFFD）が出るようなら Shift_JIS とみなす
+  const asUtf8 = iconv.decode(buf, 'utf-8');
+  if (asUtf8.includes('�')) {
+    return iconv.decode(buf, 'Shift_JIS');
+  }
+  return asUtf8;
+}
+
+async function parseCSV(cachePath, encoding) {
   const buf = fs.readFileSync(cachePath);
-  const text = iconv.decode(buf, 'Shift_JIS');
+  const text = await decodeCsvBuffer(buf, encoding);
   const rows = parseCSVText(text);
   if (rows.length === 0) return [];
 
@@ -262,19 +350,31 @@ function parseCSVText(text) {
   return rows.filter((r) => r.some((cell) => cell.trim() !== ''));
 }
 
-// ---------------------------------------------------------------------------
-// XLSXパース
-// ---------------------------------------------------------------------------
-async function parseXLSX(cachePath) {
+// XLSX / XLS パース。allSheets=true の場合は全シートを結合する（例: 京都市は区ごとにシート）。
+async function parseExcel(cachePath, { allSheets = false } = {}) {
   const xlsx = await import('xlsx');
   const wb = xlsx.read(fs.readFileSync(cachePath), { type: 'buffer' });
-  const sheet = wb.Sheets[wb.SheetNames[0]];
-  return xlsx.utils.sheet_to_json(sheet, { defval: '', raw: false });
+  const names = allSheets ? wb.SheetNames : [wb.SheetNames[0]];
+  const out = [];
+  for (const name of names) {
+    const rows = xlsx.utils.sheet_to_json(wb.Sheets[name], { defval: '', raw: false });
+    out.push(...rows);
+  }
+  return out;
+}
+
+async function parseSource(source, cachePath, format) {
+  if (format === 'xlsx' || format === 'xls') {
+    return parseExcel(cachePath, { allSheets: !!source.allSheets });
+  }
+  return parseCSV(cachePath, source.encoding);
 }
 
 // ---------------------------------------------------------------------------
-// 生レコード（元ヘッダーのまま）→ 内部キーのレコードに変換
+// レコード変換
 // ---------------------------------------------------------------------------
+
+// 生レコード（元ヘッダーのまま）→ 内部キーのレコードに変換
 function mapRecord(raw) {
   const out = {};
   for (const [key, value] of Object.entries(raw)) {
@@ -290,15 +390,15 @@ function mapRecord(raw) {
 // 内部レコード → 出力用の施設オブジェクト
 function toFacility(rec) {
   const name = rec.facility_name || rec.operator_name || '';
-  // 所在地（方書があれば結合）
-  const address = [rec.address, rec.address_extra]
+  // 所在地。分割カラム（町字・番地以下）しか無い場合はそれを結合し、方書があれば付す。
+  const base = rec.address || [rec.address_town, rec.address_street].filter(Boolean).join('');
+  const address = [base, rec.address_extra]
     .filter((s) => s && String(s).trim())
     .join(' ')
     .trim();
   if (!name && !address) return null; // name と address が両方空ならスキップ
 
-  const lat = parseCoord(rec.lat);
-  const lng = parseCoord(rec.lng);
+  const [lat, lng] = sanitizeLatLng(parseCoord(rec.lat), parseCoord(rec.lng));
 
   return {
     name,
@@ -323,9 +423,27 @@ function parseCoord(v) {
   return Number.isFinite(n) ? n : null;
 }
 
+// 日本国内の緯度・経度のおおよその範囲
+const JP_LAT = [20, 46];
+const JP_LNG = [122, 154];
+const inRange = (x, [lo, hi]) => x != null && x >= lo && x <= hi;
+
+// 緯度・経度のサニティ補正。
+// 一部の自治体データ（例: 大阪市）は「緯度」「経度」列の中身が逆になっている。
+// 値が明らかに入れ替わっている（lat が経度域・lng が緯度域）場合は入れ替える。
+// 補正しても日本の範囲に収まらない座標は無効として null にする（誤配置を防ぐ）。
+function sanitizeLatLng(lat, lng) {
+  if (lat == null || lng == null) return [lat, lng];
+  if (inRange(lat, JP_LAT) && inRange(lng, JP_LNG)) return [lat, lng];
+  if (inRange(lng, JP_LAT) && inRange(lat, JP_LNG)) return [lng, lat]; // 入れ替わり
+  return [null, null]; // どちらでも日本域に収まらない → 無効
+}
+
 // ---------------------------------------------------------------------------
+// 出力ヘルパ
+// ---------------------------------------------------------------------------
+
 // 安全なディレクトリ名（スラッシュ等を除去）
-// ---------------------------------------------------------------------------
 function safeName(s) {
   return String(s).replace(/[\\/:*?"<>|]/g, '_').trim();
 }
@@ -338,13 +456,15 @@ function writeJSON(filePath, obj) {
 // ---------------------------------------------------------------------------
 // ジオコーディング
 //   緯度経度が無い施設を、住所から @geolonia/normalize-japanese-addresses で補完する。
+//   併せて正規化結果の都道府県・市区町村も取得し、これらのカラムが無いデータ
+//   （例: 奈良県データ）の _pref / _city 補完にも使う。
 //   結果は .cache/geocode-cache.json に永続化し、再実行・週次クロールを高速化する。
 // ---------------------------------------------------------------------------
 
 // 住所が都道府県名で始まっていなければ前置し、正規化の精度を上げる
 function geocodeQuery(facility) {
   const addr = facility.address || '';
-  const pref = facility._pref || '';
+  const pref = facility._pref && facility._pref !== '不明' ? facility._pref : '';
   return pref && !addr.startsWith(pref) ? `${pref}${addr}` : addr;
 }
 
@@ -390,7 +510,7 @@ async function enrichWithGeocoding(facilities) {
       `（キャッシュ済 ${uniqueQueries.length - toFetch.length}件、新規 ${toFetch.length}件）`,
   );
 
-  njaConfig.cacheSize = 2000;
+  njaConfig.cacheSize = 4000;
 
   let done = 0;
   let failed = 0; // 住所として解決できなかった（恒久的な失敗）
@@ -399,7 +519,18 @@ async function enrichWithGeocoding(facilities) {
     try {
       const r = await normalize(query);
       if (r && r.point && Number.isFinite(r.point.lat) && Number.isFinite(r.point.lng)) {
-        cache[query] = { lat: r.point.lat, lng: r.point.lng, level: r.point.level ?? null };
+        cache[query] = {
+          lat: r.point.lat,
+          lng: r.point.lng,
+          level: r.point.level ?? null,
+          pref: r.pref || null,
+          city: r.city || null,
+        };
+      } else if (r && (r.pref || r.city)) {
+        // 座標は取れなかったが都道府県・市区町村は解決できた場合も記録する
+        // （_pref / _city 補完に使う）。座標は null。
+        cache[query] = { lat: null, lng: null, level: null, pref: r.pref || null, city: r.city || null };
+        failed++;
       } else {
         // 住所として解決できなかった恒久的な失敗。null を記録し再試行を避ける。
         cache[query] = null;
@@ -420,16 +551,19 @@ async function enrichWithGeocoding(facilities) {
   });
   saveGeocodeCache(cache);
 
-  // キャッシュの結果を施設へ反映
+  // キャッシュの結果を施設へ反映（座標と、未確定の都道府県・市区町村）
   let filled = 0;
   for (const f of targets) {
     const hit = cache[geocodeQuery(f)];
-    if (hit) {
+    if (!hit) continue;
+    if (hit.lat != null && hit.lng != null) {
       f.lat = hit.lat;
       f.lng = hit.lng;
       f.geocoding_level = hit.level;
       filled++;
     }
+    if ((!f._pref || f._pref === '不明') && hit.pref) f._pref = hit.pref;
+    if ((!f._city || f._city === '不明') && hit.city) f._city = hit.city;
   }
   console.log(
     `  座標を補完: ${filled}/${targets.length}施設` +
@@ -441,38 +575,41 @@ async function enrichWithGeocoding(facilities) {
 // メイン
 // ---------------------------------------------------------------------------
 async function main() {
-  console.log(`沖縄県施設検索API クローラー${DRY_RUN ? ' (--dry-run)' : ''}`);
-  console.log(`対象リソース: ${TARGET_RESOURCE_IDS.length}件\n`);
+  const sources = SOURCES.filter((s) => !ONLY || ONLY.has(s.key));
+  console.log(`全国 食品営業許可 施設検索API クローラー${DRY_RUN ? ' (--dry-run)' : ''}`);
+  console.log(`対象ソース: ${sources.length}件${ONLY ? `（--only=${[...ONLY].join(',')}）` : ''}\n`);
 
   const facilities = [];
 
-  for (const resourceId of TARGET_RESOURCE_IDS) {
-    console.log(`▼ リソース: ${resourceId}`);
-    const info = await fetchResourceInfo(resourceId);
-    const { cachePath, format } = await downloadResource(resourceId, info);
+  for (const source of sources) {
+    console.log(`▼ ${source.key}: ${source.source}`);
+    try {
+      const { cachePath, format } = await acquire(source);
+      const rawRecords = await parseSource(source, cachePath, format);
+      console.log(`  ${rawRecords.length}行を読み込み (${format})`);
 
-    let rawRecords;
-    if (format === 'xlsx') {
-      rawRecords = await parseXLSX(cachePath);
-    } else {
-      rawRecords = await parseCSV(cachePath);
-    }
-    console.log(`  ${rawRecords.length}行を読み込み`);
-
-    for (const raw of rawRecords) {
-      const rec = mapRecord(raw);
-      const facility = toFacility(rec);
-      if (facility) {
-        facilities.push({
-          ...facility,
-          _pref: resolvePrefecture(rec),
-          _city: rec.city_name || '不明',
-        });
+      let kept = 0;
+      for (const raw of rawRecords) {
+        const rec = mapRecord(raw);
+        const facility = toFacility(rec);
+        if (facility) {
+          facilities.push({
+            ...facility,
+            _pref: resolvePrefecture(rec, source),
+            _city: resolveCity(rec, source),
+            _source: source.source,
+            _license: source.license || null,
+          });
+          kept++;
+        }
       }
+      console.log(`  有効施設: ${kept}件`);
+    } catch (err) {
+      console.error(`  ⚠ ${source.key} をスキップ: ${err.message}`);
     }
   }
 
-  console.log(`\n有効な施設: ${facilities.length}件`);
+  console.log(`\n有効な施設: 合計 ${facilities.length}件`);
 
   // 緯度経度の無い施設を住所からジオコーディングして補完
   if (NO_GEOCODE) {
@@ -484,16 +621,35 @@ async function main() {
 
   // 都道府県 → 市区町村 → 施設 の3階層ツリーを組み立て
   const tree = new Map(); // prefecture -> Map(city -> facility[])
+  const sourcesByPref = new Map(); // prefecture -> Set("source|license")
+  const sourcesByCity = new Map(); // "pref/city" -> Set("source|license")
   for (const f of facilities) {
-    const pref = f._pref;
-    const city = f._city;
+    const pref = f._pref || '不明';
+    const city = f._city || '不明';
+    const srcKey = `${f._source || ''}|${f._license || ''}`;
     delete f._pref;
     delete f._city;
+    delete f._source;
+    delete f._license;
+
     if (!tree.has(pref)) tree.set(pref, new Map());
     const byCity = tree.get(pref);
     if (!byCity.has(city)) byCity.set(city, []);
     byCity.get(city).push(f);
+
+    if (!sourcesByPref.has(pref)) sourcesByPref.set(pref, new Set());
+    sourcesByPref.get(pref).add(srcKey);
+    const ck = `${pref}/${city}`;
+    if (!sourcesByCity.has(ck)) sourcesByCity.set(ck, new Set());
+    sourcesByCity.get(ck).add(srcKey);
   }
+
+  // "source|license" の Set を [{source, license}] 配列に変換
+  const toSourceList = (set) =>
+    [...set].map((s) => {
+      const [source, license] = s.split('|');
+      return { source, license: license || null };
+    });
 
   // 出力ディレクトリをクリーンに作り直す
   if (fs.existsSync(OUT_DIR)) {
@@ -503,13 +659,17 @@ async function main() {
 
   const updated = Math.floor(Date.now() / 1000);
 
+  // 全ソースの一覧（トップ index.json 用）
+  const allSet = new Set();
+  for (const set of sourcesByPref.values()) for (const s of set) allSet.add(s);
+
   // トップレベル index.json（都道府県名 → 市区町村名の配列）
   const topData = {};
   for (const [pref, byCity] of tree) {
     topData[pref] = [...byCity.keys()].sort();
   }
   writeJSON(path.join(OUT_DIR, 'index.json'), {
-    meta: { updated, source: META.source, license: META.license },
+    meta: { updated, sources: toSourceList(allSet) },
     data: topData,
   });
 
@@ -523,7 +683,7 @@ async function main() {
       counts[city] = list.length;
     }
     writeJSON(path.join(prefDir, 'index.json'), {
-      meta: { updated },
+      meta: { updated, sources: toSourceList(sourcesByPref.get(pref)) },
       data: counts,
     });
 
@@ -531,7 +691,7 @@ async function main() {
     for (const [city, list] of byCity) {
       cityCount++;
       writeJSON(path.join(prefDir, safeName(city), 'data.json'), {
-        meta: { updated },
+        meta: { updated, sources: toSourceList(sourcesByCity.get(`${pref}/${city}`)) },
         data: list,
       });
     }
@@ -547,7 +707,13 @@ async function main() {
   console.log(`   出力先: ${path.relative(ROOT, OUT_DIR)}`);
 }
 
-main().catch((err) => {
-  console.error('\n❌ エラー:', err.message);
-  process.exit(1);
-});
+// 直接実行された場合のみクロールを開始する（テストから import しても main は走らない）。
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main().catch((err) => {
+    console.error('\n❌ エラー:', err.message);
+    process.exit(1);
+  });
+}
+
+// テスト用に純粋関数をエクスポートする。
+export { normalizeDate, sanitizeLatLng, resolvePrefecture, resolveCity, mapRecord, toFacility, parseCSVText };

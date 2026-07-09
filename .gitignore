@@ -2,3 +2,6 @@ node_modules/
 .cache/
 *.log
 .DS_Store
+
+# 生成物はコミットしない（CIで生成し gh-pages へ配信する）
+api/
