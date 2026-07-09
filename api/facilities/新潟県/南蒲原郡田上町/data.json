@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "有限会社髙取商店",
+      "name_kana": "ユウゲンガイシャタカトリショウテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "新潟県南蒲原郡田上町羽生田丙345",
+      "lat": 37.684792,
+      "lng": 139.079847,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "クスリのアオキ新潟田上店",
+      "name_kana": "クスリノアオキニイガタタガミテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "新潟県南蒲原郡田上町大字吉田新田乙550番地1",
+      "lat": 37.683761,
+      "lng": 139.058711,
+      "geocoding_level": null,
+      "phone": "0256-47-4680",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア新潟田上店",
+      "name_kana": "ウエルシアニイガタタガミテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "新潟県南蒲原郡田上町羽生田134-1",
+      "lat": 37.690514,
+      "lng": 139.060145,
+      "geocoding_level": null,
+      "phone": "0256467250",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "朝めし屋　九左衛門",
+      "name_kana": "アサメシヤクザエモン",
+      "business_type": "① 飲食店営業",
+      "address": "新潟県南蒲原郡田上町田上丙1332番地1",
+      "lat": 37.712099,
+      "lng": 139.078376,
+      "geocoding_level": null,
+      "phone": "0256572398",
+      "license_no": "新潟県三保（生）第1-99号",
+      "license_date": "2024-11-14",
+      "expire_date": "2030-03-31"
+    },
+    {
+      "name": "コメリハードアンドグリーン田上店",
+      "name_kana": "コメリハードアンドグリーンタガミテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "新潟県南蒲原郡田上町大字田上字三百刈丁１６６３－１",
+      "lat": 37.706221,
+      "lng": 139.081845,
+      "geocoding_level": null,
+      "phone": "0256-41-5005",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "特別養護老人ホーム　いちいの森",
+      "name_kana": "トクベツヨウゴロウジンホーム　イチイノモリ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県下北郡東通村砂子又字桑原山1-106",
+      "lat": 41.264189,
+      "lng": 141.347805,
+      "geocoding_level": null,
+      "phone": "0175-33-2640",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "相内　美也子",
+      "name_kana": "アイナイ　ミヤコ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県下北郡東通村白糠字前田44",
+      "lat": 41.157467,
+      "lng": 141.387239,
+      "geocoding_level": null,
+      "phone": "090-5846-6385",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "川口　節子",
+      "name_kana": "カワグチ　セツコ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県下北郡東通村小田野沢浜通77",
+      "lat": 41.228056,
+      "lng": 141.399106,
+      "geocoding_level": null,
+      "phone": "0175-48-2252",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "介護老人保健施設のはなしょうぶ",
+      "name_kana": "カイゴロウジンホケンシセツノハナショウブ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県下北郡東通村砂子又里17-2",
+      "lat": 41.276926,
+      "lng": 141.337255,
+      "geocoding_level": null,
+      "phone": "0175-28-5600",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "東通消防署",
+      "name_kana": "ヒガシドオリショウボウショ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県下北郡東通村砂子又沢内5-35",
+      "lat": 41.280646,
+      "lng": 141.329548,
+      "geocoding_level": null,
+      "phone": "0175-27-2199",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "東通消防署南分遣所",
+      "name_kana": "ヒガシドオリショウボウショミナミブンケンショ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県下北郡東通村白糠字赤平259-2",
+      "lat": 41.14851,
+      "lng": 141.387384,
+      "geocoding_level": null,
+      "phone": "0175-46-2217",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "特別養護老人ホーム能舞の里",
+      "name_kana": "トクベツヨウゴロウジンホームノウマイノサト",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県下北郡東通村砂子又字桑原山1-107",
+      "lat": 41.284747,
+      "lng": 141.334009,
+      "geocoding_level": null,
+      "phone": "0175-28-5171",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "東通村役場",
+      "name_kana": "ヒガシドオリムラヤクバ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県下北郡東通村砂子又沢内5-34",
+      "lat": 41.277891,
+      "lng": 141.329578,
+      "geocoding_level": null,
+      "phone": "0175-27-2111",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "魚国総本社・下北21675",
+      "name_kana": "ウオクニソウホンシャ・シモキタ",
+      "business_type": "① 飲食店営業",
+      "address": "青森県下北郡東通村砂子又字沢内9-63",
+      "lat": 41.275979,
+      "lng": 141.331752,
+      "geocoding_level": null,
+      "phone": "0175-72-2482",
+      "license_no": "指令第0164号",
+      "license_date": "2025-09-22",
+      "expire_date": "2033-05-31"
+    },
+    {
+      "name": "こども園ひがしどおり",
+      "name_kana": "コドモエンヒガシドオリ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "青森県下北郡東通村砂子又字沢内9-35",
+      "lat": 41.275244,
+      "lng": 141.332104,
+      "geocoding_level": null,
+      "phone": "0175-31-0201",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ファミリーマート東通店",
+      "name_kana": "ヒガシドオリテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "青森県下北郡東通村白糠垣間２０－４",
+      "lat": 41.165048,
+      "lng": 141.386469,
+      "geocoding_level": null,
+      "phone": "0175455608",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "東通村農産物加工センター",
+      "name_kana": "ヒガシドオリムラノウサンブツカコウセンター",
+      "business_type": "⑪ 菓子製造業",
+      "address": "青森県下北郡東通村大字蒲野沢字外畑97-7",
+      "lat": 41.327228,
+      "lng": 141.289244,
+      "geocoding_level": null,
+      "phone": "0175-33-0251",
+      "license_no": "指令第0028号",
+      "license_date": "2025-03-21",
+      "expire_date": "2032-05-31"
+    },
+    {
+      "name": "東通村農産物加工センター",
+      "name_kana": "ヒガシドオリムラノウサンブツカコウセンター",
+      "business_type": "㉔ 麺類製造業",
+      "address": "青森県下北郡東通村大字蒲野沢字外畑97-7",
+      "lat": 41.327228,
+      "lng": 141.289244,
+      "geocoding_level": null,
+      "phone": "0175-33-0251",
+      "license_no": "指令第78号",
+      "license_date": "2024-05-14",
+      "expire_date": "2031-05-31"
+    }
+  ]
+}

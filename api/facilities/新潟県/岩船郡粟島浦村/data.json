@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "粟島浦村保育園",
+      "name_kana": "アワシマウラムラホイクエン",
+      "business_type": "㉖ 集団給食施設",
+      "address": "新潟県岩船郡粟島浦村粟島浦村字日ノ見山1513-11",
+      "lat": 38.468206,
+      "lng": 139.254353,
+      "geocoding_level": null,
+      "phone": "0254-55-2111",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

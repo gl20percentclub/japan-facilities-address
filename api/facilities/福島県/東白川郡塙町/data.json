@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "薬王堂　福島塙店",
+      "name_kana": "ヤクオウドウ　フクシマハナワテン",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "福島県東白川郡塙町塙字本町106番地",
+      "lat": 36.954466,
+      "lng": 140.414345,
+      "geocoding_level": null,
+      "phone": "0247-57-5371",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　福島塙店",
+      "name_kana": "ヤクオウドウ　フクシマハナワテン",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "福島県東白川郡塙町塙字本町106番地",
+      "lat": 36.954466,
+      "lng": 140.414345,
+      "geocoding_level": null,
+      "phone": "0247-57-5371",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　福島塙店",
+      "name_kana": "ヤクオウドウ　フクシマハナワテン",
+      "business_type": "③ 乳類販売業",
+      "address": "福島県東白川郡塙町塙字本町106番地",
+      "lat": 36.954466,
+      "lng": 140.414345,
+      "geocoding_level": null,
+      "phone": "0247-57-5371",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "産まれたてのライオン　塙店",
+      "name_kana": "ウマレタテノライオン　ハナワテン",
+      "business_type": "⑪ 菓子製造業",
+      "address": "福島県東白川郡塙町大字板庭字原木沢32",
+      "lat": 36.946451,
+      "lng": 140.434461,
+      "geocoding_level": null,
+      "phone": "0247578302",
+      "license_no": "福島県指令南保第1-83号",
+      "license_date": "2023-09-11",
+      "expire_date": "2031-07-31"
+    },
+    {
+      "name": "塙貨物運送（有）道路面自販機コーナー",
+      "name_kana": "ハナワカモツウンソウユウゲンガイシャドウロメンジハンキコーナー",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県東白川郡塙町堀越字北17-1",
+      "lat": 36.997305,
+      "lng": 140.41273,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　スズキ製作所　塙工場",
+      "name_kana": "カブシキガイシャ　スズキセイサクショ　ハナワコウジョウ",
+      "business_type": "㉗ 器具、容器包装の製造・加工業（合成樹脂が使用された器具又は容器包装の製造、加工に限る。）",
+      "address": "福島県東白川郡塙町西河内字古参田1-3",
+      "lat": 36.973128,
+      "lng": 140.42057,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "Yショップ塙厚生病院店",
+      "name_kana": "ワイショップハナワコウセイビョウインテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "福島県東白川郡塙町大字塙字大町１丁目５番地",
+      "lat": 36.959859,
+      "lng": 140.407887,
+      "geocoding_level": null,
+      "phone": "0247-57-7477",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ツルハドラッグ塙店",
+      "name_kana": "ツルハドラッグハナワテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県東白川郡塙町塙字大町1丁目13番地",
+      "lat": 36.958975,
+      "lng": 140.409578,
+      "geocoding_level": null,
+      "phone": "0247-44-0268",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン塙店",
+      "name_kana": "コメリハードアンドグリーンハナワテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "福島県東白川郡塙町大字塙字材木町８",
+      "lat": 36.961466,
+      "lng": 140.408349,
+      "geocoding_level": null,
+      "phone": "0247-44-1028",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ヤクルト塙センター",
+      "name_kana": "ヤクルトハナワセンター",
+      "business_type": "③ 乳類販売業",
+      "address": "福島県東白川郡塙町上渋井字胡桃下22-4",
+      "lat": 36.962675,
+      "lng": 140.410302,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

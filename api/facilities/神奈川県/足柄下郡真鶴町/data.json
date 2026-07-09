@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "真鶴町立まなづる小学校",
+      "name_kana": "マナヅルチョウリツマナヅルショウガッコウ",
+      "business_type": "① 飲食店営業",
+      "address": "神奈川県足柄下郡真鶴町真鶴543番地",
+      "lat": 35.155877,
+      "lng": 139.139418,
+      "geocoding_level": null,
+      "phone": "080-6667-9595",
+      "license_no": "第2025-001-0033号",
+      "license_date": "2025-04-01",
+      "expire_date": "2032-03-31"
+    },
+    {
+      "name": "真鶴町立体育館",
+      "name_kana": "マナヅルチョウリツタイイクカン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "神奈川県足柄下郡真鶴町真鶴1853",
+      "lat": 35.157586,
+      "lng": 139.130496,
+      "geocoding_level": null,
+      "phone": "0465-68-1144",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "NEWDAYS MINI 真鶴1号",
+      "name_kana": "ニューデイズミニマナヅルイチゴウ",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "神奈川県足柄下郡真鶴町真鶴1824",
+      "lat": 35.156864,
+      "lng": 139.132919,
+      "geocoding_level": null,
+      "phone": "0465-69-1030",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "セイジョー真鶴店",
+      "name_kana": "セイジョーマナヅルテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "神奈川県足柄下郡真鶴町岩246-2",
+      "lat": 35.158006,
+      "lng": 139.137033,
+      "geocoding_level": null,
+      "phone": "0465-69-1013",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "グループホームみんなの家・真鶴",
+      "name_kana": "グループホームミンナノイエ・ナマヅル",
+      "business_type": "㉖ 集団給食施設",
+      "address": "神奈川県足柄下郡真鶴町岩779-4",
+      "lat": 35.167117,
+      "lng": 139.13567,
+      "geocoding_level": null,
+      "phone": "0465691550",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "一般財団法人貴船会　貴船愛児園",
+      "name_kana": "イッパンザイダンホウジンキブネカイ　キブネアイジエン",
+      "business_type": "㉖ 集団給食施設",
+      "address": "神奈川県足柄下郡真鶴町真鶴1117番ロ号",
+      "lat": 35.149977,
+      "lng": 139.145329,
+      "geocoding_level": null,
+      "phone": "0465683366",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "夏賀商店",
+      "name_kana": "ナツガショウテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "神奈川県足柄下郡真鶴町真鶴1820",
+      "lat": 35.156248,
+      "lng": 139.132821,
+      "geocoding_level": null,
+      "phone": "0465680522",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "石田保育園",
+      "name_kana": "イシダホイクエン",
+      "business_type": "㉖ 集団給食施設",
+      "address": "神奈川県足柄下郡真鶴町真鶴1900-29",
+      "lat": 35.160435,
+      "lng": 139.130317,
+      "geocoding_level": null,
+      "phone": "0465682422",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "あしたの箱",
+      "name_kana": "アシタノハコ",
+      "business_type": "① 飲食店営業",
+      "address": "神奈川県足柄下郡真鶴町真鶴1164",
+      "lat": 35.146381,
+      "lng": 139.152481,
+      "geocoding_level": null,
+      "phone": "08057804303",
+      "license_no": "第2024-001-0271号",
+      "license_date": "2024-07-30",
+      "expire_date": "2030-07-29"
+    },
+    {
+      "name": "あしたの箱",
+      "name_kana": "アシタノハコ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "神奈川県足柄下郡真鶴町真鶴1164",
+      "lat": 35.146381,
+      "lng": 139.152481,
+      "geocoding_level": null,
+      "phone": "08057804303",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "あしたの箱",
+      "name_kana": "アシタノハコ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "神奈川県足柄下郡真鶴町真鶴1164",
+      "lat": 35.146381,
+      "lng": 139.152481,
+      "geocoding_level": null,
+      "phone": "08057804303",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "クリエイトS・D真鶴駅前店",
+      "name_kana": "クリエイトエス・ディーマナヅルエキマエテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "神奈川県足柄下郡真鶴町真鶴字深渕383-9",
+      "lat": 35.155167,
+      "lng": 139.139838,
+      "geocoding_level": null,
+      "phone": "0465-68-5101",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "クミンと海",
+      "name_kana": "クミントウミ",
+      "business_type": "① 飲食店営業",
+      "address": "神奈川県足柄下郡真鶴町岩582",
+      "lat": 35.162348,
+      "lng": 139.138222,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "第2026-001-0008号",
+      "license_date": "2026-04-10",
+      "expire_date": "2032-04-09"
+    }
+  ]
+}

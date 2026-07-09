@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ゲンキー拾石店",
+      "name_kana": "ゲンキーヒロイシテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "愛知県蒲郡市拾石町縄手添17",
+      "lat": 34.823014,
+      "lng": 137.20041,
+      "geocoding_level": null,
+      "phone": "0533-56-8750",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "特別養護老人ホーム　蒲郡眺海園",
+      "name_kana": "トクベツヨウゴロウジンホーム　ガマゴオリチョウカイエン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "愛知県蒲郡市拾石町浅岡１番地７ 蒲郡眺海園",
+      "lat": 34.813904,
+      "lng": 137.198496,
+      "geocoding_level": null,
+      "phone": "0533691122",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "goen",
+      "name_kana": "ゴエン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "愛知県蒲郡市拾石町拾石町前田3番地",
+      "lat": 34.818013,
+      "lng": 137.199907,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "葬儀会館　ティア蒲郡西",
+      "name_kana": "ソウギカイカン　ティアガマゴオリニシ",
+      "business_type": "⑥ 弁当販売業",
+      "address": "愛知県蒲郡市拾石町ゾウシダ18-1",
+      "lat": 34.818606,
+      "lng": 137.197124,
+      "geocoding_level": null,
+      "phone": "0533-66-1611",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

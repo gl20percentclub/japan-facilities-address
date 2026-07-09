@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "Ｖ・drug　舟橋店",
+      "name_kana": "ブイ・ドラッグ　フナハシテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "富山県中新川郡舟橋村竹内525",
+      "lat": 36.706797,
+      "lng": 137.308523,
+      "geocoding_level": null,
+      "phone": "076-464-4121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ファインネクス",
+      "name_kana": "ファインネクス",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "富山県中新川郡舟橋村舟橋415",
+      "lat": 36.704196,
+      "lng": 137.31267,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "舟橋村立舟橋中学校",
+      "name_kana": "フナハシソンリツフナハシチュウガッコウ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "富山県中新川郡舟橋村海老江5",
+      "lat": 36.700837,
+      "lng": 137.305868,
+      "geocoding_level": null,
+      "phone": "076-464-1425",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ふなはしすきっぷ園",
+      "name_kana": "フナハシスキップエン",
+      "business_type": "㉖ 集団給食施設",
+      "address": "富山県中新川郡舟橋村竹内212",
+      "lat": 36.703068,
+      "lng": 137.304782,
+      "geocoding_level": null,
+      "phone": "0764614733",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "セブンイレブン舟橋竹内店",
+      "name_kana": "セブンイレブンフナハシタケノウチテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "富山県中新川郡舟橋村竹内520-1",
+      "lat": 36.706246,
+      "lng": 137.306154,
+      "geocoding_level": null,
+      "phone": "076-462-3907",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "舟橋村立舟橋小学校",
+      "name_kana": "フナハシソンリツフナハシショウガッコウ",
+      "business_type": "① 飲食店営業",
+      "address": "富山県中新川郡舟橋村竹内338",
+      "lat": 36.702398,
+      "lng": 137.306305,
+      "geocoding_level": null,
+      "phone": "076-464-1424",
+      "license_no": "140139-001",
+      "license_date": "2026-03-17",
+      "expire_date": "2032-03-31"
+    },
+    {
+      "name": "湯めごこち",
+      "name_kana": "ユメゴコチ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "富山県中新川郡舟橋村古海老江256-1",
+      "lat": 36.687369,
+      "lng": 137.303381,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "常願寺スポーツパーク",
+      "name_kana": "ジョウガンジスポーツパーク",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "富山県中新川郡舟橋村東芦原86-1",
+      "lat": 36.687693,
+      "lng": 137.298469,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "花・SOU",
+      "name_kana": "ハナソウ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "富山県中新川郡舟橋村竹内441 さどビル１階",
+      "lat": 36.705945,
+      "lng": 137.306628,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

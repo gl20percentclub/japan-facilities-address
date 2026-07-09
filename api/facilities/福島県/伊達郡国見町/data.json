@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "香雲堂斎場",
+      "name_kana": "コウウンドウサイジョウ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "福島県伊達郡国見町藤田沢田一3-3",
+      "lat": 37.878576,
+      "lng": 140.552103,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コープふくしま　国見店",
+      "name_kana": "クニミテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県伊達郡国見町大字藤田字五反田 1-3",
+      "lat": 37.874361,
+      "lng": 140.541845,
+      "geocoding_level": null,
+      "phone": "024-585-3171",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅国見あつかしの郷",
+      "name_kana": "ミチノエキクニミアツカシノサト",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県伊達郡国見町藤田日渡二18-1",
+      "lat": 37.872965,
+      "lng": 140.547118,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "クスリのアオキ国見店",
+      "name_kana": "クスリノアオキクニミテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県伊達郡国見町藤田字五反田1番地22",
+      "lat": 37.874137,
+      "lng": 140.541508,
+      "geocoding_level": null,
+      "phone": "024-572-6825",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア伊達国見店",
+      "name_kana": "ウエルシアダテクニミテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県伊達郡国見町大字藤田字中沢一10番地1",
+      "lat": 37.872727,
+      "lng": 140.542328,
+      "geocoding_level": null,
+      "phone": "024-529-2105",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア伊達国見店",
+      "name_kana": "ウエルシアダテクニミテン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県伊達郡国見町大字藤田字中沢一10番地1",
+      "lat": 37.872727,
+      "lng": 140.542328,
+      "geocoding_level": null,
+      "phone": "024-529-2105",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "国見SA（下り線）建物左側別棟コーナー",
+      "name_kana": "クニミサービスエリアクダリセン　タテモノヒダリガワベットウコーナー",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県伊達郡国見町大字貝田字山口12",
+      "lat": 37.907218,
+      "lng": 140.577669,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "齋藤恵子",
+      "name_kana": "サイトウケイコ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "福島県伊達郡国見町大木戸六角15",
+      "lat": 37.897593,
+      "lng": 140.571463,
+      "geocoding_level": null,
+      "phone": "0245854039",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社FLY HIGH",
+      "name_kana": "カブシキガイシャフライ  ハイ",
+      "business_type": "⑨ 通信販売・訪問販売による販売業",
+      "address": "福島県伊達郡国見町一円",
+      "lat": 37.875906,
+      "lng": 140.549084,
+      "geocoding_level": null,
+      "phone": "023-615-9121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "幸楽苑　道の駅国見あつかしの郷店",
+      "name_kana": "コウラクエン　ミチノエキクニミアツカシノサトテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県伊達郡国見町藤田字日渡二18-1",
+      "lat": 37.872567,
+      "lng": 140.546315,
+      "geocoding_level": null,
+      "phone": "024-572-3336",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン国見店",
+      "name_kana": "コメリハードアンドグリーンクニミテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "福島県伊達郡国見町大字藤田字藤田二７－１",
+      "lat": 37.87438,
+      "lng": 140.547095,
+      "geocoding_level": null,
+      "phone": "024-529-2675",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン国見店",
+      "name_kana": "コメリハードアンドグリーンクニミテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "福島県伊達郡国見町大字藤田字藤田二７－１",
+      "lat": 37.87438,
+      "lng": 140.547095,
+      "geocoding_level": null,
+      "phone": "024-529-2675",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

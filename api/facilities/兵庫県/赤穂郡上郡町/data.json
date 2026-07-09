@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ダイソー　イオン上郡ショッピングセンター店",
+      "name_kana": "ダイソー　イオンカミゴオリショピングセンターテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "兵庫県赤穂郡上郡町竹万５３３ イオン上郡ショッピングセンター内",
+      "lat": 34.860632,
+      "lng": 134.362493,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ザグザグ上郡店",
+      "name_kana": "ザグザグカミゴオリテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "兵庫県赤穂郡上郡町大持189",
+      "lat": 34.870252,
+      "lng": 134.353805,
+      "geocoding_level": null,
+      "phone": "0791-57-3939",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "旬彩蔵上郡",
+      "name_kana": "シュンサイグラカミゴオリ",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "兵庫県赤穂郡上郡町竹万2311",
+      "lat": 34.8604,
+      "lng": 134.364398,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "旬彩蔵上郡",
+      "name_kana": "シュンサイグラカミゴオリ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "兵庫県赤穂郡上郡町竹万2311",
+      "lat": 34.8604,
+      "lng": 134.364398,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "旬彩蔵上郡",
+      "name_kana": "シュンサイグラカミゴオリ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "兵庫県赤穂郡上郡町竹万2311",
+      "lat": 34.8604,
+      "lng": 134.364398,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ファイン　上郡工場",
+      "name_kana": "カブシキガイシャファイン　カミゴオリコウジョウ",
+      "business_type": "⑮ いわゆる健康食品の製造・加工業",
+      "address": "兵庫県赤穂郡上郡町奥甲931",
+      "lat": 34.871776,
+      "lng": 134.394374,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ファイン　上郡テクノ工場",
+      "name_kana": "カブシキガイシャファイン　カミゴオリテクノコウジョウ",
+      "business_type": "⑮ いわゆる健康食品の製造・加工業",
+      "address": "兵庫県赤穂郡上郡町野桑700-3",
+      "lat": 35.748494,
+      "lng": 136.964315,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグコスモス上郡店",
+      "name_kana": "ドラッグコスモスカミゴオリテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "兵庫県赤穂郡上郡町竹万2281",
+      "lat": 34.858794,
+      "lng": 134.363199,
+      "geocoding_level": null,
+      "phone": "0791-57-2020",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社Merry Widow",
+      "name_kana": "カブシキガイシャメリーウィドウ",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "兵庫県赤穂郡上郡町上郡44-2",
+      "lat": 34.867797,
+      "lng": 134.357,
+      "geocoding_level": null,
+      "phone": "0791-52-5757",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

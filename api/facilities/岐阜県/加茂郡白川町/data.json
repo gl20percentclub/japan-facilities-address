@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "Ｖ・drug　白川店",
+      "name_kana": "ブイドラッグ　シラカワテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "岐阜県加茂郡白川町河岐1731",
+      "lat": 35.580775,
+      "lng": 137.190641,
+      "geocoding_level": null,
+      "phone": "0574-74-1015",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ゲンキー白川町店",
+      "name_kana": "ゲンキーシラカワチョウテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "岐阜県加茂郡白川町三川902番",
+      "lat": 35.568272,
+      "lng": 137.223411,
+      "geocoding_level": null,
+      "phone": "0574-72-2627",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ますぶち園",
+      "name_kana": "マスブチエン",
+      "business_type": "㉑ 製茶業",
+      "address": "岐阜県加茂郡白川町黒川１４００番地",
+      "lat": 35.586868,
+      "lng": 137.346156,
+      "geocoding_level": null,
+      "phone": "0574-77-1245",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "お茶の菊之園　道の駅店",
+      "name_kana": "オチャノキクノエン　ミチノエキテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "岐阜県加茂郡白川町河東3500-1 道の駅「美濃白川」内",
+      "lat": 35.60389,
+      "lng": 137.173516,
+      "geocoding_level": null,
+      "phone": "0574752181",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "お茶の菊之園　白川口本店",
+      "name_kana": "オチャノキクノエン　シラカワグチホンテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "岐阜県加茂郡白川町河岐1695-2",
+      "lat": 35.581474,
+      "lng": 137.190588,
+      "geocoding_level": null,
+      "phone": "0574721032",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　菊之園",
+      "name_kana": "カブシキガイシャ　キクノエン",
+      "business_type": "㉑ 製茶業",
+      "address": "岐阜県加茂郡白川町坂ノ東5992-2",
+      "lat": 35.603781,
+      "lng": 137.163467,
+      "geocoding_level": null,
+      "phone": "0574752126",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "千空農園",
+      "name_kana": "チソラノウエン",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "岐阜県加茂郡白川町下佐見1796番地",
+      "lat": 35.66301,
+      "lng": 137.235464,
+      "geocoding_level": null,
+      "phone": "08092756130",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "千空農園",
+      "name_kana": "チソラノウエン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "岐阜県加茂郡白川町下佐見1796番地",
+      "lat": 35.66301,
+      "lng": 137.235464,
+      "geocoding_level": null,
+      "phone": "08092756130",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "千空農園",
+      "name_kana": "チソラノウエン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "岐阜県加茂郡白川町下佐見1796番地",
+      "lat": 35.66301,
+      "lng": 137.235464,
+      "geocoding_level": null,
+      "phone": "08092756130",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "千空農園",
+      "name_kana": "チソラノウエン",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "岐阜県加茂郡白川町下佐見1796番地",
+      "lat": 35.66301,
+      "lng": 137.235464,
+      "geocoding_level": null,
+      "phone": "08092756130",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "米田園茶舗",
+      "name_kana": "コメダエンチャホ",
+      "business_type": "㉑ 製茶業",
+      "address": "岐阜県加茂郡白川町黒川3357-1",
+      "lat": 35.591948,
+      "lng": 137.298277,
+      "geocoding_level": null,
+      "phone": "0574771501",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "て〜る珈琲焙煎工房",
+      "name_kana": "テールコーヒーバイセンコウボウ",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "岐阜県加茂郡白川町坂ノ東5647",
+      "lat": 35.603633,
+      "lng": 137.166469,
+      "geocoding_level": null,
+      "phone": "09078546856",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅美濃白川ピアチェーレ",
+      "name_kana": "ミチノエキミノシラカワピアチェーレ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "岐阜県加茂郡白川町河東3500番地1",
+      "lat": 35.60389,
+      "lng": 137.173516,
+      "geocoding_level": null,
+      "phone": "0574752146",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅美濃白川ピアチェーレ",
+      "name_kana": "ミチノエキミノシラカワピアチェーレ",
+      "business_type": "⑥ 弁当販売業",
+      "address": "岐阜県加茂郡白川町河東3500番地1",
+      "lat": 35.604356,
+      "lng": 137.173859,
+      "geocoding_level": null,
+      "phone": "0574752146",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

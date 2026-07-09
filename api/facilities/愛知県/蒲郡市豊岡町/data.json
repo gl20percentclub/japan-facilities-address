@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "クスリのアオキ豊岡店",
+      "name_kana": "クスリノアオキトヨオカテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "愛知県蒲郡市豊岡町前野１番地３",
+      "lat": 34.825171,
+      "lng": 137.243538,
+      "geocoding_level": null,
+      "phone": "0533-56-7602",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "一般社団法人宜野座村サーバーファーム",
+      "name_kana": "イッパンシャダンホウジンギノザソン",
+      "business_type": "③ 乳類販売業",
+      "address": "沖縄県国頭郡宜野座村松田１４４３",
+      "lat": 26.488286,
+      "lng": 128.000614,
+      "geocoding_level": null,
+      "phone": "098-983-2816",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "沖縄ヤクルト　ぎのざセンター",
+      "name_kana": "オキナワヤクルト　ギノザセンター",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "沖縄県国頭郡宜野座村漢那145-1",
+      "lat": 26.49337,
+      "lng": 127.941374,
+      "geocoding_level": null,
+      "phone": "098-989-1872",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "願寿農園",
+      "name_kana": "ガンジュウノウエン",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "沖縄県国頭郡宜野座村松田573番地の1",
+      "lat": 26.489496,
+      "lng": 127.992126,
+      "geocoding_level": null,
+      "phone": "08064859183",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "沖縄ヤクルト　ぎのざセンター",
+      "name_kana": "オキナワヤクルト　ギノザセンター",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "沖縄県国頭郡宜野座村漢那145-1",
+      "lat": 26.47626,
+      "lng": 127.957703,
+      "geocoding_level": null,
+      "phone": "098-989-1872",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

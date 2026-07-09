@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "大鰐療育センター",
+      "name_kana": "オオワニリョウイクセンター",
+      "business_type": "㉖ 集団給食施設",
+      "address": "青森県南津軽郡大鰐町苦木字野尻170-1",
+      "lat": 40.51083,
+      "lng": 140.597248,
+      "geocoding_level": null,
+      "phone": "0172483134",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "青森ヤクルト販売株式会社　大鰐センター",
+      "name_kana": "アオモリヤクルトハンバイカブシキガイシャ　オオワニセンター",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県南津軽郡大鰐町大字大鰐字前田58-3",
+      "lat": 40.521108,
+      "lng": 140.568046,
+      "geocoding_level": null,
+      "phone": "050-3801-8928",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　薬王堂　青森大鰐店",
+      "name_kana": "カブシキガイシャ　ヤクオウドウ　オオワニテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県南津軽郡大鰐町大字蔵館字湯ノ沢2-1",
+      "lat": 40.525202,
+      "lng": 140.574376,
+      "geocoding_level": null,
+      "phone": "0172-55-8370",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "マックスバリュ新おおわに店",
+      "name_kana": "マックスバリュシンオオワニテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "青森県南津軽郡大鰐町大字大鰐字前田27",
+      "lat": 40.523347,
+      "lng": 140.567034,
+      "geocoding_level": null,
+      "phone": "0172-48-5666",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "油川米穀店",
+      "name_kana": "アブラカワベイコクテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "青森県南津軽郡大鰐町大鰐大字大鰐字大鰐28－1",
+      "lat": 40.519841,
+      "lng": 140.56896,
+      "geocoding_level": null,
+      "phone": "0172483336",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "和田珈琲",
+      "name_kana": "ワダコーヒー",
+      "business_type": "① 飲食店営業",
+      "address": "青森県南津軽郡大鰐町大鰐出張沢１１−３９",
+      "lat": 40.507829,
+      "lng": 140.576611,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "1449",
+      "license_date": "2022-07-14",
+      "expire_date": "2027-07-31"
+    },
+    {
+      "name": "Craft&Cafe RAITO",
+      "name_kana": "クラフトアンドカフェ　ライト",
+      "business_type": "① 飲食店営業",
+      "address": "青森県南津軽郡大鰐町大鰐字前田68-10",
+      "lat": 40.521068,
+      "lng": 140.567099,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "1799",
+      "license_date": "2022-11-17",
+      "expire_date": "2030-10-31"
+    },
+    {
+      "name": "ワインカフェYOICHI",
+      "name_kana": "ワインカフェヨイチ",
+      "business_type": "① 飲食店営業",
+      "address": "青森県南津軽郡大鰐町大鰐前田58-3",
+      "lat": 40.521108,
+      "lng": 140.568046,
+      "geocoding_level": null,
+      "phone": "09036427797",
+      "license_no": "1250",
+      "license_date": "2024-04-04",
+      "expire_date": "2031-10-31"
+    },
+    {
+      "name": "コメリハードアンドグリーン大鰐店",
+      "name_kana": "コメリハードアンドグリーンオオワニテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "青森県南津軽郡大鰐町長峰字山辺７３－１",
+      "lat": 40.520969,
+      "lng": 140.586927,
+      "geocoding_level": null,
+      "phone": "0172-49-1120",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

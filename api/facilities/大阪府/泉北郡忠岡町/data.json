@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "関西トランスウェイ株式会社　泉大津第三センター",
+      "name_kana": "カンサイトランスウェイカブシキガイシャ　イズミオオツダイサンセンター",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "大阪府泉北郡忠岡町北出3丁目3-230",
+      "lat": 34.481355,
+      "lng": 135.410757,
+      "geocoding_level": null,
+      "phone": "0725232551",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "関西トランスウェイ株式会社　泉大津第三センター",
+      "name_kana": "カンサイトランスウェイカブシキガイシャ　イズミオオツダイサンセンター",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "大阪府泉北郡忠岡町北出3丁目3-230",
+      "lat": 34.481355,
+      "lng": 135.410757,
+      "geocoding_level": null,
+      "phone": "0725232551",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "関西トランスウェイ株式会社　泉大津第三センター",
+      "name_kana": "カンサイトランスウェイカブシキガイシャ　イズミオオツダイサンセンター",
+      "business_type": "③ 乳類販売業",
+      "address": "大阪府泉北郡忠岡町北出3丁目3-230",
+      "lat": 34.481355,
+      "lng": 135.410757,
+      "geocoding_level": null,
+      "phone": "0725232551",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "関西トランスウェイ株式会社　泉大津第三センター",
+      "name_kana": "カンサイトランスウェイカブシキガイシャ　イズミオオツダイサンセンター",
+      "business_type": "④ 氷雪販売業",
+      "address": "大阪府泉北郡忠岡町北出3丁目3-230",
+      "lat": 34.481355,
+      "lng": 135.410757,
+      "geocoding_level": null,
+      "phone": "0725232551",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "関西トランスウェイ株式会社　泉大津第三センター",
+      "name_kana": "カンサイトランスウェイカブシキガイシャ　イズミオオツダイサンセンター",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "大阪府泉北郡忠岡町北出3丁目3-230",
+      "lat": 34.481355,
+      "lng": 135.410757,
+      "geocoding_level": null,
+      "phone": "0725232551",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "関西トランスウェイ株式会社　泉大津第三センター",
+      "name_kana": "カンサイトランスウェイカブシキガイシャ　イズミオオツダイサンセンター",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "大阪府泉北郡忠岡町北出3丁目3-230",
+      "lat": 34.481355,
+      "lng": 135.410757,
+      "geocoding_level": null,
+      "phone": "0725232551",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "関西トランスウェイ株式会社　泉大津第三センター",
+      "name_kana": "カンサイトランスウェイカブシキガイシャ　イズミオオツダイサンセンター",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "大阪府泉北郡忠岡町北出3丁目3-230",
+      "lat": 34.481355,
+      "lng": 135.410757,
+      "geocoding_level": null,
+      "phone": "0725232551",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "JAファーマーズ忠岡店",
+      "name_kana": "ジェイエイファーマーズタダオカテン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "大阪府泉北郡忠岡町北出2-7-18",
+      "lat": 34.487153,
+      "lng": 135.401401,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "平和製罐株式会社",
+      "name_kana": "ヘイワセイカンカブシキガイシャ",
+      "business_type": "㉗ 器具、容器包装の製造・加工業（合成樹脂が使用された器具又は容器包装の製造、加工に限る。）",
+      "address": "大阪府泉北郡忠岡町忠岡北3－6－35",
+      "lat": 34.495808,
+      "lng": 135.392754,
+      "geocoding_level": null,
+      "phone": "0725-22-3001",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグコスモス忠岡店",
+      "name_kana": "ドラッグコスモスタダオカテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "大阪府泉北郡忠岡町北出3丁目1番19号",
+      "lat": 34.487153,
+      "lng": 135.401401,
+      "geocoding_level": null,
+      "phone": "072-686-6481",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "㈱マルマサフード　泉大津センター",
+      "name_kana": "カブシキガイシャマルマサフードイズミオオツセンター",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "大阪府泉北郡忠岡町北出3丁目3-230",
+      "lat": 34.487153,
+      "lng": 135.401401,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "珈琲のまるしま",
+      "name_kana": "コーヒーノマルシマ",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "大阪府泉北郡忠岡町忠岡中1丁目3-16 忠岡ハイツ1F",
+      "lat": 34.478816,
+      "lng": 135.473463,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "三進金属工業株式会社　総合配送センター",
+      "name_kana": "サンシンコウギョウカブシキガイシャ　ソウゴウハイソウセンター",
+      "business_type": "⑥ 弁当販売業",
+      "address": "大阪府泉北郡忠岡町新浜1-3-10",
+      "lat": 34.497447,
+      "lng": 135.382204,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "大和酵素株式会社",
+      "name_kana": "ヤマトコウソカブシキガイシャ",
+      "business_type": "⑮ いわゆる健康食品の製造・加工業",
+      "address": "大阪府泉北郡忠岡町高月北2-3-17",
+      "lat": 34.481066,
+      "lng": 135.41392,
+      "geocoding_level": null,
+      "phone": "0725-45-2200",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "一龍堂",
+      "name_kana": "イチリュウドウ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "大阪府泉北郡忠岡町忠岡中１丁目８−２１",
+      "lat": 34.490184,
+      "lng": 135.397457,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

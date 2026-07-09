@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "豊根村立学校給食共同調理場",
+      "name_kana": "トヨネソンリツガッコウキュウショクキョウドウチョウリジョウ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "愛知県北設楽郡豊根村上黒川字兎鹿嶋５－５",
+      "lat": 35.144927,
+      "lng": 137.703805,
+      "geocoding_level": null,
+      "phone": "0536851070",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "Madame ICHIKO",
+      "name_kana": "マダムイチコ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "愛知県北設楽郡豊根村三沢石原6-1",
+      "lat": 35.211885,
+      "lng": 137.722927,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "Madame ICHIKO",
+      "name_kana": "マダムイチコ",
+      "business_type": "⑰ 農産保存食料品製造・加工業",
+      "address": "愛知県北設楽郡豊根村三沢石原6-1",
+      "lat": 35.211885,
+      "lng": 137.722927,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

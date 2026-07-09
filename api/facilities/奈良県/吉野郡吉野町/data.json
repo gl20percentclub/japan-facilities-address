@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "吉野広域行政組合消防本部",
+      "name_kana": "ヨシノコウイキギョウセイクミアイショウボウホンブ",
+      "business_type": "③ 乳類販売業",
+      "address": "奈良県吉野郡吉野町宮滝17－1",
+      "lat": 34.37814,
+      "lng": 135.899548,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "古都吉野 by SORASITA",
+      "name_kana": "コトヨシノ バイ ソラシタ",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "奈良県吉野郡吉野町菜摘492",
+      "lat": 34.381008,
+      "lng": 135.901717,
+      "geocoding_level": null,
+      "phone": "090-3973-2547",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "古都吉野 by SORASITA",
+      "name_kana": "コトヨシノ バイ ソラシタ",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "奈良県吉野郡吉野町菜摘492",
+      "lat": 34.381008,
+      "lng": 135.901717,
+      "geocoding_level": null,
+      "phone": "090-3973-2547",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "セイコーマート　古丹別",
+      "name_kana": "セイコーマート　コタンベツ",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "北海道苫前郡苫前町字古丹別249番地22",
+      "lat": 44.262932,
+      "lng": 141.715642,
+      "geocoding_level": null,
+      "phone": "0164-65-3137",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "介護付有料老人ホーム陽光の里",
+      "name_kana": "カイゴツキユウリョウロウジンホームヨウコウノサト",
+      "business_type": "㉖ 集団給食施設",
+      "address": "北海道苫前郡苫前町古丹別239-4",
+      "lat": 44.259274,
+      "lng": 141.7131,
+      "geocoding_level": null,
+      "phone": "0164687757",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "上田ファーム",
+      "name_kana": "ウエダファーム",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "北海道苫前郡苫前町古丹別249－1",
+      "lat": 44.263673,
+      "lng": 141.717051,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "苫前郵便局",
+      "name_kana": "トママエユウビンキョク",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道苫前郡苫前町苫前195-3",
+      "lat": 44.307488,
+      "lng": 141.65361,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "苫前町学校給食共同調理場",
+      "name_kana": "トママエチョウガッコウキュウショクキョウドウチョウリジョウ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "北海道苫前郡苫前町古丹別430番地の3",
+      "lat": 44.263964,
+      "lng": 141.722277,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "るもい農業協同組合苫前支所",
+      "name_kana": "ルモイノウギョウキョウドウクミアイトママエシショ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "北海道苫前郡苫前町古丹別203番地の1",
+      "lat": 44.268498,
+      "lng": 141.708931,
+      "geocoding_level": null,
+      "phone": "0164-65-4413",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社無限樹",
+      "name_kana": "ユウゲンガイシャムゲンジュ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "北海道苫前郡苫前町字三渓８７番地",
+      "lat": 44.183402,
+      "lng": 141.777669,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "とままえ温泉ふわっと「よってけ屋」",
+      "name_kana": "トママエオンセンフワット　ヨッテケヤ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道苫前郡苫前町苫前119－1",
+      "lat": 44.313125,
+      "lng": 141.656386,
+      "geocoding_level": null,
+      "phone": "０１６４６４２８１０",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　重原商店",
+      "name_kana": "カブシキカイシャ　シゲハラショウテン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "北海道苫前郡苫前町苫前119-1 道の駅ふわっととままえ",
+      "lat": 44.313125,
+      "lng": 141.656386,
+      "geocoding_level": null,
+      "phone": "0164-62-2138",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "北海道苫前商業高等学校",
+      "name_kana": "ホッカイドウトママエショウギョウコウトウガッコウ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道苫前郡苫前町古丹別273-4",
+      "lat": 44.266559,
+      "lng": 141.716676,
+      "geocoding_level": null,
+      "phone": "0164653441",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "苫前町若者交流センターB棟",
+      "name_kana": "トママエチョウワカモノコウリュウセンタービートウ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "北海道苫前郡苫前町古丹別243番地の17",
+      "lat": 44.263149,
+      "lng": 141.719518,
+      "geocoding_level": null,
+      "phone": "0164-65-3713",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

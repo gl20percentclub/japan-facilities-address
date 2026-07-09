@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "三日月",
+      "name_kana": "ミカヅキ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福岡県朝倉郡東峰村小石原鼓3492-2",
+      "lat": 33.422779,
+      "lng": 130.847251,
+      "geocoding_level": null,
+      "phone": "0946742278",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "米ノ座",
+      "name_kana": "コメノザ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福岡県朝倉郡東峰村小石原973－1",
+      "lat": 33.467866,
+      "lng": 130.824949,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

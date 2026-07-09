@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ダイソー　会津坂下店",
+      "name_kana": "ダイソー　アイヅバンゲテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県河沼郡会津坂下町字舘ノ下７２",
+      "lat": 37.565324,
+      "lng": 139.817344,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "農援ショップ　グラントマト会津坂下店",
+      "name_kana": "ノウエンショップ　グラントマトアイヅバンゲテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県河沼郡会津坂下町宮古字天神34-1",
+      "lat": 37.55867,
+      "lng": 139.851032,
+      "geocoding_level": null,
+      "phone": "0242-82-4505",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "農援ショップ　グラントマト会津坂下店",
+      "name_kana": "ノウエンショップ　グラントマトアイヅバンゲテン",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "福島県河沼郡会津坂下町宮古字天神34-1",
+      "lat": 37.55867,
+      "lng": 139.851032,
+      "geocoding_level": null,
+      "phone": "0242-82-4505",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　メガステージ会津坂下店",
+      "name_kana": "ヤクオウドウ　メガステージアイヅバンゲテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県河沼郡会津坂下町大字気多宮字柳田1004番地",
+      "lat": 37.567355,
+      "lng": 139.80898,
+      "geocoding_level": null,
+      "phone": "0242-23-8790",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ＪＲ会津坂下駅",
+      "name_kana": "ジェイアールアイヅバンゲエキ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県河沼郡会津坂下町五反田1270",
+      "lat": 37.556894,
+      "lng": 139.821428,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ばんげひがし公園",
+      "name_kana": "バンゲヒガシコウエン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県河沼郡会津坂下町福原殿田３４",
+      "lat": 37.555094,
+      "lng": 139.836455,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア会津坂下東店",
+      "name_kana": "ウエルシアアイズバンゲヒガシテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県河沼郡会津坂下町小川原945",
+      "lat": 37.557225,
+      "lng": 139.829293,
+      "geocoding_level": null,
+      "phone": "0242837866",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "すき家　49号会津坂下店",
+      "name_kana": "スキヤ　ヨンジュウキュウゴウアイヅバンゲテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県河沼郡会津坂下町字館ノ下107",
+      "lat": 37.564715,
+      "lng": 139.81858,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "すき家　49号会津坂下店",
+      "name_kana": "スキヤ　ヨンジュウキュウゴウアイヅバンゲテン",
+      "business_type": "① 飲食店営業",
+      "address": "福島県河沼郡会津坂下町舘ノ下107",
+      "lat": 37.564715,
+      "lng": 139.81858,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "福島県指令会保第2-324号",
+      "license_date": "2024-06-28",
+      "expire_date": "2031-07-31"
+    },
+    {
+      "name": "小島工業株式会社　坂本工場",
+      "name_kana": "コジマコウギョウカブシキガイシャ　サカモトコウジョウ",
+      "business_type": "㉗ 器具、容器包装の製造・加工業（合成樹脂が使用された器具又は容器包装の製造、加工に限る。）",
+      "address": "福島県河沼郡会津坂下町坂本字滝坂ノ上丙９００",
+      "lat": 37.558247,
+      "lng": 139.757881,
+      "geocoding_level": null,
+      "phone": "0242834020",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "Yショップ坂下厚生総合病院店",
+      "name_kana": "ワイショップバンゲコウセイソウゴウビョウインテン",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "福島県河沼郡会津坂下町字上柳田２２１０－１",
+      "lat": 37.565685,
+      "lng": 139.807873,
+      "geocoding_level": null,
+      "phone": "0242-23-7798",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "Yショップ坂下厚生総合病院店",
+      "name_kana": "ワイショップバンゲコウセイソウゴウビョウインテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "福島県河沼郡会津坂下町字上柳田２２１０－１",
+      "lat": 37.565685,
+      "lng": 139.807873,
+      "geocoding_level": null,
+      "phone": "0242-23-7798",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン会津坂下店",
+      "name_kana": "コメリハードアンドグリーンアイヅバンゲテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "福島県河沼郡会津坂下町金上字的場２５６番",
+      "lat": 37.559406,
+      "lng": 139.841198,
+      "geocoding_level": null,
+      "phone": "0242-84-1026",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

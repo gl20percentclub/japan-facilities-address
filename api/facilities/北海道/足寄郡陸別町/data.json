@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "JA陸別町　休憩室",
+      "name_kana": "ジェイエーリクベツチョウ　キュウケイシツ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "北海道足寄郡陸別町東２条１丁目１",
+      "lat": 42.915272,
+      "lng": 143.050854,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "JA陸別町　休憩室",
+      "name_kana": "ジェーエーリクベツチョウ　キュウケイシツ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "北海道足寄郡陸別町陸別東２条１丁目１",
+      "lat": 43.467229,
+      "lng": 143.746546,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "セイコーマート陸別店",
+      "name_kana": "セイコーマートリクベツテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "北海道足寄郡陸別町字陸別122番地2",
+      "lat": 43.452177,
+      "lng": 143.778504,
+      "geocoding_level": null,
+      "phone": "0156-27-3901",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "エーコープりくべつ店",
+      "name_kana": "エーコープリクベツテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "北海道足寄郡陸別町字陸別128",
+      "lat": 43.467168,
+      "lng": 143.743843,
+      "geocoding_level": null,
+      "phone": "0156273000",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ぷらっとカフェ",
+      "name_kana": "プラットカフェ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道足寄郡陸別町字陸別原野分線5番地5 コミュニティプラザぷらっと1階",
+      "lat": 43.468266,
+      "lng": 143.743326,
+      "geocoding_level": null,
+      "phone": "0156280528",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社マルサンストアー",
+      "name_kana": "ユウゲンガイシャマルサンストアー",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "北海道足寄郡陸別町字陸別基線314-11",
+      "lat": 43.456038,
+      "lng": 143.741509,
+      "geocoding_level": null,
+      "phone": "0156-27-3570",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "富士産業株式会社　障害者支援施設　みどりの園",
+      "name_kana": "フジサンギョウ　カブシキカイシャ　ショウガイシャシエンシセツ　ミドリノソノ",
+      "business_type": "① 飲食店営業",
+      "address": "北海道足寄郡陸別町字陸別原野分線8-160",
+      "lat": 43.46958,
+      "lng": 143.737203,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "十保生第1-376号",
+      "license_date": "2023-08-15",
+      "expire_date": "2030-09-01"
+    },
+    {
+      "name": "富士産業株式会社　障害者支援施設　とまむ園",
+      "name_kana": "フジサンギョウ　カブシキカイシャ　ショウガイシャシエンシセツ　トマムエン",
+      "business_type": "① 飲食店営業",
+      "address": "北海道足寄郡陸別町字トマム南３線９４番地３",
+      "lat": 43.47809,
+      "lng": 143.632046,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "十保生第1-377号",
+      "license_date": "2024-08-15",
+      "expire_date": "2031-09-01"
+    },
+    {
+      "name": "有限会社サンライズ",
+      "name_kana": "ユウゲンガイシャサンライズ",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "北海道足寄郡陸別町字トマム北一線５１番地",
+      "lat": 43.473125,
+      "lng": 143.603568,
+      "geocoding_level": null,
+      "phone": "0156-28-0123",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "大谷牛乳販売店",
+      "name_kana": "オオタニギュウニュウハンバイテン",
+      "business_type": "③ 乳類販売業",
+      "address": "北海道足寄郡陸別町字陸別原野分線6番地",
+      "lat": 43.468072,
+      "lng": 143.73878,
+      "geocoding_level": null,
+      "phone": "0156273588",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "みどりの園",
+      "name_kana": "ミドリノソノ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道足寄郡陸別町字陸別原野分線8番地232",
+      "lat": 43.470889,
+      "lng": 143.737335,
+      "geocoding_level": null,
+      "phone": "0156-27-2911",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "陸別うぃる",
+      "name_kana": "リクベツウィル",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道足寄郡陸別町字陸別原野基線３２９",
+      "lat": 43.469369,
+      "lng": 143.75307,
+      "geocoding_level": null,
+      "phone": "0156-27-3813",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "RIKUBATSU Cultivate 食品加工場",
+      "name_kana": "リクベツ　カルティベイト　ショクヒンカコウジョウ",
+      "business_type": "⑨ 通信販売・訪問販売による販売業",
+      "address": "北海道足寄郡陸別町字トマム幹線30－5",
+      "lat": 43.473125,
+      "lng": 143.603568,
+      "geocoding_level": null,
+      "phone": "09026789092",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "十勝東北部３町道の駅（本別・足寄・陸別）連携事業協議会",
+      "name_kana": "トカチトウホクブサンチョウミチノエキレンケイジギョウキョウギカイ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道足寄郡陸別町大通 道の駅オーロラタウン９３りくべつ",
+      "lat": 43.468954,
+      "lng": 143.74743,
+      "geocoding_level": null,
+      "phone": "0156-28-3863",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ミナミナ工房",
+      "name_kana": "ミナミナコウボウ",
+      "business_type": "㉑ 製茶業",
+      "address": "北海道足寄郡陸別町字陸別18-24",
+      "lat": 43.490016,
+      "lng": 143.780757,
+      "geocoding_level": null,
+      "phone": "09033551935",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

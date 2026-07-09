@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "356：204830：ワタキュー小郡まきはら病院",
+      "name_kana": "ワタキューオゴオリマキハラビョウイン",
+      "business_type": "③ 乳類販売業",
+      "address": "山口県山口市小郡若草町３番４号",
+      "lat": 34.086414,
+      "lng": 131.39414,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "みほり無花果新山口店",
+      "name_kana": "ミホリイチヂクシンヤマグチテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "山口県山口市小郡若草町2-10",
+      "lat": 34.08492,
+      "lng": 131.395671,
+      "geocoding_level": null,
+      "phone": "0839-76-6122",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "えんず新山口店",
+      "name_kana": "エンズシンヤマグチテン",
+      "business_type": "① 飲食店営業",
+      "address": "山口県山口市小郡若草町2-10",
+      "lat": 34.084737,
+      "lng": 131.395874,
+      "geocoding_level": null,
+      "phone": "083-976-6129",
+      "license_no": "令4山健第390号の1の1の80",
+      "license_date": "2022-08-19",
+      "expire_date": "2028-11-30"
+    },
+    {
+      "name": "いちただ新山口店",
+      "name_kana": "イチタダシンヤマグチテン",
+      "business_type": "① 飲食店営業",
+      "address": "山口県山口市小郡若草町2-10",
+      "lat": 34.084737,
+      "lng": 131.395874,
+      "geocoding_level": null,
+      "phone": "083-976-6123",
+      "license_no": "令4山健第390号の1の1の79",
+      "license_date": "2022-08-15",
+      "expire_date": "2028-11-30"
+    },
+    {
+      "name": "レストラン　フィオーレ",
+      "name_kana": "レストランフィオーレ",
+      "business_type": "① 飲食店営業",
+      "address": "山口県山口市小郡若草町3番5号",
+      "lat": 34.08656,
+      "lng": 131.394504,
+      "geocoding_level": null,
+      "phone": "083-973-0234",
+      "license_no": "令4山健第390号の1の1の126",
+      "license_date": "2022-11-14",
+      "expire_date": "2028-11-30"
+    },
+    {
+      "name": "レストラン　フィオーレ",
+      "name_kana": "レストランフィオーレ",
+      "business_type": "⑪ 菓子製造業",
+      "address": "山口県山口市小郡若草町3番5号",
+      "lat": 34.08656,
+      "lng": 131.394504,
+      "geocoding_level": null,
+      "phone": "083-973-0234",
+      "license_no": "令4山健第390号の11の1の41",
+      "license_date": "2022-11-14",
+      "expire_date": "2028-11-30"
+    },
+    {
+      "name": "レストラン　フィオーレ",
+      "name_kana": "レストラン　フィオーレ",
+      "business_type": "㉑ 製茶業",
+      "address": "山口県山口市小郡若草町3番5号",
+      "lat": 34.08656,
+      "lng": 131.394504,
+      "geocoding_level": null,
+      "phone": "083-973-0234",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "セブンイレブン山口小郡若草町店",
+      "name_kana": "セブンイレブンヤマグチオゴオリワカクサマチテン",
+      "business_type": "① 飲食店営業",
+      "address": "山口県山口市小郡若草町2番2号",
+      "lat": 34.085249,
+      "lng": 131.394621,
+      "geocoding_level": null,
+      "phone": "083-973-3334",
+      "license_no": "令7山健第191号の1の7の26",
+      "license_date": "2025-10-31",
+      "expire_date": "2031-11-30"
+    },
+    {
+      "name": "セブンイレブン山口小郡若草町店",
+      "name_kana": "セブンイレブンヤマグチオゴオリワカクサマチテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "山口県山口市小郡若草町2番2号",
+      "lat": 34.085249,
+      "lng": 131.394621,
+      "geocoding_level": null,
+      "phone": "083-973-3334",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

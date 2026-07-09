@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "LaLa",
+      "name_kana": "ララ",
+      "business_type": "① 飲食店営業",
+      "address": "北海道紋別市道内一円（営業基地は紋別郡雄武町字北雄武５８４－３）",
+      "lat": 44.592502,
+      "lng": 142.93033,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "9-163",
+      "license_date": "2023-10-18",
+      "expire_date": "2028-12-28"
+    }
+  ]
+}

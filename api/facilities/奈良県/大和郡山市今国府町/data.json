@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "東邦化成株式会社",
+      "name_kana": "トウホウカセイカブシキガイシャ",
+      "business_type": "㉗ 器具、容器包装の製造・加工業（合成樹脂が使用された器具又は容器包装の製造、加工に限る。）",
+      "address": "奈良県大和郡山市今国府町６番２号",
+      "lat": 34.613225,
+      "lng": 135.77113,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "BH4596奈良",
+      "name_kana": "ビーエイチ　　ナラ",
+      "business_type": "① 飲食店営業",
+      "address": "奈良県大和郡山市今国府町588-5",
+      "lat": 34.613115,
+      "lng": 135.773648,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "第4220767号",
+      "license_date": "2023-03-17",
+      "expire_date": "2029-10-31"
+    }
+  ]
+}

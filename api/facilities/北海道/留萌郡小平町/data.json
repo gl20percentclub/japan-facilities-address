@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "中嶋商店",
+      "name_kana": "ナカジマショウテン",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "北海道留萌郡小平町本郷123-1",
+      "lat": 43.997653,
+      "lng": 141.714186,
+      "geocoding_level": null,
+      "phone": "0164-56-2373",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "中嶋商店",
+      "name_kana": "ナカジマショウテン",
+      "business_type": "③ 乳類販売業",
+      "address": "北海道留萌郡小平町本郷123-1",
+      "lat": 43.997653,
+      "lng": 141.714186,
+      "geocoding_level": null,
+      "phone": "0164-56-2373",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "小平共同調理場",
+      "name_kana": "オビラキョウドウチョウリジョウ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "北海道留萌郡小平町小平町108番地の８",
+      "lat": 44.021776,
+      "lng": 141.663613,
+      "geocoding_level": null,
+      "phone": "0164-56-2020",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "小平町やすらぎ滞在交流拠点施設ゆうゆうそう",
+      "name_kana": "オビラチョウヤスラギタイザイコウリュウキョテンシセツユウユウソウ",
+      "business_type": "⑥ 弁当販売業",
+      "address": "北海道留萌郡小平町字小平町469番地の3",
+      "lat": 44.029715,
+      "lng": 141.66533,
+      "geocoding_level": null,
+      "phone": "0164562380",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "セイコーマート　小平",
+      "name_kana": "セイコーマート　オビラ",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "北海道留萌郡小平町字小平町129番地13",
+      "lat": 44.013738,
+      "lng": 141.661943,
+      "geocoding_level": null,
+      "phone": "0164-56-2436",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "セイコーマート　鬼鹿",
+      "name_kana": "セイコーマート　オニシカ",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "北海道留萌郡小平町鬼鹿港町171番地2",
+      "lat": 44.156835,
+      "lng": 141.658202,
+      "geocoding_level": null,
+      "phone": "0164-57-1711",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "介護付有料老人ホーム陽光園",
+      "name_kana": "カイゴツキユウリョウロウジンホームヨウコウエン",
+      "business_type": "㉖ 集団給食施設",
+      "address": "北海道留萌郡小平町小平町433-29",
+      "lat": 44.016527,
+      "lng": 141.670202,
+      "geocoding_level": null,
+      "phone": "0164591281",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ほっぷすてっぷ",
+      "name_kana": "ホップステップ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "北海道留萌郡小平町鬼鹿田代585番地の1",
+      "lat": 44.148673,
+      "lng": 141.663826,
+      "geocoding_level": null,
+      "phone": "0164-57-1188",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "新星マリン漁業協同組合臼谷鮮度保持施設",
+      "name_kana": "シンセイマリンギョギョウキョウドウクミアイウスヤセンドホジシセツ",
+      "business_type": "㉙ その他",
+      "address": "北海道留萌郡小平町臼谷２８３番地1",
+      "lat": 43.996952,
+      "lng": 141.651269,
+      "geocoding_level": null,
+      "phone": "0164562052",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "デイサービスセンターおびら",
+      "name_kana": "デイサービスセンターオビラ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "北海道留萌郡小平町小平町３９８-１６",
+      "lat": 44.012915,
+      "lng": 141.663162,
+      "geocoding_level": null,
+      "phone": "0164-59-1210",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社藤田水産",
+      "name_kana": "ユウゲンガイシャフジタスイサン",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "北海道留萌郡小平町字鬼鹿広富90番地",
+      "lat": 44.139226,
+      "lng": 141.675866,
+      "geocoding_level": null,
+      "phone": "0164571048",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社藤田水産",
+      "name_kana": "ユウゲンガイシャフジタスイサン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道留萌郡小平町字鬼鹿広富90番地",
+      "lat": 44.139226,
+      "lng": 141.675866,
+      "geocoding_level": null,
+      "phone": "0164571048",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

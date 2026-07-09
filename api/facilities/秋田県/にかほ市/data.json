@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "エニタイムにかほTSUGUBA",
+      "name_kana": "エニタイムニカホツグバ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "秋田県にかほ市平沢字長表 \t\t39番 TSUGUBAテラス 2F",
+      "lat": 39.282480892,
+      "lng": 139.965769994,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "中央ビックフレックにかほ店",
+      "name_kana": "チュウオウビックフレックニカホテン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "秋田県にかほ市平沢字平谷地21",
+      "lat": 39.288614,
+      "lng": 139.96693,
+      "geocoding_level": null,
+      "phone": "0184-32-3322",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　にかほ象潟店",
+      "name_kana": "ヤクオウドウ　ニカホキサカタテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "秋田県にかほ市象潟町沖の田1番地1",
+      "lat": 39.201952,
+      "lng": 139.898732,
+      "geocoding_level": null,
+      "phone": "0184747662",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　にかほ平沢店",
+      "name_kana": "ヤクオウドウ　ニカホヒラサワテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "秋田県にかほ市平沢字館ヶ森１番地8",
+      "lat": 39.284746,
+      "lng": 139.969476,
+      "geocoding_level": null,
+      "phone": "0184-74-6731",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "マックスバリュ武道島店",
+      "name_kana": "マックスバリュブドウジマテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "秋田県にかほ市象潟町武道島144-2",
+      "lat": 39.205833,
+      "lng": 139.905204,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "マックスバリュにかほ店",
+      "name_kana": "マックスバリュニカホテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "秋田県にかほ市平沢字天ヶ町82",
+      "lat": 39.288981,
+      "lng": 139.971438,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "マックスバリュ金浦店",
+      "name_kana": "マックスバリュコノウラテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "秋田県にかほ市金浦字花潟300-1",
+      "lat": 39.252492,
+      "lng": 139.919823,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ガスト　象潟店",
+      "name_kana": "ガストキサカタテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "秋田県にかほ市象潟町字大門先６番地１",
+      "lat": 39.218862,
+      "lng": 139.901563,
+      "geocoding_level": null,
+      "phone": "0184-32-5101",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "すき家　7号にかほ店",
+      "name_kana": "スキヤ　ナナゴウニカホテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "秋田県にかほ市平沢字町田129-1",
+      "lat": 39.28957,
+      "lng": 139.972789,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "8STARS-SWEETS",
+      "name_kana": "エイトスターズスイーツ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "秋田県にかほ市象潟町",
+      "lat": 39.21109,
+      "lng": 139.917414,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "8STARS-SWEETS",
+      "name_kana": "エイトスターズスイーツ",
+      "business_type": "㉕ 行商",
+      "address": "秋田県にかほ市象潟町",
+      "lat": 39.21109,
+      "lng": 139.917414,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン仁賀保店",
+      "name_kana": "コメリハードアンドグリーンニカホテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "秋田県にかほ市平沢字天ヶ町５４－１番地",
+      "lat": 39.288739,
+      "lng": 139.972208,
+      "geocoding_level": null,
+      "phone": "0184-33-6066",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン象潟店",
+      "name_kana": "コメリハードアンドグリーンキサカタテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "秋田県にかほ市象潟町武道島１９４番地２",
+      "lat": 39.205599,
+      "lng": 139.903825,
+      "geocoding_level": null,
+      "phone": "0184-33-8400",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

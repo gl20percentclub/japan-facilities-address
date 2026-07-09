@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "イオン浪江店",
+      "name_kana": "イオンナミエテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県双葉郡浪江町大字幾世橋字大添60番地1",
+      "lat": 37.493464,
+      "lng": 141.001592,
+      "geocoding_level": null,
+      "phone": "0240-23-6885",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "無印良品・道の駅なみえ店",
+      "name_kana": "ムジルシリョウヒン・ミチノエキナミエテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "福島県双葉郡浪江町大字幾世橋字知命寺60",
+      "lat": 37.49668,
+      "lng": 141.00385,
+      "geocoding_level": null,
+      "phone": "0240237121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅なみえ　いろどり産直いなほ",
+      "name_kana": "ミチノエキナミエ　イロドリサンチョクイナホ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "福島県双葉郡浪江町大字幾世橋字知命寺60番地",
+      "lat": 37.49668,
+      "lng": 141.00385,
+      "geocoding_level": null,
+      "phone": "0240237121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅なみえ　いろどり産直いなほ",
+      "name_kana": "ミチノエキナミエ　イロドリサンチョクイナホ",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "福島県双葉郡浪江町大字幾世橋字知命寺60番地",
+      "lat": 37.49668,
+      "lng": 141.00385,
+      "geocoding_level": null,
+      "phone": "0240237121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅なみえ　Sakekuraゆい",
+      "name_kana": "ミチノエキナミエ　サケクラユイ",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "福島県双葉郡浪江町大字幾世橋字知命寺40",
+      "lat": 37.49668,
+      "lng": 141.00385,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "すき家　6号浪江店",
+      "name_kana": "スキヤ　ロクゴウナミエテン",
+      "business_type": "① 飲食店営業",
+      "address": "福島県双葉郡浪江町幾世橋田中前13-1",
+      "lat": 37.494311,
+      "lng": 141.002872,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "福島県指令相保第1-136号",
+      "license_date": "2025-01-17",
+      "expire_date": "2032-05-31"
+    },
+    {
+      "name": "すき家　6号浪江店",
+      "name_kana": "スキヤ　ロクゴウナミエテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県双葉郡浪江町幾世橋田中前13-1",
+      "lat": 37.494311,
+      "lng": 141.002872,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅なみえ",
+      "name_kana": "ミチノエキナミエ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県双葉郡浪江町大字幾世橋字知命寺60",
+      "lat": 37.496301,
+      "lng": 140.999411,
+      "geocoding_level": null,
+      "phone": "0240-23-7121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅なみえ",
+      "name_kana": "ミチノエキナミエ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県双葉郡浪江町幾世橋字知命寺60",
+      "lat": 37.496301,
+      "lng": 140.999411,
+      "geocoding_level": null,
+      "phone": "0240-23-7121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅なみえ",
+      "name_kana": "ミチノエキナミエ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県双葉郡浪江町幾世橋知命寺60",
+      "lat": 37.496301,
+      "lng": 140.999411,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ノアのオリーブ園",
+      "name_kana": "ノアノオリーブエン",
+      "business_type": "㉑ 製茶業",
+      "address": "福島県双葉郡浪江町大字立野字関ノ倉275",
+      "lat": 37.518659,
+      "lng": 140.929292,
+      "geocoding_level": null,
+      "phone": "090-4219-8226",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社サンエイ食品",
+      "name_kana": "カブシキガイシャサンエイショクヒン",
+      "business_type": "㉒ 海藻製造・加工業",
+      "address": "福島県双葉郡浪江町大字請戸字雨垂1番地の8",
+      "lat": 37.481369,
+      "lng": 141.032214,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

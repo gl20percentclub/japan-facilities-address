@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "武甲温泉",
+      "name_kana": "ブコウオンセン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "埼玉県秩父郡横瀬町横瀬428-3",
+      "lat": 35.959544,
+      "lng": 139.112031,
+      "geocoding_level": null,
+      "phone": "0288-77-2121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグセイムス秩父横瀬店",
+      "name_kana": "ドラッグセイムスチチブヨコゼテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "埼玉県秩父郡横瀬町横瀬5789-5",
+      "lat": 36.005973,
+      "lng": 139.10978,
+      "geocoding_level": null,
+      "phone": "0494-21-3251",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウェルシア秩父横瀬店",
+      "name_kana": "ウェルシアチチブヨコゼテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "埼玉県秩父郡横瀬町横瀬4273-1",
+      "lat": 35.99201,
+      "lng": 139.093988,
+      "geocoding_level": null,
+      "phone": "0494-27-7100",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア秩父横瀬店移動販売車",
+      "name_kana": "ウエルシアチチブヨコゼテンイドウハンバイシャ",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "埼玉県秩父郡横瀬町横瀬4273-1",
+      "lat": 35.99201,
+      "lng": 139.093988,
+      "geocoding_level": null,
+      "phone": "0494-27-7100",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "たいみつや",
+      "name_kana": "タイミツヤ",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "埼玉県秩父郡横瀬町横瀬6627-28",
+      "lat": 35.991221,
+      "lng": 139.108092,
+      "geocoding_level": null,
+      "phone": "090-1453-1229",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "合同会社テッサ",
+      "name_kana": "ゴウドウガイシャテッサ",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "埼玉県秩父郡横瀬町横瀬5633-1",
+      "lat": 35.986297,
+      "lng": 139.102633,
+      "geocoding_level": null,
+      "phone": "09062604509",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "Yuragi7.83",
+      "name_kana": "ユラギナナテンハチサン",
+      "business_type": "① 飲食店営業",
+      "address": "埼玉県秩父郡横瀬町横瀬7338-15",
+      "lat": 35.988025,
+      "lng": 139.120067,
+      "geocoding_level": null,
+      "phone": "09032319128",
+      "license_no": "指令秩保第1-247号",
+      "license_date": "2025-02-26",
+      "expire_date": "2031-02-28"
+    },
+    {
+      "name": "Yuragi7.83",
+      "name_kana": "ユラギナナテンハチサン",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "埼玉県秩父郡横瀬町横瀬7338-15",
+      "lat": 35.988025,
+      "lng": 139.120067,
+      "geocoding_level": null,
+      "phone": "09032319128",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン横瀬店",
+      "name_kana": "コメリハードアンドグリーンヨコゼテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "埼玉県秩父郡横瀬町横瀬５２８８－２",
+      "lat": 35.999,
+      "lng": 139.099317,
+      "geocoding_level": null,
+      "phone": "0494-21-2160",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "グラントマト玉川店",
+      "name_kana": "グラントマトタマカワテン",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "福島県石川郡玉川村蒜生字羽根石56-1",
+      "lat": 37.207919,
+      "lng": 140.40825,
+      "geocoding_level": null,
+      "phone": "0247-57-3711",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "クスリのアオキ福島玉川店",
+      "name_kana": "クスリノアオキフクシマタマカワテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県石川郡玉川村大字小高字北畷35番地の1",
+      "lat": 37.210256,
+      "lng": 140.406436,
+      "geocoding_level": null,
+      "phone": "0247-57-7880",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ホットスタッフ玉川",
+      "name_kana": "ホットスタッフタマカワ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "福島県石川郡玉川村小高字中畷20番地1",
+      "lat": 37.211023,
+      "lng": 140.407241,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "福島空港ターミナルビル3階自販機コーナー",
+      "name_kana": "フクシマクウコウターミナルビルサンカイジハンキコーナー",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県石川郡玉川村北須釜字はばき田21番地",
+      "lat": 37.226913,
+      "lng": 140.433525,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅たまがわ（こぶしの里）",
+      "name_kana": "ミチノエキタマガワコブシノサト",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県石川郡玉川村岩法寺宮ノ前１４０－２",
+      "lat": 37.222634,
+      "lng": 140.418594,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "福島空港公園エアフロントエリア",
+      "name_kana": "フクシマクウコウコウエンフロントエリア",
+      "business_type": "㉘ 露店、仮設店舗等における飲食の提供のうち、営業とみなされないもの",
+      "address": "福島県石川郡玉川村北須釜鏃田２６−６",
+      "lat": 37.227991,
+      "lng": 140.434803,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア福島玉川店",
+      "name_kana": "ウエルシアフクシマタマカワテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県石川郡玉川村小高字稲荷畷24-1",
+      "lat": 37.212221,
+      "lng": 140.406515,
+      "geocoding_level": null,
+      "phone": "0247371932",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ソライチ　Foyer",
+      "name_kana": "ソライチ　フォワイエ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県石川郡玉川村北須釜49 福島空港エアフロントエリア",
+      "lat": 37.223916,
+      "lng": 140.455081,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン玉川店",
+      "name_kana": "コメリハードアンドグリーンタマガワテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "福島県石川郡玉川村大字蒜生字羽根石80-1",
+      "lat": 37.207874,
+      "lng": 140.407604,
+      "geocoding_level": null,
+      "phone": "0247-37-1038",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

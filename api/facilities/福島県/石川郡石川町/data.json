@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ダイソー　メガステージ石川店",
+      "name_kana": "ダイソー　メガステージイシカワテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県石川郡石川町字長久保３１３",
+      "lat": 37.154255,
+      "lng": 140.444625,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　福島石川店",
+      "name_kana": "ヤクオウドウ　フクシマイシカワテン",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "福島県石川郡石川町当町131",
+      "lat": 37.141972,
+      "lng": 140.442445,
+      "geocoding_level": null,
+      "phone": "0247-57-7461",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　福島石川店",
+      "name_kana": "ヤクオウドウ　フクシマイシカワテン",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "福島県石川郡石川町当町131",
+      "lat": 37.141972,
+      "lng": 140.442445,
+      "geocoding_level": null,
+      "phone": "0247-57-7461",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　福島石川店",
+      "name_kana": "ヤクオウドウ　フクシマイシカワテン",
+      "business_type": "③ 乳類販売業",
+      "address": "福島県石川郡石川町当町131",
+      "lat": 37.141972,
+      "lng": 140.442445,
+      "geocoding_level": null,
+      "phone": "0247-57-7461",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "八幡屋",
+      "name_kana": "ヤハタヤ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県石川郡石川町母畑字樋田75-1",
+      "lat": 37.175905,
+      "lng": 140.466512,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "桜が丘学園",
+      "name_kana": "サクラガオカガクエン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県石川郡石川町猫啼359-1",
+      "lat": 37.13696,
+      "lng": 140.431732,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "831屋自然農",
+      "name_kana": "ヤサイヤシゼンノウ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "福島県石川郡石川町大内235",
+      "lat": 37.152972,
+      "lng": 140.440728,
+      "geocoding_level": null,
+      "phone": "08055121582",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ツルハドラッグ石川店",
+      "name_kana": "ツルハドラッグイシカワテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県石川郡石川町長久保82番",
+      "lat": 37.152484,
+      "lng": 140.445772,
+      "geocoding_level": null,
+      "phone": "0247-57-8737",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "幸楽苑メガステージ石川店",
+      "name_kana": "コウラクエンメガステージイシカワテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県石川郡石川町長久保111-2",
+      "lat": 37.155373,
+      "lng": 140.447614,
+      "geocoding_level": null,
+      "phone": "0247-57-5653",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "大野農園",
+      "name_kana": "オオノノウエン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県石川郡石川町赤羽字新宿130",
+      "lat": 37.133642,
+      "lng": 140.375648,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "郡山ヤクルト石川センター",
+      "name_kana": "コオリヤマヤクルトイシカワセンター",
+      "business_type": "③ 乳類販売業",
+      "address": "福島県石川郡石川町双里字谷津前43-1",
+      "lat": 37.147264,
+      "lng": 140.466675,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "石川義塾桜花寮",
+      "name_kana": "イシカワギジュクオウカリョウ",
+      "business_type": "① 飲食店営業",
+      "address": "福島県石川郡石川町北町６２－３",
+      "lat": 37.150716,
+      "lng": 140.457307,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "福島県指令中保第1-9号",
+      "license_date": "2026-05-13",
+      "expire_date": "2033-11-30"
+    },
+    {
+      "name": "石川義塾魚水寮",
+      "name_kana": "イシカワギジュクギョスイリョウ",
+      "business_type": "① 飲食店営業",
+      "address": "福島県石川郡石川町塩ノ平２０１－１",
+      "lat": 37.16372,
+      "lng": 140.431674,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "福島県指令中保第1-10号",
+      "license_date": "2026-05-13",
+      "expire_date": "2033-11-30"
+    }
+  ]
+}

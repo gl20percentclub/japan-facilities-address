@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "薬王堂　福島川俣店",
+      "name_kana": "ヤクオウドウ　フクシマカワマタテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県伊達郡川俣町鶴沢字堂ノ窪22番地1",
+      "lat": 37.666938,
+      "lng": 140.581572,
+      "geocoding_level": null,
+      "phone": "024-529-6891",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "日本ピストンリング福島売店",
+      "name_kana": "ニホンピストンリングフクシマバイテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "福島県伊達郡川俣町飯坂字前中居1 日本ピストンリング福島工場　Ｄライナー加工棟２階",
+      "lat": 37.66805,
+      "lng": 140.622974,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "佐藤公平",
+      "name_kana": "サトウコウヘイ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "福島県伊達郡川俣町大字羽田字瓜蕪良内73",
+      "lat": 37.684122,
+      "lng": 140.57231,
+      "geocoding_level": null,
+      "phone": "090-3753-8772",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社FLY HIGH",
+      "name_kana": "カブシキガイシャフライ  ハイ",
+      "business_type": "⑨ 通信販売・訪問販売による販売業",
+      "address": "福島県伊達郡川俣町一円",
+      "lat": 37.662724,
+      "lng": 140.595475,
+      "geocoding_level": null,
+      "phone": "023-615-9121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "幸楽苑　川俣店",
+      "name_kana": "コウラクエン　カワマタテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県伊達郡川俣町大字鶴沢字学校前7番地1",
+      "lat": 37.667088,
+      "lng": 140.575895,
+      "geocoding_level": null,
+      "phone": "0245731673",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

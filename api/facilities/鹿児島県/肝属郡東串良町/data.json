@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ダイナム鹿児島東串良店",
+      "name_kana": "ダイナムカゴシマヒガシクシラテン",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "鹿児島県肝属郡東串良町池之原字境2589番地1",
+      "lat": 31.387994,
+      "lng": 130.966259,
+      "geocoding_level": null,
+      "phone": "070-1455-9218",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "めん六や鹿児島東串良店",
+      "name_kana": "メンロクヤカゴシマヒガシクシラテン",
+      "business_type": "① 飲食店営業",
+      "address": "鹿児島県肝属郡東串良町池之原字境2589番地1",
+      "lat": 31.387994,
+      "lng": 130.966259,
+      "geocoding_level": null,
+      "phone": "070-1455-9218",
+      "license_no": "指令鹿屋保　第34号の175",
+      "license_date": "2022-07-15",
+      "expire_date": "2028-07-31"
+    },
+    {
+      "name": "三和物産　東串良澱粉工場",
+      "name_kana": "サンワブッサン　ヒガシクシラデンプンコウジョウ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "鹿児島県肝属郡東串良町川西1625",
+      "lat": 31.38442,
+      "lng": 130.973259,
+      "geocoding_level": null,
+      "phone": "0994632231",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグコスモス東串良店",
+      "name_kana": "ドラッグコスモスヒガシクシラテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "鹿児島県肝属郡東串良町岩弘２６８３－１",
+      "lat": 31.399924,
+      "lng": 130.970331,
+      "geocoding_level": null,
+      "phone": "0994-31-4167",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ランドリーサンシャイン",
+      "name_kana": "ランドリーサンシャイン",
+      "business_type": "③ 乳類販売業",
+      "address": "鹿児島県肝属郡東串良町池之原904",
+      "lat": 31.393306,
+      "lng": 130.965775,
+      "geocoding_level": null,
+      "phone": "0995558960",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "松元石油ガス",
+      "name_kana": "マツモトセキユガス",
+      "business_type": "③ 乳類販売業",
+      "address": "鹿児島県肝属郡東串良町池之原904-1",
+      "lat": 31.393232,
+      "lng": 130.965806,
+      "geocoding_level": null,
+      "phone": "0995558960",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "トランクバザールin東串良",
+      "name_kana": "トランクバザールインヒガシクシラ",
+      "business_type": "㉘ 露店、仮設店舗等における飲食の提供のうち、営業とみなされないもの",
+      "address": "鹿児島県肝属郡東串良町川東78-1 円山公園管理センター",
+      "lat": 31.361036,
+      "lng": 131.01298,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "KAGOSHIMA outside Festival",
+      "name_kana": "カゴシマアウトサイドフェスティバル",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "鹿児島県肝属郡東串良町新川西 東串良町町民運動場",
+      "lat": 31.368756,
+      "lng": 130.991492,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ダイレックス東串良店",
+      "name_kana": "ダイレックスヒガシクシラテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "鹿児島県肝属郡東串良町池之原2605番地1",
+      "lat": 31.403281,
+      "lng": 130.975762,
+      "geocoding_level": null,
+      "phone": "0994-31-4001",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

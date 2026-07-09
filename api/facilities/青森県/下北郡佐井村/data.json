@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "佐井村消防センター",
+      "name_kana": "サイムラショウボウセンター",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県下北郡佐井村佐井字糠森16-1",
+      "lat": 41.430548,
+      "lng": 140.858997,
+      "geocoding_level": null,
+      "phone": "0175-38-2266",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "KYスーバニアハウス",
+      "name_kana": "ケイワイスーバニアハウス",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県下北郡佐井村佐井字大佐井112",
+      "lat": 41.432955,
+      "lng": 140.861405,
+      "geocoding_level": null,
+      "phone": "0175-38-2246",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

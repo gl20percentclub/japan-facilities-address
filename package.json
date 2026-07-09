@@ -5,14 +5,20 @@
     "build": "node scripts/crawl.js",
     "build:dry": "node scripts/crawl.js --dry-run",
     "build:search-index": "node scripts/gen-search-index.js",
-    "test": "node scripts/test.js"
+    "build:readme-stats": "node scripts/gen-readme-stats.js",
+    "fetch:i2fas": "node scripts/fetch-i2fas.mjs",
+    "test": "node scripts/crawl.test.js && node scripts/test.js && node scripts/gen-readme-stats.test.js"
   },
   "dependencies": {
     "@geolonia/normalize-japanese-addresses": "^3.1.3",
+    "fflate": "^0.8.3",
     "iconv-lite": "^0.6.3",
     "xlsx": "^0.18.5"
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "playwright": "^1.61.1"
   }
 }

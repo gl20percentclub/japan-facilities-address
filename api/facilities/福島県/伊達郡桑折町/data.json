@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "コープふくしま　桑折店",
+      "name_kana": "コオリテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県伊達郡桑折町字西大隅93－５",
+      "lat": 37.849662,
+      "lng": 140.515438,
+      "geocoding_level": null,
+      "phone": "024-582-5221",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア伊達桑折店",
+      "name_kana": "ウエルシアダテコオリテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県伊達郡桑折町北町50番地の1",
+      "lat": 37.849095,
+      "lng": 140.517669,
+      "geocoding_level": null,
+      "phone": "024-581-2136",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社FLY HIGH",
+      "name_kana": "カブシキガイシャフライ  ハイ",
+      "business_type": "⑨ 通信販売・訪問販売による販売業",
+      "address": "福島県伊達郡桑折町一円",
+      "lat": 37.833395,
+      "lng": 140.524327,
+      "geocoding_level": null,
+      "phone": "023-615-9121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "幸楽苑 桑折店",
+      "name_kana": "コウラクエン コオリテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県伊達郡桑折町字舘112",
+      "lat": 37.844162,
+      "lng": 140.520882,
+      "geocoding_level": null,
+      "phone": "024-581-2113",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

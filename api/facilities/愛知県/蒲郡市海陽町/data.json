@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ヤマサちくわ株式会社　ラグーナ蒲郡店",
+      "name_kana": "ヤマサチクワカブシキガイシャ　ラグーナガマゴオリテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "愛知県蒲郡市海陽町2-2",
+      "lat": 34.809839,
+      "lng": 137.273587,
+      "geocoding_level": null,
+      "phone": "0533582675",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "変なホテル　ラグーナテンボス",
+      "name_kana": "ヘンナホテル　ラグーナテンボス",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "愛知県蒲郡市海陽町1-4-1",
+      "lat": 34.807376,
+      "lng": 137.268083,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "蒲郡マルシェ　Vege  Cul",
+      "name_kana": "ガマゴオリマルシェ　ベジカル",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "愛知県蒲郡市海陽町2-2 ラグーナフェスティバルマーケット内",
+      "lat": 34.809841,
+      "lng": 137.273566,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "蒲郡マルシェ　Vege  Cul",
+      "name_kana": "ガマゴオリマルシェ　ベジカル",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "愛知県蒲郡市海陽町2-2 ラグーナフェスティバルマーケット内",
+      "lat": 34.809841,
+      "lng": 137.273566,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "蒲郡マルシェ　Vege  Cul",
+      "name_kana": "ガマゴオリマルシェ　ベジカル",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "愛知県蒲郡市海陽町2-2 ラグーナフェスティバルマーケット内",
+      "lat": 34.809841,
+      "lng": 137.273566,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "蒲郡マルシェ　Vege  Cul",
+      "name_kana": "ガマゴオリマルシェ　ベジカル",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "愛知県蒲郡市海陽町2-2 ラグーナフェスティバルマーケット内",
+      "lat": 34.809841,
+      "lng": 137.273566,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "芋ひさ",
+      "name_kana": "イモヒサ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "愛知県蒲郡市海陽町２－２ ラグーナテンボス　フェスティバルマーケット内",
+      "lat": 34.809445,
+      "lng": 137.273426,
+      "geocoding_level": null,
+      "phone": "090-8475-3993",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

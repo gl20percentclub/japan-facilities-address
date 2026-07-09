@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "PLANT刈羽店",
+      "name_kana": "プラントカリワテン",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "新潟県刈羽郡刈羽村刈羽3889番地",
+      "lat": 37.413958,
+      "lng": 138.608139,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ピーチビレッジ食堂",
+      "name_kana": "ピーチビレッジショクドウ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "新潟県刈羽郡刈羽村刈羽",
+      "lat": 37.424623,
+      "lng": 138.615138,
+      "geocoding_level": null,
+      "phone": "0257-31-8600",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "東京電力(株)　西浦寮",
+      "name_kana": "トウキョウデンリョクカブ　ニシウラリョウ",
+      "business_type": "① 飲食店営業",
+      "address": "新潟県刈羽郡刈羽村大字刈羽3684-5",
+      "lat": 37.419762,
+      "lng": 138.611318,
+      "geocoding_level": null,
+      "phone": "0257-45-5471",
+      "license_no": "新潟県柏保（衛）第1001－20号",
+      "license_date": "2025-06-12",
+      "expire_date": "2030-06-30"
+    }
+  ]
+}

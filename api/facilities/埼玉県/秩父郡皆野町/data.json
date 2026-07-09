@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ヤオコー　皆野店",
+      "name_kana": "ヤオコー　ミナノテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "埼玉県秩父郡皆野町皆野1838番地１",
+      "lat": 36.075731,
+      "lng": 139.103581,
+      "geocoding_level": null,
+      "phone": "0494-63-2711",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ヤオコー　皆野店",
+      "name_kana": "ヤオコー　ミナノテン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "埼玉県秩父郡皆野町皆野1838番地１",
+      "lat": 36.075731,
+      "lng": 139.103581,
+      "geocoding_level": null,
+      "phone": "0494-63-2711",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ヤオコー　皆野店　(惣菜厨房)",
+      "name_kana": "ヤオコー　ミナノテン　ソウザイチュウボウ",
+      "business_type": "① 飲食店営業",
+      "address": "埼玉県秩父郡皆野町皆野1838番地１",
+      "lat": 36.075731,
+      "lng": 139.103581,
+      "geocoding_level": null,
+      "phone": "0494-63-2711",
+      "license_no": "指令秩保第１－１３８号",
+      "license_date": "2022-08-10",
+      "expire_date": "2028-10-31"
+    },
+    {
+      "name": "ヤオコー　皆野店　(精肉)",
+      "name_kana": "ヤオコー　ミナノテン　セイニク",
+      "business_type": "① 飲食店営業",
+      "address": "埼玉県秩父郡皆野町大字皆野1838番地１",
+      "lat": 36.075731,
+      "lng": 139.103581,
+      "geocoding_level": null,
+      "phone": "0494-63-2711",
+      "license_no": "指令秩保第1-137号",
+      "license_date": "2024-09-10",
+      "expire_date": "2030-10-31"
+    },
+    {
+      "name": "ヤオコー　皆野店　(精肉)",
+      "name_kana": "ヤオコー　ミナノテン　セイニク",
+      "business_type": "③ 食肉販売業",
+      "address": "埼玉県秩父郡皆野町大字皆野1838番地１",
+      "lat": 36.075731,
+      "lng": 139.103581,
+      "geocoding_level": null,
+      "phone": "0494-63-2711",
+      "license_no": "指令秩保第1-137号",
+      "license_date": "2024-09-10",
+      "expire_date": "2030-10-31"
+    },
+    {
+      "name": "ヤオコー　皆野店　(鮮魚)",
+      "name_kana": "ヤオコー　ミナノテン　センギョ",
+      "business_type": "④ 魚介類販売業",
+      "address": "埼玉県秩父郡皆野町大字皆野1838番地１",
+      "lat": 36.075731,
+      "lng": 139.103581,
+      "geocoding_level": null,
+      "phone": "0494-63-2711",
+      "license_no": "指令秩保第1-138号",
+      "license_date": "2024-09-10",
+      "expire_date": "2030-10-31"
+    },
+    {
+      "name": "ヤオコー　皆野店　(惣菜・寿司)",
+      "name_kana": "ヤオコー　ミナノテン　ソウザイスシ",
+      "business_type": "① 飲食店営業",
+      "address": "埼玉県秩父郡皆野町大字皆野1838番地１",
+      "lat": 36.075731,
+      "lng": 139.103581,
+      "geocoding_level": null,
+      "phone": "0494-63-2711",
+      "license_no": "指令秩保第1-139号",
+      "license_date": "2024-09-10",
+      "expire_date": "2030-10-31"
+    },
+    {
+      "name": "ヤオコー　皆野店　(ベーカリー)",
+      "name_kana": "ヤオコー　ミナノテン　ベーカリー",
+      "business_type": "⑪ 菓子製造業",
+      "address": "埼玉県秩父郡皆野町大字皆野1838番地１",
+      "lat": 36.075731,
+      "lng": 139.103581,
+      "geocoding_level": null,
+      "phone": "0494-63-2711",
+      "license_no": "指令秩保第1-136号",
+      "license_date": "2024-09-10",
+      "expire_date": "2030-10-31"
+    },
+    {
+      "name": "皆野高等学校",
+      "name_kana": "ミナノコウトウガッコウ",
+      "business_type": "③ 乳類販売業",
+      "address": "埼玉県秩父郡皆野町大淵１９－１",
+      "lat": 36.069578,
+      "lng": 139.085489,
+      "geocoding_level": null,
+      "phone": "0494-62-2076",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ガスト 長瀞店",
+      "name_kana": "ガストナガトロテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "埼玉県秩父郡皆野町皆野３２３６－１４",
+      "lat": 36.077487,
+      "lng": 139.108861,
+      "geocoding_level": null,
+      "phone": "0494-63-1011",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ローソン秩父皆野北店",
+      "name_kana": "ローソンチチブミナノキタテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "埼玉県秩父郡皆野町皆野2084",
+      "lat": 36.076295,
+      "lng": 139.098192,
+      "geocoding_level": null,
+      "phone": "0494-63-1602",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグイチワタ皆野バイパス店",
+      "name_kana": "ドラッグイチワタミナノバイパステン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "埼玉県秩父郡皆野町皆野775",
+      "lat": 36.066475,
+      "lng": 139.099056,
+      "geocoding_level": null,
+      "phone": "0494625116",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

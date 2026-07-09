@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ダイソー　イオンタウン三戸店",
+      "name_kana": "ダイソー　イオンタウンサンノヘテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県三戸郡三戸町大字川守田字下比良３０－１ イオンタウン三戸内",
+      "lat": 40.396572,
+      "lng": 141.263552,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　南部住建　福祉事業部　有料老人ホーム　いちばん星",
+      "name_kana": "カブシキガイシャ　ナンブジュウケン　フクシジギョウブ　ユウリョウロウジンホーム　イチバンボシ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "青森県三戸郡三戸町大字川守田字沖中７３－４",
+      "lat": 40.3935,
+      "lng": 141.267658,
+      "geocoding_level": null,
+      "phone": "0179201165",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　三戸川守田店",
+      "name_kana": "ヤクオウドウ　サンノヘカワモリタテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県三戸郡三戸町川守田字沖中61番地1",
+      "lat": 40.392696,
+      "lng": 141.266553,
+      "geocoding_level": null,
+      "phone": "0179-23-0181",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　青森三戸店",
+      "name_kana": "ヤクオウドウ　アオモリサンノヘテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県三戸郡三戸町大字同心町字金堀2番地6",
+      "lat": 40.371788,
+      "lng": 141.245468,
+      "geocoding_level": null,
+      "phone": "0179221422",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社サンデー三戸店",
+      "name_kana": "カブシキガイシャサンデーサンノヘテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "青森県三戸郡三戸町大字川守田字下比良23-1",
+      "lat": 40.396812,
+      "lng": 141.263669,
+      "geocoding_level": null,
+      "phone": "0179222600",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "宮古ヤクルト販売　自販機（鶴亀荘",
+      "name_kana": "ミヤコヤクルト　ジハンキ　ツルカメソウ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "青森県三戸郡三戸町斗内字和田６０－１",
+      "lat": 40.362374,
+      "lng": 141.2205,
+      "geocoding_level": null,
+      "phone": "0178-28-5216",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "宮古ヤクルト販売　自販機（三戸中央病院",
+      "name_kana": "ミヤコヤクルト　ジハンキ　サンノヘチュウオウビョウイン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "青森県三戸郡三戸町川守田字沖中９－１",
+      "lat": 40.390953,
+      "lng": 141.268015,
+      "geocoding_level": null,
+      "phone": "0178-28-5216",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "宮古ヤクルト販売　自販機（老人ホームこのはずく",
+      "name_kana": "ミヤコヤクルト　ジハンキ　ロウジンホームコノハズク",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "青森県三戸郡三戸町川守田字大明地１７－１",
+      "lat": 40.384658,
+      "lng": 141.261061,
+      "geocoding_level": null,
+      "phone": "0178-28-5216",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "マックスバリュ三戸店",
+      "name_kana": "マックスバリュサンノヘテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "青森県三戸郡三戸町大字川守田字下比良18-1",
+      "lat": 40.398075,
+      "lng": 141.263735,
+      "geocoding_level": null,
+      "phone": "0179-20-0210",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "寺沢商店",
+      "name_kana": "テラサワショウテン",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "青森県三戸郡三戸町在府小路町４７－４",
+      "lat": 40.377918,
+      "lng": 141.258473,
+      "geocoding_level": null,
+      "phone": "0179222879",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ファミリーマート三戸中央病院",
+      "name_kana": "ファミリーマートサンノヘチュウオウビョウイントオリテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "青森県三戸郡三戸町川守田字沖中３－９",
+      "lat": 40.390324,
+      "lng": 141.266805,
+      "geocoding_level": null,
+      "phone": "0179201087",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ひのと青果",
+      "name_kana": "ヒノトセイカ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "青森県三戸郡三戸町同心町22-4",
+      "lat": 40.376403,
+      "lng": 141.25281,
+      "geocoding_level": null,
+      "phone": "0179-22-2731",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ガレットマニア",
+      "name_kana": "ガレットマニア",
+      "business_type": "① 飲食店営業",
+      "address": "青森県三戸郡三戸町大字梅内字城ノ下三丁目3-24 ゼファー105",
+      "lat": 40.382357,
+      "lng": 141.266201,
+      "geocoding_level": null,
+      "phone": "080-1665-4813",
+      "license_no": "指令第1336号",
+      "license_date": "2024-09-30",
+      "expire_date": "2029-09-30"
+    },
+    {
+      "name": "コメリハードアンドグリーン三戸店",
+      "name_kana": "コメリハードアンドグリーンサンノヘテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "青森県三戸郡三戸町大字斗内字清水田８０番地１",
+      "lat": 40.357445,
+      "lng": 141.204809,
+      "geocoding_level": null,
+      "phone": "0179-20-3040",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

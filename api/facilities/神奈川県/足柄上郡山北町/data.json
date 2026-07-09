@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "山北センター",
+      "name_kana": "ヤマキタセンター",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "神奈川県足柄上郡山北町山北1310",
+      "lat": 35.360394,
+      "lng": 139.084386,
+      "geocoding_level": null,
+      "phone": "0465751991",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ともしびショップさくら",
+      "name_kana": "トモシビショップサクラ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "神奈川県足柄上郡山北町山北971-2",
+      "lat": 35.365486,
+      "lng": 139.07666,
+      "geocoding_level": null,
+      "phone": "0465-75-1294",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "諸星運輸山北LC",
+      "name_kana": "モロホシウンユヤマキタエルシー",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "神奈川県足柄上郡山北町平山282",
+      "lat": 35.353809,
+      "lng": 139.071372,
+      "geocoding_level": null,
+      "phone": "0465-79-1170",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "かしわ坂茶寮",
+      "name_kana": "カシワザカサリョウ",
+      "business_type": "① 飲食店営業",
+      "address": "神奈川県足柄上郡山北町岸３９４",
+      "lat": 35.353358,
+      "lng": 139.097166,
+      "geocoding_level": null,
+      "phone": "08073508877",
+      "license_no": "2023-001-9002",
+      "license_date": "2023-04-18",
+      "expire_date": "2029-04-17"
+    },
+    {
+      "name": "クリエイトS・D東山北店",
+      "name_kana": "クリエイトエス・ディーヒガシヤマキタテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "神奈川県足柄上郡山北町向原1-17",
+      "lat": 35.355852,
+      "lng": 139.104217,
+      "geocoding_level": null,
+      "phone": "0465-79-1129",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン足柄山北店",
+      "name_kana": "コメリハードアンドグリーンアシガラヤマキタテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "神奈川県足柄上郡山北町岸６２番地",
+      "lat": 35.354923,
+      "lng": 139.101172,
+      "geocoding_level": null,
+      "phone": "0465-79-1331",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

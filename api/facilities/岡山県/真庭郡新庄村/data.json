@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "みずもり",
+      "name_kana": "ミズモリ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "岡山県真庭郡新庄村新庄村一円４７４４－１",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社サルナシの里新庄",
+      "name_kana": "カブシキガイシャサフナシノサトシンジョウ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "岡山県真庭郡新庄村新庄村一円1171-11",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "090-7127-2788",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "木挽家",
+      "name_kana": "コビキヤ",
+      "business_type": "⑱ 調味料製造・加工業",
+      "address": "岡山県真庭郡新庄村　１１４９",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "0867-56-7550",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社Ｆｕｌｌｂａｃｋ",
+      "name_kana": "カブシキガイシャフルバック",
+      "business_type": "⑮ いわゆる健康食品の製造・加工業",
+      "address": "岡山県真庭郡新庄村野土路４７４４番地１",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅がいせん桜新庄宿",
+      "name_kana": "ミチノエキガイセンザクラシンジョウシュク",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "岡山県真庭郡新庄村　2190-1",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "08767-56-2908",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅　がいせん桜　新庄宿",
+      "name_kana": "ミチノエキ　ガイセンザクラ　シンジョウシュク",
+      "business_type": "㉔ 麺類製造業",
+      "address": "岡山県真庭郡新庄村 ２１９０－１",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "0867-56-2908",
+      "license_no": "岡山県指令　真庭保300023号",
+      "license_date": "2023-12-14",
+      "expire_date": "2030-01-31"
+    },
+    {
+      "name": "株式会社メルヘンプラザ",
+      "name_kana": "カブシキガイシャメルヘンプラザ",
+      "business_type": "① 飲食店営業",
+      "address": "岡山県真庭郡新庄村　２１９０－１",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "岡山県指令　真庭保290097号",
+      "license_date": "2023-12-14",
+      "expire_date": "2030-01-31"
+    },
+    {
+      "name": "株式会社メルヘンプラザ",
+      "name_kana": "カブシキガイシャメルヘンプラザ",
+      "business_type": "① 飲食店営業",
+      "address": "岡山県真庭郡新庄村　２１９０－１",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "岡山県指令　真庭保290096号",
+      "license_date": "2023-12-14",
+      "expire_date": "2030-01-31"
+    },
+    {
+      "name": "新庄村ライスセンター",
+      "name_kana": "シンジョウソンライスセンター",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "岡山県真庭郡新庄村 1283－1",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "0867-45-7507",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "からくさ",
+      "name_kana": "カラクサ",
+      "business_type": "㉑ 製茶業",
+      "address": "岡山県真庭郡新庄村 １１４９",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "090-1183-7356",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "Ｄｅｌｉｃｅ　Ｍｏｎｄｅ",
+      "name_kana": "デリス　モンド",
+      "business_type": "⑨ 通信販売・訪問販売による販売業",
+      "address": "岡山県真庭郡新庄村　２０５９",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "0867-45-1808",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "「みずもり」",
+      "name_kana": "ミズモリ",
+      "business_type": "① 飲食店営業",
+      "address": "岡山県真庭郡新庄村野土路４７４４－１",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "080-6349-7162",
+      "license_no": "岡山県指令　真庭保310015号",
+      "license_date": "2025-01-30",
+      "expire_date": "2031-01-31"
+    },
+    {
+      "name": "山田商店",
+      "name_kana": "ヤマダショウテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "岡山県真庭郡新庄村 １０９７",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "0867-56-3007",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ひめのもち加工場",
+      "name_kana": "ヒメノモチカコウジョウ",
+      "business_type": "⑪ 菓子製造業",
+      "address": "岡山県真庭郡新庄村 ２１９０－１",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "0867-56-2908",
+      "license_no": "岡山県指令　真庭保第140118号",
+      "license_date": "2026-01-07",
+      "expire_date": "2032-01-31"
+    },
+    {
+      "name": "新庄婦人の会",
+      "name_kana": "シンジョウフジンノカイ",
+      "business_type": "⑪ 菓子製造業",
+      "address": "岡山県真庭郡新庄村 １１００",
+      "lat": 35.179484,
+      "lng": 133.567772,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "岡山県指令　真庭保第190140号",
+      "license_date": "2026-01-07",
+      "expire_date": "2032-01-31"
+    }
+  ]
+}

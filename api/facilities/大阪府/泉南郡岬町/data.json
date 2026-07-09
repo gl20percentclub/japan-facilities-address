@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ナニワコーヒー",
+      "name_kana": "ナニワコーヒー",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "大阪府泉南郡岬町淡輪８８６－３",
+      "lat": 34.33241,
+      "lng": 135.179775,
+      "geocoding_level": null,
+      "phone": "0724153170",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグセイムス岬淡輪店",
+      "name_kana": "ドラッグセイムスミサキタンノワテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "大阪府泉南郡岬町淡輪１６００－１",
+      "lat": 34.328472,
+      "lng": 135.179742,
+      "geocoding_level": null,
+      "phone": "072-468-6820",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "産直市場よってって　道の駅　みさき店",
+      "name_kana": "サンチョクイチバ　ヨッテッテ　ミチノエキ　ミサキテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "大阪府泉南郡岬町淡輪5654-3",
+      "lat": 34.325734,
+      "lng": 135.173851,
+      "geocoding_level": null,
+      "phone": "072-494-1117",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア岬淡輪店",
+      "name_kana": "ウエルシアミサキタンノワテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "大阪府泉南郡岬町淡輪2812番6",
+      "lat": 34.32585,
+      "lng": 135.170926,
+      "geocoding_level": null,
+      "phone": "072-488-3896",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "せんなん里海公園",
+      "name_kana": "センナンサトウミコウエン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "大阪府泉南郡岬町淡輪地先",
+      "lat": 34.310201,
+      "lng": 135.182207,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア岬淡輪店",
+      "name_kana": "ウエルシアミサキタンノワテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "大阪府泉南郡岬町淡輪2812番6",
+      "lat": 34.325855,
+      "lng": 135.170916,
+      "geocoding_level": null,
+      "phone": "072-488-3896",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "青木松風庵　深日店",
+      "name_kana": "アオキショウフウアン　フケテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "大阪府泉南郡岬町深日1891-1",
+      "lat": 34.317327,
+      "lng": 135.14364,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "みさき",
+      "name_kana": "ミサキ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "大阪府泉南郡岬町淡輪1790",
+      "lat": 34.320088,
+      "lng": 135.183034,
+      "geocoding_level": null,
+      "phone": "0724940100",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "浜のおばちゃん家",
+      "name_kana": "ハマノオバチャンヤ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "大阪府泉南郡岬町淡輪山中８６２－１",
+      "lat": 34.330447,
+      "lng": 135.187385,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "FONT COFFEE",
+      "name_kana": "フォントコーヒー",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "大阪府泉南郡岬町淡輪1424-32",
+      "lat": 34.336287,
+      "lng": 135.173482,
+      "geocoding_level": null,
+      "phone": "09085226917",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン泉南岬店",
+      "name_kana": "コメリハードアンドグリーンセンナンミサキテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "大阪府泉南郡岬町深日１５４３－１",
+      "lat": 34.317243,
+      "lng": 135.146844,
+      "geocoding_level": null,
+      "phone": "072-491-2900",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

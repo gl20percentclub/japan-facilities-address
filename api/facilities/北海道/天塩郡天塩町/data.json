@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ツルハドラック天塩店",
+      "name_kana": "ツルハドラックテシオテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道天塩郡天塩町字川口5690-3",
+      "lat": 44.891541,
+      "lng": 141.746623,
+      "geocoding_level": null,
+      "phone": "01632-2-1268",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "天塩町母子売店",
+      "name_kana": "テシオチョウボシバイテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道天塩郡天塩町川口5699番地2",
+      "lat": 44.886598,
+      "lng": 141.749132,
+      "geocoding_level": null,
+      "phone": "01632-2-1058",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "てしお温泉夕映",
+      "name_kana": "テシオオンセンユウバエ",
+      "business_type": "③ 乳類販売業",
+      "address": "北海道天塩郡天塩町更岸5807-4",
+      "lat": 44.876399,
+      "lng": 141.744442,
+      "geocoding_level": null,
+      "phone": "0163223111",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "てしお温泉夕映",
+      "name_kana": "テシオオンセンユウバエ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道天塩郡天塩町更岸5807-4",
+      "lat": 44.876399,
+      "lng": 141.744442,
+      "geocoding_level": null,
+      "phone": "0163223111",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "生活協同組合コープさっぽろ　てしお店",
+      "name_kana": "セイカツキョウドウクミアイコープサッポロ　テシオテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "北海道天塩郡天塩町新栄通11丁⽬1466番",
+      "lat": 44.891655,
+      "lng": 141.744171,
+      "geocoding_level": null,
+      "phone": "01632-9-7165",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "天塩町立天塩小学校",
+      "name_kana": "テシオチョウリツテシオショウガッコウ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "北海道天塩郡天塩町新栄通4丁目",
+      "lat": 44.883842,
+      "lng": 141.745855,
+      "geocoding_level": null,
+      "phone": "01632-2-1046",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "天塩町立天塩中学校",
+      "name_kana": "テシオチョウリツテシオチュウガッコウ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "北海道天塩郡天塩町川口5705-1",
+      "lat": 44.88302,
+      "lng": 141.750435,
+      "geocoding_level": null,
+      "phone": "01632-2-1522",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "天塩町立啓徳小学校",
+      "name_kana": "テシオチョウリツケイトクショウガッコウ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "北海道天塩郡天塩町オヌプナイ3470-1",
+      "lat": 44.865034,
+      "lng": 141.915593,
+      "geocoding_level": null,
+      "phone": "01632-4-3350",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "るもい農業協同組合雄信内事業所",
+      "name_kana": "ルモイノウギョウキョウドウクミアイオノブナイジギョウショ",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "北海道天塩郡天塩町字オヌプナイ３７６１番地",
+      "lat": 44.90117,
+      "lng": 141.922085,
+      "geocoding_level": null,
+      "phone": "01632-4-3311",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "おのっぷ農園",
+      "name_kana": "オノップノウエン",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "北海道天塩郡天塩町オヌプナイ6455",
+      "lat": 44.846352,
+      "lng": 141.936679,
+      "geocoding_level": null,
+      "phone": "09075126510",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "おのっぷ農園",
+      "name_kana": "オノップノウエン",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "北海道天塩郡天塩町オヌプナイ6455",
+      "lat": 44.846352,
+      "lng": 141.936679,
+      "geocoding_level": null,
+      "phone": "09075126510",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "Aコープてしお",
+      "name_kana": "エーコープテシオ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道天塩郡天塩町新地通６丁目２３４３番地",
+      "lat": 44.885959,
+      "lng": 141.746818,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "セイコーマート　天塩川口",
+      "name_kana": "セイコーマート　テシオカワグチ",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "北海道天塩郡天塩町字川口5692番地2",
+      "lat": 44.892222,
+      "lng": 141.747284,
+      "geocoding_level": null,
+      "phone": "01632-2-3526",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "DCMニコット天塩店",
+      "name_kana": "ディーシーエムニコット　テシオテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道天塩郡天塩町新地通１０丁目",
+      "lat": 44.890248,
+      "lng": 141.745764,
+      "geocoding_level": null,
+      "phone": "01632-9-1100",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "焼き肉の店たちばな",
+      "name_kana": "ヤキニクノミセタチバナ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "北海道天塩郡天塩町字川口5699-3",
+      "lat": 44.886782,
+      "lng": 141.749105,
+      "geocoding_level": null,
+      "phone": "01632-2-1058",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}
