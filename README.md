@@ -184,18 +184,17 @@ export const SOURCES = [
 
 ### 出典・データソース
 
-現在の収録データの出典は以下です（`scripts/sources.js` で定義。今後拡充予定）。
+全国の自治体が公開する食品営業許可オープンデータを収録しています。対象ソースの完全な一覧（自治体・取得URL・ライセンス）は、機械可読な形で以下に定義されています。
 
-| 自治体 | データセット | 元データ | ライセンス |
-| --- | --- | --- | --- |
-| 沖縄県 | 食品営業許可・届出一覧 | [BODIK](https://data.bodik.jp/dataset/okinawa-dpf_okinawa_pref) | CC BY 4.0 |
-| 大阪市 | 食品営業許可施設一覧 | [大阪市](https://www.city.osaka.lg.jp/kenko/page/0000575579.html) | CC BY 4.0 |
-| 東京都港区 | 食品営業許可一覧 | [東京都オープンデータカタログ](https://catalog.data.metro.tokyo.lg.jp/dataset/t131032d0000000244) | CC BY 4.0 |
-| 奈良県 | 食品営業許可施設一覧（奈良市を除く） | [奈良県](https://www.pref.nara.lg.jp/n086/52413.html) | 奈良県利用規約 |
-| 京都市 | 食品営業許可施設一覧（令和3年3月末時点） | [京都市オープンデータポータル](https://data.city.kyoto.lg.jp/dataset/00414/) | CC BY 4.0 |
+- `scripts/sources.js` — 個別定義（大阪市・東京都港区・奈良県・京都市 ほか）
+- `scripts/bodik-sources.js` — BODIK（`data.bodik.jp`）掲載自治体（自動生成）
+- `scripts/portal-sources.js` — 各自治体の独自ポータル/自庁サイト掲載分
 
-- 自治体ごとにライセンスは異なります（例: Public Data License (PDL1.0) / CC BY 4.0 / CC BY 2.1 JP / 自治体独自ライセンス）。各データの出典・ライセンスは `index.json` の `meta.sources` でも確認できます。
-- 京都市データは令和3年（2021年）3月末時点のスナップショットで、他ソースより古い点に留意してください。
+各データの出典・ライセンスは、生成物 `api/**/index.json` ・ `data.json` の `meta.sources` にも埋め込まれています。
+
+- 自治体ごとにライセンスは異なります（例: CC BY 4.0 / CC BY 2.1 JP / Public Data License (PDL1.0) / 自治体独自ライセンス）。ライセンス表記が確認できないソースは出典明示で運用しています。
+- 一部データは改正食品衛生法（令和3年6月）以前のスナップショットで、他ソースより古い場合があります（例: 京都市は令和3年3月末時点）。
+- 厚生労働省「食品衛生申請等システム（i2fas）」は robots.txt・利用規約（営利目的の複製・再配布の禁止）により収集対象外としています。
 
 ### 加工データであることについて
 
