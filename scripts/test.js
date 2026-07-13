@@ -139,28 +139,48 @@ for (const pref of prefectures) {
 assert(checkedFacilitySample, '少なくとも1つの施設サンプルを検証した');
 assert(withCoords > 0, `座標を持つ施設が存在する (${withCoords}件)`);
 
-// 4. 施設名検索用の索引 api/search-index.json を検証
+// 4. 施設名検索用の索引（マニフェスト＋都道府県別 shard）を検証
 const indexPath = path.join(ROOT, 'api', 'search-index.json');
-assert(fs.existsSync(indexPath), 'api/search-index.json が存在する');
+assert(fs.existsSync(indexPath), 'api/search-index.json（マニフェスト）が存在する');
 if (fs.existsSync(indexPath)) {
-  const idx = readJSON(indexPath);
-  assert(Array.isArray(idx.data), 'search-index の data は配列である');
+  const manifest = readJSON(indexPath);
+  assert(Array.isArray(manifest.prefectures), 'search-index マニフェストに prefectures 配列がある');
   assert(
-    Array.isArray(idx.meta?.schema) && idx.meta.schema[0] === 'name',
+    Array.isArray(manifest.meta?.schema) && manifest.meta.schema[0] === 'name',
     'search-index の meta.schema が定義されている',
   );
-  assert(idx.data.length > 0, `search-index に施設が存在する (${idx.data?.length ?? 0}件)`);
-  // 先頭の行を検証: [name, address, lat, lng, level]。空のときは assert が例外を
-  // 投げない都合で以降が undefined 分解になり落ちるため、行がある時だけ検証する。
-  if (idx.data.length > 0) {
-    const [name, , lat, lng] = idx.data[0];
-    assert(typeof name === 'string' && name !== '', 'search-index の行に施設名がある');
-    assert(
-      typeof lat === 'number' && typeof lng === 'number' &&
-        lat >= 20 && lat <= 46 && lng >= 122 && lng <= 154,
-      'search-index の座標が日本の範囲内である',
-    );
+  assert(manifest.prefectures?.length > 0, `search-index に都道府県 shard がある (${manifest.prefectures?.length ?? 0}件)`);
+
+  // 各 shard ファイルが存在し 100MB 未満であることを確認（GitHub のファイル上限対策）。
+  let idxTotal = 0;
+  let sampleChecked = false;
+  for (const p of manifest.prefectures ?? []) {
+    const shardPath = path.join(ROOT, 'api', p.file);
+    if (!fs.existsSync(shardPath)) {
+      console.error(`  ✗ search-index shard が存在しない: ${p.file}`);
+      failures++;
+      continue;
+    }
+    const sizeMB = fs.statSync(shardPath).size / (1024 * 1024);
+    if (sizeMB >= 100) {
+      console.error(`  ✗ search-index shard が100MB以上: ${p.file} (${sizeMB.toFixed(1)}MB)`);
+      failures++;
+    }
+    const shard = readJSON(shardPath);
+    idxTotal += shard.data?.length ?? 0;
+    if (!sampleChecked && shard.data?.length > 0) {
+      const [name, , lat, lng] = shard.data[0];
+      assert(typeof name === 'string' && name !== '', 'search-index shard の行に施設名がある');
+      assert(
+        typeof lat === 'number' && typeof lng === 'number' &&
+          lat >= 20 && lat <= 46 && lng >= 122 && lng <= 154,
+        'search-index shard の座標が日本の範囲内である',
+      );
+      sampleChecked = true;
+    }
   }
+  assert(idxTotal > 0, `search-index に施設が存在する (${idxTotal}件)`);
+  assert(idxTotal === manifest.meta?.count, `マニフェストの count(${manifest.meta?.count}) と shard 合計(${idxTotal}) が一致する`);
 }
 
 console.log(`\n施設総数: ${totalFacilities}件 / ${totalCities}市区町村 / ${prefectures.length}都道府県`);
