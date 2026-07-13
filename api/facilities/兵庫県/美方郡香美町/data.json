@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "かに楽座　甲羅戯",
+      "name_kana": "カニラクザ　コウラギ",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "兵庫県美方郡香美町香住区浦上312-1",
+      "lat": 35.646087,
+      "lng": 134.663671,
+      "geocoding_level": null,
+      "phone": "0796370345",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "サラダ館村岡店",
+      "name_kana": "サラダカンムラオカテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "兵庫県美方郡香美町美方郡香美町村岡区村岡2425",
+      "lat": 35.470315,
+      "lng": 134.596098,
+      "geocoding_level": null,
+      "phone": "0796940704",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "合同会社からふるパウダー",
+      "name_kana": "ゴウドウガイシャカラフルパウダー",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "兵庫県美方郡香美町香住区若松614-4",
+      "lat": 35.644937,
+      "lng": 134.633097,
+      "geocoding_level": null,
+      "phone": "09046401833",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "合同会社からふるパウダー",
+      "name_kana": "ゴウドウガイシャカラフルパウダー",
+      "business_type": "⑰ 農産保存食料品製造・加工業",
+      "address": "兵庫県美方郡香美町香住区若松614-4",
+      "lat": 35.644937,
+      "lng": 134.633097,
+      "geocoding_level": null,
+      "phone": "09046401833",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "豊岡ロードサイド",
+      "name_kana": "トヨオカロードサイド",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "兵庫県美方郡香美町香住区本見塚下岡字畑佃１２８０－１",
+      "lat": 35.669207,
+      "lng": 139.784379,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "かすみ矢田川温泉",
+      "name_kana": "カスミヤタガワオンセン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "兵庫県美方郡香美町香住区三谷７５４",
+      "lat": 35.611525,
+      "lng": 134.632006,
+      "geocoding_level": null,
+      "phone": "0796-37-1126",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ゴダイドラッグ村岡店",
+      "name_kana": "ゴダイドラッグムラオカテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "兵庫県美方郡香美町村岡区大糠45-1",
+      "lat": 35.461026,
+      "lng": 134.602552,
+      "geocoding_level": null,
+      "phone": "0796-98-1706",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "slow glamping風と海と",
+      "name_kana": "スローグランピングカゼトウミト",
+      "business_type": "① 飲食店営業",
+      "address": "兵庫県美方郡香美町香住区境661-1",
+      "lat": 35.65685,
+      "lng": 134.646266,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "２１７－１２",
+      "license_date": "2024-03-28",
+      "expire_date": "2030-05-31"
+    },
+    {
+      "name": "トーホー工業株式会社　北近畿営業所",
+      "name_kana": "トーホーコウギョウ　キタキンキ",
+      "business_type": "㉗ 器具、容器包装の製造・加工業（合成樹脂が使用された器具又は容器包装の製造、加工に限る。）",
+      "address": "兵庫県美方郡香美町香住区丹生地288-1",
+      "lat": 35.638144,
+      "lng": 134.681477,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン香住店",
+      "name_kana": "コメリハードアンドグリーンカスミテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "兵庫県美方郡香美町香住区香住１１８４－１",
+      "lat": 35.632538,
+      "lng": 134.625738,
+      "geocoding_level": null,
+      "phone": "0796-37-0877",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン村岡店",
+      "name_kana": "コメリハードアンドグリーンムラオカテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "兵庫県美方郡香美町村岡区大糠２３９",
+      "lat": 35.45818,
+      "lng": 134.601656,
+      "geocoding_level": null,
+      "phone": "0796-99-7030",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

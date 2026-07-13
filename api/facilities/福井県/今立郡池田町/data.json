@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ＪＡ福井県　池田食品工場",
+      "name_kana": "ジェイエイフクイケン　イケダショクヒンコウジョウ",
+      "business_type": "⑳ 精穀・製粉業",
+      "address": "福井県今立郡池田町月ケ瀬５１−４−１",
+      "lat": 35.87742,
+      "lng": 136.360069,
+      "geocoding_level": null,
+      "phone": "0778-44-6505",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ゲンキー池田町店",
+      "name_kana": "ゲンキーイケダチョウテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福井県今立郡池田町稲荷26-35",
+      "lat": 35.891046,
+      "lng": 136.343603,
+      "geocoding_level": null,
+      "phone": "0778-44-6710",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "池田町農林水産物処理加工施設「おこもじ屋」",
+      "name_kana": "イケダチョウノウリンスイサンブツカコウショリシセツ",
+      "business_type": "⑰ 農産保存食料品製造・加工業",
+      "address": "福井県今立郡池田町薮田１－８－１",
+      "lat": 35.894071,
+      "lng": 136.346543,
+      "geocoding_level": null,
+      "phone": "0778447731",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "池田町農林水産物処理加工施設「おこもじ屋」",
+      "name_kana": "イケダチョウノウリンスイサンブツカコウショリシセツ",
+      "business_type": "㉙ その他",
+      "address": "福井県今立郡池田町薮田１－８－１",
+      "lat": 35.894071,
+      "lng": 136.346543,
+      "geocoding_level": null,
+      "phone": "0778447731",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "100365",
+      "name_kana": "イチゼロゼロサンロクゴ",
+      "business_type": "① 飲食店営業",
+      "address": "福井県今立郡池田町市27-8",
+      "lat": 35.891114,
+      "lng": 136.343922,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "2040153",
+      "license_date": "2025-09-30",
+      "expire_date": "2030-09-30"
+    }
+  ]
+}

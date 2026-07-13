@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ドラッグコスモス八百富店",
+      "name_kana": "ドラッグコスモスヤオトミテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "愛知県蒲郡市八百富町３​丁​目​６​番​地",
+      "lat": 34.823678,
+      "lng": 137.233157,
+      "geocoding_level": null,
+      "phone": "0533-66-3112",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "家族葬ホール　ティア蒲郡府相",
+      "name_kana": "カゾクソウホール　ティアガマゴオリフソウ",
+      "business_type": "⑥ 弁当販売業",
+      "address": "愛知県蒲郡市八百富町2-224-2",
+      "lat": 34.822975,
+      "lng": 137.233896,
+      "geocoding_level": null,
+      "phone": "0120-117-911",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ダイソー　蒲郡平田店",
+      "name_kana": "ダイソー　ガマゴオリヒラタテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "愛知県蒲郡市平田町５－１",
+      "lat": 34.829681,
+      "lng": 137.240407,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ゲンキー平田長根店",
+      "name_kana": "ゲンキーヒラタナガネテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "愛知県蒲郡市平田町下長根43-1",
+      "lat": 34.829415,
+      "lng": 137.23987,
+      "geocoding_level": null,
+      "phone": "0533-95-3850",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

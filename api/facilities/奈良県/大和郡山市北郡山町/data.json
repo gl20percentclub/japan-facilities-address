@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "大和郡山市役所　交流棟　ロビー（ＣCBJI単受）",
+      "name_kana": "ヤマトコオリヤマシヤクショコウリュウトウロビーシーシービージェイアイタンジュ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "奈良県大和郡山市北郡山町248-4",
+      "lat": 34.649355,
+      "lng": 135.782591,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "大和郡山市役所",
+      "name_kana": "ヤマトコオリヤマシヤクショ",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "奈良県大和郡山市北郡山町248-4",
+      "lat": 34.649355,
+      "lng": 135.782591,
+      "geocoding_level": null,
+      "phone": "0743-53-1151",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ファミリーマート北郡山店",
+      "name_kana": "ファミリーマートキタコオリヤマテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "奈良県大和郡山市北郡山町145-11",
+      "lat": 34.653235,
+      "lng": 135.784613,
+      "geocoding_level": null,
+      "phone": "0743510828",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

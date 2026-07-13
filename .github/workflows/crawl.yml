@@ -1,4 +1,4 @@
-name: Crawl Okinawa Facilities
+name: Crawl Facilities
 
 on:
   schedule:
@@ -8,6 +8,10 @@ on:
     inputs:
       dry_run:
         description: 'ダウンロードをスキップしキャッシュを使う'
+        type: boolean
+        default: false
+      fetch_i2fas:
+        description: '厚労省 i2fas オープンデータを再取得する（ブラウザ自動化・時間がかかる）'
         type: boolean
         default: false
 
@@ -38,39 +42,52 @@ jobs:
           restore-keys: |
             bodik-cache-
 
+      # 厚労省 i2fas オープンデータの取得（任意）。ブラウザ自動化のため手動 dispatch 時のみ。
+      # 取得結果は .cache/i2fas に保存され、以降のクロールでキャッシュから読まれる。
+      - name: Fetch i2fas open data (optional)
+        if: github.event_name == 'workflow_dispatch' && inputs.fetch_i2fas
+        run: |
+          npx playwright install --with-deps chromium
+          node scripts/fetch-i2fas.mjs
+        continue-on-error: true
+
       - name: Crawl
+        # 全ソース＋i2fas で施設が100万件超になりメモリを要するため、
+        # Node のヒープ上限を引き上げる（GitHub Linux ランナーは 16GB RAM）。
+        env:
+          NODE_OPTIONS: --max-old-space-size=12288
         run: node scripts/crawl.js ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '--dry-run' || '' }}
 
       - name: Validate
-        run: node scripts/test.js
+        run: npm test
 
-      - name: Check for changes
-        id: changes
-        run: |
-          if git diff --quiet api/; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "変更なし"
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "変更あり"
-          fi
-
-      - name: Commit and push
-        if: steps.changes.outputs.changed == 'true'
-        run: |
-          CITY_COUNT=$(node -e "const d=require('./api/facilities/index.json');console.log(Object.values(d.data).reduce((n,c)=>n+c.length,0))")
-          UPDATED=$(node -e "const d=require('./api/facilities/index.json');console.log(new Date(d.meta.updated*1000).toISOString().slice(0,10))")
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add api/
-          git commit -m "chore: update facilities (${CITY_COUNT}市区町村, ${UPDATED})"
-          git push
-
+      # 先に gh-pages へ配信する（orphan ブランチへの force push なので main の
+      # 進行と競合しない＝後続の main コミットが失敗しても配信は成立する）。
       - name: Deploy to GitHub Pages
-        if: steps.changes.outputs.changed == 'true'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
           publish_branch: gh-pages
           exclude_assets: 'node_modules,.cache,scripts,.github'
+
+      # 生成物 api/ と README 統計を main にコミットする。
+      # クロール中に他の push で main が進むことがあるため、rebase してリトライする。
+      - name: Commit data
+        run: |
+          if git diff --quiet api/ README.md; then
+            echo "変更なし"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add api/ README.md
+          git commit -m "chore: update facilities data"
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              echo "pushed"; exit 0
+            fi
+            echo "push retry $i..."; sleep 5
+          done
+          echo "::error::main への push に失敗（gh-pages への配信は完了しています）"
+          exit 1

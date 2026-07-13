@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ドラッグストアウェルネス川本店",
+      "name_kana": "ドラッグストアウェルネスカワモトテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "島根県邑智郡川本町因原734-1",
+      "lat": 34.96381,
+      "lng": 132.472646,
+      "geocoding_level": null,
+      "phone": "0855-72-3017",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　三協　島根川本工場",
+      "name_kana": "シマネカワモトコウジョウ",
+      "business_type": "⑮ いわゆる健康食品の製造・加工業",
+      "address": "島根県邑智郡川本町南佐木９９３－１ 島根川本工場",
+      "lat": 35.012818,
+      "lng": 132.411045,
+      "geocoding_level": null,
+      "phone": "0855-74-2338",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "野澤友裕",
+      "name_kana": "ノザワトモヒロ",
+      "business_type": "⑱ 調味料製造・加工業",
+      "address": "島根県邑智郡川本町因原1144－21－111",
+      "lat": 34.968244,
+      "lng": 132.475661,
+      "geocoding_level": null,
+      "phone": "09061871900",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "野澤友裕",
+      "name_kana": "ノザワトモヒロ",
+      "business_type": "⑱ 調味料製造・加工業",
+      "address": "島根県邑智郡川本町川下1298",
+      "lat": 34.97724,
+      "lng": 132.477673,
+      "geocoding_level": null,
+      "phone": "09061871900",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア邑智川本店",
+      "name_kana": "ウエルシアオオチカワモトテン",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "島根県邑智郡川本町因原564-1",
+      "lat": 34.964301,
+      "lng": 132.472018,
+      "geocoding_level": null,
+      "phone": "0855-72-3350",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア邑智川本店",
+      "name_kana": "ウエルシアオオチカワモトテン",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "島根県邑智郡川本町因原564-1",
+      "lat": 34.964301,
+      "lng": 132.472018,
+      "geocoding_level": null,
+      "phone": "0855-72-3350",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア邑智川本店",
+      "name_kana": "ウエルシアオオチカワモトテン",
+      "business_type": "③ 乳類販売業",
+      "address": "島根県邑智郡川本町因原564-1",
+      "lat": 34.964301,
+      "lng": 132.472018,
+      "geocoding_level": null,
+      "phone": "0855-72-3350",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア邑智川本店",
+      "name_kana": "ウエルシアオオチカワモトテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "島根県邑智郡川本町因原564-1",
+      "lat": 34.964301,
+      "lng": 132.472018,
+      "geocoding_level": null,
+      "phone": "0855-72-3350",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "COZY MUSIC OFFICE",
+      "name_kana": "コージーミュージックオフィス",
+      "business_type": "① 飲食店営業",
+      "address": "島根県邑智郡川本町川本555-4",
+      "lat": 34.994124,
+      "lng": 132.494107,
+      "geocoding_level": null,
+      "phone": "080-4018-4180",
+      "license_no": "060410005",
+      "license_date": "2024-04-24",
+      "expire_date": "2029-05-31"
+    },
+    {
+      "name": "Aコープかわもと",
+      "name_kana": "エーコープカワモト",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "島根県邑智郡川本町川本525-7",
+      "lat": 34.992639,
+      "lng": 132.494206,
+      "geocoding_level": null,
+      "phone": "0854-72-0322",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

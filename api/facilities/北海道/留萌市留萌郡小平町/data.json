@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "セブンイレブン留萌小平店",
+      "name_kana": "セブンイレブンルモイオビラテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "北海道留萌市留萌郡小平町字小平町328-2",
+      "lat": 44.015184,
+      "lng": 141.662735,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

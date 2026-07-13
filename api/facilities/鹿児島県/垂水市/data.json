@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "Ｔｓ垂水店",
+      "name_kana": "ティーズタレミズテン",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "鹿児島県垂水市上町34",
+      "lat": 31.494048,
+      "lng": 130.698704,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ジャパンファーム垂水　コーナー",
+      "name_kana": "ジャパンファームタレミズ　コーナー",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "鹿児島県垂水市市木5092",
+      "lat": 31.521024,
+      "lng": 130.77362,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "フェアフィールド・バイ・マリオット・鹿児島たるみず桜島",
+      "name_kana": "フェアフィールド・バイ・マリオット・カゴシマタルミズサクラジマ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "鹿児島県垂水市浜平2057-3",
+      "lat": 31.469434,
+      "lng": 130.697802,
+      "geocoding_level": null,
+      "phone": "0994-35-1625",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　廣八堂　鹿児島工場　第二加工場",
+      "name_kana": "カブシキガイシャ　ヒロハチドウ　カゴシマコウジョウ　ダイニカコウジョウ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "鹿児島県垂水市二川５５５の１",
+      "lat": 31.582563,
+      "lng": 130.784996,
+      "geocoding_level": null,
+      "phone": "0994362010",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　廣八堂　鹿児島工場   蕨工場",
+      "name_kana": "カブシキガイシャ　ヒロハチドウ　カゴシマコウジョウ　ワラビコウジョウ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "鹿児島県垂水市二川５５５の１",
+      "lat": 31.582563,
+      "lng": 130.784996,
+      "geocoding_level": null,
+      "phone": "0994362010",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　廣八堂　鹿児島工場　第一加工場",
+      "name_kana": "カブシキガイシャ　ヒロハチドウ　カゴシマコウジョウ　ダイイチカコウジョウ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "鹿児島県垂水市二川５５５の１",
+      "lat": 31.582563,
+      "lng": 130.784996,
+      "geocoding_level": null,
+      "phone": "0994362010",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグコスモス垂水店",
+      "name_kana": "ドラッグコスモスタルミズテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "鹿児島県垂水市本城3977-12",
+      "lat": 31.485113,
+      "lng": 130.69719,
+      "geocoding_level": null,
+      "phone": "0994-45-4404",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ホームプラザナフコ垂水店",
+      "name_kana": "ホームプラザナフコタルミズテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "鹿児島県垂水市潮彩町２丁目１番１",
+      "lat": 31.481614,
+      "lng": 130.693548,
+      "geocoding_level": null,
+      "phone": "0994-32-9271",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

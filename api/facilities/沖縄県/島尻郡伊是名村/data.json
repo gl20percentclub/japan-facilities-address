@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "沖縄県農業協同組合　伊是名支店　製糖工場",
+      "name_kana": "オキナワケンノウギョウキョウドウクミアイ　イゼナシテン　セイトウコウジョウ",
+      "business_type": "⑲ 糖類製造・加工業",
+      "address": "沖縄県島尻郡伊是名村勢理客3670番地の2",
+      "lat": 26.935827,
+      "lng": 127.928125,
+      "geocoding_level": null,
+      "phone": "0980-45-2908",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "特別養護老人ホームチヂン園",
+      "name_kana": "トクベツヨウゴロウジンホウムチヂンエン",
+      "business_type": "㉖ 集団給食施設",
+      "address": "沖縄県島尻郡伊是名村字仲田１６８７番地５１",
+      "lat": 26.922031,
+      "lng": 127.94351,
+      "geocoding_level": null,
+      "phone": "0980-45-2273",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "伊是名村立学校給食センター",
+      "name_kana": "イゼナソンリツガッコウキュウショクセンター",
+      "business_type": "㉖ 集団給食施設",
+      "address": "沖縄県島尻郡伊是名村仲田１１６２番地４",
+      "lat": 26.930406,
+      "lng": 127.942306,
+      "geocoding_level": null,
+      "phone": "0980-45-2703",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "一般社団法人いぜな島観光協会",
+      "name_kana": "イッパンシャダンホウジンイゼナジマカンコウキョウカイ",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "沖縄県島尻郡伊是名村字仲田177-7",
+      "lat": 26.929076,
+      "lng": 127.952427,
+      "geocoding_level": null,
+      "phone": "0980-45-2435",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

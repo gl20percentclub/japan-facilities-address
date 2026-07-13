@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "神戸屋　市ヶ谷店",
+      "name_kana": "コウベヤ　イチガヤテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "東京都千代田区五番町2　JR市ヶ谷駅構内（改札外）",
+      "lat": 35.691036,
+      "lng": 139.735584,
+      "geocoding_level": null,
+      "phone": "03-3230-4706",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

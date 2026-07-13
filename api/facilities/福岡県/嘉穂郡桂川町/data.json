@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "介護老人保健施設さくら園",
+      "name_kana": "カイゴロウジンホケンシセツサクラエン",
+      "business_type": "㉖ 集団給食施設",
+      "address": "福岡県嘉穂郡桂川町大字土居877番地の１",
+      "lat": 33.588834,
+      "lng": 130.673343,
+      "geocoding_level": null,
+      "phone": "0948-65-5550",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ダイナム福岡桂川店",
+      "name_kana": "ダイナムフクオカケイセンテン",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "福岡県嘉穂郡桂川町土居字彼岸田830番地2",
+      "lat": 33.583664,
+      "lng": 130.677821,
+      "geocoding_level": null,
+      "phone": "070-1455-5650",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "めん六や　福岡桂川店",
+      "name_kana": "メンロクヤ　フクオカケイセンテン",
+      "business_type": "① 飲食店営業",
+      "address": "福岡県嘉穂郡桂川町土居字彼岸田830番地2",
+      "lat": 33.583664,
+      "lng": 130.677821,
+      "geocoding_level": null,
+      "phone": "070-1455-5650",
+      "license_no": "06嘉鞍保第0011320号",
+      "license_date": "2025-03-28",
+      "expire_date": "2032-03-31"
+    },
+    {
+      "name": "医療法人信和会　嘉穂信和病院",
+      "name_kana": "イリョウホウジンシンワカイカホシンワビョウイン",
+      "business_type": "㉖ 集団給食施設",
+      "address": "福岡県嘉穂郡桂川町土師28番地 嘉穂信和病院",
+      "lat": 33.574031,
+      "lng": 130.698931,
+      "geocoding_level": null,
+      "phone": "0948622788",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "スーパーセンタートライアル桂川店",
+      "name_kana": "スーパーセンタートライアルケイセンテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福岡県嘉穂郡桂川町大字土居８１５－１",
+      "lat": 33.586036,
+      "lng": 130.676515,
+      "geocoding_level": null,
+      "phone": "094-820-2121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "スーパーセンタートライアル桂川店",
+      "name_kana": "スーパーセンタートライアルケイセンテン",
+      "business_type": "① 飲食店営業",
+      "address": "福岡県嘉穂郡桂川町土居８１５－１",
+      "lat": 33.585815,
+      "lng": 130.676632,
+      "geocoding_level": null,
+      "phone": "0948-20-2121",
+      "license_no": "07嘉鞍保第0011292号",
+      "license_date": "2026-03-13",
+      "expire_date": "2032-03-31"
+    },
+    {
+      "name": "スーパーセンタートライアル桂川店",
+      "name_kana": "スーパーセンタートライアルケイセンテン",
+      "business_type": "④ 魚介類販売業",
+      "address": "福岡県嘉穂郡桂川町土居８１５－１",
+      "lat": 33.585815,
+      "lng": 130.676632,
+      "geocoding_level": null,
+      "phone": "0948-20-2121",
+      "license_no": "07嘉鞍保第0011295号",
+      "license_date": "2026-03-13",
+      "expire_date": "2032-03-31"
+    },
+    {
+      "name": "スーパーセンタートライアル桂川店",
+      "name_kana": "スーパーセンタートライアルケイセンテン",
+      "business_type": "① 飲食店営業",
+      "address": "福岡県嘉穂郡桂川町土居８１５－１",
+      "lat": 33.585815,
+      "lng": 130.676632,
+      "geocoding_level": null,
+      "phone": "0948-20-2121",
+      "license_no": "07嘉鞍保第0011293号",
+      "license_date": "2026-03-13",
+      "expire_date": "2032-03-31"
+    },
+    {
+      "name": "スーパーセンタートライアル桂川店",
+      "name_kana": "スーパーセンタートライアルケイセンテン",
+      "business_type": "③ 食肉販売業",
+      "address": "福岡県嘉穂郡桂川町土居８１５－１",
+      "lat": 33.585815,
+      "lng": 130.676632,
+      "geocoding_level": null,
+      "phone": "0948-20-2121",
+      "license_no": "07嘉鞍保第0011294号",
+      "license_date": "2026-03-13",
+      "expire_date": "2032-03-31"
+    },
+    {
+      "name": "HilltopGarden 雅",
+      "name_kana": "ヒルトップガーデンミヤビ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "福岡県嘉穂郡桂川町大字土師1103-29",
+      "lat": 33.582686,
+      "lng": 130.69046,
+      "geocoding_level": null,
+      "phone": "0948-20-9001",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグコスモス桂川店",
+      "name_kana": "ドラッグコスモスケイセンテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福岡県嘉穂郡桂川町土居699-1",
+      "lat": 33.583071,
+      "lng": 130.677137,
+      "geocoding_level": null,
+      "phone": "0948-52-6656",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

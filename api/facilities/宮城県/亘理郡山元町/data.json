@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "薬王堂　山元SC店",
+      "name_kana": "ヤクオウドウ　ヤマモトエスシーテン",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "宮城県亘理郡山元町つばめの杜一丁目6番地",
+      "lat": 37.966803,
+      "lng": 140.888453,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　山元SC店",
+      "name_kana": "ヤクオウドウ　ヤマモトエスシーテン",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "宮城県亘理郡山元町つばめの杜一丁目6番地",
+      "lat": 37.966803,
+      "lng": 140.888453,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "はとまめ",
+      "name_kana": "ハトマメ",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "宮城県亘理郡山元町山寺字西牛橋38-45",
+      "lat": 37.992766,
+      "lng": 140.892175,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ファミリーマート宮城山元インター店",
+      "name_kana": "ファミリーマートミヤギヤマモトインターテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "宮城県亘理郡山元町小平北20－4",
+      "lat": 37.984071,
+      "lng": 140.869504,
+      "geocoding_level": null,
+      "phone": "0223-37-1302",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ローソン移動販売車",
+      "name_kana": "ローソンイドウハンバイシャ",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "宮城県亘理郡山元町山寺石田21-1",
+      "lat": 37.97106,
+      "lng": 140.874105,
+      "geocoding_level": null,
+      "phone": "0223-37-9820",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "結工房",
+      "name_kana": "ユイコウボウ",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "宮城県亘理郡山元町つばめの杜1-5-2",
+      "lat": 37.965458,
+      "lng": 140.887462,
+      "geocoding_level": null,
+      "phone": "0223-35-7430",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ツルハドラッグ宮城山元店",
+      "name_kana": "ツルハドラッグミヤギヤマモトテン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "宮城県亘理郡山元町山寺字石田45番１",
+      "lat": 37.972224,
+      "lng": 140.874413,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ツルハドラッグ宮城山元店",
+      "name_kana": "ツルハドラッグミヤギヤマモトテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "宮城県亘理郡山元町山寺字石田45番１",
+      "lat": 37.972224,
+      "lng": 140.874413,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ＤＣＭニコット山元店",
+      "name_kana": "ディーシーエムニコットヤマモトテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "宮城県亘理郡山元町山寺字桜木169番地1",
+      "lat": 37.967526,
+      "lng": 140.887226,
+      "geocoding_level": null,
+      "phone": "0223-37-2100",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン山元店",
+      "name_kana": "コメリハードアンドグリーンヤマモトテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "宮城県亘理郡山元町小平字北２０番地１",
+      "lat": 37.983798,
+      "lng": 140.868979,
+      "geocoding_level": null,
+      "phone": "0223-33-8677",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "つくし保育園",
+      "name_kana": "ツクシホイクエン",
+      "business_type": "㉖ 集団給食施設",
+      "address": "宮城県亘理郡山元町高瀬字合戦原100番地",
+      "lat": 37.94231,
+      "lng": 140.891872,
+      "geocoding_level": null,
+      "phone": "0223338515",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

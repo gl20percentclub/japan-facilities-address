@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "有限会社　まるしょう",
+      "name_kana": "ユウゲンガイシャマルショウ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "宮城県宮城郡松島町松島字垣ノ内１１番地の２",
+      "lat": 38.373164,
+      "lng": 141.065639,
+      "geocoding_level": null,
+      "phone": "0223542526",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "松島センチュリーホテル",
+      "name_kana": "マツシマセンチュリーホテル",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "宮城県宮城郡松島町松島字仙随８",
+      "lat": 38.370999,
+      "lng": 141.066198,
+      "geocoding_level": null,
+      "phone": "022-354-4111",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ホテル松島大観荘",
+      "name_kana": "ホテルマツシマダイカンソウ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "宮城県宮城郡松島町松島字犬田10-76",
+      "lat": 38.364078,
+      "lng": 141.056894,
+      "geocoding_level": null,
+      "phone": "022-354-2161",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "Aコープ松島店",
+      "name_kana": "マツシマテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "宮城県宮城郡松島町高城字町東二２０番地１２",
+      "lat": 38.381375,
+      "lng": 141.071067,
+      "geocoding_level": null,
+      "phone": "022-353-3222",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　宮城松島店",
+      "name_kana": "ヤクオウドウ　ミヤギマツシマテン",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "宮城県宮城郡松島町高城字帰命院下一18-1",
+      "lat": 38.380635,
+      "lng": 141.067398,
+      "geocoding_level": null,
+      "phone": "022-353-3551",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　宮城松島店",
+      "name_kana": "ヤクオウドウ　ミヤギマツシマテン",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "宮城県宮城郡松島町高城字帰命院下一18-1",
+      "lat": 38.380635,
+      "lng": 141.067398,
+      "geocoding_level": null,
+      "phone": "022-353-3551",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "おが太郎",
+      "name_kana": "オガタロウ",
+      "business_type": "⑰ 農産保存食料品製造・加工業",
+      "address": "宮城県宮城郡松島町松島松島町内９１",
+      "lat": 38.372265,
+      "lng": 141.060209,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "WB JR松島海岸駅",
+      "name_kana": "マツシマカイガンエキ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "宮城県宮城郡松島町松島字浪打浜１０",
+      "lat": 38.368556,
+      "lng": 141.059348,
+      "geocoding_level": null,
+      "phone": "022-355-1870",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "WB JR松島海岸駅",
+      "name_kana": "マツシマカイガンエキ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "宮城県宮城郡松島町松島字浪打浜１０",
+      "lat": 38.368556,
+      "lng": 141.059348,
+      "geocoding_level": null,
+      "phone": "022-355-1870",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "阿部蒲鉾店　松島寺町店",
+      "name_kana": "アベカマボコテン　マツシマテラマチテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "宮城県宮城郡松島町松島字町内58",
+      "lat": 38.371534,
+      "lng": 141.06081,
+      "geocoding_level": null,
+      "phone": "022-353-4277",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "C・S・A旅匠 みやげもの屋万之助",
+      "name_kana": "シーエスエータビノタクミ ミヤゲモノヤマンノスケ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "宮城県宮城郡松島町松島町内91松島青龍山瑞巌寺",
+      "lat": 38.371873,
+      "lng": 141.060389,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "Cafe2438",
+      "name_kana": "カフェニシザワ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "宮城県宮城郡松島町高城字町144",
+      "lat": 38.383823,
+      "lng": 141.070039,
+      "geocoding_level": null,
+      "phone": "0223542028",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "HOW松島病院店",
+      "name_kana": "ハウマツシマビョウインテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "宮城県宮城郡松島町高城字浜１－２６",
+      "lat": 38.377757,
+      "lng": 141.070264,
+      "geocoding_level": null,
+      "phone": "022-353-8733",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン松島店",
+      "name_kana": "コメリハードアンドグリーンマツシマテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "宮城県宮城郡松島町高城字動伝８－１",
+      "lat": 38.387364,
+      "lng": 141.070209,
+      "geocoding_level": null,
+      "phone": "022-355-1017",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

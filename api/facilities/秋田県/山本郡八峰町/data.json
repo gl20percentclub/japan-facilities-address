@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "薬王堂　秋田八峰店",
+      "name_kana": "ヤクオウドウ　アキタハッポウテン",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "秋田県山本郡八峰町八森湯の尻17番地1",
+      "lat": 40.336664,
+      "lng": 140.030091,
+      "geocoding_level": null,
+      "phone": "0185-74-5031",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　秋田八峰店",
+      "name_kana": "ヤクオウドウ　アキタハッポウテン",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "秋田県山本郡八峰町八森湯の尻17番地1",
+      "lat": 40.336664,
+      "lng": 140.030091,
+      "geocoding_level": null,
+      "phone": "0185-74-5031",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　秋田八峰店",
+      "name_kana": "ヤクオウドウ　アキタハッポウテン",
+      "business_type": "③ 乳類販売業",
+      "address": "秋田県山本郡八峰町八森湯の尻17番地1",
+      "lat": 40.336664,
+      "lng": 140.030091,
+      "geocoding_level": null,
+      "phone": "0185-74-5031",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "松波苑",
+      "name_kana": "マツナミエン",
+      "business_type": "③ 乳類販売業",
+      "address": "秋田県山本郡八峰町峰浜水沢字カッチキ台41-14",
+      "lat": 40.297357,
+      "lng": 140.02979,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "松波苑ディサービス",
+      "name_kana": "マツナミエンディサービス",
+      "business_type": "③ 乳類販売業",
+      "address": "秋田県山本郡八峰町峰浜水沢字カッチキ台41-14",
+      "lat": 40.297357,
+      "lng": 140.02979,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ＤＣＭニコット　八森店",
+      "name_kana": "ディーシーエムニコット　ハチモリテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "秋田県山本郡八峰町八森上家後７４－１",
+      "lat": 40.330659,
+      "lng": 140.031701,
+      "geocoding_level": null,
+      "phone": "0185-70-4500",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社PlusUltra",
+      "name_kana": "カブシキカイシャプラスウルトラ",
+      "business_type": "⑨ 通信販売・訪問販売による販売業",
+      "address": "秋田県山本郡八峰町一円",
+      "lat": 40.318718,
+      "lng": 140.038593,
+      "geocoding_level": null,
+      "phone": "0249-83-6620",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン峰浜店",
+      "name_kana": "コメリハードアンドグリーンミネハマテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "秋田県山本郡八峰町峰浜沼田字砂坂４番地１",
+      "lat": 40.278031,
+      "lng": 140.030531,
+      "geocoding_level": null,
+      "phone": "0185-70-3080",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

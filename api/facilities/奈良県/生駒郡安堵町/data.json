@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "三笠産業株式会社",
+      "name_kana": "ミカササンギョウカブシキガイシャ",
+      "business_type": "㉗ 器具、容器包装の製造・加工業（合成樹脂が使用された器具又は容器包装の製造、加工に限る。）",
+      "address": "奈良県生駒郡安堵町窪田1135番5",
+      "lat": 34.596036,
+      "lng": 135.764316,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コーナン安堵店",
+      "name_kana": "コーナンアンドテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "奈良県生駒郡安堵町岡崎316番地１",
+      "lat": 34.598697,
+      "lng": 135.761428,
+      "geocoding_level": null,
+      "phone": "0743-59-5320",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "クスリのアオキ安堵店",
+      "name_kana": "クスリノアオキアンドテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "奈良県生駒郡安堵町大字西安堵588番地の1",
+      "lat": 34.605931,
+      "lng": 135.75152,
+      "geocoding_level": null,
+      "phone": "0743-59-5001",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ファミリーマート東安堵店",
+      "name_kana": "ファミリーマートヒガシアンドテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "奈良県生駒郡安堵町東安堵863-1",
+      "lat": 34.606343,
+      "lng": 135.754671,
+      "geocoding_level": null,
+      "phone": "0743596201",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "奈良メタルプリント株式会社",
+      "name_kana": "ナラメタルプリントカブシキガイシャ",
+      "business_type": "㉗ 器具、容器包装の製造・加工業（合成樹脂が使用された器具又は容器包装の製造、加工に限る。）",
+      "address": "奈良県生駒郡安堵町西安堵４７４番地の１",
+      "lat": 34.603944,
+      "lng": 135.748063,
+      "geocoding_level": null,
+      "phone": "0743-57-3711",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "松田町社会福祉協議会",
+      "name_kana": "マツダマチシャカイフクシキョウギカイ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "神奈川県足柄上郡松田町松田惣領17-2",
+      "lat": 35.337966,
+      "lng": 139.137586,
+      "geocoding_level": null,
+      "phone": "0465-82-0294",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "小田急新松田駅下り",
+      "name_kana": "オダキュウシンマツダエキクダリ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "神奈川県足柄上郡松田町松田惣領1356",
+      "lat": 35.345122,
+      "lng": 139.140144,
+      "geocoding_level": null,
+      "phone": "0465-82-0074",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "小田急新松田駅上り",
+      "name_kana": "オダキュウシンマツダエキノボリ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "神奈川県足柄上郡松田町松田惣領1356",
+      "lat": 35.345122,
+      "lng": 139.140144,
+      "geocoding_level": null,
+      "phone": "0465-82-0074",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "セブン-イレブン小田急新松田店",
+      "name_kana": "セブンーイレブンオダキュウシンマツダテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "神奈川県足柄上郡松田町松田惣領1216-13",
+      "lat": 35.345423,
+      "lng": 139.139936,
+      "geocoding_level": null,
+      "phone": "0465-83-2118",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "セブン-イレブン小田急新松田店",
+      "name_kana": "セブンーイレブンオダキュウシンマツダテン",
+      "business_type": "① 飲食店営業",
+      "address": "神奈川県足柄上郡松田町松田惣領1216-13",
+      "lat": 35.345423,
+      "lng": 139.139936,
+      "geocoding_level": null,
+      "phone": "0465-83-2118",
+      "license_no": "第2025－001－9093号",
+      "license_date": "2026-01-19",
+      "expire_date": "2033-02-27"
+    },
+    {
+      "name": "ローソンＳ足柄上病院店",
+      "name_kana": "ローソンエスアシガラカミビョウインテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "神奈川県足柄上郡松田町松田惣領866-1",
+      "lat": 35.346193,
+      "lng": 139.1445,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "F･S SANかく",
+      "name_kana": "エフ・エス　サンカク",
+      "business_type": "① 飲食店営業",
+      "address": "神奈川県足柄上郡松田町寄５６２４－１",
+      "lat": 35.401951,
+      "lng": 139.132253,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "第2022ｰ001ｰ9117号",
+      "license_date": "2023-03-28",
+      "expire_date": "2029-03-27"
+    },
+    {
+      "name": "F･S SANかく",
+      "name_kana": "エフ・エス　サンカク",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "神奈川県足柄上郡松田町寄５６２４－１",
+      "lat": 35.401951,
+      "lng": 139.132253,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "東京電力パワーグリッド株式会社　松田事務所",
+      "name_kana": "トウキョウデンリョクパワーグリッドカブシキガイシャ　マツダジムショ",
+      "business_type": "① 飲食店営業",
+      "address": "神奈川県足柄上郡松田町松田惣領818",
+      "lat": 35.347315,
+      "lng": 139.145128,
+      "geocoding_level": null,
+      "phone": "0465873281",
+      "license_no": "第2025-001-9129号",
+      "license_date": "2026-03-06",
+      "expire_date": "2033-03-24"
+    },
+    {
+      "name": "ヒンジス地産品ショップ　寄スクオーラ",
+      "name_kana": "ヒンジスチサンピンショップ　ヤドリキスクオーラ",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "神奈川県足柄上郡松田町寄2549",
+      "lat": 35.395872,
+      "lng": 139.139877,
+      "geocoding_level": null,
+      "phone": "0465-20-8142",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ヒンジス地産品ショップ　寄スクオーラ",
+      "name_kana": "ヒンジスチサンピンショップ　ヤドリキスクオーラ",
+      "business_type": "⑨ 通信販売・訪問販売による販売業",
+      "address": "神奈川県足柄上郡松田町寄2549",
+      "lat": 35.395872,
+      "lng": 139.139877,
+      "geocoding_level": null,
+      "phone": "0465-20-8142",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "クリエイトS・D大井松田店",
+      "name_kana": "クリエイトエス・ディーオオイマツダテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "神奈川県足柄上郡松田町松田惣領1536",
+      "lat": 35.344674,
+      "lng": 139.135093,
+      "geocoding_level": null,
+      "phone": "0465-82-8410",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "社会福祉法人宝珠会　特別養護老人ホームレストフルヴィレッジ",
+      "name_kana": "シャカイフクシホウジンホウジュカイ　トクベツヨウゴロウジンホームレストフルヴィレッジ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "神奈川県足柄上郡松田町寄3090-1",
+      "lat": 35.399764,
+      "lng": 139.13723,
+      "geocoding_level": null,
+      "phone": "0465882910",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

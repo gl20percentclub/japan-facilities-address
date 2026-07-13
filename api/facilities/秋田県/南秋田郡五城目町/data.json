@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ダイナム秋田五城目店",
+      "name_kana": "ダイナムアキタゴジョウメテン",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "秋田県南秋田郡五城目町大川西野字堤ノ内14-1",
+      "lat": 39.935249,
+      "lng": 140.104956,
+      "geocoding_level": null,
+      "phone": "070-1455-8895",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　秋田五城目店",
+      "name_kana": "ヤクオウドウ　アキタゴジョウメテン",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "秋田県南秋田郡五城目町字七倉16番５",
+      "lat": 39.94458,
+      "lng": 140.109013,
+      "geocoding_level": null,
+      "phone": "018-874-7895",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　秋田五城目店",
+      "name_kana": "ヤクオウドウ　アキタゴジョウメテン",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "秋田県南秋田郡五城目町字七倉16番５",
+      "lat": 39.94458,
+      "lng": 140.109013,
+      "geocoding_level": null,
+      "phone": "018-874-7895",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　秋田五城目店",
+      "name_kana": "ヤクオウドウ　アキタゴジョウメテン",
+      "business_type": "③ 乳類販売業",
+      "address": "秋田県南秋田郡五城目町字七倉16番５",
+      "lat": 39.94458,
+      "lng": 140.109013,
+      "geocoding_level": null,
+      "phone": "018-874-7895",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ガスト 五城目店",
+      "name_kana": "ガストゴジョウメテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "秋田県南秋田郡五城目町上樋口字熊野堂５９－１",
+      "lat": 39.932696,
+      "lng": 140.111457,
+      "geocoding_level": null,
+      "phone": "018-879-8810",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "荒要商店",
+      "name_kana": "アラヨウショウテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "秋田県南秋田郡五城目町下タ町１７４",
+      "lat": 39.947699,
+      "lng": 140.120831,
+      "geocoding_level": null,
+      "phone": "0188522237",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

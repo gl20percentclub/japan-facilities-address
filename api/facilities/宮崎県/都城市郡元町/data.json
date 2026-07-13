@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ドラッグコスモス郡元店",
+      "name_kana": "ドラッグコスモスコオリモトテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "宮崎県都城市郡元町209",
+      "lat": 31.748498,
+      "lng": 131.095163,
+      "geocoding_level": null,
+      "phone": "0986-46-1885",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "WONDERFUL WORLD 珈琲",
+      "name_kana": "ワンダフルワールドコーヒー",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "宮崎県都城市郡元町3332-8 （県内一円）",
+      "lat": 31.741938,
+      "lng": 131.093511,
+      "geocoding_level": null,
+      "phone": "0986211141",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "WONDERFUL WORLD 珈琲",
+      "name_kana": "ワンダフルワールドコーヒー",
+      "business_type": "㉕ 行商",
+      "address": "宮崎県都城市郡元町3332-8 （県内一円）",
+      "lat": 31.741938,
+      "lng": 131.093511,
+      "geocoding_level": null,
+      "phone": "0986211141",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "喜多川",
+      "name_kana": "キタガワ",
+      "business_type": "㉕ そうざい製造業",
+      "address": "熊本県八代市郡築十一番町183",
+      "lat": 32.552031,
+      "lng": 130.576524,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "熊本県指令八保第食25-23号",
+      "license_date": "2023-11-14",
+      "expire_date": "2029-11-30"
+    }
+  ]
+}

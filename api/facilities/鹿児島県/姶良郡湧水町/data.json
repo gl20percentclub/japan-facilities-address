@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "HOWあいらの森ホスピタル売店",
+      "name_kana": "ハウアイラノモリホスピタルバイテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "鹿児島県姶良郡湧水町北方1854",
+      "lat": 31.958369,
+      "lng": 130.712747,
+      "geocoding_level": null,
+      "phone": "0995558133",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグコスモス栗野店",
+      "name_kana": "ドラッグコスモスクリノテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "鹿児島県姶良郡湧水町米永５８５－２",
+      "lat": 31.948446,
+      "lng": 130.715856,
+      "geocoding_level": null,
+      "phone": "0995-54-1688",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "湧水町総合交流センター",
+      "name_kana": "ユウスイチョウソウゴウコウリュウセンター",
+      "business_type": "③ 乳類販売業",
+      "address": "鹿児島県姶良郡湧水町米永411-1",
+      "lat": 31.950455,
+      "lng": 130.714956,
+      "geocoding_level": null,
+      "phone": "0995558960",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ダイレックス栗野店",
+      "name_kana": "ダイレックスクリノテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "鹿児島県姶良郡湧水町米永391-1",
+      "lat": 31.950083,
+      "lng": 130.715969,
+      "geocoding_level": null,
+      "phone": "0995-54-1711",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

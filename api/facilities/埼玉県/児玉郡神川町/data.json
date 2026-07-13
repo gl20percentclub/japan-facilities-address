@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "クスリのアオキ神川店",
+      "name_kana": "クスリノアオキカミカワテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "埼玉県児玉郡神川町大字元阿保907番地4",
+      "lat": 36.224272,
+      "lng": 139.110615,
+      "geocoding_level": null,
+      "phone": "0495-23-9171",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ジョイフーズ　神川店",
+      "name_kana": "ジョイフーズ　カミカワテン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "埼玉県児玉郡神川町植竹631",
+      "lat": 36.214,
+      "lng": 139.098198,
+      "geocoding_level": null,
+      "phone": "0495-77-5378",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ジョイフーズ神川店",
+      "name_kana": "ジョイフーズカミカワテン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "埼玉県児玉郡神川町植竹631",
+      "lat": 36.214,
+      "lng": 139.098198,
+      "geocoding_level": null,
+      "phone": "0495-77-5378",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ジョイフーズ神川店",
+      "name_kana": "ジョイフーズカミカワテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "埼玉県児玉郡神川町植竹631",
+      "lat": 36.214,
+      "lng": 139.098198,
+      "geocoding_level": null,
+      "phone": "0495-77-5378",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ハーヴィインターナショナル埼玉工場",
+      "name_kana": "カブシキガイシャハーヴィインターナショナルサイタマコウジョウ",
+      "business_type": "⑱ 調味料製造・加工業",
+      "address": "埼玉県児玉郡神川町中新里190-1",
+      "lat": 36.211987,
+      "lng": 139.094146,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "かんなの湯　男性脱衣場",
+      "name_kana": "カンナノユ　ダンセイダツイバ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "埼玉県児玉郡神川町小浜1341",
+      "lat": 36.20488,
+      "lng": 139.076774,
+      "geocoding_level": null,
+      "phone": "0495-77-5526",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "かんなの湯　女性脱衣場",
+      "name_kana": "カンナノユ　ジョセイダツイバ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "埼玉県児玉郡神川町小浜1341",
+      "lat": 36.20488,
+      "lng": 139.076774,
+      "geocoding_level": null,
+      "phone": "0495-77-5526",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ローソン神川元阿保",
+      "name_kana": "ローソンカミカワモトアボ",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "埼玉県児玉郡神川町元阿保８２７－１",
+      "lat": 36.224577,
+      "lng": 139.109839,
+      "geocoding_level": null,
+      "phone": "0495-74-0456",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "㈱ｱｺｰﾃﾞｨｱ・ｺﾞﾙﾌこだま神川ｶﾝﾄﾘｰｸﾗﾌﾞ",
+      "name_kana": "アコーディア",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "埼玉県児玉郡神川町大字渡瀬1492-1",
+      "lat": 36.171782,
+      "lng": 139.071688,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "日本のうえん",
+      "name_kana": "ニホンノウエン",
+      "business_type": "⑰ 農産保存食料品製造・加工業",
+      "address": "埼玉県児玉郡神川町原新田1-28",
+      "lat": 36.216519,
+      "lng": 139.113874,
+      "geocoding_level": null,
+      "phone": "09025681551",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン神川店",
+      "name_kana": "コメリハードアンドグリーンカミカワテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "埼玉県児玉郡神川町元阿保６６９－１",
+      "lat": 36.220845,
+      "lng": 139.103364,
+      "geocoding_level": null,
+      "phone": "0495-74-1070",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

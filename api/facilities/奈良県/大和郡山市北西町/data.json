@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "奈良中央三菱自動車販売株式会社　大和郡山店　ショールーム",
+      "name_kana": "ナラチュウオウミツビシジドウシャハンバイカブシキガイシャ　ヤマトコオリヤマテン　ショールーム",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "奈良県大和郡山市北西町123",
+      "lat": 34.619491,
+      "lng": 135.774348,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

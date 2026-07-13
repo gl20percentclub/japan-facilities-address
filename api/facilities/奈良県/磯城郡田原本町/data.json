@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ダイソー　スーパーセンターオークワ田原本",
+      "name_kana": "ダイソー　スーパーセンターオークワタワラモトテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "奈良県磯城郡田原本町十六面７１－１ スーパーセンターオークワ田原本店内",
+      "lat": 34.558402,
+      "lng": 135.777129,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "池木プラスチック株式会社",
+      "name_kana": "イケギプラスチックカブシキガイシャ",
+      "business_type": "㉗ 器具、容器包装の製造・加工業（合成樹脂が使用された器具又は容器包装の製造、加工に限る。）",
+      "address": "奈良県磯城郡田原本町富本165-5",
+      "lat": 34.560825,
+      "lng": 135.769467,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "スギドラッグ  田原本店",
+      "name_kana": "スギドラッグ  タワラモトテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "奈良県磯城郡田原本町阪手314番地の1",
+      "lat": 34.556973,
+      "lng": 135.797088,
+      "geocoding_level": null,
+      "phone": "0744-47-2650",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ﾜｰﾙﾄﾞﾌﾟﾗｽｼﾞﾑ田原本店　明治",
+      "name_kana": "ワールドプラスジムタワラホンテン　メイジ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "奈良県磯城郡田原本町阪手644-1",
+      "lat": 34.550682,
+      "lng": 135.797831,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "デリカフーズ（株）奈良事業所",
+      "name_kana": "デリカフーズ　カブ　ナラエイギョウショ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "奈良県磯城郡田原本町西竹田41-1",
+      "lat": 34.556631,
+      "lng": 135.773529,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　万代　田原本店",
+      "name_kana": "カブシキガイシャ　マンダイ　タワラモトテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "奈良県磯城郡田原本町薬王寺２６－１",
+      "lat": 34.550412,
+      "lng": 135.777736,
+      "geocoding_level": null,
+      "phone": "0744-32-0177",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "近鉄西田原本駅",
+      "name_kana": "キンテツニシタワラモトエキ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "奈良県磯城郡田原本町殿町２０２－２",
+      "lat": 35.473467,
+      "lng": 133.054036,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグコスモス田原本店",
+      "name_kana": "ドラッグコスモスタワラモトテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "奈良県磯城郡田原本町十六面22-1",
+      "lat": 34.553497,
+      "lng": 135.785191,
+      "geocoding_level": null,
+      "phone": "0744-34-6855",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "花太刀食品工業株式会社",
+      "name_kana": "ハナタチショクヒンコウギョウ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "奈良県磯城郡田原本町大字千代607番地の3",
+      "lat": 34.545672,
+      "lng": 135.800377,
+      "geocoding_level": null,
+      "phone": "0744332375",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "センコー株式会社",
+      "name_kana": "センコーカブシキカイシャ",
+      "business_type": "③ 乳類販売業",
+      "address": "奈良県磯城郡田原本町千代９４８",
+      "lat": 34.542378,
+      "lng": 135.809944,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "アサイー工房　奈良田原本店",
+      "name_kana": "アサイーコウボウ　ナラタワラモトテン",
+      "business_type": "① 飲食店営業",
+      "address": "奈良県磯城郡田原本町三笠10-8 松本ビル１F西",
+      "lat": 34.550162,
+      "lng": 135.790632,
+      "geocoding_level": null,
+      "phone": "0774470890",
+      "license_no": "第8250335号",
+      "license_date": "2025-07-24",
+      "expire_date": "2032-05-31"
+    },
+    {
+      "name": "コメリパワー田原本店",
+      "name_kana": "コメリパワータワラモトテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "奈良県磯城郡田原本町十六面１０２－１",
+      "lat": 34.559468,
+      "lng": 135.773796,
+      "geocoding_level": null,
+      "phone": "0744-34-1130",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "伊勢崎富次朗商店",
+      "name_kana": "イセザキトミジロウショウテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "東京都八丈島八丈町樫立１８６",
+      "lat": 33.070216,
+      "lng": 139.798536,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "むかしのとみじろう",
+      "name_kana": "ムカシノトミジロウ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "東京都八丈島八丈町樫立２０８４",
+      "lat": 33.070597,
+      "lng": 139.798624,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "むかいのとみじろう",
+      "name_kana": "ムカイノトミジロウ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "東京都八丈島八丈町樫立2083",
+      "lat": 33.077462,
+      "lng": 139.798442,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "東京島しょ農業協同組合坂上店",
+      "name_kana": "トウキョウトウショノウギョウキョウドウクミアイサカウエテン",
+      "business_type": "③ 乳類販売業",
+      "address": "東京都八丈島八丈町中之郷2616-1",
+      "lat": 33.066046,
+      "lng": 139.813901,
+      "geocoding_level": null,
+      "phone": "04996-7-0020",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "東京島しょ農業協同組合坂上店",
+      "name_kana": "トウキョウトウショノウギョウキョウドウクミアイサカウエテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "東京都八丈島八丈町中之郷2616-1",
+      "lat": 33.066046,
+      "lng": 139.813901,
+      "geocoding_level": null,
+      "phone": "04996-7-0020",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "東京島しょ農業協同組合三根店",
+      "name_kana": "トウキョウトウショノウギョウキョウドウクミアイミツネテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "東京都八丈島八丈町三根1767-2",
+      "lat": 33.117636,
+      "lng": 139.802912,
+      "geocoding_level": null,
+      "phone": "04996-2-0263",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "東京島しょ農業協同組合大賀郷店",
+      "name_kana": "トウキョウシマショノウギョウキョウドウクミアイオオカゴウテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "東京都八丈島八丈町大賀郷1",
+      "lat": 35.689568,
+      "lng": 139.691717,
+      "geocoding_level": 1,
+      "phone": "04996-2-1225",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "東京島しょ農業協同組合　あしたば加工工場",
+      "name_kana": "トウキョウトウショノウギョウキョウドウクミアイアシタバカコウコウジョウ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "東京都八丈島八丈町大賀郷1536",
+      "lat": 33.109552,
+      "lng": 139.791813,
+      "geocoding_level": null,
+      "phone": "04996-2-1223",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "八丈エアポート逸品会",
+      "name_kana": "ハチジョウエアポートイッピンカイ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "東京都八丈島八丈町大賀郷2839-2 八丈島空港ターミナルビル内",
+      "lat": 33.116488,
+      "lng": 139.782885,
+      "geocoding_level": null,
+      "phone": "0499620654",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社あしたば加工工場",
+      "name_kana": "ユウゲンガイシャアシタバカコウコウジョウ",
+      "business_type": "⑰ 農産保存食料品製造・加工業",
+      "address": "東京都八丈島八丈町大賀郷7488-6",
+      "lat": 33.110133,
+      "lng": 139.76399,
+      "geocoding_level": null,
+      "phone": "0499623181",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社あしたば加工工場（仮作業所）",
+      "name_kana": "ユウゲンガイシャアシタバカコウコウジョウカリジサギョウショ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "東京都八丈島八丈町三根4205 八丈島水産加工業協同組合　気付　2階",
+      "lat": 33.129267,
+      "lng": 139.804695,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社あしたば加工工場（仮加工場1）",
+      "name_kana": "ユウゲンガイシャアシタバカコウコウジョウカリカコウジョウイチ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "東京都八丈島八丈町大賀郷737-2 合同会社百寶堂カネワ水産　別棟",
+      "lat": 35.689568,
+      "lng": 139.691717,
+      "geocoding_level": 1,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社あしたば加工工場（仮作業所／仮加工所）",
+      "name_kana": "ユウゲンガイシャアシタバカコウコウジョウカリ",
+      "business_type": "⑰ 農産保存食料品製造・加工業",
+      "address": "東京都八丈島八丈町三根5557 あしたば加工工場復興サテライト　結ノ葉",
+      "lat": 35.689568,
+      "lng": 139.691717,
+      "geocoding_level": 1,
+      "phone": "04996-2-3181",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "八丈島ばたけ",
+      "name_kana": "ハチジョウジマバタケ",
+      "business_type": "⑱ 調味料製造・加工業",
+      "address": "東京都八丈島八丈町大賀郷２４１３",
+      "lat": 33.107467,
+      "lng": 139.787311,
+      "geocoding_level": null,
+      "phone": "0499623633",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "セイチョースパイスマーケット（都立青鳥特別支援学校八丈分教室）",
+      "name_kana": "セイチョースパイスマーケットトリツセイチョウトクベツシエンガッコウハチジョウブンキョウシツ",
+      "business_type": "⑱ 調味料製造・加工業",
+      "address": "東京都八丈島八丈町大賀郷3020",
+      "lat": 33.107464,
+      "lng": 139.779705,
+      "geocoding_level": null,
+      "phone": "04996-2-1245",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

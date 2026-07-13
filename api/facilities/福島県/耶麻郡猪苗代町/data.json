@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "株式会社ヨークベニマル猪苗代店",
+      "name_kana": "カブシキガイシャヨークベニマルイナワシロテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県耶麻郡猪苗代町梨木西92番地",
+      "lat": 37.557257,
+      "lng": 140.111198,
+      "geocoding_level": null,
+      "phone": "0242-62-4911",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ホテルプルミエール箕輪",
+      "name_kana": "ホテルプルミエールミノワ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県耶麻郡猪苗代町大字若宮字吾妻山国有林194林班",
+      "lat": 37.733333,
+      "lng": 140.2,
+      "geocoding_level": null,
+      "phone": "0120-64-3320",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "グラントマト猪苗代店",
+      "name_kana": "グラントマトイナワシロテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県耶麻郡猪苗代町梨木西78番地",
+      "lat": 37.558279,
+      "lng": 140.112186,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "デニーズ猪苗代インター店",
+      "name_kana": "デニーズイナワシロインターテン",
+      "business_type": "① 飲食店営業",
+      "address": "福島県耶麻郡猪苗代町千代田字大場作354",
+      "lat": 37.549474,
+      "lng": 140.112747,
+      "geocoding_level": null,
+      "phone": "080-3459-2785",
+      "license_no": "福島県指令会保第2-533号",
+      "license_date": "2022-09-28",
+      "expire_date": "2029-09-30"
+    },
+    {
+      "name": "デニーズ猪苗代インター店",
+      "name_kana": "デニーズイナワシロインターテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県耶麻郡猪苗代町千代田字大場作354",
+      "lat": 37.549474,
+      "lng": 140.112747,
+      "geocoding_level": null,
+      "phone": "080-3459-2785",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "磐梯高原柏屋",
+      "name_kana": "バンダイコウゲンカシワヤ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県耶麻郡猪苗代町梨木西５３－１",
+      "lat": 37.557789,
+      "lng": 140.112701,
+      "geocoding_level": null,
+      "phone": "0242630175",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ツルハドラッグ猪苗代店",
+      "name_kana": "ツルハドラッグイナワシロテン",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "福島県耶麻郡猪苗代町梨木西10番地1",
+      "lat": 37.5582,
+      "lng": 140.112059,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "幸楽苑　猪苗代店",
+      "name_kana": "コウラクエン　イナワシロテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "福島県耶麻郡猪苗代町大字千代田字打越60-4",
+      "lat": 37.548304,
+      "lng": 140.112474,
+      "geocoding_level": null,
+      "phone": "0242-72-0902",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン猪苗代店",
+      "name_kana": "コメリハードアンドグリーンイナワシロテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "福島県耶麻郡猪苗代町大字堅田字門上１１７９",
+      "lat": 37.536092,
+      "lng": 140.103971,
+      "geocoding_level": null,
+      "phone": "0242-72-1023",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

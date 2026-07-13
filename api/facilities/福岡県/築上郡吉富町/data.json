@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "マルミヤストア吉富店　清流物語",
+      "name_kana": "マルミヤストアヨシトミテン　セイリュウモノガタリ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福岡県築上郡吉富町大字今吉20番地3",
+      "lat": 33.601852,
+      "lng": 131.170368,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "マルミヤストア吉富店",
+      "name_kana": "マルミヤストアヨシトミテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福岡県築上郡吉富町大字今吉20番地3",
+      "lat": 33.601852,
+      "lng": 131.170368,
+      "geocoding_level": null,
+      "phone": "0979-64-6676",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "昭和保育園",
+      "name_kana": "ショウワホイクエン",
+      "business_type": "㉖ 集団給食施設",
+      "address": "福岡県築上郡吉富町小犬丸575-1",
+      "lat": 33.611871,
+      "lng": 131.177077,
+      "geocoding_level": null,
+      "phone": "0979242564",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグコスモス吉富店",
+      "name_kana": "ドラッグコスモスヨシトミテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福岡県築上郡吉富町広津737-1",
+      "lat": 33.603946,
+      "lng": 131.169462,
+      "geocoding_level": null,
+      "phone": "0979-85-0557",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　ツクローネ吉富",
+      "name_kana": "カブシキカイシャ　ツクローネヨシトミ",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "福岡県築上郡吉富町大字広津",
+      "lat": 33.605627,
+      "lng": 131.174091,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

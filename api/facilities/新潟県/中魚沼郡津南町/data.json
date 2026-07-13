@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "越後雪椿産業株式会社",
+      "name_kana": "エチゴユキツバキサンギョウカブシキガイシャ",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "新潟県中魚沼郡津南町下船渡丁216-9",
+      "lat": 37.022478,
+      "lng": 138.658575,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "越後雪椿産業株式会社",
+      "name_kana": "エチゴユキツバキサンギョウカブシキガイシャ",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "新潟県中魚沼郡津南町下船渡丁216-9",
+      "lat": 37.022478,
+      "lng": 138.658575,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグセイムス津南卯之木店",
+      "name_kana": "ドラッグセイムスツナンウノキテン",
+      "business_type": "③ 乳類販売業",
+      "address": "新潟県中魚沼郡津南町下船渡甲1646",
+      "lat": 37.03765,
+      "lng": 138.673544,
+      "geocoding_level": null,
+      "phone": "025-755-5987",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグセイムス津南卯之木店",
+      "name_kana": "ドラッグセイムスツナンウノキテン",
+      "business_type": "⑥ 弁当販売業",
+      "address": "新潟県中魚沼郡津南町下船渡甲1646",
+      "lat": 37.03765,
+      "lng": 138.673544,
+      "geocoding_level": null,
+      "phone": "025-755-5987",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグセイムス津南卯之木店",
+      "name_kana": "ドラッグセイムスツナンウノキテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "新潟県中魚沼郡津南町下船渡甲1646",
+      "lat": 37.03765,
+      "lng": 138.673544,
+      "geocoding_level": null,
+      "phone": "025-755-5987",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグセイムス津南店",
+      "name_kana": "ドラッグセイムスツナンテン",
+      "business_type": "③ 乳類販売業",
+      "address": "新潟県中魚沼郡津南町下船渡6300-1",
+      "lat": 37.016982,
+      "lng": 138.680979,
+      "geocoding_level": null,
+      "phone": "025-761-4000",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグセイムス津南店",
+      "name_kana": "ドラッグセイムスツナンテン",
+      "business_type": "⑥ 弁当販売業",
+      "address": "新潟県中魚沼郡津南町下船渡6300-1",
+      "lat": 37.016982,
+      "lng": 138.680979,
+      "geocoding_level": null,
+      "phone": "025-761-4000",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグセイムス津南店",
+      "name_kana": "ドラッグセイムスツナンテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "新潟県中魚沼郡津南町下船渡6300-1",
+      "lat": 37.016982,
+      "lng": 138.680979,
+      "geocoding_level": null,
+      "phone": "025-761-4000",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "グリーンピア津南７Ｆ浴室わき",
+      "name_kana": "グリーンピアツナンナナカイヨクシツワキ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "新潟県中魚沼郡津南町秋成１２３００",
+      "lat": 36.961258,
+      "lng": 138.687017,
+      "geocoding_level": null,
+      "phone": "025-765-4618",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ニュー・グリーンピア津南売店",
+      "name_kana": "ニュー・グリーンピアツナンバイテン",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "新潟県中魚沼郡津南町秋成12300",
+      "lat": 36.962082,
+      "lng": 138.687711,
+      "geocoding_level": null,
+      "phone": "0257654611",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "サンバード・コトブキヤ",
+      "name_kana": "サンバード・コトブキヤ",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "新潟県中魚沼郡津南町下船渡戊４４６番地",
+      "lat": 37.012753,
+      "lng": 138.649434,
+      "geocoding_level": null,
+      "phone": "0257652109",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン津南店",
+      "name_kana": "コメリハードアンドグリーツナンテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "新潟県中魚沼郡津南町大字下船渡１１３９",
+      "lat": 37.016982,
+      "lng": 138.680979,
+      "geocoding_level": null,
+      "phone": "025-761-4028",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

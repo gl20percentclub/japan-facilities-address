@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ASEBI coffee",
+      "name_kana": "アセビコーヒー",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "09039829376",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "光るとき",
+      "name_kana": "ヒカルトキ",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "牛宮城キッチンカー",
+      "name_kana": "ギュウグウジョウキッチンカー",
+      "business_type": "① 飲食店営業",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "指令館福環ー３６－４７",
+      "license_date": "2023-07-27",
+      "expire_date": "2029-05-31"
+    },
+    {
+      "name": "佐藤産業株式会社　秋田工場",
+      "name_kana": "サトウサンギョウカブシキガイシャ　アキタコウジョウ",
+      "business_type": "㉗ 器具、容器包装の製造・加工業（合成樹脂が使用された器具又は容器包装の製造、加工に限る。）",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ゴールドコンサルティング",
+      "name_kana": "カブシキガイシャゴールドコンサルティング",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "0188530358",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "焙煎工房883",
+      "name_kana": "バイセンコウボウハチハチサン",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "CROP",
+      "name_kana": "クロップ",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "三協フロンティア（株）秋田店",
+      "name_kana": "サンキョウフロンティア　アキタテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "EMI FILM CREATION",
+      "name_kana": "エミフィルムクリエイション",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "アルチ珈琲工房",
+      "name_kana": "アルチコーヒーコウボウ",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "無印良品秋田山王",
+      "name_kana": "ムジルシリョウヒンアキタサンノウ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "018-853-9631",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "森ノひとしずく",
+      "name_kana": "モリノヒトシズク",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "山陰ヤクルト販売株式会社　ひのセンター",
+      "name_kana": "サンインヤクルトハンバイカブシキガイシャ　ヒノセンター",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "鳥取県日野郡日野町根雨角田170-1",
+      "lat": 35.241958,
+      "lng": 133.441278,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社優栽",
+      "name_kana": "カブシキガイシャユウサイ",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "鳥取県日野郡日野町黒坂1566番地10",
+      "lat": 35.206431,
+      "lng": 133.384097,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "もう言葉がでません　金持テラスひの店",
+      "name_kana": "モウコトバガデマセン　カモチテラスヒノテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "鳥取県日野郡日野町根雨170-1",
+      "lat": 35.241787,
+      "lng": 133.441235,
+      "geocoding_level": null,
+      "phone": "0859-70-1958",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "丸合　根雨店",
+      "name_kana": "マルゴウ　ネウテン",
+      "business_type": "① 飲食店営業",
+      "address": "鳥取県日野郡日野町根雨１６７－１",
+      "lat": 35.242252,
+      "lng": 133.441297,
+      "geocoding_level": null,
+      "phone": "0859-72-1515",
+      "license_no": "２０２４２０３０９",
+      "license_date": "2024-08-26",
+      "expire_date": "2030-08-31"
+    },
+    {
+      "name": "丸合　根雨店",
+      "name_kana": "マルゴウ　ネウテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "鳥取県日野郡日野町根雨１６７－１",
+      "lat": 35.242252,
+      "lng": 133.441297,
+      "geocoding_level": null,
+      "phone": "0859-72-1515",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "丸合　根雨店",
+      "name_kana": "マルゴウ　ネウテン",
+      "business_type": "④ 魚介類販売業",
+      "address": "鳥取県日野郡日野町根雨１６７－１",
+      "lat": 35.242252,
+      "lng": 133.441297,
+      "geocoding_level": null,
+      "phone": "0859-72-1515",
+      "license_no": "045041",
+      "license_date": "2022-09-01",
+      "expire_date": "2028-08-31"
+    },
+    {
+      "name": "特別養護老人ホームあいご",
+      "name_kana": "トクベツヨウゴロウジンホームアイゴ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "鳥取県日野郡日野町根雨730番地",
+      "lat": 35.235815,
+      "lng": 133.440676,
+      "geocoding_level": null,
+      "phone": "0859770777",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "デイサービスかじか荘",
+      "name_kana": "デイサービスカジカソウ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "鳥取県日野郡日野町根雨899番地1",
+      "lat": 35.234521,
+      "lng": 133.440217,
+      "geocoding_level": null,
+      "phone": "0859721294",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "日野町特産品ブランド化実行委員会(まめなか屋)",
+      "name_kana": "ヒノチョウトクサンヒンブランドカジッコウイインカイ　マメナカヤ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "鳥取県日野郡日野町根雨170番地1",
+      "lat": 35.241787,
+      "lng": 133.441235,
+      "geocoding_level": null,
+      "phone": "0859701730",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "日野町特産品ブランド化実行委員会(まめなか屋)",
+      "name_kana": "ヒノチョウトクサンヒンブランドカジッコウイインカイ　マメナカヤ",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "鳥取県日野郡日野町根雨170番地1",
+      "lat": 35.241787,
+      "lng": 133.441235,
+      "geocoding_level": null,
+      "phone": "0859701730",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "日野町特産品ブランド化実行委員会(まめなか屋)",
+      "name_kana": "ヒノチョウトクサンヒンブランドカジッコウイインカイ　マメナカヤ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "鳥取県日野郡日野町根雨170番地1",
+      "lat": 35.241787,
+      "lng": 133.441235,
+      "geocoding_level": null,
+      "phone": "0859701730",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "介護老人保健施設おしどり荘",
+      "name_kana": "カイゴロウジンホケンシセツオシドリソウ",
+      "business_type": "㉖ 集団給食施設",
+      "address": "鳥取県日野郡日野町根雨909-1",
+      "lat": 35.233925,
+      "lng": 133.440112,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "日野町観光物産館　金持神社札所（売店）",
+      "name_kana": "ヒノチョウカンコウブッサンカン　カモチジンジャフダショ　バイテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "鳥取県日野郡日野町金持1490-1",
+      "lat": 35.216784,
+      "lng": 133.454757,
+      "geocoding_level": null,
+      "phone": "0859720481",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ぺんぎん堂",
+      "name_kana": "ペンギンドウ",
+      "business_type": "① 飲食店営業",
+      "address": "鳥取県日野郡日野町上菅1132-5",
+      "lat": 35.187374,
+      "lng": 133.327331,
+      "geocoding_level": null,
+      "phone": "07040729729",
+      "license_no": "015794",
+      "license_date": "2022-12-14",
+      "expire_date": "2029-08-31"
+    },
+    {
+      "name": "コメリハードアンドグリーン日野根雨店",
+      "name_kana": "コメリハードアンドグリーンヒノネウテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "鳥取県日野郡日野町根雨１９５番６",
+      "lat": 35.241645,
+      "lng": 133.440691,
+      "geocoding_level": null,
+      "phone": "0859-77-0710",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

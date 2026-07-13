@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ザグザグ相生栄町店",
+      "name_kana": "ザグザグアイオイサカエマチテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "兵庫県相生市栄町10番41号",
+      "lat": 34.816029,
+      "lng": 134.470833,
+      "geocoding_level": null,
+      "phone": "0791-22-2539",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "深山農園株式会社",
+      "name_kana": "フカヤマノウエンカブシキガイシャ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "兵庫県相生市矢野町小河854",
+      "lat": 34.873191,
+      "lng": 134.433066,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "深山農園株式会社",
+      "name_kana": "フカヤマノウエンカブシキガイシャ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "兵庫県相生市矢野町上土井705",
+      "lat": 34.855725,
+      "lng": 134.420539,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "田口食品株式会社　相生デザート工場",
+      "name_kana": "タグチショクヒンカブシキガイシャ　アイオイデザートコウジョウ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "兵庫県相生市陸東汐見塚10-5",
+      "lat": 34.824987,
+      "lng": 134.484466,
+      "geocoding_level": null,
+      "phone": "0791225515",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ＪＲ相生駅",
+      "name_kana": "ジェイアールアイオイエキ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "兵庫県相生市本郷町１",
+      "lat": 34.817158,
+      "lng": 134.474212,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア相生赤坂店",
+      "name_kana": "ウエルシアアイオイアカサカテン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "兵庫県相生市赤坂3番5号",
+      "lat": 34.815063,
+      "lng": 134.486,
+      "geocoding_level": null,
+      "phone": "0791-24-3170",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア相生赤坂店",
+      "name_kana": "ウエルシアアイオイアカサカテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "兵庫県相生市赤坂3番5号",
+      "lat": 34.815063,
+      "lng": 134.486,
+      "geocoding_level": null,
+      "phone": "0791-24-3170",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドラッグコスモス相生店",
+      "name_kana": "ドラッグコスモスアイオイテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "兵庫県相生市大島町2-27",
+      "lat": 34.806905,
+      "lng": 134.468676,
+      "geocoding_level": null,
+      "phone": "0791-24-3500",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "エム・オー・エー商事　相生店",
+      "name_kana": "エムオーエーショウジ　アイオイテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "兵庫県相生市大島町1-7",
+      "lat": 34.80535,
+      "lng": 134.468004,
+      "geocoding_level": null,
+      "phone": "0791231820",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "すき家　相生垣内店",
+      "name_kana": "スキヤ　アイオイカキウチテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "兵庫県相生市垣内町1310-7",
+      "lat": 34.813279,
+      "lng": 134.475469,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア相生旭店",
+      "name_kana": "ウエルシアアイオイアサヒテン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "兵庫県相生市旭三丁目4番5号",
+      "lat": 34.805714,
+      "lng": 134.468654,
+      "geocoding_level": null,
+      "phone": "0791-24-0010",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア相生旭店",
+      "name_kana": "ウエルシアアイオイアサヒテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "兵庫県相生市旭三丁目4番5号",
+      "lat": 34.805714,
+      "lng": 134.468654,
+      "geocoding_level": null,
+      "phone": "0791-24-0010",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "DCM相生店",
+      "name_kana": "ディーシーエムアイオイテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "兵庫県相生市那波南本町７－２２",
+      "lat": 34.806816,
+      "lng": 134.461454,
+      "geocoding_level": null,
+      "phone": "0791-24-3031",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "燦々珈琲店",
+      "name_kana": "サンサンコーヒーテン",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "兵庫県相生市赤坂2-4-5",
+      "lat": 34.815619,
+      "lng": 134.486853,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

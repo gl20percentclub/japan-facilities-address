@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ドラッグセイムス熊野有馬店",
+      "name_kana": "ドラッグセイムスクマノアリマテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "三重県熊野市有馬町松原５００９",
+      "lat": 33.886447,
+      "lng": 136.098062,
+      "geocoding_level": null,
+      "phone": "0597-88-2521",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "イオン熊野店",
+      "name_kana": "イオンクマノテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "三重県熊野市井戸町井土353-1",
+      "lat": 33.888519,
+      "lng": 136.100226,
+      "geocoding_level": null,
+      "phone": "0597-89-5111",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "イオン熊野店",
+      "name_kana": "イオンクマノテン",
+      "business_type": "④ 魚介類販売業",
+      "address": "三重県熊野市井戸町353-1",
+      "lat": 33.886781,
+      "lng": 136.095453,
+      "geocoding_level": null,
+      "phone": "0597-89-5111",
+      "license_no": "熊2104-0012",
+      "license_date": "2022-01-25",
+      "expire_date": "2028-02-29"
+    },
+    {
+      "name": "イオン熊野店",
+      "name_kana": "イオンクマノテン",
+      "business_type": "③ 食肉販売業",
+      "address": "三重県熊野市井戸町353-1",
+      "lat": 33.886781,
+      "lng": 136.095453,
+      "geocoding_level": null,
+      "phone": "0597-89-5111",
+      "license_no": "熊2103-0003",
+      "license_date": "2022-01-25",
+      "expire_date": "2028-02-29"
+    },
+    {
+      "name": "イオン熊野店",
+      "name_kana": "イオンクマノテン",
+      "business_type": "① 飲食店営業",
+      "address": "三重県熊野市井戸町353-1",
+      "lat": 33.886781,
+      "lng": 136.095453,
+      "geocoding_level": null,
+      "phone": "0597-89-5111",
+      "license_no": "熊2101-0096",
+      "license_date": "2022-01-25",
+      "expire_date": "2028-02-29"
+    },
+    {
+      "name": "イオン熊野店",
+      "name_kana": "イオンクマノテン",
+      "business_type": "① 飲食店営業",
+      "address": "三重県熊野市井戸町353-1",
+      "lat": 33.886781,
+      "lng": 136.095453,
+      "geocoding_level": null,
+      "phone": "0597-89-5111",
+      "license_no": "熊2101-0095",
+      "license_date": "2022-01-25",
+      "expire_date": "2028-02-29"
+    },
+    {
+      "name": "DCM熊野店",
+      "name_kana": "ディーシーエムクマノテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "三重県熊野市有馬町松原５１０６",
+      "lat": 33.886447,
+      "lng": 136.098062,
+      "geocoding_level": null,
+      "phone": "0597-89-4649",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "HOW熊野病院売店",
+      "name_kana": "ハウクマノビョウインバイテン",
+      "business_type": "③ 乳類販売業",
+      "address": "三重県熊野市久生屋町868番地 熊野病院",
+      "lat": 33.865277,
+      "lng": 136.075021,
+      "geocoding_level": null,
+      "phone": "0597897807",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "にじいろ",
+      "name_kana": "ニジイロ",
+      "business_type": "⑥ 弁当販売業",
+      "address": "三重県熊野市井戸町220-3",
+      "lat": 33.890212,
+      "lng": 136.09042,
+      "geocoding_level": null,
+      "phone": "0597-70-1131",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "にじいろ",
+      "name_kana": "ニジイロ",
+      "business_type": "⑳ 精穀・製粉業",
+      "address": "三重県熊野市井戸町220-3",
+      "lat": 33.890212,
+      "lng": 136.09042,
+      "geocoding_level": null,
+      "phone": "0597-70-1131",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン熊野店",
+      "name_kana": "コメリハードアンドグリーンクマノテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "三重県熊野市有馬町１５７５番地",
+      "lat": 33.874678,
+      "lng": 136.076517,
+      "geocoding_level": null,
+      "phone": "0597-89-6255",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

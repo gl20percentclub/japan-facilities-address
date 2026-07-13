@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "Yショップひらた中央病院店",
+      "name_kana": "ワイショップヒラタチュウオウビョウインテン",
+      "business_type": "⑩ コンビニエンスストア",
+      "address": "福島県石川郡平田村上蓬田字清水内４",
+      "lat": 37.383985,
+      "lng": 140.32464,
+      "geocoding_level": null,
+      "phone": "0247-57-6765",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "三進金属工業株式会社　福島工場",
+      "name_kana": "サンシンコウギョウカブシキガイシャ　フクシマコウジョウ",
+      "business_type": "⑥ 弁当販売業",
+      "address": "福島県石川郡平田村西山字煙石101",
+      "lat": 37.211703,
+      "lng": 140.532803,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "コメリハードアンドグリーン平田よもぎだ店",
+      "name_kana": "コメリハードアンドグリーンヒラタヨモギダテン",
+      "business_type": "⑧ 米穀類販売業",
+      "address": "福島県石川郡平田村大字上蓬田字銭神前４４",
+      "lat": 37.236694,
+      "lng": 140.570248,
+      "geocoding_level": null,
+      "phone": "0247-25-1008",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

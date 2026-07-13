@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "薬王堂　福島中島店",
+      "name_kana": "ヤクオウドウ　フクシマナカジマテン",
+      "business_type": "① 魚介類販売業（包装済みの魚介類のみの販売）",
+      "address": "福島県西白河郡中島村二子塚字山神山13番1",
+      "lat": 37.142255,
+      "lng": 140.350099,
+      "geocoding_level": null,
+      "phone": "0248-29-8533",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　福島中島店",
+      "name_kana": "ヤクオウドウ　フクシマナカジマテン",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "福島県西白河郡中島村二子塚字山神山13番1",
+      "lat": 37.142255,
+      "lng": 140.350099,
+      "geocoding_level": null,
+      "phone": "0248-29-8533",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "薬王堂　福島中島店",
+      "name_kana": "ヤクオウドウ　フクシマナカジマテン",
+      "business_type": "③ 乳類販売業",
+      "address": "福島県西白河郡中島村二子塚字山神山13番1",
+      "lat": 37.142255,
+      "lng": 140.350099,
+      "geocoding_level": null,
+      "phone": "0248-29-8533",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "童里夢公園わんぱく広場",
+      "name_kana": "ワラベサトユメコウエンワンパクヒロバ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県西白河郡中島村滑津字中ツ島",
+      "lat": 37.144924,
+      "lng": 140.351247,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "童里夢公園なかじまモニュメント広場",
+      "name_kana": "ドリームコウエンナカジマモニュメントヒロバ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県西白河郡中島村滑津字中ツ島３３－１",
+      "lat": 37.147456,
+      "lng": 140.354237,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア西白河中島店",
+      "name_kana": "ウエルシアニシシラカワナカジマテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "福島県西白河郡中島村二子塚字浦山32-16",
+      "lat": 37.144193,
+      "lng": 140.3488,
+      "geocoding_level": null,
+      "phone": "0248-51-1501",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ウエルシア西白河中島店",
+      "name_kana": "ウエルシアニシシラカワナカジマテン",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福島県西白河郡中島村二子塚字浦山32-16",
+      "lat": 37.144193,
+      "lng": 140.3488,
+      "geocoding_level": null,
+      "phone": "0248-51-1501",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "クスリのアオキ三谷八舗店",
+      "name_kana": "クスリノアオキミヤハチホテン",
+      "business_type": "⑪ 百貨店、総合スーパー",
+      "address": "愛知県蒲郡市三谷町八舗111番地1",
+      "lat": 34.816397,
+      "lng": 137.24346,
+      "geocoding_level": null,
+      "phone": "0533-56-3507",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "三谷温泉　平野屋",
+      "name_kana": "ミタニオンセン　ヒラノヤ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "愛知県蒲郡市三谷町南山１‐２１",
+      "lat": 34.808678,
+      "lng": 137.262037,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "家族葬ホール　ティア蒲郡三谷",
+      "name_kana": "カゾクソウホール　ティアガマゴオリミヤ",
+      "business_type": "⑥ 弁当販売業",
+      "address": "愛知県蒲郡市三谷町諏訪東27-2",
+      "lat": 34.817743,
+      "lng": 137.255594,
+      "geocoding_level": null,
+      "phone": "0120-117-911",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

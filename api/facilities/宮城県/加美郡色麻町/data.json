@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "イセ食品（株）",
+      "name_kana": "イセショクヒンカブ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "宮城県加美郡色麻町黒沢字切付7-10",
+      "lat": 38.53811,
+      "lng": 140.810495,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "色麻町役場",
+      "name_kana": "シカマチョウヤクバ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "宮城県加美郡色麻町四竃字北谷地４１番地",
+      "lat": 38.548788,
+      "lng": 140.849918,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "色麻町役場",
+      "name_kana": "シカマチョウヤクバ",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "宮城県加美郡色麻町四竃字北谷地４１番地",
+      "lat": 38.548788,
+      "lng": 140.849918,
+      "geocoding_level": null,
+      "phone": "09014933928",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "JA加美よつば農産物直売所愛菜ハウス",
+      "name_kana": "ジェイエーカミヨツバノウサンブツチョクバイジョアイサイハウス",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "宮城県加美郡色麻町大字上新町158-2",
+      "lat": 38.516978,
+      "lng": 140.862455,
+      "geocoding_level": null,
+      "phone": "0229-29-9451",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "色麻町役場",
+      "name_kana": "シカマチョウヤクバ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "宮城県加美郡色麻町四竃字北谷地４１",
+      "lat": 38.548788,
+      "lng": 140.849918,
+      "geocoding_level": null,
+      "phone": "0229652128",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ツルハドラッグ宮城色麻店",
+      "name_kana": "ツルハドラッグミヤギシカマテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "宮城県加美郡色麻町四竃字瀧１４９番１",
+      "lat": 38.550096,
+      "lng": 140.851466,
+      "geocoding_level": null,
+      "phone": "0229-25-5237",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

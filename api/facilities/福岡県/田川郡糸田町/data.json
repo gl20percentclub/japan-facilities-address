@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ARTISAN COFFEE ROASTER'S",
+      "name_kana": "アルチザン コーヒー ロースターズ",
+      "business_type": "⑯ コーヒー製造・加工業（飲料の製造を除く。）",
+      "address": "福岡県田川郡糸田町上糸田2203",
+      "lat": 33.656623,
+      "lng": 130.785733,
+      "geocoding_level": null,
+      "phone": "08058031034",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "大和リース株式会社",
+      "name_kana": "ダイワリースカブシキガイシャ",
+      "business_type": "⑫ 自動販売機による販売業（コップ式自動販売機（自動洗浄・屋内設置）及び営業許可の対象となる自動販売機を除く）",
+      "address": "福岡県田川郡糸田町南糸田８４０番地",
+      "lat": 33.652745,
+      "lng": 130.779043,
+      "geocoding_level": null,
+      "phone": "0947-26-4000",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "道の駅サンライズひがし",
+      "name_kana": "ミチノエキサンライズヒガシ",
+      "business_type": "② 食肉販売業（包装済みの食肉のみの販売）",
+      "address": "沖縄県国頭郡東村平良550-23",
+      "lat": 26.63093,
+      "lng": 128.153489,
+      "geocoding_level": null,
+      "phone": "0980432270",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "道の駅サンライズひがし",
+      "name_kana": "ミチノエキサンライズヒガシ",
+      "business_type": "⑦ 野菜果物販売業",
+      "address": "沖縄県国頭郡東村平良550-23",
+      "lat": 26.63093,
+      "lng": 128.153489,
+      "geocoding_level": null,
+      "phone": "0980432270",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

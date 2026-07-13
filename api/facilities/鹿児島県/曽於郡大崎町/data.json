@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "updated": 1783568789,
+    "sources": [
+      {
+        "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
+        "license": "公共データ利用規約（第1.0版, PDL1.0）"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "だいわ　大崎店",
+      "name_kana": "ダイワ　オオサキテン",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "鹿児島県曽於郡大崎町假宿1156",
+      "lat": 31.424323,
+      "lng": 131.006389,
+      "geocoding_level": null,
+      "phone": "0994765151",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "大崎工場休憩所（左）",
+      "name_kana": "オオザキコウジョウキュウケイジョカッコヒダリカッコ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "鹿児島県曽於郡大崎町神領1046-22",
+      "lat": 31.432442,
+      "lng": 131.015532,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ジャパンファーム大崎加工品工場",
+      "name_kana": "ジャパンファームオオザキカコウヒンコウジョウ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "鹿児島県曽於郡大崎町神領1046-22",
+      "lat": 31.432442,
+      "lng": 131.015532,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ジャパンファーム大崎　直売所",
+      "name_kana": "ジャパンファームオオサキ　チョクバイジョ",
+      "business_type": "⑤ コップ式自動販売機（自動洗浄・屋内設置）",
+      "address": "鹿児島県曽於郡大崎町益丸651-4",
+      "lat": 31.432143,
+      "lng": 131.018386,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "HOTEL AZ 鹿児島大崎店",
+      "name_kana": "ホテル　エーゼット　カゴシマオオサキテン",
+      "business_type": "① 飲食店営業",
+      "address": "鹿児島県曽於郡大崎町永吉5016",
+      "lat": 31.40583,
+      "lng": 130.978822,
+      "geocoding_level": null,
+      "phone": "099-476-3333",
+      "license_no": "指令志保第37号の206",
+      "license_date": "2025-07-23",
+      "expire_date": "2031-07-31"
+    },
+    {
+      "name": "福井澱粉有限会社",
+      "name_kana": "フクイデンプンユウゲンガイシャ",
+      "business_type": "㉔ その他の食料品製造・加工業",
+      "address": "鹿児島県曽於郡大崎町ソオグンオオサキチョウナガヨシ３２６４3264",
+      "lat": 31.414822,
+      "lng": 130.988969,
+      "geocoding_level": null,
+      "phone": "0994760006",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ホームプラザナフコ　大崎店",
+      "name_kana": "ホームプラザナフコ　オオサキテン",
+      "business_type": "⑬ その他の食料・飲料販売業",
+      "address": "鹿児島県曽於郡大崎町永吉８１８８番４",
+      "lat": 31.408999,
+      "lng": 130.985591,
+      "geocoding_level": null,
+      "phone": "099-471-7151",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "冨士屋製菓有限会社　第二工場",
+      "name_kana": "フジヤセイカユウゲンガイシャ　ダイニコウジョウ",
+      "business_type": "⑲ 糖類製造・加工業",
+      "address": "鹿児島県曽於郡大崎町假宿560-1",
+      "lat": 31.426001,
+      "lng": 130.999316,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}
