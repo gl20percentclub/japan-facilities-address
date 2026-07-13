@@ -52,6 +52,10 @@ jobs:
         continue-on-error: true
 
       - name: Crawl
+        # 全ソース＋i2fas で施設が100万件超になりメモリを要するため、
+        # Node のヒープ上限を引き上げる（GitHub Linux ランナーは 16GB RAM）。
+        env:
+          NODE_OPTIONS: --max-old-space-size=12288
         run: node scripts/crawl.js ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '--dry-run' || '' }}
 
       - name: Validate
