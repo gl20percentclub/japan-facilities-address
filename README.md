@@ -243,5 +243,6 @@ export const SOURCES = [
 ## 自動更新
 
 `.github/workflows/crawl.yml` が毎週月曜 18:00 UTC（JST 火曜 AM 3:00）に実行され、
-`api/` を生成して **main にコミット**し、あわせて `gh-pages` ブランチへ配信します。
+`api/` を生成して `gh-pages` ブランチへ配信します。**生成物 `api/` は Git 管理せず**（`.gitignore`）、
+配信は gh-pages のみ（履歴肥大を避けるため）。README の「収録データ」統計だけを main に反映します。
 `workflow_dispatch` から手動実行も可能（`dry_run` / `fetch_i2fas` オプション付き）。

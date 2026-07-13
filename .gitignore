@@ -3,3 +3,5 @@ node_modules/
 *.log
 .DS_Store
 .worktrees/
+# 生成物はコミットしない（CIで生成し gh-pages へ配信）
+api/

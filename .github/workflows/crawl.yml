@@ -61,8 +61,27 @@ jobs:
       - name: Validate
         run: npm test
 
-      # 先に gh-pages へ配信する（orphan ブランチへの force push なので main の
-      # 進行と競合しない＝後続の main コミットが失敗しても配信は成立する）。
+      # README の統計（件数・サイズ）だけを main に反映する。
+      # 生成物 api/ は Git 管理せず（.gitignore）、配信は gh-pages のみで行う（履歴肥大を避けるため）。
+      # クロール中に他の push で main が進むことがあるため、rebase してリトライする。
+      - name: Commit README stats
+        run: |
+          if git diff --quiet README.md; then
+            echo "README 変更なし"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update README data stats"
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              echo "pushed"; exit 0
+            fi
+            echo "push retry $i..."; sleep 5
+          done
+          echo "::warning::README stats の push に失敗（gh-pages への配信は別ステップで実施）"
+
+      # 生成した api/ を gh-pages へ配信する（データの唯一の配信先）。
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -70,24 +89,3 @@ jobs:
           publish_dir: .
           publish_branch: gh-pages
           exclude_assets: 'node_modules,.cache,scripts,.github'
-
-      # 生成物 api/ と README 統計を main にコミットする。
-      # クロール中に他の push で main が進むことがあるため、rebase してリトライする。
-      - name: Commit data
-        run: |
-          if git diff --quiet api/ README.md; then
-            echo "変更なし"
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add api/ README.md
-          git commit -m "chore: update facilities data"
-          for i in 1 2 3; do
-            if git pull --rebase --autostash origin main && git push; then
-              echo "pushed"; exit 0
-            fi
-            echo "push retry $i..."; sleep 5
-          done
-          echo "::error::main への push に失敗（gh-pages への配信は完了しています）"
-          exit 1
