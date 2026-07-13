@@ -13,6 +13,8 @@ import {
   toFacility,
   parseCSVText,
   splitPrefCity,
+  findEmptySources,
+  fetchWithRetry,
 } from './crawl.js';
 
 let passed = 0;
@@ -20,6 +22,11 @@ function test(name, fn) {
   fn();
   passed++;
   console.log(`  ✓ ${name}`);
+}
+
+const asyncTests = [];
+function testAsync(name, fn) {
+  asyncTests.push({ name, fn });
 }
 
 // --- normalizeDate: 和暦・西暦の正規化 ---
@@ -141,4 +148,89 @@ test('splitPrefCity: 都道府県で始まらなければ null', () => {
   assert.deepEqual(splitPrefCity(''), [null, null]);
 });
 
-console.log(`\n✅ crawl.js ユニットテスト: ${passed}件すべて合格`);
+// --- findEmptySources: 施設0件のソース検知 ---
+test('findEmptySources: 0件・未処理のソースを返す', () => {
+  const sources = [{ key: 'a' }, { key: 'b' }, { key: 'c' }];
+  const kept = new Map([
+    ['a', 10],
+    ['b', 0],
+    // c は未処理（取得前に落ちた） → Map に無い
+  ]);
+  assert.deepEqual(findEmptySources(sources, kept), [{ key: 'b' }, { key: 'c' }]);
+});
+test('findEmptySources: 全ソースに施設があれば空配列', () => {
+  const sources = [{ key: 'a' }, { key: 'b' }];
+  const kept = new Map([['a', 1], ['b', 5]]);
+  assert.deepEqual(findEmptySources(sources, kept), []);
+});
+
+// --- fetchWithRetry: 一過性の失敗はリトライ、恒久的な失敗は即失敗 ---
+// テスト用に global fetch を差し替える。バックオフは baseDelayMs=1 で高速化。
+function withMockFetch(impl, run) {
+  const orig = globalThis.fetch;
+  let calls = 0;
+  globalThis.fetch = async (...args) => {
+    calls++;
+    return impl(calls, ...args);
+  };
+  return Promise.resolve(run(() => calls)).finally(() => {
+    globalThis.fetch = orig;
+  });
+}
+const okRes = (body) => ({ ok: true, status: 200, statusText: 'OK', arrayBuffer: async () => Buffer.from(body) });
+const errRes = (status) => ({ ok: false, status, statusText: 'x', arrayBuffer: async () => Buffer.from('') });
+
+testAsync('fetchWithRetry: 5xx を経て成功', () =>
+  withMockFetch(
+    (n) => (n < 3 ? errRes(503) : okRes('good')),
+    async (calls) => {
+      const buf = await fetchWithRetry('u', {}, { retries: 3, baseDelayMs: 1 });
+      assert.equal(Buffer.from(buf).toString(), 'good');
+      assert.equal(calls(), 3);
+    },
+  ));
+
+testAsync('fetchWithRetry: ネットワーク例外を経て成功', () =>
+  withMockFetch(
+    (n) => {
+      if (n < 2) throw new Error('ECONNRESET');
+      return okRes('recovered');
+    },
+    async (calls) => {
+      const buf = await fetchWithRetry('u', {}, { retries: 3, baseDelayMs: 1 });
+      assert.equal(Buffer.from(buf).toString(), 'recovered');
+      assert.equal(calls(), 2);
+    },
+  ));
+
+testAsync('fetchWithRetry: 404 は再試行せず即失敗', () =>
+  withMockFetch(
+    () => errRes(404),
+    async (calls) => {
+      await assert.rejects(() => fetchWithRetry('u', {}, { retries: 3, baseDelayMs: 1 }), /404/);
+      assert.equal(calls(), 1); // 恒久的な失敗なのでリトライしない
+    },
+  ));
+
+testAsync('fetchWithRetry: リトライ上限を超えたら失敗', () =>
+  withMockFetch(
+    () => errRes(500),
+    async (calls) => {
+      await assert.rejects(() => fetchWithRetry('u', {}, { retries: 2, baseDelayMs: 1 }), /500/);
+      assert.equal(calls(), 3); // 初回 + リトライ2回
+    },
+  ));
+
+const runAsync = async () => {
+  for (const { name, fn } of asyncTests) {
+    await fn();
+    passed++;
+    console.log(`  ✓ ${name}`);
+  }
+  console.log(`\n✅ crawl.js ユニットテスト: ${passed}件すべて合格`);
+};
+
+runAsync().catch((err) => {
+  console.error('\n❌ テスト失敗:', err);
+  process.exit(1);
+});

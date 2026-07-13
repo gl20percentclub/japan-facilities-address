@@ -33,6 +33,8 @@ const OUT_DIR = path.join(ROOT, 'api', 'facilities');
 
 const DRY_RUN = process.argv.includes('--dry-run');
 const NO_GEOCODE = process.argv.includes('--no-geocode');
+// 施設0件のソースがあっても失敗させない（部分実行や意図的な空ソースの動作確認用）。
+const ALLOW_EMPTY_SOURCES = process.argv.includes('--allow-empty-sources');
 
 // --only=key1,key2 で処理対象ソースを絞る（動作確認・部分再生成用）
 const ONLY = (() => {
@@ -357,6 +359,37 @@ const DEFAULT_HEADERS = {
   Accept: '*/*',
 };
 
+// HTTP GET/POST をリトライ付きで実行し、本文を ArrayBuffer で返す。
+// 一過性の失敗（ネットワーク例外・5xx・429）は指数バックオフで再試行する。
+// 4xx（429 を除く）は恒久的な失敗として即座に投げる（再試行しても無駄なため）。
+// 週次クロールは 90+ の自治体サーバを叩くため、瞬断で1ソースが丸ごと欠落するのを防ぐ。
+async function fetchWithRetry(url, opts = {}, { retries = 3, baseDelayMs = 1000 } = {}) {
+  let lastErr;
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    if (attempt > 0) {
+      const delay = baseDelayMs * 2 ** (attempt - 1);
+      console.log(`    リトライ ${attempt}/${retries}（${delay}ms 待機）: ${lastErr.message}`);
+      await sleep(delay);
+    }
+    try {
+      const res = await fetch(url, opts);
+      if (res.ok) return await res.arrayBuffer();
+      // 4xx（429 以外）は恒久的な失敗。再試行しても無駄なので即座に投げる。
+      if (res.status >= 400 && res.status < 500 && res.status !== 429) {
+        const err = new Error(`ダウンロード失敗: ${res.status} ${res.statusText}`);
+        err.permanent = true;
+        throw err;
+      }
+      // 5xx / 429 は一過性とみなし再試行対象にする
+      lastErr = new Error(`ダウンロード失敗: ${res.status} ${res.statusText}`);
+    } catch (e) {
+      if (e.permanent) throw e; // 恒久的な失敗は再試行しない
+      lastErr = e; // ネットワーク例外・タイムアウト等は再試行
+    }
+  }
+  throw lastErr;
+}
+
 // ZIP バイト列から対象の csv/xlsx/xls を取り出す。
 // entryPattern（正規表現文字列）に一致するエントリ、無ければ最初の csv/xlsx/xls。
 async function extractFromZip(zipBuf, entryPattern) {
@@ -426,11 +459,7 @@ async function acquire(source) {
     }
 
     console.log(`  ダウンロード中: ${downloadUrl}`);
-    const res = await fetch(downloadUrl, fetchOpts);
-    if (!res.ok) {
-      throw new Error(`ダウンロード失敗: ${res.status} ${res.statusText}`);
-    }
-    let buf = Buffer.from(await res.arrayBuffer());
+    let buf = Buffer.from(await fetchWithRetry(downloadUrl, fetchOpts));
 
     // format: 'zip' のとき、中の csv/xlsx/xls を取り出す。
     // （xlsx/xls も実体は ZIP なので、マジックバイトでなく明示指定で判定する。）
@@ -803,6 +832,12 @@ async function enrichWithGeocoding(facilities) {
   );
 }
 
+// 施設を1件も取り込めなかったソースを返す。
+// keptBySource に載っていない（＝処理前に落ちた）ソースも 0 件扱いにする。
+function findEmptySources(sources, keptBySource) {
+  return sources.filter((s) => (keptBySource.get(s.key) || 0) === 0);
+}
+
 // ---------------------------------------------------------------------------
 // メイン
 // ---------------------------------------------------------------------------
@@ -812,9 +847,11 @@ async function main() {
   console.log(`対象ソース: ${sources.length}件${ONLY ? `（--only=${[...ONLY].join(',')}）` : ''}\n`);
 
   const facilities = [];
+  const keptBySource = new Map(); // source.key -> 取り込めた施設数
 
   for (const source of sources) {
     console.log(`▼ ${source.key}: ${source.source}`);
+    let kept = 0;
     try {
       const files = await acquire(source);
       const rawRecords = [];
@@ -823,7 +860,6 @@ async function main() {
       }
       console.log(`  ${rawRecords.length}行を読み込み (${files.map((f) => f.format).join('+')})`);
 
-      let kept = 0;
       for (const raw of rawRecords) {
         const rec = mapRecord(raw);
         const facility = toFacility(rec);
@@ -842,9 +878,28 @@ async function main() {
     } catch (err) {
       console.error(`  ⚠ ${source.key} をスキップ: ${err.message}`);
     }
+    keptBySource.set(source.key, kept);
   }
 
   console.log(`\n有効な施設: 合計 ${facilities.length}件`);
+
+  // 施設を1件も取り込めなかったソースがあれば失敗させ、api/ を書き換えない。
+  // クロールはソースごとに try/catch で握り潰すため、取得失敗が黙って欠落データに
+  // 化けやすい（別ソースが同じ都道府県を埋めると気づけない）。ここで検知して
+  // 「壊れた（欠落した）データをコミットする」のを防ぐ。--allow-empty-sources で無効化。
+  const emptySources = findEmptySources(sources, keptBySource);
+  if (emptySources.length > 0) {
+    const list = emptySources.map((s) => `${s.key}（${s.source}）`).join('\n    - ');
+    const msg =
+      `施設を1件も取り込めなかったソースが ${emptySources.length}件 あります:\n    - ${list}\n` +
+      `  取得/パースの一時的な失敗の可能性があります。再実行するか、意図的な場合は ` +
+      `--allow-empty-sources を付けてください（欠落データのコミットを防ぐため中断しました）。`;
+    if (ALLOW_EMPTY_SOURCES) {
+      console.warn(`\n⚠ ${msg}`);
+    } else {
+      throw new Error(msg);
+    }
+  }
 
   // 緯度経度の無い施設を住所からジオコーディングして補完
   if (NO_GEOCODE) {
@@ -951,4 +1006,4 @@ if (import.meta.url === `file://${process.argv[1]}`) {
 }
 
 // テスト用に純粋関数をエクスポートする。
-export { normalizeDate, sanitizeLatLng, resolvePrefecture, resolveCity, mapRecord, toFacility, parseCSVText, splitPrefCity };
+export { normalizeDate, sanitizeLatLng, resolvePrefecture, resolveCity, mapRecord, toFacility, parseCSVText, splitPrefCity, findEmptySources, fetchWithRetry };
