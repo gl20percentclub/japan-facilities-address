@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,32 @@
     ]
   },
   "data": [
+    {
+      "name": "藤永　一郎",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "福岡県糸島市高田５－１９－１５ （鹿児島市を除く，県内一円）",
+      "lat": 33.569929815,
+      "lng": 130.238723739,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第034-000191号",
+      "license_date": null,
+      "expire_date": "2027-07-31"
+    },
+    {
+      "name": "池田　博昭",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "福岡県糸島市前原南２－６－５０サンガーデン２－１０４ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 33.558587171,
+      "lng": 130.210322586,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第036-000036号",
+      "license_date": null,
+      "expire_date": "2029-04-30"
+    },
     {
       "name": "フィットプレイス糸島高田",
       "name_kana": "フィットプレイスイトシマタカダ",

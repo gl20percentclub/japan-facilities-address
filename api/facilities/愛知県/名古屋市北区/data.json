@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "名古屋市 【名古屋市】食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ガスト　如意店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市北区如意一丁目１７１番地",
+      "lat": 35.23381241,
+      "lng": 136.921024226,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7北保健第1-115号",
+      "license_date": "2025-06-09",
+      "expire_date": null
+    },
+    {
+      "name": "ワークプレースみるみる",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "名古屋市北区上飯田南町３丁目２番地",
+      "lat": 35.202115000000006,
+      "lng": 136.933844,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7北保健第1-125号",
+      "license_date": "2025-06-09",
+      "expire_date": null
+    },
+    {
+      "name": "セブン－イレブン名古屋上飯田通１丁目店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市北区上飯田通１丁目２番",
+      "lat": 35.202704,
+      "lng": 136.929678,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7北保健第1-114号",
+      "license_date": "2025-06-04",
+      "expire_date": null
+    },
+    {
+      "name": "IJOOZ自動販売機　アピタ名古屋北店",
+      "name_kana": "",
+      "business_type": "調理の機能を有する自動販売機",
+      "address": "名古屋市北区辻町９丁目１番地　アピタ名古屋北店",
+      "lat": 35.210003,
+      "lng": 136.92358,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7北保健第1-113号",
+      "license_date": "2025-06-06",
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　ピーチ",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "名古屋市北区如意一丁目１１５番地",
+      "lat": 35.234333195,
+      "lng": 136.919061443,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7北保健第1-102号",
+      "license_date": "2025-06-09",
+      "expire_date": null
+    },
+    {
+      "name": "シェ・チョココ",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "名古屋市北区中丸町３丁目１５番地の２",
+      "lat": 35.20517,
+      "lng": 136.9051,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7北保健第1-134号",
+      "license_date": "2025-06-12",
+      "expire_date": null
+    },
+    {
+      "name": "葉豆屋",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市北区如意一丁目１４番地",
+      "lat": 35.233012023,
+      "lng": 136.917060981,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7北保健第1-132号",
+      "license_date": "2025-06-13",
+      "expire_date": null
+    },
+    {
+      "name": "ベーカリーハウス　わっぱん",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "名古屋市北区大曽根一丁目６番２３号",
+      "lat": 35.189171483,
+      "lng": 136.927531017,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7北保健第1-117号",
+      "license_date": "2025-06-19",
+      "expire_date": null
+    },
+    {
+      "name": "呼炉凪来　大曽根店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市北区大曽根三丁目４番１４号　ポルト大曽根２Ｆ",
+      "lat": 35.191229499,
+      "lng": 136.93352248,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7北保健第1-120号",
+      "license_date": "2025-06-23",
+      "expire_date": null
+    },
+    {
+      "name": "有限会社　丸音商会",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "名古屋市北区上飯田東町５丁目４１番地",
+      "lat": 35.205463,
+      "lng": 136.935807,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7北保健第1-143号",
+      "license_date": "2025-06-24",
+      "expire_date": null
+    },
+    {
+      "name": "有限会社　丸音商会",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "名古屋市北区上飯田北町２丁目５９番地の２",
+      "lat": 35.204904,
+      "lng": 136.931757,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7北保健第1-142号",
+      "license_date": "2025-06-24",
+      "expire_date": null
+    },
+    {
+      "name": "ＣＯＣＯ 珈琲 ＳＴＡＧＥ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市北区上飯田西町１丁目１６番地",
+      "lat": 35.20256,
+      "lng": 136.92774200000002,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7北保健第1-56号",
+      "license_date": "2025-06-30",
+      "expire_date": null
+    },
+    {
+      "name": "柳原ベース",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市北区柳原四丁目５番１号",
+      "lat": 35.188622977,
+      "lng": 136.908595798,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7北保健第1-157号",
+      "license_date": "2025-06-27",
+      "expire_date": null
+    },
+    {
+      "name": "柳原ベース",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "名古屋市北区柳原四丁目５番１号",
+      "lat": 35.188622977,
+      "lng": 136.908595798,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7北保健第1-158号",
+      "license_date": "2025-06-27",
+      "expire_date": null
+    },
+    {
+      "name": "丸亀製麺長喜町店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市北区長喜町３丁目２４番地１",
+      "lat": 35.203312,
+      "lng": 136.918679,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7北保健第1-161号",
+      "license_date": "2025-06-30",
+      "expire_date": null
+    }
+  ]
+}

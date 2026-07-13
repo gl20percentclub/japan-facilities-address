@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "山口県食品営業許可施設情報一覧",
+        "license": "CC BY"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,149 @@
     ]
   },
   "data": [
+    {
+      "name": "ぼちぼち",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡平生町大字平生村153-8　中津ビル1-3",
+      "lat": 33.937371645,
+      "lng": 132.075349542,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "",
+      "license_date": "2021-05-06",
+      "expire_date": null
+    },
+    {
+      "name": "艶歌路",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡平生町大字平生町字角浜551番82",
+      "lat": 33.936856,
+      "lng": 132.068463,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": "2021-05-27",
+      "expire_date": null
+    },
+    {
+      "name": "ＥＮ",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡平生町大字宇佐木1445-13",
+      "lat": 33.950208042,
+      "lng": 132.09027245300004,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "",
+      "license_date": "2021-01-14",
+      "expire_date": null
+    },
+    {
+      "name": "ワークショップ未来",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡平生町大字平生村850番地1",
+      "lat": 33.943339638,
+      "lng": 132.070213876,
+      "geocoding_level": 8,
+      "phone": "0820-56-4006",
+      "license_no": "",
+      "license_date": "2020-08-24",
+      "expire_date": null
+    },
+    {
+      "name": "お食事処　ふる里の光",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡平生町大字曽根282-3",
+      "lat": 33.919344028,
+      "lng": 132.057474551,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "",
+      "license_date": "2021-03-19",
+      "expire_date": null
+    },
+    {
+      "name": "マックスバリュ平生東店",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡平生町大字平生町841-1",
+      "lat": 33.936856,
+      "lng": 132.068463,
+      "geocoding_level": 3,
+      "phone": "0820-56-1055",
+      "license_no": "",
+      "license_date": "2020-05-18",
+      "expire_date": null
+    },
+    {
+      "name": "いこい旅館",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡平生町大字平生町字東浜193-2",
+      "lat": 33.936856,
+      "lng": 132.068463,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": "2020-07-31",
+      "expire_date": null
+    },
+    {
+      "name": "寶珠",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡平生町大字平生町448番地",
+      "lat": 33.938184063,
+      "lng": 132.069101315,
+      "geocoding_level": 8,
+      "phone": "0820-56-5151",
+      "license_no": "",
+      "license_date": "2021-01-15",
+      "expire_date": null
+    },
+    {
+      "name": "福山通運（株）柳井営業所",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡平生町大字平生村21",
+      "lat": 33.945328,
+      "lng": 132.076367,
+      "geocoding_level": 3,
+      "phone": "0820-56-3600",
+      "license_no": "",
+      "license_date": "2020-08-14",
+      "expire_date": null
+    },
+    {
+      "name": "柳井紙工　中央工場2F",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡平生町横割584",
+      "lat": 33.937969,
+      "lng": 132.073057,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "",
+      "license_date": "2020-08-14",
+      "expire_date": null
+    },
+    {
+      "name": "アルク平生店",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡平生町大字平生村236-4",
+      "lat": 33.938847973,
+      "lng": 132.076547573,
+      "geocoding_level": 8,
+      "phone": "0820-56-5609",
+      "license_no": "",
+      "license_date": "2021-03-26",
+      "expire_date": null
+    },
     {
       "name": "ダイナム山口平生店",
       "name_kana": "ダイナムヤマグチヒラオテン",

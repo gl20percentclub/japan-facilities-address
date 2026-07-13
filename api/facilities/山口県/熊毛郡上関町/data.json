@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "山口県食品営業許可施設情報一覧",
+        "license": "CC BY"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,162 @@
     ]
   },
   "data": [
+    {
+      "name": "道の駅　上関海峡",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字室津904番地15",
+      "lat": 33.83430643,
+      "lng": 132.116896378,
+      "geocoding_level": 8,
+      "phone": "0820-62-1139",
+      "license_no": "",
+      "license_date": "2020-10-29",
+      "expire_date": null
+    },
+    {
+      "name": "道の駅　上関海峡",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字室津904番地15",
+      "lat": 33.83430643,
+      "lng": 132.116896378,
+      "geocoding_level": 8,
+      "phone": "0820-62-1139",
+      "license_no": "",
+      "license_date": "2020-10-29",
+      "expire_date": null
+    },
+    {
+      "name": "お食事処　古泉",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字祝島字中村132番地20",
+      "lat": 33.783669,
+      "lng": 131.976838,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": "2020-08-06",
+      "expire_date": null
+    },
+    {
+      "name": "上関海峡亭",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字室津904番地15",
+      "lat": 33.83430643,
+      "lng": 132.116896378,
+      "geocoding_level": 8,
+      "phone": "0820-62-1139",
+      "license_no": "",
+      "license_date": "2020-10-29",
+      "expire_date": null
+    },
+    {
+      "name": "ニコニコ亭",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字室津665-5",
+      "lat": 33.846364,
+      "lng": 132.134209,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": "2020-09-16",
+      "expire_date": null
+    },
+    {
+      "name": "銀波荘",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字室津550番地の1",
+      "lat": 33.838113107,
+      "lng": 132.117983056,
+      "geocoding_level": 8,
+      "phone": "0820-62-1066",
+      "license_no": "",
+      "license_date": "2021-05-28",
+      "expire_date": null
+    },
+    {
+      "name": "やま家",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字長島2090-1",
+      "lat": 33.79349928600001,
+      "lng": 132.055126423,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "",
+      "license_date": "2020-06-08",
+      "expire_date": null
+    },
+    {
+      "name": "道の駅　上関海峡",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字室津904番地15",
+      "lat": 33.83430643,
+      "lng": 132.116896378,
+      "geocoding_level": 8,
+      "phone": "0820-62-1139",
+      "license_no": "",
+      "license_date": "2020-10-29",
+      "expire_date": null
+    },
+    {
+      "name": "道の駅　上関海峡",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字室津904番地15",
+      "lat": 33.83430643,
+      "lng": 132.116896378,
+      "geocoding_level": 8,
+      "phone": "0820-62-1139",
+      "license_no": "",
+      "license_date": "2020-10-29",
+      "expire_date": null
+    },
+    {
+      "name": "道の駅　上関海峡",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字室津904番地15",
+      "lat": 33.83430643,
+      "lng": 132.116896378,
+      "geocoding_level": 8,
+      "phone": "0820-62-1139",
+      "license_no": "",
+      "license_date": "2020-10-29",
+      "expire_date": null
+    },
+    {
+      "name": "道の駅　上関海峡",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字室津904番地15",
+      "lat": 33.83430643,
+      "lng": 132.116896378,
+      "geocoding_level": 8,
+      "phone": "0820-62-1139",
+      "license_no": "",
+      "license_date": "2020-10-29",
+      "expire_date": null
+    },
+    {
+      "name": "銀波荘",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県熊毛郡上関町大字室津550番地の1",
+      "lat": 33.838113107,
+      "lng": 132.117983056,
+      "geocoding_level": 8,
+      "phone": "0820-62-1066",
+      "license_no": "",
+      "license_date": "2021-05-28",
+      "expire_date": null
+    },
     {
       "name": "カフェレストラン瀬里家",
       "name_kana": "カフェレストランセリカ",

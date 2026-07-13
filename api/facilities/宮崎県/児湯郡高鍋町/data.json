@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,45 @@
     ]
   },
   "data": [
+    {
+      "name": "安部　良一",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県児湯郡高鍋町大字上江2825（鹿児島市を除く鹿児島県内一円）",
+      "lat": 32.142780152,
+      "lng": 131.495393828,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第032-000151号",
+      "license_date": null,
+      "expire_date": "2026-10-31"
+    },
+    {
+      "name": "江藤　和葵",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県児湯郡高鍋町北高鍋１００２　アウトヴィレッジ　２０１号 （鹿児島市を除く県内一円）",
+      "lat": 32.131589395,
+      "lng": 131.510315545,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第035-000173号",
+      "license_date": null,
+      "expire_date": "2028-07-31"
+    },
+    {
+      "name": "甲斐　円",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県児湯郡高鍋町大字持田１４０４－３　Ｃ棟 （鹿児島市を除く県内一円）",
+      "lat": 32.142978663,
+      "lng": 131.510486617,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第036-000269号",
+      "license_date": null,
+      "expire_date": "2029-07-31"
+    },
     {
       "name": "アタックス高鍋店　清流物語",
       "name_kana": "アタックスタカナベテン　セイリュウモノガタリ",

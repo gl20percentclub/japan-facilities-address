@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,71 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社都給食",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "津島市南新開町１丁目３５７番地",
+      "lat": 35.167338,
+      "lng": 136.748428,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8津保第1-36号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "難波　恵利子",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "津島市越津町字梅之木１０６",
+      "lat": 35.17704,
+      "lng": 136.741236,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8津保第1-25号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　柿安本店",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "津島市大字津島字北新開３５１",
+      "lat": 35.17704,
+      "lng": 136.741236,
+      "geocoding_level": 2,
+      "phone": "0567-22-5535",
+      "license_no": "8津保第38-3号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社レ・ヴァン",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "津島市莪原町神守前６６－１",
+      "lat": 35.17704,
+      "lng": 136.741236,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8津保第1-35号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "住田　竜彦",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "津島市藤浪町３丁目４０番地",
+      "lat": 35.181538,
+      "lng": 136.729413,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8津保第1-26号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　津島神守店",
       "name_kana": "ブイ・ドラッグ　ツシマカモリテン",

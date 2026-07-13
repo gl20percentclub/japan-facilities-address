@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,84 @@
     ]
   },
   "data": [
+    {
+      "name": "王　振",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "稲沢市陸田栗林１－１－２３",
+      "lat": 35.263461364,
+      "lng": 136.819837158,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "8清保第401-7号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　小菱屋",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "稲沢市日下部北町４－３８",
+      "lat": 35.23265700000001,
+      "lng": 136.821857,
+      "geocoding_level": 3,
+      "phone": "0587-33-7255",
+      "license_no": "8清保第448-1号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "加藤　浩明",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "稲沢市治郎丸東町４０－１",
+      "lat": 35.263422,
+      "lng": 136.80894000000004,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8清保第401-10号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　小菱屋",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "稲沢市奥田大沢町１９",
+      "lat": 35.235521,
+      "lng": 136.815901,
+      "geocoding_level": 3,
+      "phone": "0587-21-9225",
+      "license_no": "8清保第448-2号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　小菱屋",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "稲沢市奥田大沢町１９",
+      "lat": 35.235521,
+      "lng": 136.815901,
+      "geocoding_level": 3,
+      "phone": "0587-21-9225",
+      "license_no": "8清保第451-1号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "大河内　誠",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "稲沢市平和町嫁振東９１－４",
+      "lat": 35.200554,
+      "lng": 136.744078,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8清保第401-5号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　祖父江店",
       "name_kana": "ブイ・ドラッグ　ソブエテン",

@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,58 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社アイワークス",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県えびの市大字大明司９番地９ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 32.047061,
+      "lng": 130.840303,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第034-000051号",
+      "license_date": null,
+      "expire_date": "2028-07-31"
+    },
+    {
+      "name": "竹内　亜以子",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県えびの市大字原田１３－４ （鹿児島市を除く県内一円）",
+      "lat": 32.047832325,
+      "lng": 130.870289619,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第036-000069号",
+      "license_date": null,
+      "expire_date": "2030-10-31"
+    },
+    {
+      "name": "園田　初幸",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "えびの市大字内竪１７５４－２ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 32.070267,
+      "lng": 130.728906,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第035-000333号",
+      "license_date": null,
+      "expire_date": "2028-07-31"
+    },
+    {
+      "name": "仙波　健一",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県えびの市大字杉水流１４ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 32.048707,
+      "lng": 130.884362,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第037-000271号",
+      "license_date": null,
+      "expire_date": "2031-10-31"
+    },
     {
       "name": "プラッセだいわえびの店",
       "name_kana": "プラッセダイワエビノテン",

@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "静岡市 食品衛生関係営業許可台帳",
+        "license": "Creative Commons Attribution"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,188 @@
     ]
   },
   "data": [
+    {
+      "name": "ガスト  清水七ッ新屋店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "静岡県清水区七ッ新屋４４２番地の１",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-344-0004",
+      "license_no": "050000696",
+      "license_date": "2020-12-01",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "かっぱ寿司  清水七ッ新屋店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "静岡県清水区七ッ新屋二丁目１番６０号",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-349-5161",
+      "license_no": "050005383",
+      "license_date": "2020-12-01",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "かつや静岡七ツ新屋店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "静岡県清水区七ッ新屋４１８番地の１",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-388-9433",
+      "license_no": "050009692",
+      "license_date": "2020-12-01",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "しずてつストア　御門台店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "静岡県清水区七ッ新屋一丁目１０番２６号",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-344-3320",
+      "license_no": "050006754",
+      "license_date": "2020-12-01",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "しずてつストア　御門台店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "静岡県清水区七ッ新屋一丁目１０番２６号",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-344-3320",
+      "license_no": "050006759",
+      "license_date": "2020-12-01",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "スズキアリーナ静岡南安倍店",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "静岡県駿河区南安倍三丁目８番９号",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-237-1311",
+      "license_no": "030019325",
+      "license_date": "2020-09-16",
+      "expire_date": "2025-09-15"
+    },
+    {
+      "name": "にんじん",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "静岡県清水区七ッ新屋３６７番地の２",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-348-5728",
+      "license_no": "050007737",
+      "license_date": "2020-12-01",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "ゆず庵　静岡インター通店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "静岡県駿河区南安倍三丁目４番１３号",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-204-9531",
+      "license_no": "030025406",
+      "license_date": "2020-09-02",
+      "expire_date": "2026-09-15"
+    },
+    {
+      "name": "ラウンドワン静岡　駿河店　２F",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "静岡県駿河区向手越一丁目１０番１号",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-201-1601",
+      "license_no": "030013353",
+      "license_date": "2020-09-16",
+      "expire_date": "2025-09-15"
+    },
+    {
+      "name": "ラウンドワン静岡　駿河店　３F",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "静岡県駿河区向手越一丁目１０番１号",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-201-1601",
+      "license_no": "030013354",
+      "license_date": "2020-09-16",
+      "expire_date": "2025-09-15"
+    },
+    {
+      "name": "株式会社　雅",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "静岡県駿河区南安倍三丁目１６番２８号",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-203-6684",
+      "license_no": "030024861",
+      "license_date": "2019-12-04",
+      "expire_date": "2025-09-15"
+    },
+    {
+      "name": "株式会社　雅",
+      "name_kana": "",
+      "business_type": "食品の冷凍又は冷蔵業",
+      "address": "静岡県駿河区南安倍三丁目１６番２８号",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-203-6684",
+      "license_no": "030024862",
+      "license_date": "2019-12-04",
+      "expire_date": "2025-09-15"
+    },
+    {
+      "name": "大戸屋　清水店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "静岡県清水区七ッ新屋４３４番地の１",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "054-344-0108",
+      "license_no": "050009522",
+      "license_date": "2020-12-01",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "name": "武蔵野　静岡工場",
+      "name_kana": "",
+      "business_type": "喫茶店営業",
+      "address": "静岡県清水区七ッ新屋５１５番地の１",
+      "lat": 34.976906,
+      "lng": 138.383023,
+      "geocoding_level": 1,
+      "phone": "0800-919-0509",
+      "license_no": "050009597",
+      "license_date": "2020-12-01",
+      "expire_date": "2025-11-30"
+    },
     {
       "name": "自家焙煎珈琲豆かりおもん",
       "name_kana": "ジカバイセンコーヒーカリオモン",

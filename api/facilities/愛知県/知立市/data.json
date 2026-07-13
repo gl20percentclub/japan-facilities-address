@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,58 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社　物語コーポレーション",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "知立市鳥居３－３－９",
+      "lat": 35.005509,
+      "lng": 137.025092,
+      "geocoding_level": 3,
+      "phone": "0566-93-4861",
+      "license_no": "8衣保第2-78号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　ナカショウ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "知立市牛田町裏新切１９番地１",
+      "lat": 35.001285,
+      "lng": 137.050843,
+      "geocoding_level": 2,
+      "phone": "0566-84-5321",
+      "license_no": "8衣保第2-76号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ビルトゥア",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "知立市長篠町大山１８－１",
+      "lat": 35.001285,
+      "lng": 137.050843,
+      "geocoding_level": 2,
+      "phone": "0566-83-3388",
+      "license_no": "8衣保第2-50号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　出雲殿",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "知立市西町妻向１５番１",
+      "lat": 35.001285,
+      "lng": 137.050843,
+      "geocoding_level": 2,
+      "phone": "0566-82-4444",
+      "license_no": "8衣保第2-49号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　知立店",
       "name_kana": "ブイ・ドラッグ　チリュウテン",

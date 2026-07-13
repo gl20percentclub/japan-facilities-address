@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,58 @@
     ]
   },
   "data": [
+    {
+      "name": "宮本　貴史",
+      "name_kana": "",
+      "business_type": "豆腐製造業",
+      "address": "蒲郡市西浦町馬々１０",
+      "lat": 34.788089,
+      "lng": 137.181036,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8豊川保第356-1号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　レストランミヤ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "蒲郡市三谷町若宮９５番地",
+      "lat": 34.826439,
+      "lng": 137.219653,
+      "geocoding_level": 2,
+      "phone": "0533-69-8089",
+      "license_no": "8豊川保第335-33号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドミーデリカ株式会社",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "蒲郡市三谷町若宮９５番地１",
+      "lat": 34.826439,
+      "lng": 137.219653,
+      "geocoding_level": 2,
+      "phone": "0533-69-3500",
+      "license_no": "8豊川保第335-31号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　ドミー",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "蒲郡市三谷町若宮９５番地１",
+      "lat": 34.826439,
+      "lng": 137.219653,
+      "geocoding_level": 2,
+      "phone": "0533-69-1261",
+      "license_no": "8豊川保第335-18号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "アイレクス･ライト+24蒲郡三谷",
       "name_kana": "アイレクスライトプラスニジュウヨンガマゴオリミタニ",

@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,45 @@
     ]
   },
   "data": [
+    {
+      "name": "平　剛典",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "日南市岩崎３－１０－４－６ （鹿児島市を除く県内一円）",
+      "lat": 31.5872,
+      "lng": 131.398767,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第034-000123号",
+      "license_date": null,
+      "expire_date": "2028-10-31"
+    },
+    {
+      "name": "有限会社直ちゃんラーメン",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "日南市戸高２－３－１ （鹿児島市を除く県内一円）",
+      "lat": 31.598314999999996,
+      "lng": 131.375953,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第034-000163号",
+      "license_date": null,
+      "expire_date": "2028-10-31"
+    },
+    {
+      "name": "安倍　伸哉",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "日南市梅ケ浜１－３－１－２０３ （鹿児島市を除く県内一円）",
+      "lat": 31.588486,
+      "lng": 131.40675200000004,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第034-000341号",
+      "license_date": null,
+      "expire_date": "2029-01-31"
+    },
     {
       "name": "ダイナム宮崎日南店",
       "name_kana": "ダイナムミヤザキニチナンテン",

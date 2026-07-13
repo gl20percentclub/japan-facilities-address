@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,123 @@
     ]
   },
   "data": [
+    {
+      "name": "打桐　沙織",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "新城市稲木987－１",
+      "lat": 34.899843,
+      "lng": 137.455759,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8新保第2-5号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "打桐　沙織",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "新城市稲木987－１",
+      "lat": 34.899843,
+      "lng": 137.455759,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8新保第2-6号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "井下　美香",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "新城市黒田字杉下５ー10",
+      "lat": 34.899025,
+      "lng": 137.49785,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8新保第1-10号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "社会福祉法人　新城福祉会",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "新城市字町並１０９番地",
+      "lat": 34.900402,
+      "lng": 137.497149,
+      "geocoding_level": 3,
+      "phone": "0536-23-6105",
+      "license_no": "8新保第3-11号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "長坂　光弘",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "新城市名越字小林57番地",
+      "lat": 34.899025,
+      "lng": 137.49785,
+      "geocoding_level": 2,
+      "phone": "0536-32-0098",
+      "license_no": "8新保第2-9号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "長坂　光弘",
+      "name_kana": "",
+      "business_type": "漬物製造業",
+      "address": "新城市名越字小林57番地",
+      "lat": 34.899025,
+      "lng": 137.49785,
+      "geocoding_level": 2,
+      "phone": "0536-32-0098",
+      "license_no": "8新保第2-7号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "長坂　光弘",
+      "name_kana": "",
+      "business_type": "密封包装食品製造業",
+      "address": "新城市名越字小林57番地",
+      "lat": 34.899025,
+      "lng": 137.49785,
+      "geocoding_level": 2,
+      "phone": "0536-32-0098",
+      "license_no": "8新保第2-8号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "佐藤　吉将",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "新城市副川市場22－１",
+      "lat": 34.899025,
+      "lng": 137.49785,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8新保第1-16号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "請井　茂樹",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "新城市名号字袋林１０９番２",
+      "lat": 34.899025,
+      "lng": 137.49785,
+      "geocoding_level": 2,
+      "phone": "0536-33-5008",
+      "license_no": "8新保第3-10号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　新城店",
       "name_kana": "ブイ・ドラッグ　シンシロテン",

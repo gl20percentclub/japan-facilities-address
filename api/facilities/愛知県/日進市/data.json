@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,58 @@
     ]
   },
   "data": [
+    {
+      "name": "ＵＤリテール株式会社",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "日進市香久山５－１８０１",
+      "lat": 35.141319,
+      "lng": 137.029256,
+      "geocoding_level": 3,
+      "phone": "0570-046-911",
+      "license_no": "8瀬保第11-8号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ＵＤリテール株式会社",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "日進市香久山５－１８０１",
+      "lat": 35.141319,
+      "lng": 137.029256,
+      "geocoding_level": 3,
+      "phone": "0570-046-911",
+      "license_no": "8瀬保第13-2号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ＵＤリテール株式会社",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "日進市香久山５－１８０１",
+      "lat": 35.141319,
+      "lng": 137.029256,
+      "geocoding_level": 3,
+      "phone": "0570-046-911",
+      "license_no": "8瀬保第12-1号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社トーセイ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "日進市栄３－８０９",
+      "lat": 35.122343,
+      "lng": 137.051972,
+      "geocoding_level": 3,
+      "phone": "0561-56-2351",
+      "license_no": "8瀬保第1-27号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　米野木店",
       "name_kana": "ブイ・ドラッグ　コメノキテン",

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "富山県食品営業許可施設一覧",
+        "license": "CC BY"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ＵＬＴＩＭＡＴＥ ＣＲＥＰＥＳ ＴＯＹＡＭＡ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "富山県内一円",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "0763-55-6788",
+      "license_no": "221559",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "アニメイトカフェ出張版",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "富山県内一円",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "230485",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,84 @@
     ]
   },
   "data": [
+    {
+      "name": "ウッドデザインパーク株式会社",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "美浜町大字小野浦字二ツ廻間２１－１",
+      "lat": 34.778843,
+      "lng": 136.908251,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8半保第2-33号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　萬秀フルーツ",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "美浜町大字上野間字越智８３",
+      "lat": 34.778843,
+      "lng": 136.908251,
+      "geocoding_level": 2,
+      "phone": "0569-87-5088",
+      "license_no": "8半保第22-3号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "知多乗合株式会社",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "美浜町大字野間字冨具崎２８１－１",
+      "lat": 34.778843,
+      "lng": 136.908251,
+      "geocoding_level": 2,
+      "phone": "0569-87-3288",
+      "license_no": "8半保第2-30号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "平野　武彦",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "美浜町大字北方字２－３３",
+      "lat": 34.789895,
+      "lng": 136.901941,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8半保第2-37号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社　ＨＯＲＩＯ　ｐｒｏｊｅｃｔ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "美浜町北方２－５",
+      "lat": 34.783077,
+      "lng": 136.90538600000002,
+      "geocoding_level": 3,
+      "phone": "0569-82-3669",
+      "license_no": "8半保第2-28号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社　ゆたか寿し",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "美浜町大字河和字北田面１８－１",
+      "lat": 34.778843,
+      "lng": 136.908251,
+      "geocoding_level": 2,
+      "phone": "82-0056",
+      "license_no": "8半保第2-38号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　美浜店",
       "name_kana": "ブイ・ドラッグ　ミハマテン",

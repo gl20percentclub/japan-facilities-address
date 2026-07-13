@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "鳥取市食品等営業許可・届出一覧",
+        "license": "CC BY"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "出合獣肉店　ｌｉｇｈｔ　ｄｉｖｅｒｓｅ",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "八頭郡智頭町口宇波６",
+      "lat": 35.24988925,
+      "lng": 134.189395472,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "山郷の恵み",
+      "name_kana": "",
+      "business_type": "漬物製造業",
+      "address": "八頭郡智頭町福原１９",
+      "lat": 35.230822,
+      "lng": 134.298294,
+      "geocoding_level": 3,
+      "phone": "0858-75-0221",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "山ノブラン",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "八頭郡智頭町埴師６５５",
+      "lat": 35.233235,
+      "lng": 134.245938,
+      "geocoding_level": 3,
+      "phone": "0858-71-0332",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "土師地区振興協議会",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "八頭郡智頭町埴師５４",
+      "lat": 35.233235,
+      "lng": 134.245938,
+      "geocoding_level": 3,
+      "phone": "0858-75-3121",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "雨かっぱ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "八頭郡智頭町智頭１５６２－８",
+      "lat": 35.271494,
+      "lng": 134.245125,
+      "geocoding_level": 3,
+      "phone": "0858-75-3128",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "智頭宿因",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "八頭郡智頭町智頭５４５",
+      "lat": 35.271494,
+      "lng": 134.245125,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ちづのお惣菜屋さん　ころっけ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "八頭郡智頭町智頭１８２０",
+      "lat": 35.271494,
+      "lng": 134.245125,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "花の舎",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "八頭郡智頭町智頭５５０",
+      "lat": 35.271494,
+      "lng": 134.245125,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "花の舎",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "八頭郡智頭町智頭５５０",
+      "lat": 35.271494,
+      "lng": 134.245125,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "タルマーリー　ビール工房",
+      "name_kana": "",
+      "business_type": "酒類製造業",
+      "address": "八頭郡智頭町智頭７４１－８",
+      "lat": 35.271494,
+      "lng": 134.245125,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

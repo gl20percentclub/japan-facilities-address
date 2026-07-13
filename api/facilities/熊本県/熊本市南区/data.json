@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "別府　達郎",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "熊本市南区城南町舞原１３８８－１ （鹿児島市を除く県内一円）",
+      "lat": 32.714499079,
+      "lng": 130.751801136,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第037-000297号",
+      "license_date": null,
+      "expire_date": "2032-01-31"
+    }
+  ]
+}

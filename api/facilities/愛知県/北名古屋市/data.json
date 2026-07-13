@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,32 @@
     ]
   },
   "data": [
+    {
+      "name": "井口　美穂",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "北名古屋市片場天王森１３",
+      "lat": 35.245657,
+      "lng": 136.865961,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8清保第31-2号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社サンブルー",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "北名古屋市宇福寺天神２３２",
+      "lat": 35.245657,
+      "lng": 136.865961,
+      "geocoding_level": 2,
+      "phone": "0568-58-1755",
+      "license_no": "8清保第1-10号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　西春店",
       "name_kana": "ブイ・ドラッグ　ニシハルテン",

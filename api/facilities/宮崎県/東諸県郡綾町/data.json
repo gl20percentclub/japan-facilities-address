@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,32 @@
     ]
   },
   "data": [
+    {
+      "name": "池田　明",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県東諸県郡綾町入野３５８１－１ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 32.001070982,
+      "lng": 131.26461578,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第034-000154号",
+      "license_date": null,
+      "expire_date": "2027-04-30"
+    },
+    {
+      "name": "池田　明",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県東諸県郡綾町入野3581-1 （鹿児島市を除く県内一円）",
+      "lat": 32.001070982,
+      "lng": 131.26461578,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第033-000074号",
+      "license_date": null,
+      "expire_date": "2026-07-31"
+    },
     {
       "name": "マックスバリュ綾店",
       "name_kana": "マックスバリュアヤテン",

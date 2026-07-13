@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "富山県食品営業許可施設一覧",
+        "license": "CC BY"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "sino",
+      "name_kana": "",
+      "business_type": "1",
+      "address": "南砺市 城端648-1",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

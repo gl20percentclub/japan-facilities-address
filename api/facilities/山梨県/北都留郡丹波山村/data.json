@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "山梨県営業許可施設一覧",
+        "license": "CC BY 2.1 JP"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,149 @@
     ]
   },
   "data": [
+    {
+      "name": "そば処　やまびこ庵",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県北都留郡丹波山村字カラス沢1243",
+      "lat": 35.79174,
+      "lng": 138.917769,
+      "geocoding_level": 2,
+      "phone": "(0554)88-0700",
+      "license_no": "3763",
+      "license_date": null,
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "由香里荘",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県北都留郡丹波山村2489",
+      "lat": 35.79174,
+      "lng": 138.917769,
+      "geocoding_level": 2,
+      "phone": "(0554)88-0624",
+      "license_no": "2291",
+      "license_date": null,
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "亀泉庵",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県北都留郡丹波山村1954-2",
+      "lat": 35.79174,
+      "lng": 138.917769,
+      "geocoding_level": 2,
+      "phone": "(0554)88-0832",
+      "license_no": "3474",
+      "license_date": null,
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "丹波山温泉　のめこい湯　温泉レストラン",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県北都留郡丹波山村778-2",
+      "lat": 35.79174,
+      "lng": 138.917769,
+      "geocoding_level": 2,
+      "phone": "(0554)88-0026",
+      "license_no": "5218",
+      "license_date": null,
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "きのしたベーカリー",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県北都留郡丹波山村2074",
+      "lat": 35.79174,
+      "lng": 138.917769,
+      "geocoding_level": 2,
+      "phone": "(0554)88-0620",
+      "license_no": "2164",
+      "license_date": null,
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "木洩れ日。",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県北都留郡丹波山村4945-7",
+      "lat": 35.79174,
+      "lng": 138.917769,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "2270",
+      "license_date": null,
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "丹波山村　農林水産物加工所",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "山梨県北都留郡丹波山村1243",
+      "lat": 35.79174,
+      "lng": 138.917769,
+      "geocoding_level": 2,
+      "phone": "(0554)88-0800",
+      "license_no": "2523",
+      "license_date": null,
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "丹波山村　農林水産物加工所",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "山梨県北都留郡丹波山村1243",
+      "lat": 35.79174,
+      "lng": 138.917769,
+      "geocoding_level": 2,
+      "phone": "(0554)88-0800",
+      "license_no": "2523",
+      "license_date": null,
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "丹波山村　農林水産物加工所",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県北都留郡丹波山村1243",
+      "lat": 35.79174,
+      "lng": 138.917769,
+      "geocoding_level": 2,
+      "phone": "(0554)88-0800",
+      "license_no": "2523",
+      "license_date": null,
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "民宿ふるさと",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県北都留郡丹波山村2542",
+      "lat": 35.79174,
+      "lng": 138.917769,
+      "geocoding_level": 2,
+      "phone": "(0554)88-0626",
+      "license_no": "6212",
+      "license_date": null,
+      "expire_date": "2027-07-31"
+    },
+    {
+      "name": "農家民宿　灯里",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県北都留郡丹波山村2557",
+      "lat": 35.79174,
+      "lng": 138.917769,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "10219",
+      "license_date": null,
+      "expire_date": "2027-07-31"
+    },
     {
       "name": "道の駅たばやま　農産物直売所",
       "name_kana": "ミチノエキタバヤマ　ノウサンブツチョクバイジョ",

@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,84 @@
     ]
   },
   "data": [
+    {
+      "name": "大塚　隆広",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "北諸県郡三股町樺山５２３１－４ （鹿児島市を除く県内一円）",
+      "lat": 31.740896185,
+      "lng": 131.10873651,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第034-000071号",
+      "license_date": null,
+      "expire_date": "2028-07-31"
+    },
+    {
+      "name": "永吉　勇二",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "北諸県郡三股町大字餅原３０６－１ （鹿児島市を除く県内一円）",
+      "lat": 31.753764999999998,
+      "lng": 131.127536,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第034-000115号",
+      "license_date": null,
+      "expire_date": "2027-07-31"
+    },
+    {
+      "name": "河合　栄子",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県北諸県郡三股町樺山4604-17 （鹿児島市を除く県内一円）",
+      "lat": 31.733375196999997,
+      "lng": 131.115992219,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第033-000072号",
+      "license_date": null,
+      "expire_date": "2026-07-31"
+    },
+    {
+      "name": "平内　忠雄",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県北諸県郡三股町大字樺山花見原４８４３－９ （鹿児島市を除く県内一円）",
+      "lat": 31.710693,
+      "lng": 131.145113,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第035-000144号",
+      "license_date": null,
+      "expire_date": "2028-07-31"
+    },
+    {
+      "name": "三坂　猛",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "北諸県郡三股町樺山２８３８－１ （鹿児島市を除く県内一円）",
+      "lat": 31.725766507000003,
+      "lng": 131.132770518,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第036-000106号",
+      "license_date": null,
+      "expire_date": "2029-04-30"
+    },
+    {
+      "name": "永吉　勇二",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "北諸県郡三股町大字餅原３０６－１ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 31.753764999999998,
+      "lng": 131.127536,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第034-000114号",
+      "license_date": null,
+      "expire_date": "2027-07-31"
+    },
     {
       "name": "ダイソー　宮崎三股店",
       "name_kana": "ダイソー　ミヤザキミマタテン",

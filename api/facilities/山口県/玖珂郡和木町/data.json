@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "山口県食品営業許可施設情報一覧",
+        "license": "CC BY"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,123 @@
     ]
   },
   "data": [
+    {
+      "name": "一般社団法人　和木町地域振興協会　ポニーサイドカフェ",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県玖珂郡和木町瀬田173番4",
+      "lat": 34.195286602,
+      "lng": 132.220295809,
+      "geocoding_level": 8,
+      "phone": "0827-28-4666",
+      "license_no": "",
+      "license_date": "2021-03-18",
+      "expire_date": null
+    },
+    {
+      "name": "株式会社丸久　和木店",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県玖珂郡和木町和木四丁目1-5-6",
+      "lat": 34.205185,
+      "lng": 132.227553,
+      "geocoding_level": 3,
+      "phone": "0827-52-3423",
+      "license_no": "",
+      "license_date": "2021-02-16",
+      "expire_date": null
+    },
+    {
+      "name": "三井化学㈱岩国大竹工場従業員食堂内売店",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県玖珂郡和木町和木6丁目1-2三井化学株式会社岩国大竹工場従業員食堂内",
+      "lat": 34.203505,
+      "lng": 132.238556,
+      "geocoding_level": 3,
+      "phone": "0823-53-9017",
+      "license_no": "",
+      "license_date": "2021-03-30",
+      "expire_date": null
+    },
+    {
+      "name": "一般社団法人　和木町地域振興協会　ポニーサイドカフェ",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県玖珂郡和木町瀬田173番4",
+      "lat": 34.195286602,
+      "lng": 132.220295809,
+      "geocoding_level": 8,
+      "phone": "0827-28-4666",
+      "license_no": "",
+      "license_date": "2021-03-18",
+      "expire_date": null
+    },
+    {
+      "name": "ＺＯＮＡ　ＩＴＡＬＩＡ　蜂ヶ峯店",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県玖珂郡和木町瀬田173番地5蜂ヶ峯総合公園",
+      "lat": 34.19519956900001,
+      "lng": 132.220778475,
+      "geocoding_level": 8,
+      "phone": "0827-28-6660",
+      "license_no": "",
+      "license_date": "2021-03-12",
+      "expire_date": null
+    },
+    {
+      "name": "はっちの家",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県玖珂郡和木町瀬田字紺屋作261-1",
+      "lat": 34.191974,
+      "lng": 132.215624,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": "2021-03-30",
+      "expire_date": null
+    },
+    {
+      "name": "一般社団法人　和木町地域振興協会　ポニーサイドカフェ",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県玖珂郡和木町瀬田173番4",
+      "lat": 34.195286602,
+      "lng": 132.220295809,
+      "geocoding_level": 8,
+      "phone": "0827-28-4666",
+      "license_no": "",
+      "license_date": "2021-03-18",
+      "expire_date": null
+    },
+    {
+      "name": "株式会社丸久　和木店",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県玖珂郡和木町和木四丁目1-5-6",
+      "lat": 34.205185,
+      "lng": 132.227553,
+      "geocoding_level": 3,
+      "phone": "0827-52-3423",
+      "license_no": "",
+      "license_date": "2021-02-16",
+      "expire_date": null
+    },
+    {
+      "name": "株式会社丸久　和木店",
+      "name_kana": "",
+      "business_type": "",
+      "address": "山口県玖珂郡和木町和木四丁目1-5-6",
+      "lat": 34.205185,
+      "lng": 132.227553,
+      "geocoding_level": 3,
+      "phone": "0827-52-3423",
+      "license_no": "",
+      "license_date": "2021-02-16",
+      "expire_date": null
+    },
     {
       "name": "m12576a",
       "name_kana": "エムイチニゴナナロクエー",

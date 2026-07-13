@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "名古屋市 【名古屋市】食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "スーパーヤマダイ 呼続店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "名古屋市南区呼続一丁目１１番１７号",
+      "lat": 35.112367984,
+      "lng": 136.926121255,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7南保管第1-85号",
+      "license_date": "2025-06-20",
+      "expire_date": null
+    },
+    {
+      "name": "スーパーヤマダイ 呼続店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市南区呼続一丁目１１番１７号",
+      "lat": 35.112367984,
+      "lng": 136.926121255,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7南保管第1-86号",
+      "license_date": "2025-06-20",
+      "expire_date": null
+    },
+    {
+      "name": "スーパーヤマダイ 呼続店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "名古屋市南区呼続一丁目１１番１７号",
+      "lat": 35.112367984,
+      "lng": 136.926121255,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7南保管第1-84号",
+      "license_date": "2025-06-20",
+      "expire_date": null
+    },
+    {
+      "name": "ローソン南区芝町店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市南区芝町３０番地",
+      "lat": 35.09741,
+      "lng": 136.94541400000003,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7南保管第1-67号",
+      "license_date": "2025-06-12",
+      "expire_date": null
+    },
+    {
+      "name": "it's",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市南区呼続一丁目３番９号　サンコート呼続　２号",
+      "lat": 35.113590875,
+      "lng": 136.929240184,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7南保管第1-20号",
+      "license_date": "2025-06-13",
+      "expire_date": null
+    },
+    {
+      "name": "DIANDI",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市南区前浜通７丁目３２番地　蝶屋ビル　１階",
+      "lat": 35.098953,
+      "lng": 136.934122,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7南保管第1-74号",
+      "license_date": "2025-06-16",
+      "expire_date": null
+    },
+    {
+      "name": "DIANDI",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "名古屋市南区前浜通７丁目３２番地　蝶屋ビル　１階",
+      "lat": 35.098953,
+      "lng": 136.934122,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7南保管第1-75号",
+      "license_date": "2025-06-16",
+      "expire_date": null
+    },
+    {
+      "name": "冨来天",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市南区泉楽通３丁目５７番地　中央ショッピ内",
+      "lat": 35.098994,
+      "lng": 136.904812,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7南保管第1-68号",
+      "license_date": "2025-06-18",
+      "expire_date": null
+    },
+    {
+      "name": "ヒョンジェ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市南区道徳通１丁目１０番地　藤和道徳サンコープ１０４",
+      "lat": 35.100238,
+      "lng": 136.902897,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7南保管第1-87号",
+      "license_date": "2025-06-20",
+      "expire_date": null
+    },
+    {
+      "name": "てんてん食堂",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市南区豊田四丁目９番４７号　アピタ名古屋南店 1F",
+      "lat": 35.102272876,
+      "lng": 136.913311961,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7南保管第1-88号",
+      "license_date": "2025-06-23",
+      "expire_date": null
+    },
+    {
+      "name": "㈱鮮魚丸忠　アピタ名古屋南店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市南区豊田四丁目９番４７号",
+      "lat": 35.102272876,
+      "lng": 136.913311961,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7南保管第1-82号",
+      "license_date": "2025-06-23",
+      "expire_date": null
+    },
+    {
+      "name": "㈱鮮魚丸忠　アピタ名古屋南店",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "名古屋市南区豊田四丁目９番４７号",
+      "lat": 35.102272876,
+      "lng": 136.913311961,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7南保管第1-83号",
+      "license_date": "2025-06-23",
+      "expire_date": null
+    },
+    {
+      "name": "私の酒場　ゼロイチ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市南区平子二丁目２２番１０号",
+      "lat": 35.111309356,
+      "lng": 136.945342515,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7南保管第1-76号",
+      "license_date": "2025-06-25",
+      "expire_date": null
+    },
+    {
+      "name": "おひつごはん四六時中新瑞橋店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市南区菊住一丁目７番１０号　イオン新瑞橋店３F",
+      "lat": 35.114678945,
+      "lng": 136.936884965,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7南保管第1-89号",
+      "license_date": "2025-06-27",
+      "expire_date": null
+    }
+  ]
+}

@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,58 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社　モトムラ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "東栄町大字下田字追分８番地１",
+      "lat": 35.07693,
+      "lng": 137.697833,
+      "geocoding_level": 2,
+      "phone": "0536-76-1151",
+      "license_no": "8新保第4-1号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　モトムラ",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "東栄町大字下田字追分８番地１",
+      "lat": 35.07693,
+      "lng": 137.697833,
+      "geocoding_level": 2,
+      "phone": "0536-76-1151",
+      "license_no": "8新保第4-2号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "大林　勝敏",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "東栄町大字下田字和手貝津１－１乙",
+      "lat": 35.07693,
+      "lng": 137.697833,
+      "geocoding_level": 2,
+      "phone": "0536-76-0046",
+      "license_no": "8新保第3-3号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "竹内　政人",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "東栄町大字本郷字西万場６番地２",
+      "lat": 35.07693,
+      "lng": 137.697833,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8新保第3-12号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "ゲンキー東栄本郷店",
       "name_kana": "ゲンキートウエイホンゴウテン",

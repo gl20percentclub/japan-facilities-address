@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,84 @@
     ]
   },
   "data": [
+    {
+      "name": "フレンズパン協業組合",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "常滑市金山字前田１４１",
+      "lat": 34.896051,
+      "lng": 136.854495,
+      "geocoding_level": 2,
+      "phone": "0569-44-4222",
+      "license_no": "8知保第61-2号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ファミリーマート",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "常滑市字古社１",
+      "lat": 34.890375,
+      "lng": 136.85133,
+      "geocoding_level": 3,
+      "phone": "0569-36-3651",
+      "license_no": "8知保第1-22号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社イシハラフード",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "常滑市市場町２－１",
+      "lat": 34.882372,
+      "lng": 136.841541,
+      "geocoding_level": 3,
+      "phone": "0569-35-5355",
+      "license_no": "8知保第40-3号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社イシハラフード",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "常滑市市場町２－１",
+      "lat": 34.882372,
+      "lng": 136.841541,
+      "geocoding_level": 3,
+      "phone": "0569-35-5355",
+      "license_no": "8知保第41-3号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "合同会社井上屋",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "常滑市錦町３－５１１",
+      "lat": 34.896232442,
+      "lng": 136.836895821,
+      "geocoding_level": 8,
+      "phone": "0569-35-2014",
+      "license_no": "8知保第35-26号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社サンデーフォークマネージメント",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "常滑市セントレア４－２－３",
+      "lat": 34.86426,
+      "lng": 136.819148,
+      "geocoding_level": 3,
+      "phone": "0569-38-9392",
+      "license_no": "8知保第35-24号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　常滑店",
       "name_kana": "ブイ・ドラッグ　トコナメテン",

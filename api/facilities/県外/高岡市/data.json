@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "富山県食品営業許可施設一覧",
+        "license": "CC BY"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "アルビスとくし丸13号",
+      "name_kana": "",
+      "business_type": "行商",
+      "address": "富山県内一円",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "190145",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

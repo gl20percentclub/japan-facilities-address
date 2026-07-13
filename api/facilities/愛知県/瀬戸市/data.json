@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,71 @@
     ]
   },
   "data": [
+    {
+      "name": "天水　雅也",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "瀬戸市塩草が丘１－２０３",
+      "lat": 35.22362,
+      "lng": 137.084117,
+      "geocoding_level": 2,
+      "phone": "0561-42-7714",
+      "license_no": "8瀬保第1-31号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "浅井　康央",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "瀬戸市太子町１８１",
+      "lat": 35.217525,
+      "lng": 137.122142,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8瀬保第1-19号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社丸亀製麺",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "瀬戸市見付町５２－２",
+      "lat": 35.2187552,
+      "lng": 137.07947073,
+      "geocoding_level": 8,
+      "phone": "0561-84-4411",
+      "license_no": "8瀬保第1-26号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ロドリゲス　ルシアナ",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "瀬戸市山口町２７７",
+      "lat": 35.199032718,
+      "lng": 137.10223013,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "8瀬保第4-4号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "金泉株式会社",
+      "name_kana": "",
+      "business_type": "漬物製造業",
+      "address": "瀬戸市南山町２－５１",
+      "lat": 35.22126216,
+      "lng": 137.062365811,
+      "geocoding_level": 8,
+      "phone": "0561-84-6110",
+      "license_no": "8瀬保第8-1号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　瀬戸南店",
       "name_kana": "ブイ・ドラッグ　セトミナミテン",

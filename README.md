@@ -13,17 +13,17 @@
 以下はクロール（`npm run build`）のたびに自動更新されます。ファイルサイズは目安です。
 
 <!-- STATS:START -->
-> **最終更新: 2026-07-09**
+> **最終更新: 2026-07-13**
 >
 > | 項目 | 値 |
 > |---|---|
-> | 施設レコード数 | 705,914 件 |
-> | ユニーク施設数（名前+座標） | 576,202 件 |
-> | 都道府県 | 47 |
-> | 市区町村 | 1,872 |
-> | `api/` 合計サイズ | 約 366.6 MB |
-> | `data.json` 合計 | 約 305.3 MB |
-> | `search-index.json` | 約 61.1 MB |
+> | 施設レコード数 | 1,456,230 件 |
+> | ユニーク施設数（名前+座標） | 1,105,353 件 |
+> | 都道府県 | 52 |
+> | 市区町村 | 1,981 |
+> | `api/` 合計サイズ | 約 699.2 MB |
+> | `data.json` 合計 | 約 584.8 MB |
+> | `search-index.json` | 約 3 KB |
 <!-- STATS:END -->
 
 ## API 構造
@@ -43,24 +43,43 @@ api/
             └── data.json
 ```
 
-### `search-index.json`（施設名検索用）
+### `search-index.json`（施設名検索用・都道府県別分割）
 
-施設名で横断検索したい利用側（地図アプリ等）向けの軽量な索引。各 `data.json` を
-個別に読むと重い（合計〜14MB）ため、検索に必要な項目だけを配列形式で 1 ファイルに
-まとめています（gzip 配信で数百KB 程度）。`npm run build:search-index` で再生成、
-クロール時（`npm run build`）にも自動生成されます。
+施設名で横断検索したい利用側（地図アプリ等）向けの軽量な索引。検索に必要な項目だけを
+配列形式で持ちます。データ量増加で単一ファイルが GitHub の 100MB/ファイル上限に近づくため、
+**都道府県ごとに分割**し、トップにマニフェストを置きます。
 
+```
+api/
+├── search-index.json          # マニフェスト（都道府県一覧・件数・schema・各shardのパス）
+└── search-index/
+    ├── 東京都.json             # { meta, data:[[name, address, lat, lng, level], ...] }
+    ├── 大阪府.json
+    └── …
+```
+
+**マニフェスト `search-index.json`**:
 ```json
 {
-  "meta": { "updated": 1700000000, "count": 26374, "schema": ["name", "address", "lat", "lng", "level"] },
-  "data": [
-    ["ココストアうるま江洲店", "うるま市江洲３９８番地", 26.350128, 127.825863, 8]
+  "meta": { "updated": 1700000000, "count": 576220, "schema": ["name", "address", "lat", "lng", "level"] },
+  "prefectures": [
+    { "name": "東京都", "count": 41234, "file": "search-index/東京都.json" }
   ]
+}
+```
+
+**各 shard `search-index/{都道府県}.json`**:
+```json
+{
+  "meta": { "updated": 1700000000, "count": 41234, "schema": ["name", "address", "lat", "lng", "level"] },
+  "data": [ ["ステーキハウス○○", "港区松山1-9-9", 35.665, 139.75, 8] ]
 }
 ```
 
 - 各行は `meta.schema` の順（`name, address, lat, lng, level`）。
 - 同一施設（業種違いで複数行）は `名前+座標` で重複排除済み。座標を持つ施設のみ収録。
+- 利用側はマニフェストを読み、必要な都道府県 shard を取得。全国横断検索は全 shard を連結。
+- `npm run build:search-index` で再生成、クロール時（`npm run build`）にも自動生成されます。
 
 ### `index.json`
 

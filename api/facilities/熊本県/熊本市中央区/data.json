@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "丸山　清一郎",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "熊本市中央区島崎1丁目2-30-401 （鹿児島市を除く県内一円）",
+      "lat": 32.806399,
+      "lng": 130.693008,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第035-000082号",
+      "license_date": null,
+      "expire_date": "2028-07-31"
+    },
+    {
+      "name": "山崎　祐司",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "熊本市中央区南熊本１丁目４－１１－２０１ （鹿児島市を除く県内一円）",
+      "lat": 32.790498,
+      "lng": 130.711309,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第035-000275号",
+      "license_date": null,
+      "expire_date": "2030-01-31"
+    },
+    {
+      "name": "三浦　智大",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "熊本市中央区黒髪２丁目３３－４ （鹿児島市を除く県内一円）",
+      "lat": 32.813832002,
+      "lng": 130.723983551,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第036-000402号",
+      "license_date": null,
+      "expire_date": "2031-04-30"
+    },
+    {
+      "name": "緒方　勇斗",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "熊本県熊本市中央区帯山３－４７－１４ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 32.797713692,
+      "lng": 130.752975334,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第036-000942号",
+      "license_date": null,
+      "expire_date": "2031-04-30"
+    },
+    {
+      "name": "長野　泰典",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "熊本市中央区保田窪１－２－５－５０３ （鹿児島市を除く県内一円）",
+      "lat": 32.805702,
+      "lng": 130.742166,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第037-000410号",
+      "license_date": null,
+      "expire_date": "2030-10-31"
+    }
+  ]
+}

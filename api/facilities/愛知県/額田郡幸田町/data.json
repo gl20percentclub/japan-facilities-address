@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,32 @@
     ]
   },
   "data": [
+    {
+      "name": "マルテツフーズ株式会社",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "幸田町大字大草字丸山６０",
+      "lat": 34.864425,
+      "lng": 137.165667,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8西保第251-15号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "佐野　修三",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "幸田町大字六栗字中屋敷９－２・１０－１",
+      "lat": 34.864425,
+      "lng": 137.165667,
+      "geocoding_level": 2,
+      "phone": "62-4257",
+      "license_no": "8西保第281-22号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "NPO法人　ももの木保育園",
       "name_kana": "エヌピーオーホウジン　モモノキホイクエン",

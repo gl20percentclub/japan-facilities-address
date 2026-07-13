@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,19 @@
     ]
   },
   "data": [
+    {
+      "name": "甲斐　英昭",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県児湯郡都農町大字川北３９４８－１３ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 32.253342241,
+      "lng": 131.567999043,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第037-000137号",
+      "license_date": null,
+      "expire_date": "2031-04-30"
+    },
     {
       "name": "Aコープ都農店",
       "name_kana": "エーコープツノテン",

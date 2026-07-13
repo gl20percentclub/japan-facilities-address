@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "名古屋市 【名古屋市】食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "株式会社ライフメイト",
+      "name_kana": "",
+      "business_type": "冷凍食品製造業",
+      "address": "名古屋市中川区二女子町２丁目７４番地",
+      "lat": 35.145494,
+      "lng": 136.880286,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-63号",
+      "license_date": "2025-06-20",
+      "expire_date": null
+    },
+    {
+      "name": "プチ・ポンレヴェック　野田店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市中川区野田一丁目３２３番地　コーポニュー中川　１０Ｂ号",
+      "lat": 35.143245,
+      "lng": 136.847108,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-62号",
+      "license_date": "2025-06-24",
+      "expire_date": null
+    },
+    {
+      "name": "元祖やきとり家美濃路八熊通店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市中川区八熊通６丁目７４番地",
+      "lat": 35.140927,
+      "lng": 136.879615,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-46号",
+      "license_date": "2025-06-04",
+      "expire_date": null
+    },
+    {
+      "name": "Kutumba Indian and Nepali Restaurant",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市中川区西日置町１０丁目１１２番地の２",
+      "lat": 35.157633,
+      "lng": 136.885169,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-45号",
+      "license_date": "2025-06-10",
+      "expire_date": null
+    },
+    {
+      "name": "ラーメン山岡家　名古屋太平通店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市中川区太平通５丁目４０番地",
+      "lat": 35.131812,
+      "lng": 136.869062,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-48号",
+      "license_date": "2025-06-12",
+      "expire_date": null
+    },
+    {
+      "name": "ぎょうざのさのや",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市中川区中野本町２丁目２番地",
+      "lat": 35.131742,
+      "lng": 136.880353,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-31号",
+      "license_date": "2025-06-06",
+      "expire_date": null
+    },
+    {
+      "name": "（株）桜山フードプランニング　アースサポート名古屋中川事業所",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市中川区五女子町３丁目４３番地　アースサポート名古屋中川デイサービスセンター内厨房",
+      "lat": 35.143367,
+      "lng": 136.882281,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-44号",
+      "license_date": "2025-06-06",
+      "expire_date": null
+    },
+    {
+      "name": "合資会社林製麺所",
+      "name_kana": "",
+      "business_type": "麺類製造業",
+      "address": "名古屋市中川区荒江町２７番１２号",
+      "lat": 35.143311287,
+      "lng": 136.884843737,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "7中川保健第1-42号",
+      "license_date": "2025-06-11",
+      "expire_date": null
+    },
+    {
+      "name": "セブン‐イレブン名古屋外新町３丁目店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市中川区外新町３丁目１番地の１０",
+      "lat": 35.128332,
+      "lng": 136.880604,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-57号",
+      "license_date": "2025-06-13",
+      "expire_date": null
+    },
+    {
+      "name": "Showa　ジビエ",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "名古屋市中川区江松三丁目４４７番地",
+      "lat": 35.123105,
+      "lng": 136.824709,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-51号",
+      "license_date": "2025-06-18",
+      "expire_date": null
+    },
+    {
+      "name": "珈琲屋らんぷ中川二女子店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市中川区二女子町５丁目３６番地",
+      "lat": 35.143585,
+      "lng": 136.879727,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-53号",
+      "license_date": "2025-06-18",
+      "expire_date": null
+    },
+    {
+      "name": "パティスリー　カルチェ・ラタン",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "名古屋市中川区十番町２丁目４番地",
+      "lat": 35.123838,
+      "lng": 136.882306,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-72号",
+      "license_date": "2025-06-27",
+      "expire_date": null
+    },
+    {
+      "name": "パティスリー　カルチェ・ラタン",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市中川区十番町２丁目４番地",
+      "lat": 35.123838,
+      "lng": 136.882306,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-71号",
+      "license_date": "2025-06-27",
+      "expire_date": null
+    },
+    {
+      "name": "BENZAITEN　Cafe",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市中川区高畑五丁目１５６番地の１",
+      "lat": 35.144839,
+      "lng": 136.851188,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7中川保健第1-80号",
+      "license_date": "2025-06-27",
+      "expire_date": null
+    }
+  ]
+}

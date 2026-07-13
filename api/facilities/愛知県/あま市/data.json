@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,84 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社加とう",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "あま市七宝町下田莪原裏１４８３番地１",
+      "lat": 35.188266,
+      "lng": 136.803703,
+      "geocoding_level": 2,
+      "phone": "052-441-5730",
+      "license_no": "8津保第31-10号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社加とう",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "あま市七宝町下田莪原裏１４８５番地１",
+      "lat": 35.188266,
+      "lng": 136.803703,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8津保第31-9号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "祖父江　文子",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "あま市富塚二反地１３－１",
+      "lat": 35.188266,
+      "lng": 136.803703,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8津保第1-34号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "松本　春音",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "あま市下萱津九反田４５",
+      "lat": 35.188266,
+      "lng": 136.803703,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8津保第1-9号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "宮嵜　泰匡",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "あま市甚目寺東大門５－２",
+      "lat": 35.188266,
+      "lng": 136.803703,
+      "geocoding_level": 2,
+      "phone": "052-444-0352",
+      "license_no": "8津保第31-8号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "宮嵜　泰匡",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "あま市甚目寺東大門５－２",
+      "lat": 35.188266,
+      "lng": 136.803703,
+      "geocoding_level": 2,
+      "phone": "052-444-0352",
+      "license_no": "8津保第8-4号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　甚目寺西店",
       "name_kana": "ブイ・ドラッグ　ジモクジニシテン",

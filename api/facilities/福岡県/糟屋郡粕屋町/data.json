@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,19 @@
     ]
   },
   "data": [
+    {
+      "name": "永島　清子",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "糟屋郡粕屋町上大隈５４２－４ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 33.630394915,
+      "lng": 130.49310637600001,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第033-000356号",
+      "license_date": null,
+      "expire_date": "2027-10-31"
+    },
     {
       "name": "スポーツクラブ ルネサンス イオンモール福岡",
       "name_kana": "スポーツクラブ ルネサンス イオンモールフクオカ",

@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,19 @@
     ]
   },
   "data": [
+    {
+      "name": "青山　香織",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "豊根村下黒川字宮ノ元４８－１",
+      "lat": 35.146394,
+      "lng": 137.719871,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8新保第3-4号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "豊根村立学校給食共同調理場",
       "name_kana": "トヨネソンリツガッコウキュウショクキョウドウチョウリジョウ",

@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,19 @@
     ]
   },
   "data": [
+    {
+      "name": "竹岡　俊則",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "愛西市佐屋町新田７２－２",
+      "lat": 35.152802,
+      "lng": 136.728217,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8津保第1-30号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "MEGAドン・キホーテUNY勝幡店",
       "name_kana": "メガドン・キホーテユニーショバタテン",

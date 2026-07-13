@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,58 @@
     ]
   },
   "data": [
+    {
+      "name": "森　康樹",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "高浜市小池町５－６－２７",
+      "lat": 34.94447,
+      "lng": 136.996187,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7衣保第3-54号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "富谷　陽生",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "高浜市湯山町４－８－４",
+      "lat": 34.934696,
+      "lng": 136.998742,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8衣保第1-32号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ＴＲ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "高浜市神明町７丁目１３－２",
+      "lat": 34.932862,
+      "lng": 137.001945,
+      "geocoding_level": 3,
+      "phone": "0566-52-2003",
+      "license_no": "8衣保第1-38号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "森垣　有子",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "高浜市田戸町三丁目６－１２",
+      "lat": 34.912781,
+      "lng": 136.986636,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8衣保第1-27号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "養護老人ホーム高浜安立",
       "name_kana": "ヨウゴロウジンホームタカハマアンリュウ",

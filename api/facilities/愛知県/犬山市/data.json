@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,45 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社　末広商店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "犬山市犬山富士見町１５番地６",
+      "lat": 35.378641,
+      "lng": 136.944625,
+      "geocoding_level": 2,
+      "phone": "0568-62-0293",
+      "license_no": "8江保第34-8号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社栗栖観光",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "犬山市大字栗栖字古屋敷４９－５",
+      "lat": 35.408066,
+      "lng": 136.971558,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8江保第1-23号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社　あじか",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "犬山市大字前原字味鹿２８－３",
+      "lat": 35.378641,
+      "lng": 136.944625,
+      "geocoding_level": 2,
+      "phone": "0568-62-5175",
+      "license_no": "8江保第26-1号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　羽黒店",
       "name_kana": "ブイ・ドラッグ　ハグロテン",

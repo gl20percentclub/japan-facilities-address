@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "石川県営業許可施設一覧",
+        "license": "石川県利用規約"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,97 @@
     ]
   },
   "data": [
+    {
+      "name": "ＴＨＥ　ＣＨＥＦ",
+      "name_kana": "",
+      "business_type": "飲食(自動車営業)",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "076-205-6645",
+      "license_no": "石中保第77号",
+      "license_date": "2021-05-11",
+      "expire_date": null
+    },
+    {
+      "name": "竜鳳・宇都宮880あ1869",
+      "name_kana": "",
+      "business_type": "飲食(自動車営業)",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "石中保第80号",
+      "license_date": "2021-05-28",
+      "expire_date": null
+    },
+    {
+      "name": "チャノキカナザワ",
+      "name_kana": "",
+      "business_type": "喫茶(自動車)",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "076-255-6564",
+      "license_no": "石中保第81号",
+      "license_date": "2021-05-31",
+      "expire_date": null
+    },
+    {
+      "name": "アルベロ　ピッツァ",
+      "name_kana": "",
+      "business_type": "飲食(自動車営業)",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "石中保第23号",
+      "license_date": "2021-04-28",
+      "expire_date": null
+    },
+    {
+      "name": "Ｓｏｒａｉｒｏ　Ｐｉｃｎｉｃ",
+      "name_kana": "",
+      "business_type": "飲食(自動車営業)",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "geocoding_level": null,
+      "phone": "",
+      "license_no": "石中保第6号",
+      "license_date": "2021-04-13",
+      "expire_date": null
+    },
+    {
+      "name": "アクアキッチンバンビ 石川400ち7051",
+      "name_kana": "",
+      "business_type": "飲食(自動車営業)",
+      "address": "石川県一円(金沢市を除く)(仕込み:金沢市本町2-20-26 笑禄 田保貴嗣)",
+      "lat": 36.594652,
+      "lng": 136.625725,
+      "geocoding_level": 1,
+      "phone": "",
+      "license_no": "南加保第70号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "アラジン１号車 (石川483い･178)",
+      "name_kana": "",
+      "business_type": "飲食(自動車営業)",
+      "address": "石川県一円（金沢市を除く）(仕込み:符津町ﾚ24-4,AladdinⅡ)",
+      "lat": 36.594652,
+      "lng": 136.625725,
+      "geocoding_level": 1,
+      "phone": "080-30480178",
+      "license_no": "南加保第20号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "賀谷セロファン株式会社",
       "name_kana": "カヤセロファンカブシキガイシャ",

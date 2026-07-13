@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,32 @@
     ]
   },
   "data": [
+    {
+      "name": "合同会社福龍",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "阿久比町大字阿久比字駅前２－７",
+      "lat": 34.932569,
+      "lng": 136.91551200000004,
+      "geocoding_level": 2,
+      "phone": "0569-48-4571",
+      "license_no": "8半保第1-14号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　石川屋",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "阿久比町大字植大字前崎４８",
+      "lat": 34.932569,
+      "lng": 136.91551200000004,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8半保第1-17号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　阿久比店",
       "name_kana": "ブイ・ドラッグ　アグイテン",

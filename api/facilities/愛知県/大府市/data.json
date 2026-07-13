@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,110 @@
     ]
   },
   "data": [
+    {
+      "name": "田口　恵子",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "大府市江端町３－２００－３",
+      "lat": 35.00997000000001,
+      "lng": 136.956473,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8知保第37-4号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "医療法人共和会",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "大府市梶田町２－１２３",
+      "lat": 35.039555,
+      "lng": 136.966018,
+      "geocoding_level": 3,
+      "phone": "0562-46-2222",
+      "license_no": "8知保第35-34号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "木村 徹也",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "大府市共栄町３－３－１０",
+      "lat": 35.043171,
+      "lng": 136.954173,
+      "geocoding_level": 3,
+      "phone": "0562-44-1677",
+      "license_no": "8知保第35-27号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "愛協産業株式会社",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "大府市共和町１－１－１",
+      "lat": 35.039485,
+      "lng": 136.952024,
+      "geocoding_level": 3,
+      "phone": "0562-47-1131",
+      "license_no": "8知保第35-30号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "前田　浩昭",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "大府市中央町７－２５５",
+      "lat": 35.008987,
+      "lng": 136.965821,
+      "geocoding_level": 3,
+      "phone": "0562-47-7701",
+      "license_no": "8知保第35-41号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社SORA　GROUP",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "大府市柊山町６－１５０－１",
+      "lat": 35.019203183,
+      "lng": 136.947207283,
+      "geocoding_level": 8,
+      "phone": "0562-48-3031",
+      "license_no": "8知保第35-29号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社SORA　GROUP",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "大府市柊山町６－１５０－１",
+      "lat": 35.019203183,
+      "lng": 136.947207283,
+      "geocoding_level": 8,
+      "phone": "0562-48-3031",
+      "license_no": "8知保第37-3号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社木曽路",
+      "name_kana": "",
+      "business_type": "冷凍食品製造業",
+      "address": "大府市一屋町３－３６",
+      "lat": 35.021075,
+      "lng": 136.955304,
+      "geocoding_level": 3,
+      "phone": "0562-46-9817",
+      "license_no": "8知保第52-1号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　大府中央店",
       "name_kana": "ブイドラッグ　オオブチュウオウテン",

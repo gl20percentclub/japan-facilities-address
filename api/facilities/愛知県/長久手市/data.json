@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,45 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社ティア",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "長久手市市が洞２－１２０３",
+      "lat": 35.161222861,
+      "lng": 137.031030683,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "8瀬保第1-30号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ドーン　ゴク　トウアン",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "長久手市片平２－２３－１６５",
+      "lat": 35.158729,
+      "lng": 137.031336,
+      "geocoding_level": 3,
+      "phone": "0561-56-1687",
+      "license_no": "8瀬保第1-22号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社東駿",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "長久手市勝入塚５０１",
+      "lat": 35.173811124,
+      "lng": 137.049585259,
+      "geocoding_level": 8,
+      "phone": "0561-57-8616",
+      "license_no": "8瀬保第1-23号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　藤が丘北店",
       "name_kana": "ブイ・ドラッグ　フジガオカキタテン",

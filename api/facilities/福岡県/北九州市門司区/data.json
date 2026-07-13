@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
+      {
+        "source": "北九州市 北九州市　食品衛生法等許可施設一覧",
+        "license": "Creative Commons Attribution"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "有限会社　三幸商事",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "北九州市門司区奥田１－６－１６ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 33.91028076700001,
+      "lng": 130.95587908,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第035-000037号",
+      "license_date": null,
+      "expire_date": "2028-04-30"
+    },
+    {
+      "name": "ななバなな",
+      "name_kana": "",
+      "business_type": "飲食店営業（そうざい）",
+      "address": "北九州市門司区柳町２丁目６‐２１",
+      "lat": 33.902515525,
+      "lng": 130.935206756,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "502-12292",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "ゴルフショップヤマシタ",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市門司区柳原町２‐２１",
+      "lat": 33.897341813,
+      "lng": 130.932621665,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-12006",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "",
+      "name_kana": "",
+      "business_type": "飲食店営業（弁当屋）",
+      "address": "北九州市門司区東門司１丁目１２‐７",
+      "lat": 33.948514537,
+      "lng": 130.970174934,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22158",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "エイト",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市門司区栄町５‐２５",
+      "lat": 33.945220171,
+      "lng": 130.966262386,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-12010",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "スナック　Ｂｌｕｅ　Ｍｏｏｎ",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市門司区栄町７‐１７",
+      "lat": 33.94401622,
+      "lng": 130.965218908,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22169",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "門司港レトロ酒場",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市門司区東港町６‐７２",
+      "lat": 33.948580667,
+      "lng": 130.96379166700004,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22183",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "ラ・メール雅",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "北九州市門司区大里本町２丁目１１‐３３",
+      "lat": 33.908538651,
+      "lng": 130.932540432,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22153",
+      "license_date": null,
+      "expire_date": "2028-05-31"
+    },
+    {
+      "name": "ラ・メール雅",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "北九州市門司区大里本町２丁目１１‐３３",
+      "lat": 33.908538651,
+      "lng": 130.932540432,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22154",
+      "license_date": null,
+      "expire_date": "2028-05-31"
+    },
+    {
+      "name": "Ｈａｒｕｍｅ　Ｃｏｆｆｅｅ",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市門司区柳町１丁目４‐２９",
+      "lat": 33.904867766,
+      "lng": 130.935895459,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22165",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "ラブリー",
+      "name_kana": "",
+      "business_type": "飲食店営業（弁当屋）",
+      "address": "北九州市門司区栄町７‐２３",
+      "lat": 33.94404115,
+      "lng": 130.964756757,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22157",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "茶処　ムネの木",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市門司区吉志７丁目１６‐１",
+      "lat": 33.870134653,
+      "lng": 130.965433328,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22104",
+      "license_date": null,
+      "expire_date": "2026-05-31"
+    },
+    {
+      "name": "ハヤシ",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市門司区大里戸ノ上１丁目４‐１１",
+      "lat": 33.905902948,
+      "lng": 130.93780534,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22048",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "麺遊商店",
+      "name_kana": "",
+      "business_type": "飲食店営業（弁当屋）",
+      "address": "北九州市門司区柄杓田町１３",
+      "lat": 33.906892,
+      "lng": 130.992365,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "503-22216",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "ＭＯＧＵ×ＭＯＧＵ",
+      "name_kana": "",
+      "business_type": "飲食店営業（弁当屋）",
+      "address": "北九州市門司区大久保３丁目５‐８",
+      "lat": 33.9567232,
+      "lng": 130.97984402,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22198",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "門司メディカルセンター",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市門司区東港町３‐１",
+      "lat": 33.950406,
+      "lng": 130.964052,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "503-12011",
+      "license_date": null,
+      "expire_date": "2028-05-31"
+    },
+    {
+      "name": "新門司フェリーターミナル内レストラン",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市門司区新門司北３丁目１‐３０",
+      "lat": 33.882531,
+      "lng": 130.995785,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "503-22225",
+      "license_date": null,
+      "expire_date": "2028-05-31"
+    },
+    {
+      "name": "ｇｉｆｆｆ",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市門司区東本町１丁目１‐２０",
+      "lat": 33.946980217,
+      "lng": 130.966877443,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22232",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,32 @@
     ]
   },
   "data": [
+    {
+      "name": "大月　しづよ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "江南市前飛保町西町１９２",
+      "lat": 35.345756251000005,
+      "lng": 136.854857684,
+      "geocoding_level": 8,
+      "phone": "0587-53-3235",
+      "license_no": "8江保第34-9号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社BK",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "江南市前飛保町緑ケ丘２９２－１",
+      "lat": 35.344668819,
+      "lng": 136.862116357,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "8江保第1-19号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　江南店",
       "name_kana": "ブイ・ドラッグ　コウナンテン",

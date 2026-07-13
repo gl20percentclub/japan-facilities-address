@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,58 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社ファミリーマート",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "豊明市沓掛町田楽ケ窪１－９８",
+      "lat": 35.053756,
+      "lng": 137.013124,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8瀬保第11-4号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ファミリーマート",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "豊明市沓掛町田楽ケ窪１－９８",
+      "lat": 35.053756,
+      "lng": 137.013124,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8瀬保第14-2号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社王将フードサービス",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "豊明市前後町螺貝１３８２－１",
+      "lat": 35.053756,
+      "lng": 137.013124,
+      "geocoding_level": 2,
+      "phone": "0562-97-9149",
+      "license_no": "8瀬保第11-6号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "Ｆｉｎｅ　Ｇｒｏｕｐ株式会社",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "豊明市三崎町高鴨７－７",
+      "lat": 35.052180593,
+      "lng": 137.008469433,
+      "geocoding_level": 8,
+      "phone": "0562-22-1945",
+      "license_no": "8瀬保第11-3号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　豊明店",
       "name_kana": "ブイ・ドラッグ　トヨアケテン",

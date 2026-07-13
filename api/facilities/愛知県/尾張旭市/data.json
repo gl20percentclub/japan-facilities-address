@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,58 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社丸亀製麺",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "尾張旭市北本地ケ原町１－５６",
+      "lat": 35.197147,
+      "lng": 137.032153,
+      "geocoding_level": 3,
+      "phone": "0561-51-1317",
+      "license_no": "8瀬保第1-25号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ＮＡＫＡＪＩＭＡ　ＬＥＮＮＩＥ　ＥＮＲＩＱＵＥＺ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "尾張旭市三郷町栄３",
+      "lat": 35.216145,
+      "lng": 137.052947,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8瀬保第1-29号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "福盛　勇貴",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "尾張旭市瀬戸川町２－８０",
+      "lat": 35.208792,
+      "lng": 137.05602,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8瀬保第1-20号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "特定非営利活動法人さたぱんびん",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "尾張旭市東栄町１－１－４",
+      "lat": 35.218346,
+      "lng": 137.050072,
+      "geocoding_level": 3,
+      "phone": "0561-76-0542",
+      "license_no": "8瀬保第4-5号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　三郷店",
       "name_kana": "ブイ・ドラッグ　サンゴウテン",

@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,32 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社グラッチェフォルテ",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "福岡県筑紫野市山家２９３９－１（鹿児島市を除く県内一円）",
+      "lat": 33.4922945,
+      "lng": 130.587024749,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第032-001015号",
+      "license_date": null,
+      "expire_date": "2027-04-30"
+    },
+    {
+      "name": "株式会社ルル",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "福岡県筑紫野市二日市北６－７－６ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 33.503232798,
+      "lng": 130.530540725,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第035-000450号",
+      "license_date": null,
+      "expire_date": "2029-10-31"
+    },
     {
       "name": "LAVA西鉄二日市",
       "name_kana": "ラバニシテツフツカイチ",

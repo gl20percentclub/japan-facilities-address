@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,32 @@
     ]
   },
   "data": [
+    {
+      "name": "林　義博",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "東浦町大字緒川字家下１５－２",
+      "lat": 34.977139,
+      "lng": 136.965569,
+      "geocoding_level": 2,
+      "phone": "0562-83-0500",
+      "license_no": "8半保第2-20号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "森本　修平",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "東浦町大字森岡字前田３４ー２",
+      "lat": 34.977139,
+      "lng": 136.965569,
+      "geocoding_level": 2,
+      "phone": "0562-84-4545",
+      "license_no": "8半保第2-5号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　東浦店",
       "name_kana": "ブイ・ドラッグ　ヒガシウラテン",

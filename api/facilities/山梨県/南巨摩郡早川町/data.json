@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "山梨県営業許可施設一覧",
+        "license": "CC BY 2.1 JP"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,110 @@
     ]
   },
   "data": [
+    {
+      "name": "早川町民会館",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県南巨摩郡早川町保509",
+      "lat": 35.430838,
+      "lng": 138.296955,
+      "geocoding_level": 3,
+      "phone": "(0556)45-2547",
+      "license_no": "3083",
+      "license_date": null,
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "早川町民会館",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "山梨県南巨摩郡早川町保509",
+      "lat": 35.430838,
+      "lng": 138.296955,
+      "geocoding_level": 3,
+      "phone": "(0556)45-2547",
+      "license_no": "3083",
+      "license_date": null,
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "大滝温泉文勝館",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県南巨摩郡早川町大原野420",
+      "lat": 35.474967,
+      "lng": 138.36023,
+      "geocoding_level": 3,
+      "phone": "(0556)48-2144",
+      "license_no": "2985",
+      "license_date": null,
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "増田屋旅館",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県南巨摩郡早川町赤沢1148",
+      "lat": 35.376355,
+      "lng": 138.376465,
+      "geocoding_level": 3,
+      "phone": "(0556)45-2811",
+      "license_no": "3502",
+      "license_date": null,
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "早川町ジビエ処理加工施設",
+      "name_kana": "",
+      "business_type": "食肉処理業",
+      "address": "山梨県南巨摩郡早川町草塩503",
+      "lat": 35.430399,
+      "lng": 138.338805,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "3081",
+      "license_date": null,
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "秘境冒険民宿山人砦",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県南巨摩郡早川町奈良田403",
+      "lat": 35.603208,
+      "lng": 138.276608,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "1731",
+      "license_date": null,
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "匣山　（ｃａｆ?　ジャコウネコ）",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県南巨摩郡早川町薬袋274",
+      "lat": 35.421015,
+      "lng": 138.362571,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "2603",
+      "license_date": null,
+      "expire_date": "2026-09-30"
+    },
+    {
+      "name": "肝心坊",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "山梨県南巨摩郡早川町赤沢1337",
+      "lat": 35.376355,
+      "lng": 138.376465,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "778",
+      "license_date": null,
+      "expire_date": "2026-09-30"
+    },
     {
       "name": "南アルプス　大門沢小屋",
       "name_kana": "ミナミアルプス　ダイモンザワゴヤ",

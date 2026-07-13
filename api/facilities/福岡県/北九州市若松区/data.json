@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
+      {
+        "source": "北九州市 北九州市　食品衛生法等許可施設一覧",
+        "license": "Creative Commons Attribution"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "金丸　勝海",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "福岡県北九州市若松区古前１－１７－７ (鹿児島市を除く県内一円）",
+      "lat": 33.893231898,
+      "lng": 130.797957692,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "第036-000170号",
+      "license_date": null,
+      "expire_date": "2030-10-31"
+    },
+    {
+      "name": "北野屋",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市若松区大字小竹１５０５‐１",
+      "lat": 33.91852514,
+      "lng": 130.749901501,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-22077",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "小路カフェ",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "北九州市若松区白山１丁目２‐１３",
+      "lat": 33.904625382,
+      "lng": 130.803962672,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-42005",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "ＬＩＥＴＯ　Ｂ＆Ｗ",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市若松区赤岩町１３‐１",
+      "lat": 33.888598,
+      "lng": 130.765653,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "503-62080",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "とり庵",
+      "name_kana": "",
+      "business_type": "飲食店営業（弁当屋）",
+      "address": "北九州市若松区小敷ひびきの２丁目１‐３",
+      "lat": 33.890816,
+      "lng": 130.704835,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "503-62060",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "Plaisir～L'atelier de miki～",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "北九州市若松区大井戸町６‐１０",
+      "lat": 33.906366242,
+      "lng": 130.804802454,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-42007",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "四季彩のお弁当屋さん",
+      "name_kana": "",
+      "business_type": "飲食店営業（弁当屋）",
+      "address": "北九州市若松区青葉台南３丁目１‐５",
+      "lat": 33.898751000000004,
+      "lng": 130.693118,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "503-62071",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "旬彩果実松尾商店",
+      "name_kana": "",
+      "business_type": "飲食店営業（一般食堂）",
+      "address": "北九州市若松区本町２丁目２‐１５",
+      "lat": 33.904562533,
+      "lng": 130.80912247,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-42008",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    },
+    {
+      "name": "清香園　高須店",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "北九州市若松区高須東３丁目６‐１",
+      "lat": 33.886678437,
+      "lng": 130.696318741,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "503-62121",
+      "license_date": null,
+      "expire_date": "2027-05-31"
+    }
+  ]
+}

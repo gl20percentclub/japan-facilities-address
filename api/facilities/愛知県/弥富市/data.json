@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,32 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社トーカン",
+      "name_kana": "",
+      "business_type": "密封包装食品製造業",
+      "address": "弥富市五之三町川平１９３－２",
+      "lat": 35.110118,
+      "lng": 136.72472,
+      "geocoding_level": 2,
+      "phone": "0567-65-4121",
+      "license_no": "8津保第27-1号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ＭＰＡ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "弥富市三稲町稲山３９０番地３",
+      "lat": 35.110118,
+      "lng": 136.72472,
+      "geocoding_level": 2,
+      "phone": "0567-68-1190",
+      "license_no": "8津保第1-18号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "株式会社浜乙女　弥富工場",
       "name_kana": "カブシキガイシャハマオトメ　ヤトミコウジョウ",

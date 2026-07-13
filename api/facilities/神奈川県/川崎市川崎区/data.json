@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "株式会社すき家",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "神奈川県川崎市川崎区東扇島６－１０ （鹿児島市を除く県内一円）",
+      "lat": 35.49719,
+      "lng": 139.753955,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第036-000188号",
+      "license_date": null,
+      "expire_date": "2030-10-31"
+    }
+  ]
+}

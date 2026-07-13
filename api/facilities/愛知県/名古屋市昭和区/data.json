@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "名古屋市 【名古屋市】食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "ガスト　広路通店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市昭和区広路通４丁目３番地",
+      "lat": 35.149763,
+      "lng": 136.942195,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-72号",
+      "license_date": "2025-06-18",
+      "expire_date": null
+    },
+    {
+      "name": "Ｊａｒｄｉｎ　ｄｅ　Ｒｈｕｂａｒｂｅ",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "名古屋市昭和区川名山町１４３番地",
+      "lat": 35.146718,
+      "lng": 136.958295,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-75号",
+      "license_date": "2025-06-19",
+      "expire_date": null
+    },
+    {
+      "name": "デリキッチン　ハラタ　川原通店",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "名古屋市昭和区川原通１丁目１５番地　サンライズマンション　１Ｆ",
+      "lat": 35.157323,
+      "lng": 136.952485,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-66号",
+      "license_date": "2025-06-06",
+      "expire_date": null
+    },
+    {
+      "name": "岩田食肉株式会社",
+      "name_kana": "",
+      "business_type": "食肉販売業",
+      "address": "名古屋市昭和区下構町１丁目１番地",
+      "lat": 35.142594,
+      "lng": 136.935032,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-64号",
+      "license_date": "2025-06-03",
+      "expire_date": null
+    },
+    {
+      "name": "夢の蔵　御器所店",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市昭和区御器所通３丁目１８番地　STプラザGOKISO　B1F",
+      "lat": 35.149593,
+      "lng": 136.935902,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-58号",
+      "license_date": "2025-06-04",
+      "expire_date": null
+    },
+    {
+      "name": "ありんこ作業所",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市昭和区塩付通６丁目７４番地",
+      "lat": 35.142699,
+      "lng": 136.937613,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-59号",
+      "license_date": "2025-06-04",
+      "expire_date": null
+    },
+    {
+      "name": "ありんこ作業所",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "名古屋市昭和区塩付通６丁目７４番地",
+      "lat": 35.142699,
+      "lng": 136.937613,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-60号",
+      "license_date": "2025-06-04",
+      "expire_date": null
+    },
+    {
+      "name": "カフェボロン",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市昭和区御器所通３丁目６番地　ごきそダンビル　１階（北西側）",
+      "lat": 35.149593,
+      "lng": 136.935902,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-69号",
+      "license_date": "2025-06-09",
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　高砂本家",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "名古屋市昭和区塩付通４丁目１１番地",
+      "lat": 35.146287,
+      "lng": 136.938151,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-68号",
+      "license_date": "2025-06-06",
+      "expire_date": null
+    },
+    {
+      "name": "Bar Little Bird",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市昭和区石仏町２丁目６番地",
+      "lat": 35.146197,
+      "lng": 136.93732,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-67号",
+      "license_date": "2025-06-09",
+      "expire_date": null
+    },
+    {
+      "name": "川庵",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市昭和区広見町２丁目２１番地５　青雲ビル１０２",
+      "lat": 35.140441,
+      "lng": 136.926997,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-46号",
+      "license_date": "2025-06-11",
+      "expire_date": null
+    },
+    {
+      "name": "やよい",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市昭和区石仏町２丁目１番地３０",
+      "lat": 35.146197,
+      "lng": 136.93732,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-62号",
+      "license_date": "2025-06-11",
+      "expire_date": null
+    },
+    {
+      "name": "気晴亭",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市昭和区檀溪通４丁目５０番地",
+      "lat": 35.142426,
+      "lng": 136.945584,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-65号",
+      "license_date": "2025-06-18",
+      "expire_date": null
+    },
+    {
+      "name": "ＭＫ１１０７０事業所",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "名古屋市昭和区川名町１丁目５番地",
+      "lat": 35.155526,
+      "lng": 136.940465,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "7昭保健第1-76号",
+      "license_date": "2025-06-20",
+      "expire_date": null
+    }
+  ]
+}

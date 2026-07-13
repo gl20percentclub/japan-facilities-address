@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,58 @@
     ]
   },
   "data": [
+    {
+      "name": "本田　郁子",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "東海市東海町１－１０－３",
+      "lat": 35.037658,
+      "lng": 136.899182,
+      "geocoding_level": 3,
+      "phone": "052-603-3736",
+      "license_no": "8知保第35-42号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ニッコクトラスト",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "東海市富木島町東長口５５－４３",
+      "lat": 35.022976,
+      "lng": 136.902229,
+      "geocoding_level": 2,
+      "phone": "052-601-2189",
+      "license_no": "8知保第35-35号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "早川　温夫",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "東海市養父町３－１０",
+      "lat": 35.007151,
+      "lng": 136.887266,
+      "geocoding_level": 3,
+      "phone": "0562-32-1230",
+      "license_no": "8知保第35-31号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社アオイ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "東海市横須賀町浜屋敷２－１５",
+      "lat": 35.022976,
+      "lng": 136.902229,
+      "geocoding_level": 2,
+      "phone": "0562-33-3838",
+      "license_no": "8知保第35-32号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　上野台店",
       "name_kana": "ブイ・ドラッグ　ウエノダイテン",

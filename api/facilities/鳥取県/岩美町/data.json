@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "鳥取市食品等営業許可・届出一覧",
+        "license": "CC BY"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "クガミテラス",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "岩美郡岩美町陸上６０４－３０",
+      "lat": 35.601054055,
+      "lng": 134.366061769,
+      "geocoding_level": 8,
+      "phone": "0857-35-0693",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ＴＥＮ　ＦＯＲＷＡＲＤ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "岩美郡岩美町浦富２４６５－１",
+      "lat": 35.589584148,
+      "lng": 134.325149638,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "海の家　あずまや",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "岩美郡岩美町浦富中浜２４７５－１０",
+      "lat": 35.581898,
+      "lng": 134.326636,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "龍之介",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "岩美郡岩美町大羽尾３４６－９",
+      "lat": 35.604046,
+      "lng": 134.343372,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "おばんざい菜",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "岩美郡岩美町新井３３９－４",
+      "lat": 35.567367734,
+      "lng": 134.326705667,
+      "geocoding_level": 8,
+      "phone": "0857-72-2503",
+      "license_no": "",
+      "license_date": null,
+      "expire_date": null
+    }
+  ]
+}

@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,45 @@
     ]
   },
   "data": [
+    {
+      "name": "竹内　克則",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "南知多町大字内海字内田８８－５",
+      "lat": 34.715169,
+      "lng": 136.929934,
+      "geocoding_level": 2,
+      "phone": "0569-62-0636",
+      "license_no": "8半保第2-32号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "鈴木　重美",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "南知多町大字日間賀島字西浜２５",
+      "lat": 34.715169,
+      "lng": 136.929934,
+      "geocoding_level": 2,
+      "phone": "0569-68-2127",
+      "license_no": "8半保第2-39号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　日間賀荘",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "南知多町大字日間賀島字龍海１５",
+      "lat": 34.715169,
+      "lng": 136.929934,
+      "geocoding_level": 2,
+      "phone": "0569-68-2311",
+      "license_no": "8半保第2-31号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "幸礼化成株式会社",
       "name_kana": "コウレイカセイカブシキガイシャ",

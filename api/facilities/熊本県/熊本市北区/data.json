@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "updated": 1783906731,
+    "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "山村　彰",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "熊本市北区八景水谷２－１７－１ (鹿児島市を除く県内一円）",
+      "lat": 32.84408,
+      "lng": 130.730786,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第036-000361号",
+      "license_date": null,
+      "expire_date": "2031-01-31"
+    }
+  ]
+}

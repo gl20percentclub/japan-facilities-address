@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,71 @@
     ]
   },
   "data": [
+    {
+      "name": "望月　久美",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "知多市新舞子字竜５７－７",
+      "lat": 34.996533,
+      "lng": 136.864755,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8知保第1-28号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ＬｉｇｈｔＨｏｕｓｅ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "知多市大興寺長根８４－４",
+      "lat": 34.996533,
+      "lng": 136.864755,
+      "geocoding_level": 2,
+      "phone": "0562-85-7900",
+      "license_no": "8知保第1-29号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ＩＲＯＤＲＩ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "知多市寺本新町１－１１５",
+      "lat": 34.996034,
+      "lng": 136.87709700000002,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8知保第1-20号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ＩＲＯＤＲＩ",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "知多市寺本新町１－１１５",
+      "lat": 34.996034,
+      "lng": 136.87709700000002,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8知保第5-5号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ＩＲＯＤＲＩ",
+      "name_kana": "",
+      "business_type": "密封包装食品製造業",
+      "address": "知多市寺本新町１－１１５",
+      "lat": 34.996034,
+      "lng": 136.87709700000002,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8知保第27-2号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　知多店",
       "name_kana": "ブイ・ドラッグ　チタテン",

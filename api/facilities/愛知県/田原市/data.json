@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,136 @@
     ]
   },
   "data": [
+    {
+      "name": "岡本 和美",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "田原市赤石四丁目64番地",
+      "lat": 34.663467000000004,
+      "lng": 137.267588,
+      "geocoding_level": 3,
+      "phone": "0531-27-9600",
+      "license_no": "7豊川保第335-496号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社 井筒萬",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "田原市神戸町堀池７８－１",
+      "lat": 34.668972,
+      "lng": 137.26383,
+      "geocoding_level": 2,
+      "phone": "0531-23-3569",
+      "license_no": "7豊川保第335-499号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "岡田　誠",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "田原市田原町汐見１２",
+      "lat": 34.668972,
+      "lng": 137.26383,
+      "geocoding_level": 2,
+      "phone": "0531-27-9877",
+      "license_no": "8豊川保第335-60号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　Oz",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "田原市田原町東大浜１０２－３",
+      "lat": 34.668972,
+      "lng": 137.26383,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "7豊川保第335-495号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社 ホテルクリエイト",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "田原市豊島町道南７番地の１",
+      "lat": 34.668972,
+      "lng": 137.26383,
+      "geocoding_level": 2,
+      "phone": "0531-22-0323",
+      "license_no": "8豊川保第335-51号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "鈴木 保充",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "田原市六連町境川１５０－１",
+      "lat": 34.668972,
+      "lng": 137.26383,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "7豊川保第335-494号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　そら",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "田原市若見町権亟地６２",
+      "lat": 34.668972,
+      "lng": 137.26383,
+      "geocoding_level": 2,
+      "phone": "0531-45-5215",
+      "license_no": "8豊川保第338-3号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "有限会社　浩漁水産",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "田原市江比間町新田３３９番地",
+      "lat": 34.668972,
+      "lng": 137.26383,
+      "geocoding_level": 2,
+      "phone": "",
+      "license_no": "8豊川保第359-1号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "小川　栄市郎",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "田原市福江町天神３２",
+      "lat": 34.668972,
+      "lng": 137.26383,
+      "geocoding_level": 2,
+      "phone": "0531-32-2469",
+      "license_no": "7豊川保第335-500号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "小川　栄市郎",
+      "name_kana": "",
+      "business_type": "魚介類販売業",
+      "address": "田原市福江町天神３２",
+      "lat": 34.668972,
+      "lng": 137.26383,
+      "geocoding_level": 2,
+      "phone": "0531-32-2469",
+      "license_no": "7豊川保第338-27号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "フタムラ化学株式会社　田原開発センター",
       "name_kana": "フタムラカガクカブシキガイシャ　タハラカイハツセンター",

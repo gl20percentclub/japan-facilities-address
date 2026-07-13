@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,97 @@
     ]
   },
   "data": [
+    {
+      "name": "株式会社神島屋",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "小林市堤３３８９－１６ （鹿児島市を除く県内一円）",
+      "lat": 31.965429,
+      "lng": 131.004295,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第034-000253号",
+      "license_date": null,
+      "expire_date": "2028-01-31"
+    },
+    {
+      "name": "新田  弘美",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県小林市細野２２６７ー２ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 31.961666,
+      "lng": 130.948774,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第034-000058号",
+      "license_date": null,
+      "expire_date": "2028-10-31"
+    },
+    {
+      "name": "金﨑　洋幸",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県小林市細野５７４０－１３７８",
+      "lat": 31.961666,
+      "lng": 130.948774,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第035-000009号",
+      "license_date": null,
+      "expire_date": "2028-04-30"
+    },
+    {
+      "name": "三上　裕",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "宮崎県小林市細野４９１２－３ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 31.961666,
+      "lng": 130.948774,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第036-000102号",
+      "license_date": null,
+      "expire_date": "2030-04-30"
+    },
+    {
+      "name": "松元　正道",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "小林市細野２２８７－２ （鹿児島市を除く県内一円）",
+      "lat": 31.961666,
+      "lng": 130.948774,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第035-000271号",
+      "license_date": null,
+      "expire_date": "2028-10-31"
+    },
+    {
+      "name": "岡田　陽平",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "小林市細野４３０１－２ （鹿児島市を除く県内一円）",
+      "lat": 31.961666,
+      "lng": 130.948774,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第035-000542号",
+      "license_date": null,
+      "expire_date": "2029-01-31"
+    },
+    {
+      "name": "平良　誠一",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "小林市細野２０８８－７ （鹿児島市を除く鹿児島県内一円）",
+      "lat": 31.961666,
+      "lng": 130.948774,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "第032-000649号",
+      "license_date": null,
+      "expire_date": "2027-01-31"
+    },
     {
       "name": "ダイソー　プラッセ小林店",
       "name_kana": "ダイソー　プラッセコバヤシテン",

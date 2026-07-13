@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "鹿児島県 鹿児島県食品営業許可施設一覧",
+        "license": "Creative Commons Attribution 4.0 International"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,32 @@
     ]
   },
   "data": [
+    {
+      "name": "ナンバー食品株式会社",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "鹿児島県　都城市千町4985-1（鹿児島市を除く県内一円）",
+      "lat": 31.560185000000004,
+      "lng": 130.558141,
+      "geocoding_level": 1,
+      "phone": "",
+      "license_no": "第033-000057号",
+      "license_date": null,
+      "expire_date": "2027-04-30"
+    },
+    {
+      "name": "川野　正明",
+      "name_kana": "",
+      "business_type": "飲食店営業（その他）",
+      "address": "鹿児島県　宮崎市大橋1-89-2（鹿児島市を除く県内一円） グレンヴィラK３号",
+      "lat": 31.560185000000004,
+      "lng": 130.558141,
+      "geocoding_level": 1,
+      "phone": "",
+      "license_no": "第033-000060号",
+      "license_date": null,
+      "expire_date": "2027-04-30"
+    },
     {
       "name": "GALLERY DASOKU",
       "name_kana": "ギャラリー　ダソク",

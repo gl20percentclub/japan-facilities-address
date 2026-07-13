@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,71 @@
     ]
   },
   "data": [
+    {
+      "name": "サガミレストランツ株式会社",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "武豊町字浅水１－３",
+      "lat": 34.864402,
+      "lng": 136.919853,
+      "geocoding_level": 3,
+      "phone": "0569-72-0231",
+      "license_no": "8半保第2-15号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "小川　栄子",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "武豊町字長尾山４６",
+      "lat": 34.852687,
+      "lng": 136.915143,
+      "geocoding_level": 3,
+      "phone": "0569-73-8821",
+      "license_no": "8半保第2-3号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社ＫＵＭＵＲＡ",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "武豊町字梨子ノ木１－９５",
+      "lat": 34.868707,
+      "lng": 136.903773,
+      "geocoding_level": 3,
+      "phone": "0569-72-0858",
+      "license_no": "8半保第1-15号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "ＥＩＧＨＴ　ＰＲＯＤＵＣＴＩＯＮ株式会社",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "武豊町字西門８０－５",
+      "lat": 34.85383000000001,
+      "lng": 136.91919,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8半保第1-4号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "天木　千恵",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "武豊町字山ノ神１０－４",
+      "lat": 34.857344,
+      "lng": 136.914178,
+      "geocoding_level": 3,
+      "phone": "0569-84-3994",
+      "license_no": "8半保第2-7号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "Ｖ・drug　武豊店",
       "name_kana": "ブイ・ドラッグ　タケトヨテン",

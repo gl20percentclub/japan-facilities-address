@@ -1,7 +1,11 @@
 {
   "meta": {
-    "updated": 1783568789,
+    "updated": 1783906731,
     "sources": [
+      {
+        "source": "愛知県食品営業者台帳（新規許可）",
+        "license": "要確認"
+      },
       {
         "source": "厚生労働省 食品衛生申請等システム（オープンデータ）",
         "license": "公共データ利用規約（第1.0版, PDL1.0）"
@@ -9,6 +13,110 @@
     ]
   },
   "data": [
+    {
+      "name": "加藤　紀江",
+      "name_kana": "",
+      "business_type": "菓子製造業",
+      "address": "刈谷市西境町蒲生池１５１ー５",
+      "lat": 35.041,
+      "lng": 137.023983,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8衣保第3-9号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "加藤　紀江",
+      "name_kana": "",
+      "business_type": "そうざい製造業",
+      "address": "刈谷市西境町蒲生池１５１ー５",
+      "lat": 35.041,
+      "lng": 137.023983,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8衣保第9-2号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社maison",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "刈谷市丸田町四丁目６番地１",
+      "lat": 35.001559,
+      "lng": 137.005719,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8衣保第1-29号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社大吉設備管工",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "刈谷市相生町２丁目１０－１",
+      "lat": 34.992554431,
+      "lng": 137.010228987,
+      "geocoding_level": 8,
+      "phone": "0562-85-1405",
+      "license_no": "8衣保第1-26号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "合同会社あまね",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "刈谷市相生町二丁目５番地３",
+      "lat": 34.992699448,
+      "lng": 137.009550059,
+      "geocoding_level": 8,
+      "phone": "",
+      "license_no": "8衣保第1-20号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "菱田　哲次",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "刈谷市寺横町１丁目１５番３",
+      "lat": 34.990415,
+      "lng": 136.994049,
+      "geocoding_level": 3,
+      "phone": "0566-21-0378",
+      "license_no": "8衣保第2-31号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "タケマツ商事合同会社",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "刈谷市桜町１－４７ー３",
+      "lat": 34.991774,
+      "lng": 137.008543,
+      "geocoding_level": 3,
+      "phone": "",
+      "license_no": "8衣保第1-33号",
+      "license_date": null,
+      "expire_date": null
+    },
+    {
+      "name": "株式会社　ＡＪドリームクリエイト",
+      "name_kana": "",
+      "business_type": "飲食店営業",
+      "address": "刈谷市南桜町１－７２－１",
+      "lat": 34.990328,
+      "lng": 137.005905,
+      "geocoding_level": 3,
+      "phone": "0566-24-2981",
+      "license_no": "8衣保第2-80号",
+      "license_date": null,
+      "expire_date": null
+    },
     {
       "name": "介護付老人ホームファミリィエ",
       "name_kana": "カイゴツキロウジンホームファミリィエ",
