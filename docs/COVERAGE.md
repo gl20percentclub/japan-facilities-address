@@ -10,7 +10,11 @@
 - したがって各市区町村の「データ有無」は次の優先で判定: ①**自治体自身が公開**していれば✅（`収集経路=自身`） → ②なければ**管轄保健所設置主体**が公開していれば✅（`収集経路=管轄主体`。県所管域データ等に含まれる） → ③厚労省**食品衛生申請等システム(i2fas)** に当該市区町村の施設が含まれれば✅（`収集経路=i2fas`。全国の保健所設置主体別オープンデータ・掲載賛同施設のみ） → ④いずれも無ければ❌。
 - **❌の意味**: その市区町村を所管する主体のデータが未収集。`管轄`列を見れば「自前保健所を持つ市自身が未収集」なのか「都道府県所管で、その県データが未収集」なのかが分かる。
 
-**保健所設置主体の数（157）の根拠**: 厚生労働省「設置主体別保健所数」（令和8年4月1日現在） https://www.mhlw.go.jp/content/10900000/001232824.pdf （都道府県47・指定都市20・中核市62・その他政令市5・特別区23＝**計157主体**）。この 157 は許可を所管・発行する主体の数（＝データの収集単位）であり、**本表の行数（全国 1,740 市区町村）とは別のもの**。市区町村一覧の出典: geolonia/japanese-addresses。i2fasライセンス: 公共データ利用規約(第1.0版/PDL1.0)＝CC BY 4.0互換。
+上記「保健所設置主体」の**157**という数字と、下表の母数である**市区町村数**は別の集計単位である。混同しないよう根拠を分けて示す。
+
+- **保健所設置主体数＝157の根拠**: 厚生労働省「設置主体別保健所数」（令和8年4月1日現在） https://www.mhlw.go.jp/content/10900000/001232824.pdf （都道府県47・指定都市20・中核市62・その他政令市5・特別区23＝計157主体）。
+- **市区町村数（下表の母数）の根拠**: 市区町村一覧の出典は geolonia/japanese-addresses（本リストの集計行数＝1,740）。参考として、総務省／政府統計の総合窓口(e-Stat)が公表する全国市区町村総数は**1,741**（市792・特別区23・町743・村183、2024年10月1日時点、北方地域の6村を除く。出典: https://www.e-stat.go.jp/municipalities/number-of-municipalities ）であり、本リストの1,740とは1件の差がある。2014年4月以降、市町村合併の実施例はないため実世界の市区町村数変動が原因とは考えにくく、差分の原因（データ側の欠落等）は**要確認（2026-07-16調査: 未特定）**。
+- i2fasライセンス: 公共データ利用規約(第1.0版/PDL1.0)＝CC BY 4.0互換。
 
 **データがある市区町村: 1727 / 1740（99%）**
 
@@ -365,7 +369,7 @@
 | 山形県 | 飽海郡遊佐町 | 山形県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 福島県 | 福島市 | 福島市（中核市） | ✅ | 自身 | [link](https://www.city.fukushima.fukushima.jp/material/files/group/7/R7nendo_syokuhin.csv) | CC BY 2.1 JP |
 | 福島県 | 会津若松市 | 福島県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.fukushima.lg.jp/uploaded/attachment/743308.xlsx) | CC BY 2.1 JP |
-| 福島県 | 郡山市 | 福島県（都道府県） | ✅ | 自身 | [link](https://www.city.koriyama.lg.jp/uploaded/attachment/120902.xls) | CC BY 4.0 |
+| 福島県 | 郡山市 | 福島県（都道府県） | ✅ | 自身 | [link](https://www.city.koriyama.lg.jp/uploaded/attachment/120902.xls) | 要確認（2026-07-16調査: 掲載元ページ(生活衛生課)は著作権表示のみでライセンス明記なし。市のオープンデータカタログへの掲載も未確認） |
 | 福島県 | いわき市 | いわき市（中核市） | ✅ | 自身 | [link](https://www.city.iwaki.lg.jp/www/contents/1652661537484/simple/Shokuhin_itiran_R08.csv) | CC BY 4.0 |
 | 福島県 | 白河市 | 福島県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.fukushima.lg.jp/uploaded/attachment/743308.xlsx) | CC BY 2.1 JP |
 | 福島県 | 須賀川市 | 福島県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.fukushima.lg.jp/uploaded/attachment/743308.xlsx) | CC BY 2.1 JP |
@@ -492,7 +496,7 @@
 | 栃木県 | 那須郡那須町 | 栃木県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 栃木県 | 那須郡那珂川町 | 栃木県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 群馬県 | 前橋市 | 前橋市（中核市） | ✅ | 自身 | [link](https://data.bodik.jp/dataset/be0e8464-4b96-41f6-901d-1aa4bf11bcc0) | Creative Commons Attribution 4.0 International |
-| 群馬県 | 高崎市 | 高崎市（中核市） | ✅ | 自身 | [link](https://www.city.takasaki.gunma.jp/uploaded/attachment/40475.xlsx) | CC BY 4.0 |
+| 群馬県 | 高崎市 | 高崎市（中核市） | ✅ | 自身 | [link](https://www.city.takasaki.gunma.jp/uploaded/attachment/40475.xlsx) | 要確認（2026-07-16調査: 市のOD利用規約自体はCC BY 4.0を確認したが、本ファイル掲載元ページは同カタログ対象外でライセンス表記なし） |
 | 群馬県 | 桐生市 | 群馬県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 群馬県 | 伊勢崎市 | 群馬県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 群馬県 | 太田市 | 群馬県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
@@ -529,7 +533,7 @@
 | 埼玉県 | さいたま市 | さいたま市（指定都市） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 埼玉県 | 川越市 | 川越市（中核市） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 埼玉県 | 熊谷市 | 埼玉県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
-| 埼玉県 | 川口市 | 川口市（中核市） | ✅ | 自身 | [link](https://www.city.kawaguchi.lg.jp/material/files/group/232/R0803zenshisetsuichiran.xls) | CC BY 2.1 日本 |
+| 埼玉県 | 川口市 | 川口市（中核市） | ✅ | 自身 | [link](https://www.city.kawaguchi.lg.jp/material/files/group/232/R0803zenshisetsuichiran.xls) | CC BY 2.1 JP |
 | 埼玉県 | 行田市 | 埼玉県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 埼玉県 | 秩父市 | 埼玉県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 埼玉県 | 所沢市 | 埼玉県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
@@ -589,7 +593,7 @@
 | 埼玉県 | 南埼玉郡宮代町 | 埼玉県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 埼玉県 | 北葛飾郡杉戸町 | 埼玉県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 埼玉県 | 北葛飾郡松伏町 | 埼玉県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
-| 千葉県 | 千葉市 | 千葉市（指定都市） | ✅ | 自身 | [link](https://www.city.chiba.jp/somu/somu/seisakuhomu/shisei/documents/202605syokuhin.xlsx) | CC BY 2.1 日本 |
+| 千葉県 | 千葉市 | 千葉市（指定都市） | ✅ | 自身 | [link](https://www.city.chiba.jp/somu/somu/seisakuhomu/shisei/documents/202605syokuhin.xlsx) | 要確認（2026-07-16調査: 掲載元ページにライセンス表記なし。ちばDataポータルへの掲載も未確認） |
 | 千葉県 | 銚子市 | 千葉県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 千葉県 | 市川市 | 千葉県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 千葉県 | 船橋市 | 船橋市（中核市） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
@@ -661,7 +665,7 @@
 | 東京都 | 豊島区 | 豊島区（特別区） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 東京都 | 北区 | 北区（特別区） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 東京都 | 荒川区 | 荒川区（特別区） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
-| 東京都 | 板橋区 | 板橋区（特別区） | ✅ | 自身 | [link](https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/051/220/r8.5_shokuhinkyokashisetsu.xlsx) | CC BY 4.0 |
+| 東京都 | 板橋区 | 板橋区（特別区） | ✅ | 自身 | [link](https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/051/220/r8.5_shokuhinkyokashisetsu.xlsx) | 要確認（2026-07-16調査: 保健所の通常業務ページに掲載され、区のオープンデータカタログとは別系統。ライセンス表記なし） |
 | 東京都 | 練馬区 | 練馬区（特別区） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 東京都 | 足立区 | 足立区（特別区） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 東京都 | 葛飾区 | 葛飾区（特別区） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
@@ -801,7 +805,7 @@
 | 石川県 | 鹿島郡中能登町 | 石川県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.ishikawa.lg.jp/yakuji/syokuhin/documents/nendor7.xlsx) | 石川県利用規約 |
 | 石川県 | 鳳珠郡穴水町 | 石川県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.ishikawa.lg.jp/yakuji/syokuhin/documents/nendor7.xlsx) | 石川県利用規約 |
 | 石川県 | 鳳珠郡能登町 | 石川県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.ishikawa.lg.jp/yakuji/syokuhin/documents/nendor7.xlsx) | 石川県利用規約 |
-| 福井県 | 福井市 | 福井市（中核市） | ✅ | 自身 | [link](https://www.city.fukui.lg.jp/fukusi/eisei/syokuhin/p070519_d/fil/11syokuhin_202605.xlsx) | CC BY 2.1 日本 |
+| 福井県 | 福井市 | 福井市（中核市） | ✅ | 自身 | [link](https://www.city.fukui.lg.jp/fukusi/eisei/syokuhin/p070519_d/fil/11syokuhin_202605.xlsx) | 要確認（2026-07-16調査: 生活衛生課の通常業務ページに掲載され、市のオープンデータパークとは別系統。ライセンス表記なし） |
 | 福井県 | 敦賀市 | 福井県（都道府県） | ✅ | 管轄主体 | [link](https://data.odp.jig.jp/viewcsv/jp/fukui/776.csv) | CC BY |
 | 福井県 | 小浜市 | 福井県（都道府県） | ✅ | 管轄主体 | [link](https://data.odp.jig.jp/viewcsv/jp/fukui/776.csv) | CC BY |
 | 福井県 | 大野市 | 福井県（都道府県） | ✅ | 管轄主体 | [link](https://data.odp.jig.jp/viewcsv/jp/fukui/776.csv) | CC BY |
@@ -1000,59 +1004,59 @@
 | 静岡県 | 榛原郡川根本町 | 静岡県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 静岡県 | 周智郡森町 | 静岡県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 愛知県 | 名古屋市 | 名古屋市（指定都市） | ✅ | 自身 | [link](https://data.bodik.jp/dataset/979f325a-1b27-45d0-8eb5-dd4aeb85b1f5) | Creative Commons Attribution 4.0 International |
-| 愛知県 | 豊橋市 | 豊橋市（中核市） | ✅ | 自身 | [link](https://www.city.toyohashi.lg.jp/secure/18290/shokuhinshinki202605EXCEL.xlsx) | CC BY 4.0 |
+| 愛知県 | 豊橋市 | 豊橋市（中核市） | ✅ | 自身 | [link](https://www.city.toyohashi.lg.jp/secure/18290/shokuhinshinki202605EXCEL.xlsx) | 要確認（2026-07-16調査: 掲載元ページに規約記載なし。東三河オープンデータ規約もこのデータセットの掲載を確認できず） |
 | 愛知県 | 岡崎市 | 岡崎市（中核市） | ✅ | 自身 | [link](https://data.bodik.jp/dataset/aabced9d-d86e-422d-8ad0-2781d0f30671) | Creative Commons Attribution 4.0 International |
 | 愛知県 | 一宮市 | 一宮市（中核市） | ✅ | 自身 | [link](https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/040/636/232033_Food_Business_All_20260331.csv) | CC BY 4.0 |
-| 愛知県 | 瀬戸市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 半田市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 春日井市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 豊川市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 津島市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 碧南市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 刈谷市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
+| 愛知県 | 瀬戸市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 半田市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 春日井市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 豊川市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 津島市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 碧南市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 刈谷市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
 | 愛知県 | 豊田市 | 豊田市（中核市） | ✅ | 自身 | [link](https://data.bodik.jp/dataset/385d18b1-7493-4a82-8b0d-b00d2996da69) | Creative Commons Attribution 4.0 International |
-| 愛知県 | 安城市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 西尾市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 蒲郡市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 犬山市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 常滑市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 江南市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 小牧市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 稲沢市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 新城市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 東海市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 大府市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 知多市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 知立市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 尾張旭市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 高浜市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 岩倉市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 豊明市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 日進市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 田原市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 愛西市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 清須市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 北名古屋市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 弥富市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | みよし市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | あま市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 長久手市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 愛知郡東郷町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 西春日井郡豊山町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 丹羽郡大口町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 丹羽郡扶桑町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 海部郡大治町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 海部郡蟹江町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 海部郡飛島村 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 知多郡阿久比町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 知多郡東浦町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 知多郡南知多町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 知多郡美浜町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 知多郡武豊町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 額田郡幸田町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 北設楽郡設楽町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 北設楽郡東栄町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
-| 愛知県 | 北設楽郡豊根村 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | CC BY 2.1 日本 |
+| 愛知県 | 安城市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 西尾市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 蒲郡市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 犬山市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 常滑市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 江南市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 小牧市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 稲沢市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 新城市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 東海市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 大府市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 知多市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 知立市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 尾張旭市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 高浜市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 岩倉市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 豊明市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 日進市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 田原市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 愛西市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 清須市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 北名古屋市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 弥富市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | みよし市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | あま市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 長久手市 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 愛知郡東郷町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 西春日井郡豊山町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 丹羽郡大口町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 丹羽郡扶桑町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 海部郡大治町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 海部郡蟹江町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 海部郡飛島村 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 知多郡阿久比町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 知多郡東浦町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 知多郡南知多町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 知多郡美浜町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 知多郡武豊町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 額田郡幸田町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 北設楽郡設楽町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 北設楽郡東栄町 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 愛知県 | 北設楽郡豊根村 | 愛知県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.aichi.jp/uploaded/attachment/619853.csv) | 要確認（2026-07-16調査: 県公式オープンデータ一覧に本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
 | 三重県 | 津市 | 三重県（都道府県） | ✅ | 管轄主体 | [link](https://data.bodik.jp/dataset/796b84b4-c197-44bd-b852-664a8a423676) | Creative Commons Attribution 4.0 International |
 | 三重県 | 四日市市 | 四日市市（その他政令市） | ✅ | 自身 | [link](https://data.bodik.jp/dataset/e5809d89-173d-40ea-9ee7-5bc4a61678a6) | Creative Commons Attribution 4.0 International |
 | 三重県 | 伊勢市 | 三重県（都道府県） | ✅ | 管轄主体 | [link](https://data.bodik.jp/dataset/796b84b4-c197-44bd-b852-664a8a423676) | Creative Commons Attribution 4.0 International |
@@ -1175,42 +1179,42 @@
 | 兵庫県 | 尼崎市 | 尼崎市（中核市） | ✅ | 自身 | [link](https://www.city.amagasaki.hyogo.jp/_res/projects/default_project/_page_/001/001/025/kyoka202605.csv) | CC BY 4.0 |
 | 兵庫県 | 明石市 | 明石市（中核市） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 兵庫県 | 西宮市 | 西宮市（中核市） | ✅ | 自身 | [link](http://opendata.nishi.or.jp/opendata/files/9/R8.5ichiran_syokuhin.xlsx) | CC BY相当 |
-| 兵庫県 | 洲本市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 芦屋市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 伊丹市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 相生市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 豊岡市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 加古川市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 赤穂市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 西脇市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 宝塚市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 三木市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 高砂市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 川西市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 小野市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 三田市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 加西市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 丹波篠山市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 養父市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 丹波市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 南あわじ市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 朝来市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 淡路市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 宍粟市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 加東市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | たつの市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 川辺郡猪名川町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 多可郡多可町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 加古郡稲美町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 加古郡播磨町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 神崎郡市川町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 神崎郡福崎町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 神崎郡神河町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 揖保郡太子町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 赤穂郡上郡町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 佐用郡佐用町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 美方郡香美町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
-| 兵庫県 | 美方郡新温泉町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | CC BY 4.0 |
+| 兵庫県 | 洲本市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 芦屋市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 伊丹市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 相生市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 豊岡市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 加古川市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 赤穂市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 西脇市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 宝塚市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 三木市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 高砂市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 川西市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 小野市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 三田市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 加西市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 丹波篠山市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 養父市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 丹波市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 南あわじ市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 朝来市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 淡路市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 宍粟市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 加東市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | たつの市 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 川辺郡猪名川町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 多可郡多可町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 加古郡稲美町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 加古郡播磨町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 神崎郡市川町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 神崎郡福崎町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 神崎郡神河町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 揖保郡太子町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 赤穂郡上郡町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 佐用郡佐用町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 美方郡香美町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
+| 兵庫県 | 美方郡新温泉町 | 兵庫県（都道府県） | ✅ | 管轄主体 | [link](https://web.pref.hyogo.lg.jp/kf14/documents/000028_food_business_lisence_all.xlsx) | 要確認（2026-07-16調査: 県公式オープンデータカタログに本データセットの掲載なし。県サイト標準方針は無断複製・転用禁止） |
 | 奈良県 | 奈良市 | 奈良市（中核市） | ✅ | 自身 | [link](https://www.city.nara.lg.jp/uploaded/attachment/203480.csv) | CC BY 2.1 JP |
 | 奈良県 | 大和高田市 | 奈良県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.nara.lg.jp/documents/4585/20260527103326.xlsx) | 奈良県（出典明示・利用規約に従う） |
 | 奈良県 | 大和郡山市 | 奈良県（都道府県） | ✅ | 管轄主体 | [link](https://www.pref.nara.lg.jp/documents/4585/20260527103326.xlsx) | 奈良県（出典明示・利用規約に従う） |
@@ -1299,7 +1303,7 @@
 | 鳥取県 | 日野郡日南町 | 鳥取県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 鳥取県 | 日野郡日野町 | 鳥取県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 鳥取県 | 日野郡江府町 | 鳥取県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
-| 島根県 | 松江市 | 松江市（中核市） | ✅ | 自身 | [link](https://www.city.matsue.lg.jp/material/files/group/50/202605_eigyoukyoka_zenken.xlsx) | CC BY 2.1 日本 |
+| 島根県 | 松江市 | 松江市（中核市） | ✅ | 自身 | [link](https://www.city.matsue.lg.jp/material/files/group/50/202605_eigyoukyoka_zenken.xlsx) | 要確認（2026-07-16調査: 掲載元ページはCopyright表記のみ。市の統計オープンデータ規約(CC BY 2.1日本)とは別データセットのため適用不可） |
 | 島根県 | 浜田市 | 島根県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 島根県 | 出雲市 | 島根県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
 | 島根県 | 益田市 | 島根県（都道府県） | ✅ | i2fas | [link](https://i2fas.mhlw.go.jp/faspub/IO_S010303.do?method=a_menu_o01Action) | 公共データ利用規約（第1.0版, PDL1.0） |
