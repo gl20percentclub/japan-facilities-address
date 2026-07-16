@@ -26,6 +26,24 @@
 > | `search-index.json` | 約 61.1 MB |
 <!-- STATS:END -->
 
+### 全データ結合CSV（ダウンロード）
+
+都道府県別・市区町村別に分かれた JSON を、**全国 1 本にまとめた CSV** も配信しています。
+Excel / pandas / BI ツール等で扱いたい場合はこちらが便利です。
+
+| ファイル | 配布URL |
+|---|---|
+| 結合CSV（gzip 圧縮・約60MB） | https://gl20percentclub.github.io/japan-facilities-address/api/facilities-all.csv.gz |
+| 結合CSV（非圧縮・約540MB） | https://gl20percentclub.github.io/japan-facilities-address/api/facilities-all.csv |
+
+- **文字コード**: UTF-8（BOM 付き。Excel でそのまま開けます）
+- **列**: `prefecture, city, city_raw, name, name_kana, business_type, address, lat, lng, geocoding_level, phone, license_no, license_date, expire_date, sources, licenses`
+  - `city` は [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) で名寄せした公式市区町村名、`city_raw` は元データの生表記（郡名の有無などの揺れを含む）
+- **クレンジング**: 全列一致の重複を除去。一部ソースの列ズレ（都道府県が欠けた住所など）を補正。業種違いで別レコードになっている同一施設は、許可レコードとして残しています
+- 週次クロール（`npm run build`）のたびに再生成され、gh-pages で配信されます
+
+> ⚠️ **市区町村が「不明」の行について**: 元データに市区町村欄が無く住所も粗い個票は、都道府県／市区町村を機械的に確定できず `prefecture=不明` または `city=不明` のまま収録しています（欠損させるより残す方針）。これらは元データ側の品質に起因するもので、結合CSVの生成ロジックの問題ではありません。
+
 ## API 構造
 
 **都道府県 > 市区町村 > `data.json`** の3階層構造です。

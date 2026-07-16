@@ -58,6 +58,16 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=12288
         run: node scripts/crawl.js ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '--dry-run' || '' }}
 
+      # 全市区町村を結合した1本の配布用CSV（api/facilities-all.csv[.gz]）を生成する。
+      # 市区町村名は normalize-japanese-addresses で名寄せ済み。gh-pages でそのまま配信される。
+      - name: Build merged CSV
+        env:
+          NODE_OPTIONS: --max-old-space-size=12288
+        run: |
+          node scripts/build-city-normmap.js
+          node scripts/build-merged-csv.js
+          gzip -kf api/facilities-all.csv
+
       - name: Validate
         run: npm test
 
