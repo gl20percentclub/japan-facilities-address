@@ -354,7 +354,7 @@ function findCachedFile(key) {
 
 // bot 対策で User-Agent 等を求めるサーバがあるため、常識的なヘッダを付ける。
 const DEFAULT_HEADERS = {
-  'User-Agent': 'Mozilla/5.0 (compatible; japan-facilities-api/1.0; +https://github.com/gl20percentclub/japan-facilities-address)',
+  'User-Agent': 'Mozilla/5.0 (compatible; japan-facilities-api/1.0; +https://github.com/gl20percentclub/japan-facilities-api)',
   'Accept-Language': 'ja,en;q=0.8',
   Accept: '*/*',
 };

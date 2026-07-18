@@ -4,13 +4,13 @@
 
 **日本全国の飲食施設オープンデータ（食品営業許可・届出）を、無料で使える静的 API として配信**
 
-[![Contributors](https://img.shields.io/github/contributors/gl20percentclub/japan-facilities-address)](https://github.com/gl20percentclub/japan-facilities-address/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/gl20percentclub/japan-facilities-api)](https://github.com/gl20percentclub/japan-facilities-api/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-コントリビューション)
-[![GitHub Issues](https://img.shields.io/github/issues/gl20percentclub/japan-facilities-address)](https://github.com/gl20percentclub/japan-facilities-address/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/gl20percentclub/japan-facilities-address)](https://github.com/gl20percentclub/japan-facilities-address/commits/main)
+[![GitHub Issues](https://img.shields.io/github/issues/gl20percentclub/japan-facilities-api)](https://github.com/gl20percentclub/japan-facilities-api/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/gl20percentclub/japan-facilities-api)](https://github.com/gl20percentclub/japan-facilities-api/commits/main)
 [![Weekly Crawl](https://img.shields.io/badge/更新-毎週自動-blue)](#️-自動更新の仕組み)
 
-[クイックスタート](#-クイックスタート) · [API リファレンス](#-api-リファレンス) · [収録状況](docs/COVERAGE.md) · [バグ報告](https://github.com/gl20percentclub/japan-facilities-address/issues/new) · [機能要望](https://github.com/gl20percentclub/japan-facilities-address/issues/new)
+[クイックスタート](#-クイックスタート) · [API リファレンス](#-api-リファレンス) · [収録状況](docs/COVERAGE.md) · [バグ報告](https://github.com/gl20percentclub/japan-facilities-api/issues/new) · [機能要望](https://github.com/gl20percentclub/japan-facilities-api/issues/new)
 
 </div>
 
@@ -45,20 +45,20 @@
 
 ## 🚀 クイックスタート
 
-ベース URL は `https://gl20percentclub.github.io/japan-facilities-address/api/` です。
+ベース URL は `https://gl20percentclub.github.io/japan-facilities-api/api/` です。
 
 ```bash
 # 都道府県一覧（都道府県名 → 市区町村名の配列）
-curl https://gl20percentclub.github.io/japan-facilities-address/api/facilities/index.json
+curl https://gl20percentclub.github.io/japan-facilities-api/api/facilities/index.json
 
 # 那覇市の全施設（パスは URL エンコードが必要な場合があります）
-curl "https://gl20percentclub.github.io/japan-facilities-address/api/facilities/%E6%B2%96%E7%B8%84%E7%9C%8C/%E9%82%A3%E8%A6%87%E5%B8%82/data.json"
+curl "https://gl20percentclub.github.io/japan-facilities-api/api/facilities/%E6%B2%96%E7%B8%84%E7%9C%8C/%E9%82%A3%E8%A6%87%E5%B8%82/data.json"
 ```
 
 JavaScript からはこう使えます。
 
 ```js
-const BASE = 'https://gl20percentclub.github.io/japan-facilities-address/api';
+const BASE = 'https://gl20percentclub.github.io/japan-facilities-api/api';
 
 // 那覇市の全施設を取得（日本語パスは encodeURIComponent でエンコード）
 const res = await fetch(
@@ -95,8 +95,8 @@ Excel / pandas / BI ツール等で扱いたい場合はこちらが便利です
 
 | ファイル | 配布URL |
 |---|---|
-| 結合CSV（gzip 圧縮・約60MB） | https://gl20percentclub.github.io/japan-facilities-address/api/facilities-all.csv.gz |
-| 結合CSV（非圧縮・約540MB） | https://gl20percentclub.github.io/japan-facilities-address/api/facilities-all.csv |
+| 結合CSV（gzip 圧縮・約60MB） | https://gl20percentclub.github.io/japan-facilities-api/api/facilities-all.csv.gz |
+| 結合CSV（非圧縮・約540MB） | https://gl20percentclub.github.io/japan-facilities-api/api/facilities-all.csv |
 
 - **文字コード**: UTF-8（BOM 付き。Excel でそのまま開けます）
 - **列**: `prefecture, city, city_raw, name, name_kana, business_type, address, lat, lng, geocoding_level, phone, license_no, license_date, expire_date, sources, licenses`
@@ -295,7 +295,7 @@ export const SOURCES = [
 たとえば次のような貢献ができます。
 
 - 🗾 **新しい自治体データソースの追加** — [データソースの追加](#データソースの追加) の手順どおり `scripts/sources.js` に1エントリ追加するだけです。未収録の自治体は [`docs/COVERAGE.md`](docs/COVERAGE.md) で確認できます
-- 🐛 **バグ報告・データ品質の問題報告** — [Issues](https://github.com/gl20percentclub/japan-facilities-address/issues) からお気軽にどうぞ（座標のずれ、重複、文字化けなど）
+- 🐛 **バグ報告・データ品質の問題報告** — [Issues](https://github.com/gl20percentclub/japan-facilities-api/issues) からお気軽にどうぞ（座標のずれ、重複、文字化けなど）
 - 💡 **機能提案・改善アイデア** — Issue で議論を始めてください
 - 📖 **ドキュメントの改善** — 誤字修正や説明の追加も立派な貢献です
 
@@ -313,8 +313,8 @@ export const SOURCES = [
 
 このプロジェクトに貢献してくださった皆さんです。ありがとうございます！
 
-<a href="https://github.com/gl20percentclub/japan-facilities-address/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gl20percentclub/japan-facilities-address" alt="Contributors" />
+<a href="https://github.com/gl20percentclub/japan-facilities-api/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gl20percentclub/japan-facilities-api" alt="Contributors" />
 </a>
 
 *Made with [contrib.rocks](https://contrib.rocks).*
