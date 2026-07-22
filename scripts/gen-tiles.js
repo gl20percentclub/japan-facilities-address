@@ -35,7 +35,7 @@ const MAX_ZOOM = Number(process.env.TILES_MAX_ZOOM ?? 12);
 const BOUNDS = [122, 20, 154, 46];
 
 // 経緯度 → スリッピータイル座標 (x, y)
-function lonLatToTile(lng, lat, z) {
+export function lonLatToTile(lng, lat, z) {
   const n = 2 ** z;
   const latRad = (lat * Math.PI) / 180;
   let x = Math.floor(((lng + 180) / 360) * n);
@@ -45,11 +45,11 @@ function lonLatToTile(lng, lat, z) {
   return [x, y];
 }
 
-// api/facilities の全 data.json から、座標を持つ施設の GeoJSON FeatureCollection を組み立てる。
-function buildFeatureCollection() {
+// facilities ディレクトリの全 data.json から、座標を持つ施設の GeoJSON FeatureCollection を組み立てる。
+export function buildFeatureCollection(facilitiesDir = FACILITIES_DIR) {
   const features = [];
-  for (const pref of fs.readdirSync(FACILITIES_DIR).sort()) {
-    const prefDir = path.join(FACILITIES_DIR, pref);
+  for (const pref of fs.readdirSync(facilitiesDir).sort()) {
+    const prefDir = path.join(facilitiesDir, pref);
     if (!fs.statSync(prefDir).isDirectory()) continue;
     for (const city of fs.readdirSync(prefDir).sort()) {
       const dataPath = path.join(prefDir, city, 'data.json');
@@ -68,22 +68,27 @@ function buildFeatureCollection() {
   return { type: 'FeatureCollection', features };
 }
 
-/** api/facilities から z/x/y ベクトルタイルを生成する。書き出したタイル数を返す。 */
-export function generateTiles({ minZoom = MIN_ZOOM, maxZoom = MAX_ZOOM } = {}) {
-  if (!fs.existsSync(FACILITIES_DIR)) {
+/** facilities ツリーから z/x/y ベクトルタイルを生成する。書き出したタイル数を返す。 */
+export function generateTiles({
+  minZoom = MIN_ZOOM,
+  maxZoom = MAX_ZOOM,
+  facilitiesDir = FACILITIES_DIR,
+  outDir = TILES_DIR,
+} = {}) {
+  if (!fs.existsSync(facilitiesDir)) {
     console.warn('  api/facilities が無いため ベクトルタイルの生成をスキップ');
     return 0;
   }
 
-  const fc = buildFeatureCollection();
+  const fc = buildFeatureCollection(facilitiesDir);
   if (fc.features.length === 0) {
     console.warn('  座標を持つ施設が無いため ベクトルタイルの生成をスキップ');
     return 0;
   }
 
   // 古いタイルを消してから作り直す（点が減った場合の取り残しを防ぐ）。
-  if (fs.existsSync(TILES_DIR)) fs.rmSync(TILES_DIR, { recursive: true, force: true });
-  fs.mkdirSync(TILES_DIR, { recursive: true });
+  if (fs.existsSync(outDir)) fs.rmSync(outDir, { recursive: true, force: true });
+  fs.mkdirSync(outDir, { recursive: true });
 
   const index = geojsonvt(fc, { maxZoom, extent: 4096, buffer: 64, tolerance: 3 });
 
@@ -104,7 +109,7 @@ export function generateTiles({ minZoom = MIN_ZOOM, maxZoom = MAX_ZOOM } = {}) {
     const tile = index.getTile(z, x, y);
     if (!tile || !tile.features.length) continue;
     const buf = Buffer.from(fromGeojsonVt({ [LAYER]: tile }, { version: 2 }));
-    const dir = path.join(TILES_DIR, String(z), String(x));
+    const dir = path.join(outDir, String(z), String(x));
     fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(path.join(dir, `${y}.pbf`), buf);
     written++;
@@ -126,7 +131,7 @@ export function generateTiles({ minZoom = MIN_ZOOM, maxZoom = MAX_ZOOM } = {}) {
       { id: LAYER, fields: { name: 'String', business_type: 'String', pref: 'String', city: 'String' } },
     ],
   };
-  fs.writeFileSync(path.join(TILES_DIR, 'metadata.json'), JSON.stringify(metadata, null, 2) + '\n');
+  fs.writeFileSync(path.join(outDir, 'metadata.json'), JSON.stringify(metadata, null, 2) + '\n');
 
   console.log(
     `  ベクトルタイル: ${fc.features.length}点 → ${written}タイル（z${minZoom}-${maxZoom}, ` +
