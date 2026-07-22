@@ -8,7 +8,7 @@
     "build:tiles": "node scripts/gen-tiles.js",
     "build:readme-stats": "node scripts/gen-readme-stats.js",
     "fetch:i2fas": "node scripts/fetch-i2fas.mjs",
-    "test": "node scripts/crawl.test.js && node scripts/lib/config.test.js && node scripts/gen-tiles.test.js && node scripts/test.js && node scripts/gen-readme-stats.test.js"
+    "test": "node scripts/crawl.test.js && node scripts/lib/config.test.js && node scripts/gen-tiles.test.js && node scripts/preview-map.test.js && node scripts/test.js && node scripts/gen-readme-stats.test.js"
   },
   "dependencies": {
     "@geolonia/normalize-japanese-addresses": "^3.1.3",
