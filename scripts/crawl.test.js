@@ -261,6 +261,28 @@ test('resolveLinkFromHtml: href の &amp; を復元', () => {
   assert.equal(hit.url, 'https://x/dl?id=1&t=x.csv');
 });
 
+// href でファイル名から全件/新規を区別する（表示テキストが同じでも href で絞れる）。
+const HREF_HTML = `
+  <a href="/d/11syokuhin_202606.xlsx">営業許可施設一覧（令和8年6月末現在）</a>
+  <a href="/d/12syokuhinhaigyo_202606.xlsx">廃業施設一覧（令和8年6月末現在）</a>`;
+test('resolveLinkFromHtml: hrefPattern で全件のみに絞る', () => {
+  const hit = resolveLinkFromHtml(HREF_HTML, { hrefPattern: '11syokuhin_\\d{6}\\.xlsx$', format: 'xlsx', baseUrl: 'https://x/' });
+  assert.equal(hit.count, 1);
+  assert.equal(hit.url, 'https://x/d/11syokuhin_202606.xlsx');
+});
+
+// multi 取得用に、一致した全リンクを all で返す。
+const MULTI_HTML = `
+  <a href="/f/5622702.csv">（～令和3年5月31日）食品営業許可施設一覧</a>
+  <a href="/f/5622703.csv">（令和3年6月1日～）食品営業許可施設一覧</a>
+  <a href="/f/9999.csv">理容所一覧</a>`;
+test('resolveLinkFromHtml: 複数一致を all で返す', () => {
+  const hit = resolveLinkFromHtml(MULTI_HTML, { pattern: '食品営業許可施設一覧', format: 'csv', baseUrl: 'https://x/' });
+  assert.equal(hit.count, 2);
+  assert.equal(hit.all.length, 2);
+  assert.deepEqual(hit.all.map((h) => h.url), ['https://x/f/5622702.csv', 'https://x/f/5622703.csv']);
+});
+
 const runAsync = async () => {
   for (const { name, fn } of asyncTests) {
     await fn();

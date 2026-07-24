@@ -30,13 +30,23 @@ export async function fetchCkanResourceInfo(ckanBase, resourceId, attempt = 0) {
   return json.result; // { url, format, ... }
 }
 
-// キャッシュ済みファイルを拡張子から探す（dry-run で CKAN 問い合わせを避けるため）
-function findCachedFile(cacheDir, key) {
-  for (const ext of ['csv', 'tsv', 'xlsx', 'xls']) {
+// キャッシュ済みファイルを拡張子から探す（dry-run で CKAN 問い合わせ・リンク解決を避けるため）。
+// `key.ext` に加え、multi 取得の `key-0.ext` `key-1.ext` … も拾う。
+function findCachedFiles(cacheDir, key) {
+  const exts = ['csv', 'tsv', 'xlsx', 'xls'];
+  const found = [];
+  for (const ext of exts) {
     const p = path.join(cacheDir, `${key}.${ext}`);
-    if (fs.existsSync(p)) return { cachePath: p, format: ext };
+    if (fs.existsSync(p)) found.push({ cachePath: p, format: ext });
   }
-  return null;
+  for (let j = 0; ; j++) {
+    const hit = exts
+      .map((ext) => ({ cachePath: path.join(cacheDir, `${key}-${j}.${ext}`), format: ext }))
+      .find((c) => fs.existsSync(c.cachePath));
+    if (!hit) break;
+    found.push(hit);
+  }
+  return found;
 }
 
 // HTTP GET/POST をリトライ付きで実行し、本文を ArrayBuffer で返す。
@@ -77,10 +87,16 @@ function decodeHtmlEntities(s) {
     .replace(/&nbsp;/g, ' ');
 }
 
-// HTML から、リンク文言が pattern に一致する <a href> を1件解決する。
-// 返り値: { url, text, count }（一致0件なら null。複数時は先頭を採用）
-export function resolveLinkFromHtml(htmlText, { pattern, format, baseUrl } = {}) {
+// HTML から、条件に一致する <a href> を解決する。
+//   pattern      リンク表示テキストにマッチさせる正規表現文字列（任意）
+//   hrefPattern  href にマッチさせる正規表現文字列（任意。ファイル名で全件/差分を区別する場合に使う）
+//   format       href の拡張子で絞り込む（'xlsx' 等。任意）
+//   baseUrl      相対 href を絶対化する基準
+// 返り値: { url, text, count, all }（一致0件なら null）。
+//   url/text は先頭一致。all は全一致の [{url,text}]（multi 取得に使う）。
+export function resolveLinkFromHtml(htmlText, { pattern, hrefPattern, format, baseUrl } = {}) {
   const textRe = pattern ? new RegExp(pattern, 'i') : null;
+  const hrefRe = hrefPattern ? new RegExp(hrefPattern, 'i') : null;
   const extRe = format ? new RegExp(`\\.${format}(?:$|[?#])`, 'i') : null;
   const anchorRe = /<a\b[^>]*\shref="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi;
   const candidates = [];
@@ -90,12 +106,13 @@ export function resolveLinkFromHtml(htmlText, { pattern, format, baseUrl } = {})
     const text = decodeHtmlEntities(m[2].replace(/<[^>]+>/g, '')).replace(/\s+/g, ' ').trim();
     if (extRe && !extRe.test(href)) continue;
     if (textRe && !textRe.test(text)) continue;
+    if (hrefRe && !hrefRe.test(href)) continue;
     candidates.push({ href, text });
   }
   if (candidates.length === 0) return null;
-  const { href, text } = candidates[0];
-  const url = baseUrl ? new URL(href, baseUrl).toString() : href;
-  return { url, text, count: candidates.length };
+  const toUrl = (c) => ({ url: baseUrl ? new URL(c.href, baseUrl).toString() : c.href, text: c.text });
+  const all = candidates.map(toUrl);
+  return { ...all[0], count: candidates.length, all };
 }
 
 // ZIP バイト列から対象の csv/xlsx/xls を取り出す。
@@ -128,43 +145,10 @@ export async function acquire(source, { cacheDir, dryRun = false } = {}) {
   const urls = a.urls || (a.url ? [a.url] : [null]); // ckan は url なしで resourceId 解決
   const results = [];
 
-  for (let i = 0; i < urls.length; i++) {
-    const suffix = urls.length > 1 ? `-${i}` : '';
-    const key = `${source.key}${suffix}`;
-
-    // dry-run はキャッシュのみ使用。CKAN 問い合わせをせず拡張子からファイルを特定する。
-    if (dryRun) {
-      const hit = findCachedFile(cacheDir, key);
-      if (!hit) throw new Error(`--dry-run ですがキャッシュが存在しません: ${key}`);
-      console.log(`  [dry-run] キャッシュを使用: ${hit.cachePath}`);
-      results.push(hit);
-      continue;
-    }
-
-    let downloadUrl = urls[i];
-    let format = (a.format || '').toLowerCase();
-
-    if (a.type === 'ckan') {
-      const info = await fetchCkanResourceInfo(a.ckanBase, a.resourceId);
-      downloadUrl = info.url;
-      if (!format) format = (info.format || '').toLowerCase();
-    }
-    // resolve: 掲載ページ(pageUrl)を取得し、リンク文言が linkPattern に一致する
-    // <a href> を実ダウンロードURLとして解決する（ファイル名に日時が入る自治体向け）。
-    if (a.type === 'resolve') {
-      console.log(`  リンク解決中: ${a.pageUrl}`);
-      const html = Buffer.from(await fetchWithRetry(a.pageUrl, { headers: { ...DEFAULT_HEADERS } })).toString('utf-8');
-      const hit = resolveLinkFromHtml(html, { pattern: a.linkPattern, format, baseUrl: a.pageUrl });
-      if (!hit) {
-        throw new Error(
-          `リンク解決に失敗: ${a.pageUrl} に「${a.linkPattern || '(指定なし)'}」に一致する` +
-            `${format ? ` .${format}` : ''} リンクが見つかりません`,
-        );
-      }
-      if (hit.count > 1) console.log(`  ⚠ ${hit.count}件一致。先頭を採用: 「${hit.text}」`);
-      console.log(`  リンク解決: 「${hit.text}」 -> ${hit.url}`);
-      downloadUrl = hit.url;
-    }
+  // 1URLを取得して .cache に保存し {cachePath, format} を返す。
+  // 形式はヒント fmt を優先し、無ければ拡張子から推定。zip は中身を展開する。
+  async function downloadOne(downloadUrl, key, fmt) {
+    let format = (fmt || '').toLowerCase();
     if (!format) {
       const mm = String(downloadUrl).toLowerCase().match(/\.(csv|tsv|txt|xlsx|xls|zip)(?:$|\?)/);
       format = mm ? mm[1] : 'csv';
@@ -193,7 +177,82 @@ export async function acquire(source, { cacheDir, dryRun = false } = {}) {
     fs.mkdirSync(cacheDir, { recursive: true });
     fs.writeFileSync(cachePath, buf);
     console.log(`  キャッシュに保存: ${cachePath} (${buf.length} bytes)`);
-    results.push({ cachePath, format });
+    return { cachePath, format };
+  }
+
+  for (let i = 0; i < urls.length; i++) {
+    const suffix = urls.length > 1 ? `-${i}` : '';
+    const key = `${source.key}${suffix}`;
+
+    // dry-run はキャッシュのみ使用。CKAN 問い合わせをせず拡張子からファイルを特定する。
+    if (dryRun) {
+      const hits = findCachedFiles(cacheDir, key);
+      if (hits.length === 0) throw new Error(`--dry-run ですがキャッシュが存在しません: ${key}`);
+      for (const hit of hits) {
+        console.log(`  [dry-run] キャッシュを使用: ${hit.cachePath}`);
+        results.push(hit);
+      }
+      continue;
+    }
+
+    let downloadUrl = urls[i];
+    const format = (a.format || '').toLowerCase();
+
+    if (a.type === 'ckan') {
+      const info = await fetchCkanResourceInfo(a.ckanBase, a.resourceId);
+      downloadUrl = info.url;
+      results.push(await downloadOne(downloadUrl, key, format || (info.format || '').toLowerCase()));
+      continue;
+    }
+
+    // resolve: 掲載ページ(pageUrl)を取得し、最新のダウンロードURLを解決する（日付でURLが変わる自治体向け）。
+    //   linkPattern  <a> の表示テキストにマッチ / hrefPattern  href にマッチ（ファイル名で全件/差分を区別）
+    //   multi:true   一致した全リンクを取得（全件が複数ファイルに分割された自治体）
+    //   hrefScan:true <a> に限らず生HTML中で hrefPattern に一致するURL/パスを拾う
+    //                 （<button value="..."> 等 アンカー以外にURLが埋まっているページ向け）
+    if (a.type === 'resolve') {
+      console.log(`  リンク解決中: ${a.pageUrl}`);
+      const html = Buffer.from(await fetchWithRetry(a.pageUrl, { headers: { ...DEFAULT_HEADERS } })).toString('utf-8');
+      const linkFmt = (a.linkFormat || format || '').toLowerCase();
+      let resolvedUrls;
+
+      if (a.hrefScan) {
+        if (!a.hrefPattern) throw new Error(`resolve hrefScan には hrefPattern が必要です: ${source.key}`);
+        const re = new RegExp(a.hrefPattern, 'ig');
+        const seen = new Set();
+        let mm;
+        while ((mm = re.exec(html))) seen.add(new URL(mm[0], a.pageUrl).toString());
+        resolvedUrls = [...seen];
+        if (resolvedUrls.length === 0) {
+          throw new Error(`リンク解決に失敗: ${a.pageUrl} に hrefPattern「${a.hrefPattern}」に一致するURLがありません`);
+        }
+        console.log(`  リンク解決(hrefScan): ${resolvedUrls.length}件`);
+      } else {
+        const hit = resolveLinkFromHtml(html, { pattern: a.linkPattern, hrefPattern: a.hrefPattern, format: linkFmt, baseUrl: a.pageUrl });
+        if (!hit) {
+          throw new Error(
+            `リンク解決に失敗: ${a.pageUrl} に「${a.linkPattern || a.hrefPattern || '(指定なし)'}」に一致する` +
+              `${linkFmt ? ` .${linkFmt}` : ''} リンクが見つかりません`,
+          );
+        }
+        resolvedUrls = a.multi ? hit.all.map((h) => h.url) : [hit.url];
+        if (a.multi) console.log(`  リンク解決: ${hit.count}件を取得`);
+        else {
+          if (hit.count > 1) console.log(`  ⚠ ${hit.count}件一致。先頭を採用: 「${hit.text}」`);
+          console.log(`  リンク解決: 「${hit.text}」 -> ${hit.url}`);
+        }
+      }
+
+      if (a.multi || a.hrefScan) {
+        for (let j = 0; j < resolvedUrls.length; j++) {
+          results.push(await downloadOne(resolvedUrls[j], `${key}-${j}`, format));
+        }
+        continue;
+      }
+      downloadUrl = resolvedUrls[0];
+    }
+
+    results.push(await downloadOne(downloadUrl, key, format));
   }
   return results;
 }
