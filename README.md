@@ -1,38 +1,122 @@
-# Japan-facilities-api
+<div align="center">
 
-日本の自治体が公開しているオープンデータ（食品営業許可・届出）をクロールし、APIとして配信するシステムです。
+# 🍽️ Japan Facilities API
 
-- **ソース**: 各自治体のオープンデータ（BODIK 等の CKAN、自治体ポータルの直リンク CSV/XLSX、フォーム配布など）。対象は `scripts/sources.js` で定義。
-- **運用**: GitHub Actions で毎週自動クロール → GitHub Pages で配信
-- **ライセンス**: 元データのライセンスは自治体ごとに異なる（多くは CC BY 4.0 / CC BY 2.1 JP）。各データの出典・ライセンスは `index.json` の `meta.sources` を参照。
+**日本全国の飲食施設オープンデータ（食品営業許可・届出）を、無料で使える静的 API として配信**
 
-## 収録データ
+[![Contributors](https://img.shields.io/github/contributors/gl20percentclub/japan-facilities-api)](https://github.com/gl20percentclub/japan-facilities-api/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-コントリビューション)
+[![GitHub Issues](https://img.shields.io/github/issues/gl20percentclub/japan-facilities-api)](https://github.com/gl20percentclub/japan-facilities-api/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/gl20percentclub/japan-facilities-api)](https://github.com/gl20percentclub/japan-facilities-api/commits/main)
+[![Weekly Crawl](https://img.shields.io/badge/更新-毎週自動-blue)](#️-自動更新の仕組み)
 
-> 📊 **どの自治体のデータをカバーしているか**は [`docs/COVERAGE.md`](docs/COVERAGE.md) を参照（全市区町村 × 管轄保健所設置主体の一覧・収集状況・出典・ライセンス）。
+[クイックスタート](#-クイックスタート) · [API リファレンス](#-api-リファレンス) · [収録状況](docs/COVERAGE.md) · [バグ報告](https://github.com/gl20percentclub/japan-facilities-api/issues/new) · [機能要望](https://github.com/gl20percentclub/japan-facilities-api/issues/new)
+
+</div>
+
+---
+
+各自治体が公開しているオープンデータ（食品営業許可・届出）を毎週自動クロールし、正規化・ジオコーディングした上で GitHub Pages から静的 API として配信しています。**登録不要・API キー不要**でそのまま利用できます。
+
+## ✨ 特徴
+
+- 🗾 **全国カバー** — 47都道府県・1,800以上の市区町村、70万件超の施設レコードを収録
+- 📍 **緯度経度つき** — 座標が無い元データも [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) でジオコーディングして補完
+- 🔄 **毎週自動更新** — GitHub Actions が毎週クロールして最新データを配信
+- 📦 **好きな形式で** — 市区町村別 JSON、検索用インデックス、全国結合 CSV、地図用ベクトルタイル
+- 🆓 **静的配信** — GitHub Pages でホスティング。登録・認証・レート制限の心配なし
+
+<details>
+<summary><b>📖 目次</b></summary>
+
+- [クイックスタート](#-クイックスタート)
+- [収録データ](#-収録データ)
+- [全データ結合CSV（ダウンロード）](#-全データ結合csvダウンロード)
+- [API リファレンス](#-api-リファレンス)
+- [開発](#️-開発)
+  - [セットアップとビルド](#セットアップとビルド)
+  - [データソースの追加](#データソースの追加)
+- [自動更新の仕組み](#️-自動更新の仕組み)
+- [コントリビューション](#-コントリビューション)
+- [コントリビューター](#-コントリビューター)
+- [出典・ライセンス・免責事項](#-出典ライセンス免責事項)
+
+</details>
+
+## 🚀 クイックスタート
+
+ベース URL は `https://gl20percentclub.github.io/japan-facilities-api/api/` です。
+
+```bash
+# 都道府県一覧（都道府県名 → 市区町村名の配列）
+curl https://gl20percentclub.github.io/japan-facilities-api/api/facilities/index.json
+
+# 那覇市の全施設（パスは URL エンコードが必要な場合があります）
+curl "https://gl20percentclub.github.io/japan-facilities-api/api/facilities/%E6%B2%96%E7%B8%84%E7%9C%8C/%E9%82%A3%E8%A6%87%E5%B8%82/data.json"
+```
+
+JavaScript からはこう使えます。
+
+```js
+const BASE = 'https://gl20percentclub.github.io/japan-facilities-api/api';
+
+// 那覇市の全施設を取得（日本語パスは encodeURIComponent でエンコード）
+const res = await fetch(
+  `${BASE}/facilities/${encodeURIComponent('沖縄県')}/${encodeURIComponent('那覇市')}/data.json`
+);
+const { data } = await res.json();
+console.log(data[0].name, data[0].lat, data[0].lng);
+```
+
+## 📊 収録データ
+
+> 📋 **どの自治体のデータをカバーしているか**は [`docs/COVERAGE.md`](docs/COVERAGE.md) を参照（全市区町村 × 管轄保健所設置主体の一覧・収集状況・出典・ライセンス）。
 
 以下はクロール（`npm run build`）のたびに自動更新されます。ファイルサイズは目安です。
 
 <!-- STATS:START -->
-> **最終更新: 2026-07-13**
+> **最終更新: 2026-07-24**
 >
 > | 項目 | 値 |
 > |---|---|
-> | 施設レコード数 | 1,456,230 件 |
-> | ユニーク施設数（名前+座標） | 1,105,353 件 |
+> | 施設レコード数 | 1,495,048 件 |
+> | ユニーク施設数（名前+座標） | 1,106,198 件 |
 > | 都道府県 | 52 |
-> | 市区町村 | 1,981 |
-> | `api/` 合計サイズ | 約 699.2 MB |
-> | `data.json` 合計 | 約 584.8 MB |
+> | 市区町村 | 1,958 |
+> | `api/` 合計サイズ | 約 1184.9 MB |
+> | `data.json` 合計 | 約 598.1 MB |
 > | `search-index.json` | 約 3 KB |
 <!-- STATS:END -->
 
-## API 構造
+## 📥 全データ結合CSV（ダウンロード）
+
+都道府県別・市区町村別に分かれた JSON を、**全国 1 本にまとめた CSV** も配信しています。
+Excel / pandas / BI ツール等で扱いたい場合はこちらが便利です。
+
+| ファイル | 配布URL |
+|---|---|
+| 結合CSV（gzip 圧縮・約60MB） | https://gl20percentclub.github.io/japan-facilities-api/api/facilities-all.csv.gz |
+| 結合CSV（非圧縮・約540MB） | https://gl20percentclub.github.io/japan-facilities-api/api/facilities-all.csv |
+
+- **文字コード**: UTF-8（BOM 付き。Excel でそのまま開けます）
+- **列**: `prefecture, city, city_raw, name, name_kana, business_type, address, lat, lng, geocoding_level, phone, license_no, license_date, expire_date, sources, licenses`
+  - `city` は [normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses) で名寄せした公式市区町村名、`city_raw` は元データの生表記（郡名の有無などの揺れを含む）
+- **クレンジング**: 全列一致の重複を除去。一部ソースの列ズレ（都道府県が欠けた住所など）を補正。業種違いで別レコードになっている同一施設は、許可レコードとして残しています
+- 週次クロール（`npm run build`）のたびに再生成され、gh-pages で配信されます
+
+> ⚠️ **市区町村が「不明」の行について**: 元データに市区町村欄が無く住所も粗い個票は、都道府県／市区町村を機械的に確定できず `prefecture=不明` または `city=不明` のまま収録しています（欠損させるより残す方針）。これらは元データ側の品質に起因するもので、結合CSVの生成ロジックの問題ではありません。
+
+## 🔍 API リファレンス
 
 **都道府県 > 市区町村 > `data.json`** の3階層構造です。
 
 ```
 api/
 ├── search-index.json           # 施設名検索用のコンパクトな索引（全市区町村横断）
+├── facilities-all.csv[.gz]     # 全国結合CSV（ダウンロード用）
+├── tiles/                      # 地図用ベクトルタイル（z/x/y .pbf）
+│   ├── metadata.json           # TileJSON（レイヤ・ズーム範囲・bounds）
+│   └── {z}/{x}/{y}.pbf         # MVT（レイヤ facilities: 座標を持つ施設の点）
 └── facilities/
     ├── index.json              # 都道府県一覧（都道府県名 → 市区町村名の配列）
     └── 沖縄県/
@@ -42,6 +126,24 @@ api/
         └── 宜野湾市/
             └── data.json
 ```
+
+### `tiles/`（地図用ベクトルタイル）
+
+座標を持つ施設を点として焼いた Mapbox Vector Tile（MVT）を、`{z}/{x}/{y}.pbf` の
+静的ディレクトリ形式で配信します。MapLibre GL JS からそのまま読めます（タイルサーバー不要）。
+
+```js
+map.addSource('facilities', {
+  type: 'vector',
+  tiles: ['https://gl20percentclub.github.io/japan-facilities-api/api/tiles/{z}/{x}/{y}.pbf'],
+  minzoom: 6, maxzoom: 12,
+});
+// レイヤ名は "facilities"、各点の属性は name / business_type / pref / city
+```
+
+- タイルは非圧縮 pbf で配信するため、追加のヘッダ設定は不要です。
+- メタデータ（レイヤ定義・ズーム範囲・bounds）は [`tiles/metadata.json`](https://gl20percentclub.github.io/japan-facilities-api/api/tiles/metadata.json) を参照。
+- 生成は `npm run build:tiles`（クロール時 `npm run build` にも自動生成、pure JS の geojson-vt + vt-pbf）。
 
 ### `search-index.json`（施設名検索用・都道府県別分割）
 
@@ -133,7 +235,7 @@ api/
 }
 ```
 
-#### 緯度経度（ジオコーディング）
+### 緯度経度（ジオコーディング）
 
 元データに緯度経度が無い施設は、住所をもとに
 [@geolonia/normalize-japanese-addresses](https://github.com/geolonia/normalize-japanese-addresses)
@@ -146,7 +248,9 @@ api/
 
 補完結果は `.cache/geocode-cache.json` にキャッシュされ、再クロール時に再利用されます。
 
-## 使い方
+## 🛠️ 開発
+
+### セットアップとビルド
 
 ```bash
 npm ci
@@ -167,49 +271,88 @@ node scripts/crawl.js --only=osaka-city,tokyo-minato
 npm test
 ```
 
-## データソースの追加
+### データソースの追加
 
-`scripts/sources.js` の `SOURCES` 配列に1エントリ追加するだけで、新しい自治体の
-オープンデータを取り込めます。取得方法（CKAN / 直リンクGET / フォームPOST）、
-形式（CSV / XLSX / XLS）、文字コード、都道府県・市区町村の既定値などをエントリで指定します。
+データソースの定義は **単一の設定ファイル [`config/sources.yaml`](config/sources.yaml)** に集約されています。
+`sources:` に1エントリ追加するだけで、新しい自治体のオープンデータを取り込めます。
+取得方法（CKAN / 直リンクGET / フォームPOST / 掲載ページ解決）、形式（CSV / TSV / XLSX / XLS）、
+文字コード、都道府県・市区町村の既定値などをエントリで指定します。
 
-```js
-export const SOURCES = [
-  // CKAN リソース
-  {
-    key: 'okinawa-bodik',
-    acquire: { type: 'ckan', ckanBase: 'https://data.bodik.jp', resourceId: 'c9bf82c1-...' },
-    source: '沖縄県食品営業許可・届出',
-    license: 'CC BY 4.0',
-  },
-  // 直リンク CSV（都道府県・市区町村カラムが無ければ defaultPref / defaultCity を指定）
-  {
-    key: 'osaka-city',
-    acquire: { type: 'get', url: 'https://.../260331zenku.csv', format: 'csv', encoding: 'shift_jis' },
-    source: '大阪市食品営業許可施設一覧',
-    license: 'CC BY 4.0',
-    defaultPref: '大阪府',
-    defaultCity: '大阪市',
-  },
-];
+```yaml
+sources:
+  # CKAN リソース
+  - key: okinawa-bodik
+    acquire: { type: ckan, ckanBase: https://data.bodik.jp, resourceId: c9bf82c1-... }
+    source: 沖縄県食品営業許可・届出
+    sourceUrl: https://data.bodik.jp/dataset/...   # 出典（掲載ページ）。取得URLとは別
+    license: CC BY 4.0
+  # 直リンク CSV（都道府県・市区町村カラムが無ければ defaultPref / defaultCity を指定）
+  - key: osaka-city
+    acquire: { type: get, url: https://.../260331zenku.csv, format: csv, encoding: shift_jis }
+    source: 大阪市食品営業許可施設一覧
+    sourceUrl: https://www.city.osaka.lg.jp/kenko/page/0000575579.html
+    license: CC BY 4.0
+    defaultPref: 大阪府
+    defaultCity: 大阪市
 ```
 
+- 列名（ヘッダー）の揺れは、同ファイル冒頭の `columns:`（内部キー → 元ヘッダー表記[] の別名辞書）に
+  集約しています。新しい表記が出てきたら該当の内部キーに1行足すだけで全ソースに効きます。
 - 都道府県・市区町村カラムが無く `defaultCity` も指定しないデータは、ジオコーディング結果の
   都道府県・市区町村で自動補完されます。
 - 一部データはヘッダの「緯度」「経度」が入れ替わっている（例: 大阪市）ため、日本域の範囲で
   自動的にサニティ補正します。
+- 取得 → パース → 正規化 → 出力 の各処理は `scripts/lib/`（`config` / `acquire` / `parse` /
+  `normalize` / `geocode`）に分割されています。
 
-## 出典・ライセンス・免責事項
+## ⚙️ 自動更新の仕組み
+
+`.github/workflows/crawl.yml` が毎週月曜 18:00 UTC（JST 火曜 AM 3:00）に実行され、
+`api/` を生成して `gh-pages` ブランチへ配信します。**生成物 `api/` は Git 管理せず**（`.gitignore`）、
+配信は gh-pages のみ（履歴肥大を避けるため）。README の「収録データ」統計だけを main に反映します。
+`workflow_dispatch` から手動実行も可能（`dry_run` / `fetch_i2fas` オプション付き）。
+
+## 🤝 コントリビューション
+
+**コントリビューションは大歓迎です！** バグ報告・機能提案・プルリクエスト、どんな形の貢献でも歓迎します。
+
+たとえば次のような貢献ができます。
+
+- 🗾 **新しい自治体データソースの追加** — [データソースの追加](#データソースの追加) の手順どおり [`config/sources.yaml`](config/sources.yaml) に1エントリ追加するだけです。未収録の自治体は [`docs/COVERAGE.md`](docs/COVERAGE.md) で確認できます
+- 🐛 **バグ報告・データ品質の問題報告** — [Issues](https://github.com/gl20percentclub/japan-facilities-api/issues) からお気軽にどうぞ（座標のずれ、重複、文字化けなど）
+- 💡 **機能提案・改善アイデア** — Issue で議論を始めてください
+- 📖 **ドキュメントの改善** — 誤字修正や説明の追加も立派な貢献です
+
+### プルリクエストの流れ
+
+1. このリポジトリを Fork する
+2. ブランチを作成する（`git checkout -b feature/add-your-city`）
+3. 変更をコミットする
+4. `npm test` でバリデーションが通ることを確認する
+5. プルリクエストを作成する
+
+小さな変更でも遠慮なくどうぞ。不明点があれば Issue で気軽に質問してください。
+
+## ✨ コントリビューター
+
+このプロジェクトに貢献してくださった皆さんです。ありがとうございます！
+
+<a href="https://github.com/gl20percentclub/japan-facilities-api/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gl20percentclub/japan-facilities-api" alt="Contributors" />
+</a>
+
+*Made with [contrib.rocks](https://contrib.rocks).*
+
+## 📄 出典・ライセンス・免責事項
 
 本サービスは各自治体が公開するオープンデータを取得・加工・統合して提供しています。
 
 ### 出典・データソース
 
-全国の自治体が公開する食品営業許可オープンデータを収録しています。対象ソースの完全な一覧（自治体・取得URL・ライセンス）は、機械可読な形で以下に定義されています。
+全国の自治体が公開する食品営業許可オープンデータを収録しています。対象ソースの完全な一覧（自治体・取得URL・出典ページ・ライセンス）は、機械可読な形で以下に定義されています。
 
-- `scripts/sources.js` — 個別定義（大阪市・東京都港区・奈良県・京都市 ほか）
-- `scripts/bodik-sources.js` — BODIK（`data.bodik.jp`）掲載自治体（自動生成）
-- `scripts/portal-sources.js` — 各自治体の独自ポータル/自庁サイト掲載分
+- [`config/sources.yaml`](config/sources.yaml) — 全データソースの単一定義（個別自治体・BODIK 掲載分・各自治体ポータル掲載分を統合）。各エントリに取得URL（`acquire`）と出典の掲載ページ（`sourceUrl`）、ライセンスを持ちます
+- `scripts/gen-bodik-sources.mjs` — BODIK（`data.bodik.jp`）掲載自治体のエントリを再生成（`config/sources.yaml` へマージ）
 - `scripts/fetch-i2fas.mjs` — 厚生労働省 食品衛生申請等システム（i2fas）オープンデータ（全国・保健所設置主体別）を取得
 
 各データの出典・ライセンスは、生成物 `api/**/index.json` ・ `data.json` の `meta.sources` にも埋め込まれています。
@@ -239,9 +382,3 @@ export const SOURCES = [
 
 本サービスは各自治体が公開するオープンデータを独自に集約・加工したサービスです。
 **各自治体の公式サービスではありません。**
-
-## 自動更新
-
-`.github/workflows/crawl.yml` が毎週月曜 18:00 UTC（JST 火曜 AM 3:00）に実行され、
-`api/` を生成して **main にコミット**し、あわせて `gh-pages` ブランチへ配信します。
-`workflow_dispatch` から手動実行も可能（`dry_run` / `fetch_i2fas` オプション付き）。

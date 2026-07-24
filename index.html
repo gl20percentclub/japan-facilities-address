@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>🍽️ Japan Facilities API — データプレビュー地図</title>
+  <meta name="description" content="日本全国の飲食施設オープンデータ（食品営業許可・届出）を地図上でプレビューできます。">
+
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+  <style>
+    :root {
+      --accent: #e8563f;
+      --ink: #1f2933;
+      --panel-bg: rgba(255, 255, 255, 0.94);
+      --border: rgba(31, 41, 51, 0.12);
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+      color: var(--ink);
+    }
+    #map { position: absolute; inset: 0; }
+
+    /* ヘッダー（左上） */
+    .panel {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      z-index: 2;
+      max-width: min(340px, calc(100vw - 24px));
+      background: var(--panel-bg);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+      padding: 14px 16px;
+    }
+    .panel h1 {
+      margin: 0 0 4px;
+      font-size: 16px;
+      line-height: 1.35;
+      letter-spacing: 0.01em;
+    }
+    .panel .sub {
+      margin: 0 0 12px;
+      font-size: 12px;
+      color: #52606d;
+      line-height: 1.5;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .stat {
+      background: #f7f8fa;
+      border-radius: 8px;
+      padding: 8px 6px;
+      text-align: center;
+    }
+    .stat .num {
+      display: block;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1.1;
+    }
+    .stat .lbl { font-size: 10px; color: #616e7c; }
+    .meta-line { font-size: 11px; color: #7b8794; }
+    .meta-line a { color: var(--accent); text-decoration: none; }
+    .meta-line a:hover { text-decoration: underline; }
+
+    /* ズームヒント（下中央） */
+    .hint {
+      position: absolute;
+      left: 50%;
+      bottom: 28px;
+      transform: translateX(-50%);
+      z-index: 2;
+      background: rgba(31, 41, 51, 0.86);
+      color: #fff;
+      font-size: 12px;
+      padding: 8px 14px;
+      border-radius: 999px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+      transition: opacity 0.3s;
+      pointer-events: none;
+      white-space: nowrap;
+    }
+    .hint.hidden { opacity: 0; }
+
+    /* ポップアップ */
+    .maplibregl-popup-content {
+      font-family: inherit;
+      padding: 12px 14px;
+      border-radius: 10px;
+      box-shadow: 0 4px 18px rgba(0, 0, 0, 0.18);
+    }
+    .fac-name { font-weight: 700; font-size: 14px; margin: 0 0 6px; }
+    .fac-row { font-size: 12px; color: #52606d; margin: 2px 0; }
+    .fac-row .k { color: #9aa5b1; margin-right: 6px; }
+
+    .legend-dot {
+      display: inline-block;
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      background: var(--accent);
+      border: 1.5px solid #fff;
+      box-shadow: 0 0 0 1px rgba(0,0,0,0.15);
+      vertical-align: middle;
+      margin-right: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <div class="panel">
+    <h1>🍽️ Japan Facilities API</h1>
+    <p class="sub">日本全国の飲食施設オープンデータ（食品営業許可・届出）のプレビュー地図です。</p>
+    <div class="stats">
+      <div class="stat"><span class="num" id="stat-pref">–</span><span class="lbl">都道府県</span></div>
+      <div class="stat"><span class="num" id="stat-city">–</span><span class="lbl">市区町村</span></div>
+      <div class="stat"><span class="num" id="stat-fac">70万+</span><span class="lbl">施設</span></div>
+    </div>
+    <p class="meta-line">
+      <span class="legend-dot"></span>各点＝1施設
+      <span id="updated"></span><br>
+      <a href="https://github.com/gl20percentclub/japan-facilities-api">GitHub リポジトリ</a> ·
+      <a href="https://github.com/gl20percentclub/japan-facilities-api#-api-リファレンス">API リファレンス</a>
+    </p>
+  </div>
+
+  <div class="hint" id="hint">🔍 ズームインすると施設ピンが表示されます</div>
+
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <script>
+    // データ配信ベース URL（このページと同じ gh-pages 上）。相対参照でローカルでも動く。
+    const API_BASE = './api';
+    // ベクトルタイルのズーム範囲（scripts/gen-tiles.js の設定と一致させる）
+    const TILE_MIN_ZOOM = 6;
+    const TILE_MAX_ZOOM = 12;
+    // 日本のおおよその範囲 [west, south, east, north]
+    const JAPAN_BOUNDS = [122, 20, 154, 46];
+
+    const map = new maplibregl.Map({
+      container: 'map',
+      // 国土地理院 淡色地図をベースにした最小構成スタイル（API キー不要）
+      style: {
+        version: 8,
+        glyphs: 'https://glyphs.geolonia.com/fonts/{fontstack}/{range}.pbf',
+        sources: {
+          gsi: {
+            type: 'raster',
+            tiles: ['https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png'],
+            tileSize: 256,
+            minzoom: 2,
+            maxzoom: 18,
+            attribution:
+              '<a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank" rel="noopener">地理院タイル</a>',
+          },
+          facilities: {
+            type: 'vector',
+            tiles: [`${location.href.replace(/[^/]*$/, '')}api/tiles/{z}/{x}/{y}.pbf`],
+            minzoom: TILE_MIN_ZOOM,
+            maxzoom: TILE_MAX_ZOOM,
+            bounds: JAPAN_BOUNDS,
+            attribution:
+              '施設データ: <a href="https://github.com/gl20percentclub/japan-facilities-api" target="_blank" rel="noopener">Japan Facilities API</a>（各自治体オープンデータ）',
+          },
+        },
+        layers: [
+          { id: 'gsi', type: 'raster', source: 'gsi' },
+          {
+            id: 'facilities-circle',
+            type: 'circle',
+            source: 'facilities',
+            'source-layer': 'facilities',
+            paint: {
+              'circle-color': '#e8563f',
+              'circle-opacity': 0.75,
+              'circle-stroke-color': '#ffffff',
+              'circle-stroke-width': 0.6,
+              // ズームに応じて点を大きくする
+              'circle-radius': [
+                'interpolate', ['linear'], ['zoom'],
+                6, 1.6,
+                9, 2.8,
+                12, 4.5,
+                16, 7,
+              ],
+            },
+          },
+        ],
+      },
+      bounds: JAPAN_BOUNDS,
+      fitBoundsOptions: { padding: 20 },
+      minZoom: 3,
+      maxZoom: 18,
+      attributionControl: false,
+    });
+
+    map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
+    map.addControl(
+      new maplibregl.AttributionControl({ compact: true }),
+      'bottom-right',
+    );
+    map.addControl(new maplibregl.GeolocateControl({
+      positionOptions: { enableHighAccuracy: true },
+      trackUserLocation: true,
+    }), 'top-right');
+
+    // --- ヒントの表示制御（ズーム6未満では点が出ないため案内する）---
+    const hintEl = document.getElementById('hint');
+    function updateHint() {
+      hintEl.classList.toggle('hidden', map.getZoom() >= TILE_MIN_ZOOM);
+    }
+    map.on('zoom', updateHint);
+    map.on('load', updateHint);
+
+    // --- 施設クリックでポップアップ ---
+    map.on('click', 'facilities-circle', (e) => {
+      const p = e.features[0].properties || {};
+      const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) =>
+        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+      const rows = [];
+      if (p.business_type) rows.push(`<p class="fac-row"><span class="k">業種</span>${esc(p.business_type)}</p>`);
+      const loc = [p.pref, p.city].filter(Boolean).join(' ');
+      if (loc) rows.push(`<p class="fac-row"><span class="k">所在</span>${esc(loc)}</p>`);
+      new maplibregl.Popup({ offset: 8, maxWidth: '280px' })
+        .setLngLat(e.lngLat)
+        .setHTML(`<p class="fac-name">${esc(p.name) || '（名称なし）'}</p>${rows.join('')}`)
+        .addTo(map);
+    });
+    map.on('mouseenter', 'facilities-circle', () => { map.getCanvas().style.cursor = 'pointer'; });
+    map.on('mouseleave', 'facilities-circle', () => { map.getCanvas().style.cursor = ''; });
+
+    // --- 統計（index.json）を取得してヘッダーに反映 ---
+    fetch(`${API_BASE}/facilities/index.json`)
+      .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
+      .then((json) => {
+        const prefs = Object.keys(json.data || {});
+        const cities = prefs.reduce((n, p) => n + (json.data[p]?.length || 0), 0);
+        document.getElementById('stat-pref').textContent = prefs.length.toLocaleString('ja-JP');
+        document.getElementById('stat-city').textContent = cities.toLocaleString('ja-JP');
+        if (json.meta?.updated) {
+          const d = new Date(json.meta.updated * 1000);
+          const ymd = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+          document.getElementById('updated').textContent = `最終更新 ${ymd}`;
+        }
+      })
+      .catch(() => { /* 統計が取れなくても地図本体は動く */ });
+  </script>
+</body>
+</html>
