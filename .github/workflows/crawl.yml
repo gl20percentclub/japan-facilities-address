@@ -14,6 +14,10 @@ on:
         description: '厚労省 i2fas オープンデータを再取得する（ブラウザ自動化・時間がかかる）'
         type: boolean
         default: false
+      allow_empty_sources:
+        description: '取得0のソースがあっても中断せず続行する（既知の配信停止ソースを許容してデプロイ）'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -56,7 +60,7 @@ jobs:
         # Node のヒープ上限を引き上げる（GitHub Linux ランナーは 16GB RAM）。
         env:
           NODE_OPTIONS: --max-old-space-size=12288
-        run: node scripts/crawl.js ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '--dry-run' || '' }}
+        run: node scripts/crawl.js ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '--dry-run' || '' }} ${{ (github.event_name == 'workflow_dispatch' && inputs.allow_empty_sources) && '--allow-empty-sources' || '' }}
 
       # 全市区町村を結合した1本の配布用CSV（api/facilities-all.csv[.gz]）を生成する。
       # 市区町村名は normalize-japanese-addresses で名寄せ済み。gh-pages でそのまま配信される。
