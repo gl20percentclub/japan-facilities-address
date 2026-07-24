@@ -216,6 +216,6 @@ if (import.meta.url === `file://${process.argv[1]}`) {
 }
 
 // テスト用に純粋関数を再エクスポートする（公開面は従来どおり）。
-export { normalizeDate, sanitizeLatLng, resolvePrefecture, resolveCity, mapRecord, toFacility, splitPrefCity } from './lib/normalize.js';
+export { normalizeDate, sanitizeLatLng, resolvePrefecture, resolveCity, mapRecord, toFacility, splitPrefCity, isPlaceholderAddress } from './lib/normalize.js';
 export { parseCSVText } from './lib/parse.js';
 export { fetchWithRetry, resolveLinkFromHtml } from './lib/acquire.js';

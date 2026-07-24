@@ -7,3 +7,5 @@ node_modules/
 api/
 # gen-bodik-sources.mjs の生成中間物（手動マージ用）
 config/_bodik-generated.yaml
+# 分析用の出力（コミットしない）
+analysis/

@@ -16,6 +16,7 @@ import {
   findEmptySources,
   fetchWithRetry,
   resolveLinkFromHtml,
+  isPlaceholderAddress,
 } from './crawl.js';
 
 let passed = 0;
@@ -147,6 +148,20 @@ test('splitPrefCity: 市名が「市」で終わる市（二重の市）', () =>
 test('splitPrefCity: 都道府県で始まらなければ null', () => {
   assert.deepEqual(splitPrefCity('足寄町南三条'), [null, null]);
   assert.deepEqual(splitPrefCity(''), [null, null]);
+});
+
+// --- isPlaceholderAddress: 実体のない住所（一円・管内・空欄等）の判定 ---
+test('isPlaceholderAddress: プレースホルダを true と判定', () => {
+  for (const s of ['', '   ', '市内一円', '県内一円', '県下一円', '堺市内一円', '富山県内一円',
+    '県下一円（ただし、神戸市、姫路市を除く）', '北部保健所管内', '（露店営業）', '那覇市内']) {
+    assert.equal(isPlaceholderAddress(s), true, `placeholder: «${s}»`);
+  }
+});
+test('isPlaceholderAddress: 実住所は false と判定', () => {
+  for (const s of ['大阪府堺市中区深阪3丁10-59', '那覇市松山1-9-9', '港区赤坂一丁目1番',
+    '丸の内2-1-1', '足寄郡足寄町南三条']) {
+    assert.equal(isPlaceholderAddress(s), false, `real: «${s}»`);
+  }
 });
 
 // --- findEmptySources: 施設0件のソース検知 ---

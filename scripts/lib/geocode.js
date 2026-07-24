@@ -6,6 +6,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { normalize, config as njaConfig } from '@geolonia/normalize-japanese-addresses';
 import { ROOT } from './config.js';
+import { isPlaceholderAddress } from './normalize.js';
 
 const CACHE_DIR = path.join(ROOT, '.cache');
 const GEOCODE_CACHE_PATH = path.join(CACHE_DIR, 'geocode-cache.json');
@@ -56,7 +57,14 @@ async function runPool(items, concurrency, worker) {
 
 // 緯度経度の無い施設を住所からジオコーディングして補完する（facilities を破壊的に更新）。
 export async function enrichWithGeocoding(facilities, { concurrency = GEOCODE_CONCURRENCY } = {}) {
-  const targets = facilities.filter((f) => (f.lat == null || f.lng == null) && f.address);
+  // 座標が無く、かつ住所が実体を持つ施設だけをジオコーディング対象にする。
+  // 「市内一円」等のプレースホルダ住所は誤った代表点が付くのを避けて対象外にする（座標null）。
+  const needCoord = facilities.filter((f) => f.lat == null || f.lng == null);
+  const placeholders = needCoord.filter((f) => isPlaceholderAddress(f.address)).length;
+  const targets = needCoord.filter((f) => f.address && !isPlaceholderAddress(f.address));
+  if (placeholders > 0) {
+    console.log(`  プレースホルダ住所 ${placeholders}件 はジオコーディング対象外（座標null）`);
+  }
   if (targets.length === 0) {
     console.log('  座標補完が必要な施設はありません');
     return;

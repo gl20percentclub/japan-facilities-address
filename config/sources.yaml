@@ -297,6 +297,10 @@ sources:
     source: 堺市 堺市 食品営業許可施設一覧（令和8年4月1日現在）
     sourceUrl: https://data.bodik.jp/dataset/f861e58c-ee2b-4a8c-8bc7-db9f70431b4b
     license: Creative Commons Attribution 4.0 International
+    # 住所が区名始まり（例「堺区戎島町…」）で市名を含まないため、既定値で「大阪府堺市」を
+    # 前置しないとジオコーダが政令区を解決できず座標付与に失敗する。
+    defaultPref: 大阪府
+    defaultCity: 堺市
   - key: bodik-796b84b4
     acquire:
       type: ckan

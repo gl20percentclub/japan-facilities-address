@@ -192,6 +192,20 @@ export function sanitizeLatLng(lat, lng) {
   return [null, null]; // どちらでも日本域に収まらない → 無効
 }
 
+// 住所として実体を持たないプレースホルダを判定する。
+// 「市内一円」「県内一円」「県下一円」「○○保健所管内」「（露店営業）」空欄 などは、
+// 正規化しても都道府県の代表点(level 1)にしか落ちず施設位置として誤解を招くため、
+// ジオコーディング対象から除外する（座標は null のままにする）。
+export function isPlaceholderAddress(addr) {
+  const s = String(addr || '').trim();
+  if (!s) return true; // 空欄
+  if (/一円/.test(s)) return true; // 市内一円 / 県内一円 / 県下一円 / ○○内一円
+  if (/保健所管内/.test(s)) return true; // ○○保健所管内
+  if (/^[（(][^（(]*[)）]$/.test(s)) return true; // 「（露店営業）」等 括弧のみ
+  if (/(都|道|府|県|市|区|町|村)内$/.test(s)) return true; // 「那覇市内」等（住所続きなし）
+  return false;
+}
+
 // 安全なディレクトリ/ファイル名（スラッシュ等を除去）
 export function safeName(s) {
   return String(s).replace(/[\\/:*?"<>|]/g, '_').trim();
