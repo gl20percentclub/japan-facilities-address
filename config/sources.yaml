@@ -13,7 +13,13 @@
 #     { type: ckan, ckanBase, resourceId }        CKAN resource_show でURL解決
 #     { type: get,  url|urls, format?, encoding? } URLを直接GET（urls は複数結合）
 #     { type: post, url, body, format? }           フォームPOSTで取得（京都市 等）
-#     { type: resolve, pageUrl, linkPattern, format } 掲載ページのリンク文言から実URLを解決
+#     { type: resolve, pageUrl, linkPattern?, hrefPattern?, format } 掲載ページから最新の実URLを解決
+#         linkPattern <a> の表示テキストにマッチする正規表現 / hrefPattern href にマッチする正規表現
+#           （ファイル名で全件と新規・差分を区別する場合に使う）
+#         multi: true    一致した全リンクを取得（全件が複数ファイルに分割された自治体）
+#         hrefScan: true <a> に限らず生HTML中で hrefPattern に一致するURL/パスを拾う
+#                        （<button value="..."> 等 アンカー以外にURLが埋まっているページ向け）
+#         linkFormat     リンク抽出時の拡張子フィルタ（省略時は format。拡張子とパース形式が違う時に使う）
 #     { type: i2fasglob }                          .cache/i2fas/*.csv を一括取込（厚労省 i2fas）
 #     format:   csv | tsv | xlsx | xls（省略時はURL/CKAN情報から推定）
 #     encoding: utf-8 | shift_jis | utf-16 | auto（既定 auto）
@@ -450,10 +456,10 @@ sources:
     defaultCity: 札幌市
   - key: aomori-city
     acquire:
-      type: get
-      url: https://www.city.aomori.aomori.jp/_res/projects/default_project/_page_/001/006/184/r0805zendate.csv
+      type: resolve
+      pageUrl: https://www.city.aomori.aomori.jp/shisei/jouhokoukai/opendata/1006170/1006184.html
+      linkPattern: 全件
       format: csv
-      encoding: utf-8
     source: 青森市食品営業許可施設一覧
     sourceUrl: https://www.city.aomori.aomori.jp/shisei/jouhokoukai/opendata/1006170/1006184.html
     license: CC BY 4.0
@@ -472,8 +478,9 @@ sources:
     defaultCity: 盛岡市
   - key: akita-city
     acquire:
-      type: get
-      url: https://www.city.akita.lg.jp/_res/projects/default_project/_page_/001/017/339/r080601.xlsx
+      type: resolve
+      pageUrl: https://www.city.akita.lg.jp/kurashi/kenko/1005368/1010019/1017339.html
+      linkPattern: 食品営業許可施設一覧
       format: xlsx
     source: 秋田市食品営業許可施設一覧
     sourceUrl: https://www.city.akita.lg.jp/kurashi/kenko/1005368/1010019/1017339.html
@@ -482,10 +489,10 @@ sources:
     defaultCity: 秋田市
   - key: yamagata-city
     acquire:
-      type: get
-      url: https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/012/802/062014_syokuhin_list_20260531.csv
+      type: resolve
+      pageUrl: https://www.city.yamagata-yamagata.lg.jp/kenkofukushi/eisei/1006555/1006558/1012802.html
+      linkPattern: 食品営業許可施設一覧（オープンデータ）
       format: csv
-      encoding: shift_jis
     source: 山形市食品営業許可・届出施設一覧
     sourceUrl: https://www.city.yamagata-yamagata.lg.jp/kenkofukushi/eisei/1006555/1006558/1012802.html
     license: CC BY 4.0
@@ -502,12 +509,12 @@ sources:
     defaultPref: 福島県
   - key: fukushima-city
     acquire:
-      type: get
-      url: https://www.city.fukushima.fukushima.jp/material/files/group/7/R7nendo_syokuhin.csv
+      type: resolve
+      pageUrl: https://www.city.fukushima.fukushima.jp/soshiki/2/1005/1/1/5/1_1/index.html
+      linkPattern: '^食品営業許可施設一覧（.+現在）'
       format: csv
-      encoding: utf-8
     source: 福島市食品営業許可施設一覧
-    sourceUrl: https://www.city.fukushima.fukushima.jp/soshiki/2/1005/1/1/5/7/2839.html
+    sourceUrl: https://www.city.fukushima.fukushima.jp/soshiki/2/1005/1/1/5/1_1/index.html
     license: CC BY 2.1 JP
     defaultPref: 福島県
     defaultCity: 福島市
@@ -695,10 +702,10 @@ sources:
     defaultCity: 東村山市
   - key: kawasaki
     acquire:
-      type: get
-      url: https://www.city.kawasaki.jp/350/cmsfiles/contents/0000093/93741/080503(UTF-8).csv
+      type: resolve
+      pageUrl: https://www.city.kawasaki.jp/350/page/0000093741.html
+      hrefPattern: '\d{4}03\(UTF-8\)\.csv$'
       format: csv
-      encoding: utf-8
     source: 川崎市食品営業許可施設情報
     sourceUrl: https://www.city.kawasaki.jp/350/page/0000093741.html
     license: CC BY 4.0
@@ -717,9 +724,11 @@ sources:
     defaultCity: 茅ヶ崎市
   - key: fujisawa
     acquire:
-      type: get
-      urls:
-        - https://www.city.fujisawa.kanagawa.jp/documents/28905/zende-ta2020603houjin.csv
+      type: resolve
+      pageUrl: https://www.city.fujisawa.kanagawa.jp/seiei/shokuhineisei/opendatabase.html
+      hrefPattern: 'zende-ta\d+(houjin|kojin)\.csv'
+      multi: true
+      linkFormat: csv
       format: tsv
       encoding: utf-16
     source: 藤沢市食品営業許可施設情報
@@ -781,8 +790,9 @@ sources:
     defaultPref: 福井県
   - key: fukui-city
     acquire:
-      type: get
-      url: https://www.city.fukui.lg.jp/fukusi/eisei/syokuhin/p070519_d/fil/11syokuhin_202605.xlsx
+      type: resolve
+      pageUrl: https://www.city.fukui.lg.jp/fukusi/eisei/syokuhin/p070519.html
+      hrefPattern: '11syokuhin_\d{6}\.xlsx$'
       format: xlsx
     source: 福井市食品営業許可施設一覧
     sourceUrl: https://www.city.fukui.lg.jp/sisei/tokei/opendata/opengov.html
@@ -820,6 +830,9 @@ sources:
     license: CC BY 4.0
     defaultPref: 長野県
     defaultCity: 長野市
+  # 注意: 配布元 linkdata.org が現在停止中（work/直リンクとも到達不可）。松本市サイト上に
+  # 代替の直接配布(CSV/XLSX)が無いため resolve 化できず、当面は取得失敗でスキップされる。
+  # linkdata.org 復活 or 市サイトでの直接配布開始を待って再設定する。
   - key: matsumoto
     acquire:
       type: get
@@ -896,10 +909,10 @@ sources:
     defaultCity: 一宮市
   - key: shiga-pref
     acquire:
-      type: get
-      urls:
-        - https://www.pref.shiga.lg.jp/file/attachment/5615791.csv
-        - https://www.pref.shiga.lg.jp/file/attachment/5615790.csv
+      type: resolve
+      pageUrl: https://www.pref.shiga.lg.jp/ippan/kurashi/syokunoanzen/300273.html
+      linkPattern: 食品営業許可施設一覧
+      multi: true
       format: csv
       encoding: shift_jis
     source: 滋賀県食品営業許可施設一覧
@@ -971,8 +984,10 @@ sources:
     defaultCity: 尼崎市
   - key: nishinomiya
     acquire:
-      type: get
-      url: http://opendata.nishi.or.jp/opendata/files/9/R8.5ichiran_syokuhin.xlsx
+      type: resolve
+      pageUrl: http://opendata.nishi.or.jp/opendata/ResultDetail.php?id=9
+      hrefScan: true
+      hrefPattern: 'files/9/R[0-9.]+ichiran_syokuhin\.xlsx'
       format: xlsx
     source: 西宮市食品営業許可施設一覧
     sourceUrl: http://opendata.nishi.or.jp/opendata/ResultDetail.php?id=9
